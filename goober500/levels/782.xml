@@ -1,0 +1,131 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="chanceofluck5">
+	
+  
+	<wall height="45" width="-454" x="397" y="372"/>
+	
+  
+	<wall height="-818" width="19" x="49" y="318"/>
+	
+  
+	<wall height="-806" width="27" x="164" y="306"/>
+	
+  
+	<wall height="-798" width="33" x="302" y="298"/>
+	
+  
+	<wall height="-753" width="26" x="392" y="312"/>
+	
+  
+	<wall height="-763" width="58" x="488" y="306"/>
+	
+  
+	<boost height="-335" width="98" x="68" y="-134"/>
+	
+  
+	<boost height="-356" width="113" x="189" y="-135"/>
+	
+  
+	<boost height="-322" width="54" x="336" y="-152"/>
+	
+  
+	<boost height="-298" width="69" x="417" y="-161"/>
+	
+  
+	<wall height="27" width="317" x="140" y="-558"/>
+	
+  
+	<bossactivate explode="no" height="133" hp="6" width="96" x="198" y="-436"/>
+	
+  
+	<track height="39" width="120" x="182" y="-252"/>
+	
+  
+	<trackblade x="197" y="-249"/>
+	
+  
+	<trackblade x="271" y="-252"/>
+	
+  
+	<deathwall height="139" width="57" x="333" y="-487"/>
+	
+  
+	<rocketlauncher x="444" y="-380"/>
+	
+  
+	<wall height="-32" width="-54" x="255" y="-623"/>
+	
+  
+	<wall height="-26" width="-44" x="345" y="-630"/>
+	
+  
+	<wall height="-32" width="-67" x="195" y="-681"/>
+	
+  
+	<wall height="38" width="66" x="355" y="-742"/>
+	
+  
+	<wall height="45" width="43" x="416" y="-853"/>
+	
+  
+	<wall height="40" width="-50" x="109" y="-825"/>
+	
+  
+	<wall height="28" width="-43" x="50" y="-928"/>
+	
+  
+	<wall height="32" width="39" x="459" y="-976"/>
+	
+  
+	<wall height="-36" width="-60" x="19" y="-1021"/>
+	
+  
+	<wall height="-45" width="27" x="485" y="-1016"/>
+	
+  
+	<wall height="-643" width="21" x="251" y="-856"/>
+	
+  
+	<laserlauncher dir="3" x="218" y="-1465"/>
+	
+  
+	<laserlauncher dir="3" x="218" y="-1406"/>
+	
+  
+	<laserlauncher dir="3" x="216" y="-1351"/>
+	
+  
+	<laserlauncher dir="-3" x="19" y="-1339"/>
+	
+  
+	<laserlauncher dir="-3" x="30" y="-1400"/>
+	
+  
+	<laserlauncher dir="-3" x="44" y="-1468"/>
+	
+  
+	<wall height="-45" width="-107" x="403" y="-1108"/>
+	
+  
+	<wall height="31" width="83" x="412" y="-1351"/>
+	
+  
+	<wall height="-53" width="-113" x="362" y="-1421"/>
+	
+  
+	<wall height="53" width="213" x="77" y="-1598"/>
+	
+  
+	<wall height="-457" width="16" x="163" y="-1668"/>
+	
+  
+	<goal height="42" width="152" x="104" y="-2166"/>
+	
+  
+	<deathwall height="19" width="-18" x="163" y="-2009"/>
+	
+  
+	<deathwall height="13" width="12" x="178" y="-1769"/>
+	
+
+</level>

@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<level author="fasemus" bg="1" name="fasemus">
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+  
+	<activatetrackwall height="10" width="90" x="220" y="304"/>
+	
+  
+	<rocketlauncher x="447" y="14"/>
+	
+  
+	<rocketlauncher x="454" y="-195"/>
+	
+  
+	<laserlauncher dir="3" x="54" y="225"/>
+	
+  
+	<laserlauncher dir="-3" x="448" y="219"/>
+	
+  
+	<goal height="67" width="47" x="434" y="-548"/>
+	
+
+</level>

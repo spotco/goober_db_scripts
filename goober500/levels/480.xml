@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<level author="BOSS" bg="1" name="UONLOK">
+	
+  
+	<wall height="187" width="294" x="206" y="279"/>
+	
+  
+	<wall height="187" width="204" x="0" y="271"/>
+	
+  
+	<cloudboss/>
+	
+  
+	<wall height="60" width="73" x="24" y="190"/>
+	
+  
+	<wall height="41" width="97" x="154" y="72"/>
+	
+  
+	<wall height="58" width="152" x="301" y="-39"/>
+	
+  
+	<goal height="38" width="146" x="272" y="-233"/>
+	
+
+</level>

@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<level author="spotco" bg="1" name="simpletest3">
+	
+  
+	<wall height="66" width="250" x="160" y="309"/>
+	
+  
+	<wall height="116" width="43" x="161" y="204"/>
+	
+  
+	<wall height="131" width="43" x="333" y="39"/>
+	
+  
+	<laserlauncher dir="3" x="66" y="204"/>
+	
+  
+	<track height="-279" width="-45" x="198" y="157"/>
+	
+  
+	<trackwall height="79" width="164" x="66" y="-10"/>
+	
+  
+	<track height="62" width="196" x="253" y="-137"/>
+	
+  
+	<trackwall height="141" width="92" x="361" y="-196"/>
+	
+  
+	<track height="-214" width="-54" x="110" y="-104"/>
+	
+  
+	<trackwall height="60" width="104" x="15" y="-212"/>
+	
+  
+	<track height="-271" width="86" x="243" y="-227"/>
+	
+  
+	<trackwall height="93" width="173" x="177" y="-381"/>
+	
+  
+	<track height="-197" width="-32" x="92" y="-377"/>
+	
+  
+	<trackwall height="115" width="74" x="38" y="-556"/>
+	
+  
+	<goal height="-165" width="128" x="200" y="-638"/>
+	
+
+</level>

@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<level author="WSDguy2014" bg="1" name="imposiple2">
+	
+  
+	<wall height="59" width="-23" x="246" y="222"/>
+	
+  
+	<wall height="17" width="119" x="223" y="271"/>
+	
+  
+	<wall height="23" width="112" x="226" y="210"/>
+	
+  
+	<wall height="26" width="118" x="222" y="208"/>
+	
+  
+	<wall height="42" width="18" x="283" y="319"/>
+	
+  
+	<wall height="17" width="-55" x="298" y="318"/>
+	
+  
+	<deathwall height="92" width="303" x="199" y="117"/>
+	
+  
+	<deathwall height="341" width="89" x="411" y="127"/>
+	
+  
+	<textfield text="You must win with jumpglitch" x="211" y="34"/>
+	
+  
+	<laserlauncher dir="3" x="460" y="351"/>
+	
+  
+	<trackblade x="302" y="382"/>
+	
+  
+	<trackblade height="55" width="50" x="345" y="385"/>
+	
+  
+	<trackblade x="390" y="384"/>
+	
+  
+	<activatetrackwall height="45" width="46" x="4" y="467"/>
+	
+  
+	<goal height="37" width="-28" x="417" y="19"/>
+	
+  
+	<deathwall height="101" width="499" x="-1" y="-289"/>
+	
+  
+	<deathwall height="40" width="-39" x="221" y="-374"/>
+	
+  
+	<deathwall height="50" width="-42" x="265" y="-380"/>
+	
+  
+	<deathwall height="25" width="14" x="197" y="-348"/>
+	
+  
+	<deathwall height="-13" width="-12" x="207" y="-375"/>
+	
+  
+	<deathwall height="60" width="20" x="234" y="-379"/>
+	
+  
+	<deathwall height="28" width="13" x="239" y="-338"/>
+	
+  
+	<deathwall height="23" width="-18" x="209" y="-336"/>
+	
+  
+	<deathwall height="32" width="-20" x="210" y="-358"/>
+	
+  
+	<goal height="109" width="-39" x="241" y="-485"/>
+	
+  
+	<goal height="31" width="-20" x="231" y="-503"/>
+	
+  
+	<deathwall height="50" width="-49" x="213" y="-375"/>
+	
+  
+	<deathwall height="54" width="-42" x="277" y="-381"/>
+	
+  
+	<deathwall height="61" width="-41" x="278" y="-373"/>
+	
+  
+	<textfield text="PIngas :D" x="395" y="-552"/>
+	
+
+</level>

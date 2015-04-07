@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="winwin4">
+	
+  
+	<wall height="24" width="-71" x="37" y="385"/>
+	
+  
+	<wall height="63" width="525" x="0" y="367"/>
+	
+  
+	<wall height="-541" width="-160" x="42" y="368"/>
+	
+  
+	<wall height="-543" width="48" x="467" y="371"/>
+	
+  
+	<goal height="208" width="504" x="2" y="-256"/>
+	
+  
+	<boost height="400" width="468" x="47" y="-37"/>
+	
+  
+	<textfield text="you will win" x="100" y="108"/>
+	
+  
+	<wall height="27" width="-64" x="356" y="210"/>
+	
+  
+	<wall height="31" width="67" x="206" y="200"/>
+	
+  
+	<wall height="93" width="101" x="54" y="297"/>
+	
+  
+	<wall height="49" width="162" x="385" y="63"/>
+	
+
+</level>

@@ -1,0 +1,98 @@
+<?xml version="1.0" ?>
+<level author="Egil" bg="1" name="Quickly">
+	
+  
+	<goal height="82" width="498" x="0" y="418"/>
+	
+  
+	<deathwall height="-83" width="297.6" x="101.2" y="408"/>
+	
+  
+	<boostfruit x="263.55" y="285"/>
+	
+  
+	<textfield text="Jump, fast!" x="263.5" y="146"/>
+	
+  
+	<track height="25" width="89.2" x="3" y="369"/>
+	
+  
+	<track height="25" width="97.19999999999999" x="397.8" y="362"/>
+	
+  
+	<trackblade x="15.05" y="374"/>
+	
+  
+	<trackblade x="82.15" y="375"/>
+	
+  
+	<trackblade x="404.8" y="366"/>
+	
+  
+	<trackblade x="496" y="369"/>
+	
+  
+	<deathwall height="327" width="39.1" x="8" y="-365"/>
+	
+  
+	<activatetrackwall height="325" width="59.10000000000002" x="249.5" y="-370"/>
+	
+  
+	<goal height="-52" width="302.6" x="6" y="-370"/>
+	
+  
+	<wall height="-379" width="52.099999999999966" x="309.6" y="-53"/>
+	
+  
+	<wall height="-47" width="-358.7" x="359.7" y="-433"/>
+	
+  
+	<rocketlauncher x="31.05" y="-514"/>
+	
+  
+	<rocketlauncher x="30.05" y="-585"/>
+	
+  
+	<rocketlauncher x="22.05" y="-648"/>
+	
+  
+	<rocketlauncher x="25.05" y="-696"/>
+	
+  
+	<rocketlauncher x="24.05" y="-6"/>
+	
+  
+	<track height="45" width="95.2" x="4" y="347"/>
+	
+  
+	<track height="27" width="68.10000000000001" x="17.05" y="360"/>
+	
+  
+	<track height="28" width="73.15" x="8" y="357"/>
+	
+  
+	<track height="49" width="92.19999999999999" x="403.8" y="343"/>
+	
+  
+	<track height="32" width="74.09999999999997" x="412.85" y="345"/>
+	
+  
+	<track height="22" width="53.099999999999966" x="421.85" y="355"/>
+	
+  
+	<deathwall height="-91" width="488" x="6" y="-729"/>
+	
+  
+	<deathwall height="-154" width="-490" x="493" y="-824"/>
+	
+  
+	<goal height="-292" width="484" x="11" y="-982"/>
+	
+  
+	<goal height="42" width="-47.10000000000002" x="498" y="-723"/>
+	
+  
+	<boostfruit x="150.3" y="-546"/>
+	
+
+</level>

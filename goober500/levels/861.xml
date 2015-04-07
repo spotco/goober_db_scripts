@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<level author="alpaca" bg="1" name="someoneiswrong">
+	
+  
+	<wall height="82" width="529" x="20" y="292"/>
+	
+  
+	<wall height="269" width="124" x="16" y="16"/>
+	
+  
+	<textfield text="to someone: this is all a big misunderstanding!" x="283" y="138"/>
+	
+  
+	<textfield text="the reason me and catpakoo are alike is because we are related!!!!!!!" x="252" y="34"/>
+	
+  
+	<textfield text="realated!!!!!!!!!!" x="255" y="71"/>
+	
+  
+	<textfield text="i am highly offended by you!" x="249" y="-197"/>
+	
+  
+	<boost height="292" width="38" x="33" y="-298"/>
+	
+  
+	<trackwall height="-28" width="454" x="65" y="-315"/>
+	
+  
+	<trackwall height="49" width="335" x="154" y="-380"/>
+	
+  
+	<trackwall height="-43" width="257" x="251" y="-386"/>
+	
+  
+	<trackwall height="-46" width="165" x="363" y="-433"/>
+	
+  
+	<trackwall height="-36" width="69" x="439" y="-481"/>
+	
+  
+	<textfield text="we cant help having levels that are similar!!!!!!!!!!!!!!!" x="4" y="-696"/>
+	
+  
+	<textfield text="now i suggest you stop right now or else we will just ignore you!" x="142" y="-790"/>
+	
+  
+	<textfield text="we know we are differnt people and period" x="295" y="-893"/>
+	
+  
+	<textfield text="you are just becoming annoying now" x="162" y="-932"/>
+	
+  
+	<textfield text="and ps i know you are peter!" x="271" y="-1098"/>
+	
+  
+	<textfield text="clearly you are peter!" x="114" y="-1148"/>
+	
+  
+	<goal height="41" width="420" x="46" y="-1196"/>
+	
+  
+	<textfield text="you act alot like peter!" x="163" y="-1037"/>
+	
+  
+	<textfield text="you are weird if you think we are the same people" x="72" y="-510"/>
+	
+  
+	<textfield text="if you think we are the same people you are so so so wrong!!!!!!!!!!!!!!!!!!" x="92" y="-620"/>
+	
+  
+	<textfield text="if you think we are the same people you are so wrong!!!!!!!!!!!" x="95" y="-621"/>
+	
+  
+	<boost height="194" width="74" x="363" y="-731"/>
+	
+  
+	<activatetrackwall height="31" width="174" x="177" y="-711"/>
+	
+
+</level>

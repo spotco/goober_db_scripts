@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="sotrue">
+	
+  
+	<wall height="54" width="385" x="1" y="385"/>
+	
+  
+	<wall height="193" width="48" x="131" y="219"/>
+	
+  
+	<wall height="48" width="-345" x="165" y="217"/>
+	
+  
+	<goal height="-84" width="-197" x="116" y="373"/>
+	
+  
+	<textfield text="Join your goobers! Oh, wait, level is too short, make it longer!" x="74" y="174"/>
+	
+  
+	<wall height="46" width="228" x="257" y="158"/>
+	
+  
+	<wall height="66" width="-167" x="184" y="11"/>
+	
+  
+	<wall height="105" width="234" x="319" y="-115"/>
+	
+  
+	<wall height="-18" width="-229" x="177" y="-140"/>
+	
+  
+	<wall height="58" width="105" x="240" y="-281"/>
+	
+  
+	<wall height="51" width="123" x="63" y="-344"/>
+	
+  
+	<wall height="22" width="89" x="323" y="-394"/>
+	
+  
+	<wall height="55" width="114" x="117" y="-528"/>
+	
+  
+	<wall height="49" width="92" x="328" y="-564"/>
+	
+  
+	<wall height="57" width="114" x="37" y="-692"/>
+	
+  
+	<wall height="24" width="146" x="259" y="-794"/>
+	
+  
+	<trackblade x="14" y="-977"/>
+	
+  
+	<track height="-332" width="15" x="6" y="-797"/>
+	
+  
+	<track height="-256" width="86" x="325" y="-790"/>
+	
+  
+	<track height="-300" width="96" x="336" y="-783"/>
+	
+  
+	<track height="-257" width="42" x="348" y="-782"/>
+	
+  
+	<track height="-273" width="37" x="362" y="-774"/>
+	
+  
+	<track height="-291" width="27" x="375" y="-771"/>
+	
+  
+	<track height="-241" width="23" x="391" y="-778"/>
+	
+  
+	<track height="-291" width="12" x="380" y="-775"/>
+	
+  
+	<trackblade x="335" y="-911"/>
+	
+  
+	<trackblade x="338" y="-911"/>
+	
+  
+	<trackblade x="361" y="-920"/>
+	
+  
+	<trackblade x="373" y="-921"/>
+	
+  
+	<trackblade x="380" y="-921"/>
+	
+  
+	<trackblade x="390" y="-918"/>
+	
+  
+	<trackblade x="392" y="-910"/>
+	
+  
+	<textfield text="OMG a 1 second difference, now it's too long!" x="172" y="-959"/>
+	
+  
+	<goal height="190" width="137" x="177" y="-1129"/>
+	
+
+</level>

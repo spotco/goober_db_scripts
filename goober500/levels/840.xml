@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<level author="BIRD" bg="1" name="IGOTAQUESTION">
+	
+  
+	<wall height="175" width="503" x="-1" y="324"/>
+	
+  
+	<wall height="257" width="51" x="51" y="68"/>
+	
+  
+	<textfield text="why are people still playing this in 2014?" x="178" y="149"/>
+	
+  
+	<wall height="43" width="275" x="238" y="91"/>
+	
+  
+	<track height="340" width="23" x="248" y="-275"/>
+	
+  
+	<trackwall height="17" width="84" x="220" y="46"/>
+	
+  
+	<goal height="128" width="118" x="50" y="-297"/>
+	
+  
+	<textfield text="answer me make a level" x="340" y="142"/>
+	
+
+</level>

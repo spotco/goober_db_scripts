@@ -1,0 +1,104 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="aboutme2">
+	
+  
+	<wall height="143" width="346" x="82" y="289"/>
+	
+  
+	<wall height="117" width="183" x="28" y="94"/>
+	
+  
+	<wall height="67" width="133" x="330" y="10"/>
+	
+  
+	<wall height="120" width="182" x="29" y="-156"/>
+	
+  
+	<wall height="21" width="40" x="289" y="-163"/>
+	
+  
+	<textfield text="welcome back, frieeeeeeeend" x="279" y="120"/>
+	
+  
+	<textfield text="i am vegetarian" x="293" y="-278"/>
+	
+  
+	<boost height="98" width="159" x="61" y="-362"/>
+	
+  
+	<boost height="339" width="265" x="34" y="-695"/>
+	
+  
+	<wall height="126" width="334" x="155" y="-880"/>
+	
+  
+	<textfield text="my favourite colours are..." x="310" y="-1005"/>
+	
+  
+	<textfield text="cats are amazing!!!" x="347" y="-616"/>
+	
+  
+	<track height="76" width="239" x="-154" y="-743"/>
+	
+  
+	<trackwall height="47" width="65" x="-4" y="-763"/>
+	
+  
+	<track height="74" width="424" x="45" y="-1102"/>
+	
+  
+	<track height="82" width="448" x="34" y="-1385"/>
+	
+  
+	<trackwall height="119" width="276" x="135" y="-1156"/>
+	
+  
+	<trackwall height="58" width="267" x="72" y="-1395"/>
+	
+  
+	<textfield text="Turquoise, purple and black" x="48" y="-1229"/>
+	
+  
+	<textfield text="The country I live in is..." x="359" y="-1428"/>
+	
+  
+	<wall height="110" width="-166" x="164" y="-1634"/>
+	
+  
+	<wall height="85" width="212" x="256" y="-1780"/>
+	
+  
+	<textfield text="Well, why would I tell you that?!" x="66" y="-1855"/>
+	
+  
+	<textfield text="internet safety" x="302" y="-2055"/>
+	
+  
+	<wall height="40" width="48" x="437" y="-1043"/>
+	
+  
+	<wall height="66" width="114" x="365" y="-1303"/>
+	
+  
+	<deathwall height="-232" width="-200" x="192" y="-1920"/>
+	
+  
+	<wall height="57" width="63" x="222" y="-1889"/>
+	
+  
+	<wall height="66" width="110" x="329" y="-2014"/>
+	
+  
+	<wall height="66" width="111" x="125" y="-2266"/>
+	
+  
+	<textfield text="please make your own about me level! I'd love to play it!" x="273" y="-2390"/>
+	
+  
+	<goal height="58" width="279" x="29" y="-2428"/>
+	
+  
+	<wall height="45" width="91" x="206" y="-2153"/>
+	
+
+</level>

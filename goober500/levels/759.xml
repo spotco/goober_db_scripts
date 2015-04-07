@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+<level author="hghh" bg="1" name="hbhfhf">
+	
+  
+	<wall height="63" width="274" x="142" y="305"/>
+	
+  
+	<wall height="313" width="57" x="104" y="5"/>
+	
+  
+	<goal height="53" width="111" x="100" y="-42"/>
+	
+  
+	<boost height="-278" width="80" x="348" y="290"/>
+	
+  
+	<boostfruit x="274" y="87"/>
+	
+  
+	<boostfruit x="211" y="72"/>
+	
+  
+	<boostfruit x="221" y="90"/>
+	
+  
+	<boostfruit x="332" y="47"/>
+	
+  
+	<boostfruit x="285" y="-12"/>
+	
+  
+	<boostfruit x="213" y="48"/>
+	
+  
+	<boostfruit x="234" y="102"/>
+	
+  
+	<boostfruit x="254" y="114"/>
+	
+  
+	<boostfruit x="266" y="106"/>
+	
+  
+	<boostfruit x="290" y="126"/>
+	
+  
+	<boostfruit x="284" y="142"/>
+	
+  
+	<boostfruit x="260" y="139"/>
+	
+  
+	<boostfruit x="234" y="129"/>
+	
+  
+	<boostfruit x="202" y="121"/>
+	
+  
+	<boostfruit x="189" y="126"/>
+	
+  
+	<boostfruit x="197" y="167"/>
+	
+  
+	<boostfruit x="231" y="180"/>
+	
+  
+	<boostfruit x="314" y="154"/>
+	
+  
+	<boostfruit x="327" y="157"/>
+	
+  
+	<boostfruit x="306" y="136"/>
+	
+  
+	<boostfruit x="246" y="169"/>
+	
+  
+	<boostfruit x="272" y="198"/>
+	
+  
+	<boostfruit x="267" y="201"/>
+	
+  
+	<boostfruit x="202" y="204"/>
+	
+  
+	<boostfruit x="183" y="223"/>
+	
+  
+	<boostfruit x="349" y="248"/>
+	
+  
+	<boostfruit x="302" y="213"/>
+	
+  
+	<boostfruit x="213" y="215"/>
+	
+  
+	<boostfruit x="252" y="233"/>
+	
+  
+	<boostfruit x="337" y="237"/>
+	
+
+</level>

@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<level author="dijon" bg="1" name="Longdeath">
+	
+  
+	<wall height="37" width="-331.65000000000003" x="436.85" y="381"/>
+	
+  
+	<wall height="-299" width="44.099999999999994" x="75.15" y="365"/>
+	
+  
+	<wall height="57" width="238.49999999999997" x="212.4" y="65"/>
+	
+  
+	<trackblade x="228.45" y="345"/>
+	
+  
+	<trackblade x="219.45" y="117"/>
+	
+  
+	<trackblade x="84.15" y="97"/>
+	
+  
+	<trackblade x="74.15" y="-2"/>
+	
+  
+	<trackblade x="120.25" y="-50"/>
+	
+  
+	<trackblade x="197.4" y="-53"/>
+	
+  
+	<trackblade x="243.5" y="-53"/>
+	
+  
+	<trackblade x="283.55" y="-55"/>
+	
+  
+	<deathwall height="-85" width="35.050000000000004" x="50.1" y="55"/>
+	
+  
+	<deathwall height="-40" width="83.15" x="63.15" y="-40"/>
+	
+  
+	<deathwall height="23" width="68.14999999999998" x="159.3" y="-76"/>
+	
+  
+	<deathwall height="32" width="19.049999999999997" x="82.15" y="-51"/>
+	
+  
+	<deathwall height="18" width="35.04999999999998" x="138.3" y="-66"/>
+	
+  
+	<deathwall height="13" width="43.099999999999994" x="134.25" y="-79"/>
+	
+  
+	<deathwall height="24" width="56.10000000000002" x="216.45" y="-79"/>
+	
+  
+	<deathwall height="48" width="38.050000000000004" x="49.1" y="-78"/>
+	
+  
+	<boostfruit x="381.75" y="-11"/>
+	
+  
+	<boostfruit x="281.55" y="-228"/>
+	
+  
+	<boostfruit x="130.25" y="-398"/>
+	
+  
+	<boostfruit x="296.6" y="-536"/>
+	
+  
+	<boostfruit x="175.35" y="-752"/>
+	
+  
+	<boostfruit x="314.65" y="-898"/>
+	
+  
+	<wall height="94" width="-164.29999999999998" x="179.35" y="-963"/>
+	
+  
+	<goal height="24" width="61.150000000000006" x="32.05" y="-1132"/>
+	
+
+</level>

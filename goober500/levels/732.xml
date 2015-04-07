@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="winwin">
+	
+  
+	<wall height="53" width="-399" x="432" y="347"/>
+	
+  
+	<wall height="356" width="75" x="25" y="45"/>
+	
+  
+	<wall height="-371" width="-69" x="435" y="396"/>
+	
+  
+	<wall height="23" width="-368" x="392" y="35"/>
+	
+  
+	<textfield text="you couldn't lose this level even if you wanted to!" x="105" y="63"/>
+	
+  
+	<goal height="47" width="180" x="184" y="63"/>
+	
+  
+	<wall height="27" width="116" x="281" y="214"/>
+	
+  
+	<wall height="36" width="198" x="94" y="289"/>
+	
+  
+	<wall height="25" width="87" x="126" y="190"/>
+	
+
+</level>

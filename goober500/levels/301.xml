@@ -1,0 +1,116 @@
+<?xml version="1.0" ?>
+<level author="austin" bg="1" name="lazerz">
+	
+  
+	<laserlauncher dir="3" x="123" y="75"/>
+	
+  
+	<laserlauncher dir="3" x="120" y="137"/>
+	
+  
+	<laserlauncher dir="3" x="116" y="216"/>
+	
+  
+	<laserlauncher dir="3" x="115" y="279"/>
+	
+  
+	<laserlauncher dir="3" x="115" y="329"/>
+	
+  
+	<laserlauncher dir="3" x="125" y="407"/>
+	
+  
+	<laserlauncher dir="3" x="160" y="437"/>
+	
+  
+	<laserlauncher dir="3" x="231" y="430"/>
+	
+  
+	<laserlauncher dir="3" x="290" y="433"/>
+	
+  
+	<laserlauncher dir="3" x="350" y="425"/>
+	
+  
+	<laserlauncher dir="3" x="444" y="433"/>
+	
+  
+	<laserlauncher dir="3" x="432" y="432"/>
+	
+  
+	<laserlauncher dir="3" x="448" y="373"/>
+	
+  
+	<laserlauncher dir="3" x="432" y="267"/>
+	
+  
+	<laserlauncher dir="3" x="423" y="215"/>
+	
+  
+	<laserlauncher dir="3" x="410" y="125"/>
+	
+  
+	<laserlauncher dir="3" x="389" y="63"/>
+	
+  
+	<laserlauncher dir="3" x="400" y="-17"/>
+	
+  
+	<laserlauncher dir="3" x="398" y="-81"/>
+	
+  
+	<laserlauncher dir="3" x="398" y="-136"/>
+	
+  
+	<laserlauncher dir="3" x="398" y="-201"/>
+	
+  
+	<laserlauncher dir="3" x="398" y="-271"/>
+	
+  
+	<laserlauncher dir="3" x="398" y="-336"/>
+	
+  
+	<laserlauncher dir="3" x="364" y="-409"/>
+	
+  
+	<laserlauncher dir="3" x="286" y="-376"/>
+	
+  
+	<laserlauncher dir="3" x="157" y="-398"/>
+	
+  
+	<laserlauncher dir="3" x="116" y="-317"/>
+	
+  
+	<laserlauncher dir="3" x="119" y="-245"/>
+	
+  
+	<laserlauncher dir="3" x="118" y="-178"/>
+	
+  
+	<laserlauncher dir="3" x="118" y="-112"/>
+	
+  
+	<laserlauncher dir="3" x="118" y="-54"/>
+	
+  
+	<laserlauncher dir="3" x="117" y="1"/>
+	
+  
+	<wall height="11" width="104" x="209" y="283"/>
+	
+  
+	<wall height="-58" width="-19" x="308" y="281"/>
+	
+  
+	<wall height="13" width="-108" x="287" y="223"/>
+	
+  
+	<wall height="66" width="35" x="179" y="234"/>
+	
+  
+	<goal height="15" width="-17" x="226" y="243"/>
+	
+
+</level>

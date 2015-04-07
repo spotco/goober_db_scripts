@@ -1,0 +1,230 @@
+<?xml version="1.0" ?>
+<level author="benaumiller" bg="1" name="madsadhappy">
+	
+  
+	<activatetrackwall height="127.44999999999999" width="241.6" x="136.65" y="302.8"/>
+	
+  
+	<boost height="-301.8" width="48.94999999999999" x="256.95" y="288.55"/>
+	
+  
+	<boost height="299.8" width="43.79999999999998" x="240.65" y="11.2"/>
+	
+  
+	<boostfruit x="261" y="1.8999999999999773"/>
+	
+  
+	<boostfruit x="266.1" y="-23.600000000000023"/>
+	
+  
+	<boostfruit x="270.2" y="-105.15"/>
+	
+  
+	<boostfruit x="275.3" y="-196.9"/>
+	
+  
+	<boostfruit x="271.2" y="-257.1"/>
+	
+  
+	<laserlauncher dir="3" x="176.4" y="-246.9"/>
+	
+  
+	<laserlauncher dir="3" x="146.8" y="-165.3"/>
+	
+  
+	<laserlauncher dir="3" x="156" y="-78.65"/>
+	
+  
+	<laserlauncher dir="3" x="137.65" y="-14.399999999999977"/>
+	
+  
+	<laserlauncher dir="3" x="367.05" y="-31.75"/>
+	
+  
+	<laserlauncher dir="3" x="391.55" y="-82.75"/>
+	
+  
+	<laserlauncher dir="3" x="372.15" y="-133.7"/>
+	
+  
+	<laserlauncher dir="3" x="378.25" y="-183.65"/>
+	
+  
+	<laserlauncher dir="3" x="366.05" y="-261.15"/>
+	
+  
+	<laserlauncher dir="3" x="165.15" y="-206.1"/>
+	
+  
+	<laserlauncher dir="3" x="158.05" y="-115.35"/>
+	
+  
+	<laserlauncher dir="3" x="144.8" y="-40.89999999999998"/>
+	
+  
+	<laserlauncher dir="3" x="371.15" y="-55.19999999999999"/>
+	
+  
+	<laserlauncher dir="3" x="379.3" y="-110.25"/>
+	
+  
+	<laserlauncher dir="3" x="374.2" y="-171.45"/>
+	
+  
+	<laserlauncher dir="3" x="375.2" y="-202"/>
+	
+  
+	<laserlauncher dir="3" x="380.3" y="-214.25"/>
+	
+  
+	<boost height="314.04999999999995" width="133.54999999999998" x="202.9" y="-576.9"/>
+	
+  
+	<boost height="414.95000000000005" width="78.5" x="231.45" y="-979.7"/>
+	
+  
+	<track height="42.799999999999955" width="307.95" x="143.75" y="-1055.8"/>
+	
+  
+	<trackblade x="146.8" y="-1050.7"/>
+	
+  
+	<boostfruit x="260" y="-1000.75"/>
+	
+  
+	<boostfruit x="256.95" y="-1034.4"/>
+	
+  
+	<boostfruit x="259" y="-1049.7"/>
+	
+  
+	<boostfruit x="251.85" y="-1067"/>
+	
+  
+	<boostfruit x="243.7" y="-1089.45"/>
+	
+  
+	<boostfruit x="246.75" y="-1114.95"/>
+	
+  
+	<boostfruit x="240.65" y="-1143.5"/>
+	
+  
+	<boostfruit x="234.5" y="-1174.1"/>
+	
+  
+	<boostfruit x="225.35" y="-1206.7"/>
+	
+  
+	<boostfruit x="224.3" y="-1240.35"/>
+	
+  
+	<boostfruit x="220.25" y="-1282.15"/>
+	
+  
+	<rocketlauncher x="349.7" y="-1264.3"/>
+	
+  
+	<rocketlauncher x="358.9" y="-1220.45"/>
+	
+  
+	<rocketlauncher x="343.6" y="-1164.4"/>
+	
+  
+	<rocketlauncher x="354.8" y="-1140.95"/>
+	
+  
+	<rocketlauncher x="396.65" y="-1163.35"/>
+	
+  
+	<rocketlauncher x="431.3" y="-1261.25"/>
+	
+  
+	<rocketlauncher x="420.1" y="-1286.75"/>
+	
+  
+	<rocketlauncher x="395.6" y="-1338.75"/>
+	
+  
+	<rocketlauncher x="378.25" y="-1332.65"/>
+	
+  
+	<rocketlauncher x="359.9" y="-1200.1"/>
+	
+  
+	<rocketlauncher x="411.9" y="-1165.4"/>
+	
+  
+	<rocketlauncher x="434.35" y="-1171.55"/>
+	
+  
+	<rocketlauncher x="452.7" y="-1202.1"/>
+	
+  
+	<rocketlauncher x="420.1" y="-1230.65"/>
+	
+  
+	<rocketlauncher x="420.1" y="-1230.65"/>
+	
+  
+	<track height="30.600000000000136" width="405.79999999999995" x="82.6" y="-1426.45"/>
+	
+  
+	<trackblade x="100.95" y="-1423.35"/>
+	
+  
+	<trackblade x="90.75" y="-1422.35"/>
+	
+  
+	<trackblade x="87.7" y="-1417.25"/>
+	
+  
+	<trackblade x="100.95" y="-1417.25"/>
+	
+  
+	<trackblade x="106.05" y="-1420.3"/>
+	
+  
+	<trackblade x="110.1" y="-1421.35"/>
+	
+  
+	<trackblade x="112.15" y="-1421.35"/>
+	
+  
+	<boost height="198.79999999999995" width="50" x="198.8" y="-1498.8"/>
+	
+  
+	<goal height="189.64999999999986" width="196.79999999999998" x="150.9" y="-1690.8"/>
+	
+  
+	<wall height="306.9" width="42.85000000000002" x="193.7" y="-11.75"/>
+	
+  
+	<wall height="321.15" width="35.69999999999999" x="322.2" y="-6.650000000000006"/>
+	
+  
+	<wall height="360.9" width="31.600000000000023" x="298.75" y="-48.44999999999999"/>
+	
+  
+	<deathwall height="-225.29999999999995" width="29.549999999999983" x="202.9" y="-35.10000000000002"/>
+	
+  
+	<deathwall height="217.2" width="14.25" x="319.15" y="-262.45"/>
+	
+  
+	<wall height="-17.350000000000023" width="28.55000000000001" x="204.95" y="-252.25"/>
+	
+  
+	<wall height="240.64999999999998" width="28.55000000000001" x="207" y="-251.25"/>
+	
+  
+	<wall height="214.10000000000002" width="100.94999999999999" x="295.7" y="-258.35"/>
+	
+  
+	<wall height="274.25" width="37.69999999999999" x="196.8" y="-280.8"/>
+	
+  
+	<wall height="217.15000000000003" width="19.400000000000006" x="221.25" y="-242.05"/>
+	
+
+</level>

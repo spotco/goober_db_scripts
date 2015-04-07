@@ -1,0 +1,131 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="randompaths">
+	
+  
+	<wall height="109" width="508" x="24" y="322"/>
+	
+  
+	<boost height="-385" width="119" x="71" y="321"/>
+	
+  
+	<boost height="-349" width="120" x="382" y="318"/>
+	
+  
+	<wall height="66" width="231" x="165" y="-122"/>
+	
+  
+	<deathwall height="76" width="145" x="381" y="-96"/>
+	
+  
+	<boost height="635" width="148" x="6" y="-845"/>
+	
+  
+	<boost height="543" width="201" x="405" y="-758"/>
+	
+  
+	<wall height="88" width="234" x="163" y="-879"/>
+	
+  
+	<deathwall height="40" width="-77" x="160" y="-833"/>
+	
+  
+	<deathwall height="25" width="-71" x="76" y="-723"/>
+	
+  
+	<bossactivate explode="no" height="68" hp="6" width="28" x="106" y="-730"/>
+	
+  
+	<wall height="-55" width="-104" x="150" y="-922"/>
+	
+  
+	<wall height="-61" width="85" x="404" y="-915"/>
+	
+  
+	<wall height="-62" width="-143" x="68" y="-1057"/>
+	
+  
+	<wall height="21" width="26" x="488" y="-1082"/>
+	
+  
+	<wall height="34" width="50" x="476" y="-1085"/>
+	
+  
+	<wall height="-37" width="-90" x="423" y="-1128"/>
+	
+  
+	<wall height="40" width="95" x="95" y="-1187"/>
+	
+  
+	<wall height="-55" width="-104" x="120" y="-1233"/>
+	
+  
+	<wall height="38" width="100" x="397" y="-1284"/>
+	
+  
+	<wall height="35" width="75" x="104" y="-1383"/>
+	
+  
+	<wall height="28" width="71" x="359" y="-1382"/>
+	
+  
+	<wall height="-25" width="49" x="75" y="-1442"/>
+	
+  
+	<wall height="-40" width="-77" x="69" y="-1489"/>
+	
+  
+	<wall height="27" width="39" x="434" y="-1453"/>
+	
+  
+	<wall height="26" width="52" x="459" y="-1526"/>
+	
+  
+	<wall height="-349" width="47" x="337" y="-1474"/>
+	
+  
+	<rocketlauncher x="400" y="-1768"/>
+	
+  
+	<rocketlauncher x="395" y="-1590"/>
+	
+  
+	<laserlauncher dir="3" x="402" y="-1667"/>
+	
+  
+	<laserlauncher dir="-3" x="386" y="-1514"/>
+	
+  
+	<boost height="-498" width="74" x="27" y="-1548"/>
+	
+  
+	<boost height="-432" width="134" x="29" y="-2040"/>
+	
+  
+	<boost height="53" width="294" x="131" y="-2416"/>
+	
+  
+	<boost height="-309" width="112" x="380" y="-2379"/>
+	
+  
+	<boost height="-527" width="-130" x="160" y="-2443"/>
+	
+  
+	<boost height="-375" width="147" x="381" y="-2670"/>
+	
+  
+	<trackblade x="396" y="-2958"/>
+	
+  
+	<trackblade x="437" y="-2960"/>
+	
+  
+	<trackblade x="469" y="-2957"/>
+	
+  
+	<trackblade x="491" y="-2954"/>
+	
+  
+	<goal height="141" width="190" x="10" y="-3114"/>
+	
+
+</level>

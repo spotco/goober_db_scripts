@@ -1,0 +1,254 @@
+<?xml version="1.0" ?>
+<level author="lamboe" bg="1" name="hotel3">
+	
+  
+	<wall height="278" width="47" x="10" y="160"/>
+	
+  
+	<wall height="49" width="567" x="17" y="419"/>
+	
+  
+	<wall height="341" width="85" x="443" y="96"/>
+	
+  
+	<textfield text="da pool" x="88" y="125"/>
+	
+  
+	<trackwall height="23" width="170" x="319" y="113"/>
+	
+  
+	<trackwall height="-121" width="32" x="387" y="113"/>
+	
+  
+	<trackwall height="-38" width="-156" x="397" y="16"/>
+	
+  
+	<boost height="113" width="165" x="52" y="289"/>
+	
+  
+	<boost height="206" width="300" x="138" y="174"/>
+	
+  
+	<boost height="78" width="266" x="179" y="343"/>
+	
+  
+	<boost height="-127" width="-222" x="281" y="326"/>
+	
+  
+	<boost height="69" width="-164" x="213" y="360"/>
+	
+  
+	<boost height="142" width="232" x="181" y="203"/>
+	
+  
+	<textfield text="it's unsanitary" x="107" y="236"/>
+	
+  
+	<track height="-564" width="64" x="64" y="110"/>
+	
+  
+	<trackwall height="65" width="-109" x="132" y="-29"/>
+	
+  
+	<trackwall height="49" width="515" x="116" y="-423"/>
+	
+  
+	<textfield text="da dining hall" x="122" y="-583"/>
+	
+  
+	<trackwall height="23" width="212" x="208" y="-503"/>
+	
+  
+	<trackwall height="80" width="29" x="239" y="-491"/>
+	
+  
+	<trackwall height="76" width="19" x="352" y="-485"/>
+	
+  
+	<trackwall height="85" width="22" x="148" y="-528"/>
+	
+  
+	<trackwall height="16" width="59" x="155" y="-449"/>
+	
+  
+	<trackwall height="32" width="11" x="168" y="-444"/>
+	
+  
+	<trackwall height="29" width="11" x="199" y="-440"/>
+	
+  
+	<trackwall height="19" width="71" x="437" y="-505"/>
+	
+  
+	<trackwall height="-107" width="33" x="486" y="-494"/>
+	
+  
+	<trackwall height="71" width="24" x="450" y="-487"/>
+	
+  
+	<trackwall height="62" width="26" x="489" y="-490"/>
+	
+  
+	<trackwall height="-69" width="15" x="310" y="-507"/>
+	
+  
+	<boost height="-42" width="10" x="313" y="-578"/>
+	
+  
+	<deathwall height="61" width="106" x="53" y="-959"/>
+	
+  
+	<deathwall height="78" width="83" x="143" y="-916"/>
+	
+  
+	<deathwall height="56" width="-59" x="70" y="-911"/>
+	
+  
+	<deathwall height="133" width="47" x="21" y="-868"/>
+	
+  
+	<deathwall height="78" width="83" x="54" y="-741"/>
+	
+  
+	<deathwall height="65" width="94" x="125" y="-678"/>
+	
+  
+	<deathwall height="-75" width="-33" x="213" y="-658"/>
+	
+  
+	<deathwall height="-121" width="-17" x="190" y="-733"/>
+	
+  
+	<deathwall height="27" width="13" x="188" y="-851"/>
+	
+  
+	<deathwall height="-29" width="85" x="72" y="-881"/>
+	
+  
+	<deathwall height="99" width="31" x="70" y="-846"/>
+	
+  
+	<deathwall height="100" width="47" x="131" y="-848"/>
+	
+  
+	<deathwall height="90" width="72" x="116" y="-763"/>
+	
+  
+	<deathwall height="35" width="60" x="99" y="-766"/>
+	
+  
+	<boost height="30" width="62" x="76" y="-875"/>
+	
+  
+	<boost height="89" width="18" x="107" y="-854"/>
+	
+  
+	<boostfruit x="384" y="-698"/>
+	
+  
+	<boostfruit x="337" y="-899"/>
+	
+  
+	<textfield text="steak or spaghetti? u choose ur meal" x="104" y="-1099"/>
+	
+  
+	<trackwall height="108" width="196" x="336" y="-1047"/>
+	
+  
+	<trackwall height="-93" width="-73" x="372" y="-997"/>
+	
+  
+	<trackwall height="47" width="53" x="317" y="-1020"/>
+	
+  
+	<trackwall height="67" width="239" x="301" y="-1093"/>
+	
+  
+	<boost height="-88" width="14" x="330" y="-1089"/>
+	
+  
+	<boost height="21" width="153" x="332" y="-1130"/>
+	
+  
+	<boost height="-35" width="-55" x="430" y="-1116"/>
+	
+  
+	<boost height="63" width="16" x="291" y="-1169"/>
+	
+  
+	<boost height="25" width="117" x="306" y="-1120"/>
+	
+  
+	<boost height="-74" width="15" x="403" y="-1119"/>
+	
+  
+	<boost height="24" width="50" x="433" y="-1134"/>
+	
+  
+	<boost height="16" width="77" x="433" y="-1112"/>
+	
+  
+	<boost height="-45" width="18" x="460" y="-1123"/>
+	
+  
+	<boost height="-48" width="18" x="361" y="-1136"/>
+	
+  
+	<boost height="25" width="86" x="316" y="-1149"/>
+	
+  
+	<boost height="29" width="90" x="407" y="-1166"/>
+	
+  
+	<deathwall height="56" width="113" x="344" y="-1215"/>
+	
+  
+	<boostfruit x="369" y="-1237"/>
+	
+  
+	<boostfruit x="404" y="-1222"/>
+	
+  
+	<boostfruit x="129" y="-1090"/>
+	
+  
+	<boostfruit x="0" y="-1264"/>
+	
+  
+	<trackwall height="38" width="591" x="117" y="-1297"/>
+	
+  
+	<boost height="63" width="288" x="260" y="-1358"/>
+	
+  
+	<boost height="63" width="165" x="110" y="-1360"/>
+	
+  
+	<trackwall height="-21" width="93" x="296" y="-1353"/>
+	
+  
+	<trackwall height="-26" width="64" x="341" y="-1371"/>
+	
+  
+	<trackwall height="-24" width="30" x="390" y="-1396"/>
+	
+  
+	<trackwall height="-47" width="18" x="405" y="-1423"/>
+	
+  
+	<trackwall height="-18" width="-17" x="416" y="-1469"/>
+	
+  
+	<trackwall height="-11" width="-23" x="402" y="-1488"/>
+	
+  
+	<activatetrackwall height="-116" width="46" x="336" y="-1451"/>
+	
+  
+	<textfield text="surfboard to the exit, ur stay is over" x="191" y="-1496"/>
+	
+  
+	<goal height="-147" width="-458" x="253" y="-1888"/>
+	
+
+</level>

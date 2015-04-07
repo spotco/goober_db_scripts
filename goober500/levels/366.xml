@@ -1,0 +1,383 @@
+<?xml version="1.0" ?>
+<level author="highman" bg="1" name="thebond">
+	
+  
+	<wall height="55.80000000000001" width="179.45" x="197.8" y="298.3"/>
+	
+  
+	<wall height="-78.95000000000002" width="33.5" x="327.8" y="303.85"/>
+	
+  
+	<wall height="-121.19999999999999" width="106.90000000000003" x="342.95" y="229.14999999999998"/>
+	
+  
+	<wall height="-70.19999999999999" width="55.80000000000001" x="398.8" y="107.94999999999999"/>
+	
+  
+	<wall height="-56.599999999999994" width="42.25" x="416.35" y="37.75"/>
+	
+  
+	<wall height="-51.05" width="23.149999999999977" x="436.25" y="-20.450000000000003"/>
+	
+  
+	<wall height="-19.950000000000017" width="-138.75" x="292.7" y="-32.349999999999994"/>
+	
+  
+	<wall height="-78.15" width="-86.15" x="155.55" y="-51.5"/>
+	
+  
+	<rocketlauncher x="20.75" y="38.599999999999994"/>
+	
+  
+	<rocketlauncher x="20.75" y="64.94999999999999"/>
+	
+  
+	<rocketlauncher x="16.75" y="127.94999999999999"/>
+	
+  
+	<rocketlauncher x="39.9" y="40.19999999999999"/>
+	
+  
+	<rocketlauncher x="30.3" y="33.05000000000001"/>
+	
+  
+	<rocketlauncher x="24.75" y="25.849999999999994"/>
+	
+  
+	<rocketlauncher x="26.35" y="66.55000000000001"/>
+	
+  
+	<rocketlauncher x="25.55" y="72.89999999999998"/>
+	
+  
+	<rocketlauncher x="22.35" y="74.5"/>
+	
+  
+	<rocketlauncher x="22.35" y="74.5"/>
+	
+  
+	<rocketlauncher x="23.15" y="81.69999999999999"/>
+	
+  
+	<rocketlauncher x="22.35" y="80.89999999999998"/>
+	
+  
+	<rocketlauncher x="22.35" y="80.89999999999998"/>
+	
+  
+	<rocketlauncher x="23.95" y="86.44999999999999"/>
+	
+  
+	<rocketlauncher x="27.15" y="92.05000000000001"/>
+	
+  
+	<rocketlauncher x="26.35" y="99.25"/>
+	
+  
+	<rocketlauncher x="18.35" y="106.39999999999998"/>
+	
+  
+	<rocketlauncher x="17.55" y="106.39999999999998"/>
+	
+  
+	<rocketlauncher x="17.55" y="117.60000000000002"/>
+	
+  
+	<rocketlauncher x="17.55" y="130.35000000000002"/>
+	
+  
+	<rocketlauncher x="19.15" y="133.55"/>
+	
+  
+	<rocketlauncher x="18.35" y="138.3"/>
+	
+  
+	<rocketlauncher x="19.95" y="146.3"/>
+	
+  
+	<rocketlauncher x="22.35" y="148.7"/>
+	
+  
+	<rocketlauncher x="22.35" y="148.7"/>
+	
+  
+	<rocketlauncher x="24.75" y="160.64999999999998"/>
+	
+  
+	<rocketlauncher x="25.55" y="173.39999999999998"/>
+	
+  
+	<rocketlauncher x="24.75" y="177.39999999999998"/>
+	
+  
+	<rocketlauncher x="23.15" y="178.2"/>
+	
+  
+	<rocketlauncher x="19.15" y="162.25"/>
+	
+  
+	<rocketlauncher x="21.55" y="152.64999999999998"/>
+	
+  
+	<rocketlauncher x="23.95" y="130.35000000000002"/>
+	
+  
+	<rocketlauncher x="22.35" y="129.55"/>
+	
+  
+	<rocketlauncher x="18.35" y="114.39999999999998"/>
+	
+  
+	<rocketlauncher x="18.35" y="101.64999999999998"/>
+	
+  
+	<rocketlauncher x="18.35" y="82.5"/>
+	
+  
+	<rocketlauncher x="18.35" y="71.30000000000001"/>
+	
+  
+	<rocketlauncher x="14.35" y="9.099999999999994"/>
+	
+  
+	<rocketlauncher x="16.75" y="8.300000000000011"/>
+	
+  
+	<rocketlauncher x="19.15" y="3.5500000000000114"/>
+	
+  
+	<rocketlauncher x="33.5" y="60.14999999999998"/>
+	
+  
+	<rocketlauncher x="30.3" y="69.69999999999999"/>
+	
+  
+	<rocketlauncher x="28.75" y="68.14999999999998"/>
+	
+  
+	<rocketlauncher x="28.75" y="119.14999999999998"/>
+	
+  
+	<rocketlauncher x="27.95" y="142.3"/>
+	
+  
+	<rocketlauncher x="27.95" y="143.10000000000002"/>
+	
+  
+	<rocketlauncher x="26.35" y="142.3"/>
+	
+  
+	<rocketlauncher x="26.35" y="142.3"/>
+	
+  
+	<rocketlauncher x="25.55" y="133.55"/>
+	
+  
+	<rocketlauncher x="31.1" y="108.80000000000001"/>
+	
+  
+	<rocketlauncher x="25.55" y="84.10000000000002"/>
+	
+  
+	<rocketlauncher x="25.55" y="80.10000000000002"/>
+	
+  
+	<rocketlauncher x="24.75" y="48.19999999999999"/>
+	
+  
+	<rocketlauncher x="27.15" y="21.849999999999994"/>
+	
+  
+	<rocketlauncher x="25.55" y="-5.25"/>
+	
+  
+	<bossactivate explode="no" height="341.35" hp="6" width="501.65" x="-12.75" y="-100.15"/>
+	
+  
+	<laserlauncher dir="3" x="12.8" y="-15.599999999999994"/>
+	
+  
+	<laserlauncher dir="3" x="13.6" y="-6.050000000000011"/>
+	
+  
+	<laserlauncher dir="3" x="18.35" y="5.900000000000006"/>
+	
+  
+	<laserlauncher dir="3" x="19.95" y="15.5"/>
+	
+  
+	<laserlauncher dir="3" x="20.75" y="23.44999999999999"/>
+	
+  
+	<laserlauncher dir="3" x="19.95" y="34.650000000000006"/>
+	
+  
+	<laserlauncher dir="3" x="19.95" y="35.44999999999999"/>
+	
+  
+	<laserlauncher dir="3" x="23.95" y="77.69999999999999"/>
+	
+  
+	<laserlauncher dir="3" x="27.15" y="88.05000000000001"/>
+	
+  
+	<laserlauncher dir="3" x="27.15" y="94.44999999999999"/>
+	
+  
+	<laserlauncher dir="3" x="23.95" y="92.05000000000001"/>
+	
+  
+	<laserlauncher dir="3" x="18.35" y="60.14999999999998"/>
+	
+  
+	<laserlauncher dir="3" x="11.2" y="17.900000000000006"/>
+	
+  
+	<laserlauncher dir="3" x="12" y="33.849999999999994"/>
+	
+  
+	<laserlauncher dir="3" x="11.2" y="36.25"/>
+	
+  
+	<laserlauncher dir="3" x="11.2" y="36.25"/>
+	
+  
+	<laserlauncher dir="3" x="11.2" y="36.25"/>
+	
+  
+	<laserlauncher dir="3" x="11.2" y="36.25"/>
+	
+  
+	<laserlauncher dir="3" x="15.95" y="125.55000000000001"/>
+	
+  
+	<laserlauncher dir="3" x="15.95" y="127.14999999999998"/>
+	
+  
+	<laserlauncher dir="3" x="18.35" y="161.45"/>
+	
+  
+	<laserlauncher dir="3" x="19.95" y="175.8"/>
+	
+  
+	<laserlauncher dir="3" x="23.15" y="182.2"/>
+	
+  
+	<laserlauncher dir="3" x="32.7" y="188.55"/>
+	
+  
+	<laserlauncher dir="3" x="35.9" y="176.60000000000002"/>
+	
+  
+	<laserlauncher dir="3" x="41.5" y="76.89999999999998"/>
+	
+  
+	<goal height="25.49999999999997" width="48.64999999999998" x="441.85" y="17.900000000000006"/>
+	
+  
+	<goal height="20.75" width="35.10000000000002" x="447.45" y="76.89999999999998"/>
+	
+  
+	<goal height="-36.69999999999999" width="-20.69999999999999" x="472.15" y="158.25"/>
+	
+  
+	<wall height="-33.5" width="48.650000000000034" x="460.2" y="-62.650000000000006"/>
+	
+  
+	<wall height="-244.04999999999998" width="-65.4" x="78.2" y="-136.15"/>
+	
+  
+	<wall height="-282.35" width="-72.55" x="51.05" y="-374.9"/>
+	
+  
+	<wall height="70.20000000000005" width="258.40000000000003" x="15.95" y="-657.25"/>
+	
+  
+	<wall height="102.85000000000002" width="293.5" x="197" y="-419.55"/>
+	
+  
+	<activatetrackwall height="24.69999999999999" width="88.55000000000001" x="394.8" y="-467.4"/>
+	
+  
+	<textfield text="take a ride with me" x="244.85" y="-564.75"/>
+	
+  
+	<wall height="116.45000000000005" width="223.34999999999997" x="63.8" y="-970.85"/>
+	
+  
+	<activatetrackwall height="66.19999999999993" width="192.20000000000002" x="232.1" y="-871.15"/>
+	
+  
+	<activatetrackwall height="30.350000000000023" width="126.85000000000002" x="259.2" y="-916.65"/>
+	
+  
+	<wall height="74.94999999999993" width="50.24999999999997" x="253.65" y="-974.05"/>
+	
+  
+	<wall height="31.100000000000023" width="118.85000000000002" x="268" y="-950.9"/>
+	
+  
+	<wall height="22.350000000000023" width="63.80000000000001" x="380.45" y="-926.2"/>
+	
+  
+	<wall height="-290.29999999999995" width="-184.25" x="173.9" y="-965.3"/>
+	
+  
+	<bossactivate explode="no" height="451.45000000000005" hp="6" width="484.15000000000003" x="15.15" y="-1323.7"/>
+	
+  
+	<bossactivate explode="no" height="398.75" hp="6" width="324.59999999999997" x="97.3" y="-1298.95"/>
+	
+  
+	<bossactivate explode="no" height="112.5" hp="6" width="186.60000000000002" x="120.45" y="-1227.2"/>
+	
+  
+	<bossactivate explode="no" height="134.79999999999995" hp="6" width="145.14999999999998" x="221.75" y="-1168.95"/>
+	
+  
+	<bossactivate explode="no" height="54.25" hp="6" width="109.25" x="247.25" y="-1126.7"/>
+	
+  
+	<bossactivate explode="no" height="40.69999999999982" hp="6" width="70.20000000000005" x="266.4" y="-1125.1"/>
+	
+  
+	<bossactivate explode="no" height="11.149999999999864" hp="6" width="81.35" x="161.9" y="-1171.35"/>
+	
+  
+	<bossactivate explode="no" height="53.40000000000009" hp="6" width="97.29999999999998" x="177.85" y="-1197.65"/>
+	
+  
+	<bossactivate explode="no" height="78.95000000000005" hp="6" width="120.44999999999999" x="179.45" y="-1202.45"/>
+	
+  
+	<bossactivate explode="no" height="17.550000000000182" hp="6" width="37.5" x="196.2" y="-1176.15"/>
+	
+  
+	<bossactivate explode="no" height="26.299999999999955" hp="6" width="59.80000000000001" x="201" y="-1170.55"/>
+	
+  
+	<bossactivate explode="no" height="30.34999999999991" hp="6" width="71.80000000000001" x="210.55" y="-1177.75"/>
+	
+  
+	<bossactivate explode="no" height="16.75" hp="6" width="72.60000000000002" x="216.95" y="-1164.95"/>
+	
+  
+	<bossactivate explode="no" height="10.349999999999909" hp="6" width="48.650000000000006" x="232.1" y="-1165.75"/>
+	
+  
+	<bossactivate explode="no" height="405.94999999999993" hp="6" width="445.8" x="43.9" y="-1310.1"/>
+	
+  
+	<bossactivate explode="no" height="279.10000000000014" hp="6" width="317.45" x="100.5" y="-1277.4"/>
+	
+  
+	<goal height="137.20000000000005" width="459.4" x="39.1" y="-1473.55"/>
+	
+  
+	<boost height="-93.29999999999995" width="-38.25" x="67" y="-1258.55"/>
+	
+  
+	<boost height="122.84999999999991" width="-59" x="145.15" y="-1350.25"/>
+	
+
+</level>

@@ -1,0 +1,209 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="hardlvl2">
+	
+  
+	<boost height="-328" width="61" x="248" y="318"/>
+	
+  
+	<trackblade x="17" y="-27"/>
+	
+  
+	<trackblade x="102" y="-27"/>
+	
+  
+	<trackblade x="342" y="-28"/>
+	
+  
+	<trackblade x="414" y="-28"/>
+	
+  
+	<trackblade x="480" y="-29"/>
+	
+  
+	<trackwall height="44" width="35" x="44" y="-48"/>
+	
+  
+	<trackwall height="60" width="34" x="283" y="-53"/>
+	
+  
+	<boost height="-342" width="607" x="2" y="-80"/>
+	
+  
+	<goal height="52" width="52" x="0" y="-581"/>
+	
+  
+	<deathwall height="102" width="100" x="1" y="-528"/>
+	
+  
+	<deathwall height="106" width="51" x="99" y="-531"/>
+	
+  
+	<deathwall height="-99" width="89" x="62" y="-532"/>
+	
+  
+	<deathwall height="47" width="150" x="0" y="-678"/>
+	
+  
+	<deathwall height="30" width="54" x="2" y="-627"/>
+	
+  
+	<deathwall height="11" width="18" x="4" y="-601"/>
+	
+  
+	<track height="352" width="51" x="249" y="-832"/>
+	
+  
+	<trackwall height="46" width="49" x="226" y="-814"/>
+	
+  
+	<trackwall height="43" width="43" x="385" y="-815"/>
+	
+  
+	<trackwall height="52" width="51" x="262" y="-631"/>
+	
+  
+	<track height="281" width="48" x="284" y="-816"/>
+	
+  
+	<track height="305" width="24" x="317" y="-811"/>
+	
+  
+	<trackwall height="52" width="47" x="301" y="-679"/>
+	
+  
+	<trackwall height="53" width="51" x="349" y="-681"/>
+	
+  
+	<trackwall height="54" width="51" x="399" y="-730"/>
+	
+  
+	<track height="281" width="29" x="399" y="-831"/>
+	
+  
+	<track height="325" width="28" x="426" y="-828"/>
+	
+  
+	<track height="311" width="50" x="356" y="-812"/>
+	
+  
+	<textfield text="whoa!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!" x="95" y="-740"/>
+	
+  
+	<boostfruit x="12" y="-818"/>
+	
+  
+	<boostfruit x="18" y="-827"/>
+	
+  
+	<boostfruit x="23" y="-836"/>
+	
+  
+	<boostfruit x="30" y="-844"/>
+	
+  
+	<boostfruit x="38" y="-853"/>
+	
+  
+	<boostfruit x="38" y="-855"/>
+	
+  
+	<boostfruit x="45" y="-864"/>
+	
+  
+	<boostfruit x="51" y="-870"/>
+	
+  
+	<boostfruit x="54" y="-874"/>
+	
+  
+	<boostfruit x="65" y="-886"/>
+	
+  
+	<boostfruit x="69" y="-894"/>
+	
+  
+	<boostfruit x="79" y="-910"/>
+	
+  
+	<boostfruit x="81" y="-916"/>
+	
+  
+	<boostfruit x="87" y="-927"/>
+	
+  
+	<boostfruit x="87" y="-945"/>
+	
+  
+	<boostfruit x="87" y="-953"/>
+	
+  
+	<boostfruit x="87" y="-961"/>
+	
+  
+	<boostfruit x="87" y="-980"/>
+	
+  
+	<boostfruit x="87" y="-994"/>
+	
+  
+	<boostfruit x="87" y="-998"/>
+	
+  
+	<boostfruit x="87" y="-1006"/>
+	
+  
+	<boostfruit x="87" y="-1014"/>
+	
+  
+	<boostfruit x="87" y="-1032"/>
+	
+  
+	<boost height="-77" width="502" x="1" y="-981"/>
+	
+  
+	<boost height="23" width="72" x="430" y="-1082"/>
+	
+  
+	<textfield text="gravity powa!" x="197" y="-1068"/>
+	
+  
+	<deathwall height="-13" width="17" x="98" y="-1085"/>
+	
+  
+	<deathwall height="-35" width="17" x="251" y="-1085"/>
+	
+  
+	<track height="450" width="52" x="49" y="-1530"/>
+	
+  
+	<trackwall height="53" width="58" x="28" y="-1130"/>
+	
+  
+	<trackwall height="46" width="51" x="27" y="-1525"/>
+	
+  
+	<boost height="-254" width="53" x="148" y="-1481"/>
+	
+  
+	<wall height="102" width="53" x="249" y="-1730"/>
+	
+  
+	<wall height="52" width="51" x="301" y="-1681"/>
+	
+  
+	<wall height="100" width="51" x="350" y="-1730"/>
+	
+  
+	<goal height="50" width="46" x="303" y="-1730"/>
+	
+  
+	<track height="18" width="508" x="1" y="-40"/>
+	
+  
+	<boostfruit x="125" y="-812"/>
+	
+  
+	<wall height="36" width="430" x="0" y="-1095"/>
+	
+
+</level>

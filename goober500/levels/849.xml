@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<level author="catpakoo" bg="1" name="foodandmessage">
+	
+  
+	<wall height="73" width="-509" x="341" y="392"/>
+	
+  
+	<boostfruit x="84" y="269"/>
+	
+  
+	<boostfruit x="171" y="177"/>
+	
+  
+	<boostfruit x="214" y="354"/>
+	
+  
+	<boostfruit x="180" y="282"/>
+	
+  
+	<boostfruit x="271" y="202"/>
+	
+  
+	<trackwall height="62" width="30" x="44" y="338"/>
+	
+  
+	<trackwall height="-259" width="12" x="58" y="344"/>
+	
+  
+	<trackwall height="35" width="259" x="70" y="85"/>
+	
+  
+	<trackwall height="129" width="19" x="321" y="120"/>
+	
+  
+	<trackwall height="-76" width="64" x="273" y="420"/>
+	
+  
+	<textfield text="oh and i did not make toalpaca" x="128" y="187"/>
+	
+  
+	<boostfruit x="406" y="190"/>
+	
+  
+	<deathwall height="-171" width="58" x="88" y="94"/>
+	
+  
+	<boost height="-170" width="17" x="107" y="90"/>
+	
+  
+	<textfield text="bacon which i loved i think" x="37" y="-79"/>
+	
+  
+	<textfield text="also, i'm not farmiliar with emoticons so i don't use them." x="316" y="-192"/>
+	
+  
+	<wall height="31" width="90" x="175" y="-3"/>
+	
+  
+	<wall height="22" width="164" x="274" y="-87"/>
+	
+  
+	<wall height="-52" width="-152" x="258" y="-155"/>
+	
+  
+	<wall height="-77" width="-67" x="58" y="-215"/>
+	
+  
+	<trackblade x="389" y="-445"/>
+	
+  
+	<track height="103" width="26" x="381" y="-411"/>
+	
+  
+	<textfield text="lolipop which is kinda chioldish but tasty!!" x="317" y="-557"/>
+	
+  
+	<textfield text="i don't use them because this is the only ?social network?-type-thing i go on." x="76" y="-376"/>
+	
+  
+	<textfield text="type thing i go on. i'm antisocial." x="115" y="-299"/>
+	
+  
+	<boostfruit x="91" y="-565"/>
+	
+  
+	<boostfruit x="68" y="-716"/>
+	
+  
+	<boostfruit x="203" y="-684"/>
+	
+  
+	<boostfruit x="112" y="-610"/>
+	
+  
+	<boostfruit x="81" y="-646"/>
+	
+  
+	<textfield text="delicious fruit probably" x="226" y="-786"/>
+	
+  
+	<boostfruit x="245" y="-322"/>
+	
+  
+	<boostfruit x="207" y="-1100"/>
+	
+  
+	<goal height="39" width="253" x="147" y="-861"/>
+	
+
+</level>

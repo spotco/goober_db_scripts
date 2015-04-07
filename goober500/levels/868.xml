@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<level author="lamboe" bg="1" name="indt">
+	
+  
+	<wall height="123" width="353" x="139" y="368"/>
+	
+  
+	<wall height="91" width="138" x="57" y="269"/>
+	
+  
+	<wall height="118" width="227" x="257" y="326"/>
+	
+  
+	<textfield text="indt" x="186" y="14"/>
+	
+  
+	<boost height="-662" width="142" x="329" y="309"/>
+	
+  
+	<trackwall height="216" width="166" x="111" y="-474"/>
+	
+  
+	<textfield text="i never die twice" x="310" y="-515"/>
+	
+  
+	<track height="101" width="320" x="27" y="-410"/>
+	
+  
+	<track height="-74" width="-279" x="321" y="-305"/>
+	
+  
+	<track height="94" width="310" x="24" y="-389"/>
+	
+  
+	<track height="-105" width="-314" x="331" y="-295"/>
+	
+  
+	<track height="102" width="301" x="32" y="-405"/>
+	
+  
+	<track height="-105" width="-291" x="316" y="-303"/>
+	
+  
+	<track height="88" width="347" x="25" y="-408"/>
+	
+  
+	<track height="-85" width="-308" x="359" y="-325"/>
+	
+  
+	<track height="97" width="362" x="25" y="-402"/>
+	
+  
+	<track height="-29" width="-281" x="310" y="-311"/>
+	
+  
+	<track height="64" width="289" x="23" y="-373"/>
+	
+  
+	<track height="25" width="319" x="22" y="-366"/>
+	
+  
+	<boostfruit x="63" y="-548"/>
+	
+  
+	<boostfruit x="317" y="-782"/>
+	
+  
+	<goal height="-159" width="-252" x="171" y="-829"/>
+	
+  
+	<textfield text="ai want froyo u want froyo" x="282" y="-877"/>
+	
+
+</level>

@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<level author="Bluebasho" bg="1" name="cave">
+	
+  
+	<wall height="22" width="501" x="0" y="271"/>
+	
+  
+	<wall height="261" width="24" x="478" y="26"/>
+	
+  
+	<wall height="271" width="208" x="297" y="18"/>
+	
+  
+	<wall height="135" width="-165" x="297" y="18"/>
+	
+  
+	<wall height="265" width="43" x="0" y="17"/>
+	
+  
+	<wall height="333" width="204" x="299" y="-182"/>
+	
+  
+	<wall height="216" width="42" x="0" y="-186"/>
+	
+  
+	<wall height="38" width="140" x="40" y="-187"/>
+	
+  
+	<wall height="275" width="77" x="0" y="-454"/>
+	
+  
+	<wall height="53" width="351" x="188" y="-452"/>
+	
+  
+	<wall height="276" width="62" x="447" y="-454"/>
+	
+  
+	<goal height="62" width="527" x="2" y="-511"/>
+	
+  
+	<trackwall height="34" width="40" x="195" y="-379"/>
+	
+  
+	<trackwall height="33" width="46" x="296" y="-320"/>
+	
+  
+	<trackwall height="37" width="58" x="179" y="-308"/>
+	
+  
+	<track height="16" width="141" x="80" y="-299"/>
+	
+  
+	<track height="19" width="126" x="86" y="-371"/>
+	
+  
+	<track height="11" width="122" x="313" y="-307"/>
+	
+
+</level>

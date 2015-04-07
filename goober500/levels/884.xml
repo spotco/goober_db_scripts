@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<level author="lamboe" bg="1" name="lambae">
+	
+  
+	<wall height="57" width="99" x="77" y="333"/>
+	
+  
+	<wall height="40" width="85" x="251" y="412"/>
+	
+  
+	<wall height="99" width="196" x="-98" y="83"/>
+	
+  
+	<wall height="46" width="117" x="128" y="69"/>
+	
+  
+	<wall height="33" width="93" x="348" y="30"/>
+	
+  
+	<trackblade x="42" y="66"/>
+	
+  
+	<trackblade x="287" y="354"/>
+	
+  
+	<trackblade x="393" y="4"/>
+	
+  
+	<goal height="42" width="62" x="21" y="391"/>
+	
+  
+	<goal height="-118" width="-595" x="411" y="2"/>
+	
+  
+	<trackwall height="-15" width="-81" x="40" y="357"/>
+	
+  
+	<trackwall height="16" width="101" x="26" y="282"/>
+	
+  
+	<trackwall height="-16" width="-126" x="76" y="237"/>
+	
+  
+	<trackwall height="21" width="128" x="86" y="183"/>
+	
+
+</level>

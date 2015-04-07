@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+<level author="mimimu" bg="1" name="hehehehe">
+	
+  
+	<wall height="52.60000000000002" width="52.599999999999994" x="150.85" y="220"/>
+	
+  
+	<track height="20.55000000000001" width="406.25" x="58.3" y="42.75"/>
+	
+  
+	<trackblade x="80" y="47.30000000000001"/>
+	
+  
+	<trackblade x="461.15" y="45"/>
+	
+  
+	<trackwall height="40.599999999999994" width="109.70000000000002" x="198.85" y="33"/>
+	
+  
+	<wall height="56" width="105.69999999999999" x="199.45" y="-81.25"/>
+	
+  
+	<boost height="203.99999999999997" width="100.54999999999998" x="49.15" y="67.9"/>
+	
+  
+	<textfield text="phew!!!you did it:)" x="261.15" y="-150.7"/>
+	
+  
+	<wall height="54.30000000000001" width="92" x="54.85" y="-181"/>
+	
+  
+	<boost height="268" width="189.75" x="121.7" y="-475.4"/>
+	
+  
+	<boost height="300.55" width="189.10000000000002" x="119.45" y="-780.1"/>
+	
+  
+	<textfield text="jump for your life!!" x="298.25" y="-456.1"/>
+	
+  
+	<track height="17.699999999999932" width="356.59999999999997" x="62.85" y="-969.4"/>
+	
+  
+	<laserlauncher dir="3" x="444" y="-318.55"/>
+	
+  
+	<laserlauncher dir="-3" x="56" y="-323.7"/>
+	
+  
+	<wall height="73.14999999999998" width="94.85000000000001" x="46.8" y="-911.3"/>
+	
+  
+	<trackblade x="77.7" y="-1351.4"/>
+	
+  
+	<trackblade x="122.85" y="-1361.1"/>
+	
+  
+	<trackblade x="170.3" y="-1352"/>
+	
+  
+	<trackblade x="201.7" y="-1328"/>
+	
+  
+	<trackblade x="241.15" y="-1296"/>
+	
+  
+	<trackblade x="283.45" y="-1321.1"/>
+	
+  
+	<wall height="64" width="248.55" x="252" y="-1178.85"/>
+	
+  
+	<deathwall height="229.70000000000005" width="28.549999999999997" x="48" y="-1249.7"/>
+	
+  
+	<trackwall height="36.60000000000002" width="93.69999999999999" x="306.3" y="-985.7"/>
+	
+  
+	<activatetrackwall height="39.400000000000006" width="84.6" x="129.1" y="-1075.4"/>
+	
+  
+	<wall height="163.4000000000001" width="72" x="241.7" y="-1559.25"/>
+	
+  
+	<wall height="189.1500000000001" width="65.69999999999999" x="316" y="-1436.4"/>
+	
+  
+	<activatetrackwall height="53.149999999999864" width="194.3" x="41.7" y="-1562.85"/>
+	
+  
+	<wall height="56.55000000000018" width="102.85000000000002" x="251.45" y="-1686.4"/>
+	
+  
+	<wall height="153.14999999999998" width="439.45" x="48" y="272.75"/>
+	
+  
+	<textfield text="becareful of the blades!!" x="188.55" y="172.15"/>
+	
+  
+	<track height="16" width="406.85" x="66.85" y="-1817.7"/>
+	
+  
+	<goal height="56" width="76" x="86.85" y="-1836.55"/>
+	
+
+</level>

@@ -1,0 +1,119 @@
+<?xml version="1.0" ?>
+<level author="lamboe" bg="1" name="moreneedfroyo">
+	
+  
+	<wall height="77" width="371" x="92" y="366"/>
+	
+  
+	<wall height="-792" width="-36" x="188" y="370"/>
+	
+  
+	<trackblade x="177" y="-530"/>
+	
+  
+	<trackblade x="283" y="-531"/>
+	
+  
+	<trackblade x="383" y="-534"/>
+	
+  
+	<trackblade x="487" y="-537"/>
+	
+  
+	<trackblade x="85" y="-549"/>
+	
+  
+	<trackblade x="4" y="-553"/>
+	
+  
+	<textfield text="kambolamboe!" x="256" y="-369"/>
+	
+  
+	<boostfruit x="227" y="-474"/>
+	
+  
+	<boostfruit x="236" y="-679"/>
+	
+  
+	<wall height="23" width="136" x="231" y="-413"/>
+	
+  
+	<wall height="-90" width="-163" x="187" y="-677"/>
+	
+  
+	<textfield text="banhanafroyo!" x="286" y="-845"/>
+	
+  
+	<textfield text="kizi website fancijuusta" x="66" y="-1005"/>
+	
+  
+	<track height="83" width="-516" x="482" y="-965"/>
+	
+  
+	<track height="45" width="478" x="11" y="-959"/>
+	
+  
+	<track height="-52" width="-523" x="489" y="-914"/>
+	
+  
+	<track height="-47" width="-529" x="488" y="-918"/>
+	
+  
+	<track height="-90" width="-496" x="463" y="-894"/>
+	
+  
+	<track height="-72" width="-498" x="466" y="-896"/>
+	
+  
+	<boostfruit x="119" y="-837"/>
+	
+  
+	<trackwall height="43" width="191" x="186" y="-983"/>
+	
+  
+	<wall height="-33" width="-136" x="77" y="-854"/>
+	
+  
+	<track height="-30" width="-474" x="490" y="-932"/>
+	
+  
+	<track height="-35" width="-485" x="487" y="-942"/>
+	
+  
+	<track height="-36" width="-484" x="491" y="-938"/>
+	
+  
+	<track height="-24" width="-491" x="492" y="-952"/>
+	
+  
+	<track height="-18" width="-479" x="473" y="-950"/>
+	
+  
+	<track height="-28" width="-482" x="486" y="-945"/>
+	
+  
+	<track height="-26" width="-465" x="482" y="-950"/>
+	
+  
+	<track height="-26" width="-465" x="482" y="-945"/>
+	
+  
+	<track height="-32" width="-462" x="467" y="-946"/>
+	
+  
+	<track height="-51" width="-473" x="485" y="-938"/>
+	
+  
+	<boost height="-574" width="112" x="218" y="-1004"/>
+	
+  
+	<textfield text="funnyrabet to compu..." x="129" y="-1657"/>
+	
+  
+	<textfield text="rat" x="94" y="-1524"/>
+	
+  
+	<goal height="107" width="131" x="399" y="-1715"/>
+	
+
+</level>

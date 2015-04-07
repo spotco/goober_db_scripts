@@ -1,0 +1,293 @@
+<?xml version="1.0" ?>
+<level author="alpaca" bg="1" name="ihavenothingtodo">
+	
+  
+	<wall height="60" width="462" x="28" y="283"/>
+	
+  
+	<boostfruit x="45" y="17"/>
+	
+  
+	<boostfruit x="81" y="44"/>
+	
+  
+	<boostfruit x="133" y="88"/>
+	
+  
+	<boostfruit x="200" y="155"/>
+	
+  
+	<boostfruit x="274" y="215"/>
+	
+  
+	<boostfruit x="255" y="222"/>
+	
+  
+	<boostfruit x="243" y="182"/>
+	
+  
+	<boostfruit x="233" y="175"/>
+	
+  
+	<boostfruit x="215" y="159"/>
+	
+  
+	<boostfruit x="177" y="114"/>
+	
+  
+	<boostfruit x="169" y="107"/>
+	
+  
+	<boostfruit x="146" y="93"/>
+	
+  
+	<boostfruit x="108" y="67"/>
+	
+  
+	<boostfruit x="85" y="50"/>
+	
+  
+	<boostfruit x="64" y="40"/>
+	
+  
+	<boostfruit x="111" y="41"/>
+	
+  
+	<boostfruit x="190" y="72"/>
+	
+  
+	<boostfruit x="47" y="-3"/>
+	
+  
+	<boostfruit x="52" y="-3"/>
+	
+  
+	<boostfruit x="111" y="-34"/>
+	
+  
+	<boostfruit x="150" y="-68"/>
+	
+  
+	<boostfruit x="184" y="-91"/>
+	
+  
+	<boostfruit x="206" y="-115"/>
+	
+  
+	<boostfruit x="217" y="-147"/>
+	
+  
+	<boostfruit x="174" y="-160"/>
+	
+  
+	<boostfruit x="122" y="-168"/>
+	
+  
+	<boostfruit x="93" y="-177"/>
+	
+  
+	<boostfruit x="384" y="-174"/>
+	
+  
+	<boostfruit x="378" y="-174"/>
+	
+  
+	<boostfruit x="345" y="-155"/>
+	
+  
+	<boostfruit x="334" y="-135"/>
+	
+  
+	<boostfruit x="353" y="-100"/>
+	
+  
+	<boostfruit x="387" y="-81"/>
+	
+  
+	<boostfruit x="411" y="-32"/>
+	
+  
+	<boostfruit x="403" y="15"/>
+	
+  
+	<boostfruit x="368" y="71"/>
+	
+  
+	<boostfruit x="350" y="97"/>
+	
+  
+	<boostfruit x="328" y="138"/>
+	
+  
+	<boostfruit x="319" y="190"/>
+	
+  
+	<boostfruit x="328" y="220"/>
+	
+  
+	<boostfruit x="370" y="232"/>
+	
+  
+	<boostfruit x="373" y="232"/>
+	
+  
+	<boostfruit x="306" y="207"/>
+	
+  
+	<boostfruit x="280" y="158"/>
+	
+  
+	<boostfruit x="303" y="80"/>
+	
+  
+	<boostfruit x="330" y="51"/>
+	
+  
+	<boostfruit x="363" y="-3"/>
+	
+  
+	<boostfruit x="354" y="-49"/>
+	
+  
+	<boostfruit x="303" y="-126"/>
+	
+  
+	<boostfruit x="291" y="-137"/>
+	
+  
+	<boostfruit x="317" y="-173"/>
+	
+  
+	<boostfruit x="279" y="-175"/>
+	
+  
+	<boostfruit x="256" y="-105"/>
+	
+  
+	<boostfruit x="281" y="-69"/>
+	
+  
+	<boostfruit x="306" y="-23"/>
+	
+  
+	<boostfruit x="260" y="58"/>
+	
+  
+	<boostfruit x="244" y="146"/>
+	
+  
+	<boostfruit x="308" y="174"/>
+	
+  
+	<boostfruit x="232" y="106"/>
+	
+  
+	<boostfruit x="215" y="47"/>
+	
+  
+	<boostfruit x="265" y="-14"/>
+	
+  
+	<boostfruit x="224" y="-62"/>
+	
+  
+	<boostfruit x="218" y="-56"/>
+	
+  
+	<boostfruit x="193" y="-5"/>
+	
+  
+	<boostfruit x="130" y="-4"/>
+	
+  
+	<boostfruit x="125" y="10"/>
+	
+  
+	<boostfruit x="169" y="29"/>
+	
+  
+	<boostfruit x="159" y="9"/>
+	
+  
+	<boostfruit x="171" y="-30"/>
+	
+  
+	<boostfruit x="196" y="-22"/>
+	
+  
+	<boostfruit x="227" y="-8"/>
+	
+  
+	<boostfruit x="300" y="28"/>
+	
+  
+	<boostfruit x="263" y="1"/>
+	
+  
+	<boostfruit x="239" y="29"/>
+	
+  
+	<boostfruit x="256" y="-67"/>
+	
+  
+	<boostfruit x="311" y="-113"/>
+	
+  
+	<boostfruit x="318" y="-64"/>
+	
+  
+	<boostfruit x="343" y="-3"/>
+	
+  
+	<boostfruit x="368" y="41"/>
+	
+  
+	<boostfruit x="198" y="-184"/>
+	
+  
+	<boostfruit x="240" y="-167"/>
+	
+  
+	<boostfruit x="244" y="-138"/>
+	
+  
+	<boostfruit x="82" y="2"/>
+	
+  
+	<boostfruit x="82" y="-21"/>
+	
+  
+	<boostfruit x="151" y="-53"/>
+	
+  
+	<boostfruit x="191" y="-61"/>
+	
+  
+	<textfield text="someone is annoying but dont worry its not you" x="94" y="212"/>
+	
+  
+	<textfield text="its someone though" x="403" y="24"/>
+	
+  
+	<textfield text="heehee i dont like that person sooo much that im crazy!" x="77" y="-73"/>
+	
+  
+	<trackwall height="18" width="231" x="28" y="-347"/>
+	
+  
+	<boost height="226" width="66" x="126" y="-572"/>
+	
+  
+	<rocketlauncher x="426" y="-643"/>
+	
+  
+	<rocketlauncher x="12" y="-447"/>
+	
+  
+	<deathwall height="122" width="126" x="28" y="-695"/>
+	
+  
+	<goal height="51" width="74" x="242" y="-704"/>
+	
+
+</level>

@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="nivel2">
+	
+  
+	<wall height="46" width="178" x="168" y="378"/>
+	
+  
+	<textfield text="Lla sabes lo basico, pero ahora se vienen otras cosas" x="251" y="213"/>
+	
+  
+	<wall height="39" width="98" x="60" y="338"/>
+	
+  
+	<wall height="44" width="37" x="36" y="276"/>
+	
+  
+	<wall height="21" width="218" x="120" y="210"/>
+	
+  
+	<wall height="51" width="64" x="338" y="172"/>
+	
+  
+	<wall height="61" width="71" x="391" y="127"/>
+	
+  
+	<textfield text="con esto podras impulsarte hacia arriba" x="182" y="70"/>
+	
+  
+	<boost height="206" width="109" x="369" y="-85"/>
+	
+  
+	<wall height="39" width="287" x="77" y="-82"/>
+	
+  
+	<wall height="34" width="139" x="348" y="-291"/>
+	
+  
+	<boost height="134" width="64" x="94" y="-233"/>
+	
+  
+	<wall height="34" width="89" x="196" y="-311"/>
+	
+  
+	<textfield text="con la fruta podras hacer mas saltos en el aire" x="142" y="-491"/>
+	
+  
+	<boostfruit x="418" y="-404"/>
+	
+  
+	<wall height="15" width="91" x="288" y="-518"/>
+	
+  
+	<wall height="25" width="104" x="123" y="-539"/>
+	
+  
+	<boostfruit height="28" width="24" x="162" y="-632"/>
+	
+  
+	<wall height="29" width="127" x="200" y="-794"/>
+	
+  
+	<track height="17" width="173" x="104" y="-706"/>
+	
+  
+	<trackblade x="149" y="-707"/>
+	
+  
+	<boostfruit x="267" y="-865"/>
+	
+  
+	<boostfruit x="230" y="-999"/>
+	
+  
+	<boostfruit x="176" y="-1070"/>
+	
+  
+	<goal height="123" width="99" x="40" y="-1176"/>
+	
+
+</level>

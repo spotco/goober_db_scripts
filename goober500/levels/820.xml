@@ -1,0 +1,404 @@
+<?xml version="1.0" ?>
+<level author="catpakoo" bg="1" name="loveland2">
+	
+  
+	<wall height="59" width="356" x="93" y="342"/>
+	
+  
+	<boostfruit x="64" y="66"/>
+	
+  
+	<boostfruit x="97" y="131"/>
+	
+  
+	<boostfruit x="84" y="210"/>
+	
+  
+	<boostfruit x="49" y="271"/>
+	
+  
+	<boostfruit x="31" y="305"/>
+	
+  
+	<boostfruit x="45" y="356"/>
+	
+  
+	<boostfruit x="114" y="403"/>
+	
+  
+	<boostfruit x="180" y="422"/>
+	
+  
+	<boostfruit x="216" y="402"/>
+	
+  
+	<boostfruit x="229" y="358"/>
+	
+  
+	<boostfruit x="237" y="320"/>
+	
+  
+	<boostfruit x="226" y="284"/>
+	
+  
+	<boostfruit x="185" y="278"/>
+	
+  
+	<boostfruit x="173" y="286"/>
+	
+  
+	<boostfruit x="164" y="301"/>
+	
+  
+	<boostfruit x="163" y="311"/>
+	
+  
+	<boostfruit x="312" y="61"/>
+	
+  
+	<boostfruit x="312" y="61"/>
+	
+  
+	<boostfruit x="290" y="109"/>
+	
+  
+	<boostfruit x="299" y="149"/>
+	
+  
+	<boostfruit x="315" y="176"/>
+	
+  
+	<boostfruit x="347" y="210"/>
+	
+  
+	<boostfruit x="371" y="250"/>
+	
+  
+	<boostfruit x="386" y="290"/>
+	
+  
+	<boostfruit x="387" y="324"/>
+	
+  
+	<boostfruit x="379" y="368"/>
+	
+  
+	<boostfruit x="361" y="387"/>
+	
+  
+	<boostfruit x="348" y="391"/>
+	
+  
+	<boostfruit x="330" y="393"/>
+	
+  
+	<boostfruit x="314" y="396"/>
+	
+  
+	<boostfruit x="291" y="370"/>
+	
+  
+	<boostfruit x="290" y="370"/>
+	
+  
+	<boostfruit x="290" y="363"/>
+	
+  
+	<boostfruit x="291" y="356"/>
+	
+  
+	<boostfruit x="294" y="342"/>
+	
+  
+	<boostfruit x="296" y="341"/>
+	
+  
+	<boostfruit x="313" y="337"/>
+	
+  
+	<boostfruit x="323" y="339"/>
+	
+  
+	<boostfruit x="326" y="345"/>
+	
+  
+	<boostfruit x="326" y="351"/>
+	
+  
+	<boostfruit x="323" y="354"/>
+	
+  
+	<boostfruit x="298" y="389"/>
+	
+  
+	<boostfruit x="203" y="277"/>
+	
+  
+	<boostfruit x="221" y="305"/>
+	
+  
+	<boostfruit x="224" y="332"/>
+	
+  
+	<boostfruit x="222" y="363"/>
+	
+  
+	<boostfruit x="187" y="402"/>
+	
+  
+	<boostfruit x="153" y="416"/>
+	
+  
+	<boostfruit x="149" y="416"/>
+	
+  
+	<boostfruit x="140" y="413"/>
+	
+  
+	<boostfruit x="128" y="406"/>
+	
+  
+	<boostfruit x="108" y="400"/>
+	
+  
+	<boostfruit x="94" y="396"/>
+	
+  
+	<boostfruit x="65" y="378"/>
+	
+  
+	<boostfruit x="57" y="372"/>
+	
+  
+	<boostfruit x="53" y="368"/>
+	
+  
+	<boostfruit x="44" y="353"/>
+	
+  
+	<boostfruit x="40" y="334"/>
+	
+  
+	<boostfruit x="40" y="318"/>
+	
+  
+	<boostfruit x="46" y="304"/>
+	
+  
+	<boostfruit x="55" y="290"/>
+	
+  
+	<boostfruit x="63" y="275"/>
+	
+  
+	<boostfruit x="67" y="264"/>
+	
+  
+	<boostfruit x="80" y="239"/>
+	
+  
+	<boostfruit x="89" y="215"/>
+	
+  
+	<boostfruit x="97" y="193"/>
+	
+  
+	<boostfruit x="101" y="168"/>
+	
+  
+	<boostfruit x="101" y="144"/>
+	
+  
+	<boostfruit x="99" y="134"/>
+	
+  
+	<boostfruit x="96" y="122"/>
+	
+  
+	<boostfruit x="85" y="99"/>
+	
+  
+	<boostfruit x="85" y="99"/>
+	
+  
+	<boostfruit x="85" y="99"/>
+	
+  
+	<boostfruit x="80" y="88"/>
+	
+  
+	<boostfruit x="194" y="378"/>
+	
+  
+	<boostfruit x="225" y="373"/>
+	
+  
+	<boostfruit x="225" y="373"/>
+	
+  
+	<boostfruit x="223" y="374"/>
+	
+  
+	<boostfruit x="209" y="381"/>
+	
+  
+	<boostfruit x="201" y="389"/>
+	
+  
+	<boostfruit x="172" y="405"/>
+	
+  
+	<boostfruit x="106" y="397"/>
+	
+  
+	<boostfruit x="75" y="390"/>
+	
+  
+	<boostfruit x="73" y="390"/>
+	
+  
+	<wall height="102" width="301" x="126" y="-65"/>
+	
+  
+	<textfield text="if you are insane and obnoxious and paranoid like me, do not" x="27" y="-296"/>
+	
+  
+	<textfield text="go on the evil dance floor, if you're normal feel free to dance." x="181" y="-308"/>
+	
+  
+	<wall height="-386" width="-47" x="321" y="-156"/>
+	
+  
+	<boost height="41" width="-94" x="282" y="-536"/>
+	
+  
+	<boost height="49" width="-148" x="101" y="-555"/>
+	
+  
+	<boost height="51" width="104" x="91" y="-583"/>
+	
+  
+	<wall height="-340" width="-14" x="308" y="-504"/>
+	
+  
+	<trackwall height="43" width="96" x="95" y="-543"/>
+	
+  
+	<trackwall height="57" width="95" x="194" y="-588"/>
+	
+  
+	<trackwall height="38" width="-100" x="88" y="-582"/>
+	
+  
+	<wall height="19" width="-340" x="251" y="-998"/>
+	
+  
+	<trackwall height="115" width="55" x="238" y="-690"/>
+	
+  
+	<trackwall height="-131" width="-59" x="38" y="-574"/>
+	
+  
+	<trackblade x="265" y="-627"/>
+	
+  
+	<trackblade x="10" y="-633"/>
+	
+  
+	<boostfruit x="347" y="-921"/>
+	
+  
+	<boostfruit x="97" y="-1117"/>
+	
+  
+	<trackwall height="37" width="68" x="295" y="-1108"/>
+	
+  
+	<trackwall height="50" width="49" x="355" y="-1139"/>
+	
+  
+	<trackwall height="38" width="62" x="398" y="-1154"/>
+	
+  
+	<trackwall height="55" width="127" x="435" y="-1184"/>
+	
+  
+	<textfield text="cake pop sale! avoid it if you are insane, obnoxious, paranoid and health obsessed." x="197" y="-1400"/>
+	
+  
+	<textfield text="health obsessed. Though personally i like cake pops or cake anything." x="348" y="-1393"/>
+	
+  
+	<boostfruit x="356" y="-1230"/>
+	
+  
+	<boostfruit x="432" y="-1256"/>
+	
+  
+	<wall height="40" width="10" x="353" y="-1217"/>
+	
+  
+	<wall height="41" width="14" x="428" y="-1248"/>
+	
+  
+	<trackblade x="398" y="-1216"/>
+	
+  
+	<trackwall height="46" width="14" x="392" y="-1207"/>
+	
+  
+	<trackwall height="86" width="44" x="76" y="-1671"/>
+	
+  
+	<trackwall height="80" width="172" x="89" y="-1588"/>
+	
+  
+	<trackwall height="126" width="39" x="131" y="-1520"/>
+	
+  
+	<trackwall height="-66" width="33" x="146" y="-1573"/>
+	
+  
+	<textfield text="free alpaca rides!" x="211" y="-1742"/>
+	
+  
+	<boostfruit x="340" y="-1485"/>
+	
+  
+	<boostfruit x="337" y="-1776"/>
+	
+  
+	<goal height="110" width="213" x="256" y="-1939"/>
+	
+  
+	<trackwall height="74" width="-323" x="177" y="-1413"/>
+	
+  
+	<trackwall height="-99" width="-19" x="30" y="-1391"/>
+	
+  
+	<trackwall height="81" width="23" x="120" y="-1355"/>
+	
+  
+	<trackwall height="82" width="20" x="76" y="-1354"/>
+	
+  
+	<trackwall height="53" width="14" x="20" y="-1331"/>
+	
+  
+	<trackwall height="67" width="10" x="1" y="-1346"/>
+	
+  
+	<wall height="26" width="-297" x="292" y="-179"/>
+	
+  
+	<trackwall height="191" width="15" x="105" y="-992"/>
+	
+  
+	<trackwall height="80" width="79" x="88" y="-817"/>
+	
+  
+	<boostfruit x="52" y="-1694"/>
+	
+
+</level>

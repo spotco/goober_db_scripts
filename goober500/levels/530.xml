@@ -1,0 +1,290 @@
+<?xml version="1.0" ?>
+<level author="die" bg="1" name="die">
+	
+  
+	<wall height="46" width="292" x="132" y="293"/>
+	
+  
+	<wall height="-469" width="75" x="135" y="285"/>
+	
+  
+	<wall height="-465" width="67" x="346" y="286"/>
+	
+  
+	<bossactivate explode="no" height="170" hp="6" width="481" x="9" y="-424"/>
+	
+  
+	<boostfruit x="331" y="-131"/>
+	
+  
+	<boostfruit x="225" y="-127"/>
+	
+  
+	<boostfruit x="332" y="-163"/>
+	
+  
+	<boostfruit x="225" y="-165"/>
+	
+  
+	<boostfruit x="318" y="-184"/>
+	
+  
+	<boostfruit x="284" y="-168"/>
+	
+  
+	<boostfruit x="285" y="-190"/>
+	
+  
+	<boostfruit x="288" y="-194"/>
+	
+  
+	<boostfruit x="283" y="-236"/>
+	
+  
+	<boostfruit x="283" y="-288"/>
+	
+  
+	<boostfruit x="282" y="-324"/>
+	
+  
+	<boostfruit x="283" y="-324"/>
+	
+  
+	<boostfruit x="278" y="-407"/>
+	
+  
+	<boostfruit x="280" y="-422"/>
+	
+  
+	<boostfruit x="279" y="-457"/>
+	
+  
+	<boostfruit x="279" y="-468"/>
+	
+  
+	<boostfruit x="274" y="-508"/>
+	
+  
+	<boostfruit x="271" y="-540"/>
+	
+  
+	<boostfruit x="266" y="-579"/>
+	
+  
+	<boostfruit x="267" y="-630"/>
+	
+  
+	<bossactivate explode="no" height="358" hp="6" width="426" x="58" y="-898"/>
+	
+  
+	<boostfruit x="264" y="-479"/>
+	
+  
+	<boostfruit x="201" y="-532"/>
+	
+  
+	<boostfruit x="152" y="-581"/>
+	
+  
+	<boostfruit x="152" y="-583"/>
+	
+  
+	<boostfruit x="136" y="-722"/>
+	
+  
+	<boostfruit x="242" y="-712"/>
+	
+  
+	<boostfruit x="200" y="-693"/>
+	
+  
+	<boostfruit x="213" y="-630"/>
+	
+  
+	<boostfruit x="313" y="-712"/>
+	
+  
+	<boostfruit x="401" y="-588"/>
+	
+  
+	<boostfruit x="311" y="-579"/>
+	
+  
+	<boostfruit x="318" y="-642"/>
+	
+  
+	<boostfruit x="393" y="-688"/>
+	
+  
+	<boostfruit x="446" y="-709"/>
+	
+  
+	<boostfruit x="436" y="-912"/>
+	
+  
+	<boostfruit x="286" y="-857"/>
+	
+  
+	<boostfruit x="194" y="-802"/>
+	
+  
+	<boostfruit x="143" y="-834"/>
+	
+  
+	<boostfruit x="394" y="-813"/>
+	
+  
+	<boostfruit x="265" y="-933"/>
+	
+  
+	<boostfruit x="265" y="-992"/>
+	
+  
+	<boostfruit x="263" y="-1029"/>
+	
+  
+	<boostfruit x="263" y="-1039"/>
+	
+  
+	<boostfruit x="239" y="-1184"/>
+	
+  
+	<boostfruit x="256" y="-1136"/>
+	
+  
+	<wall height="113" width="35" x="85" y="-1202"/>
+	
+  
+	<wall height="120" width="32" x="173" y="-1209"/>
+	
+  
+	<wall height="16" width="105" x="90" y="-1098"/>
+	
+  
+	<goal height="31" width="57" x="119" y="-1129"/>
+	
+  
+	<boostfruit x="243" y="-527"/>
+	
+  
+	<boostfruit x="263" y="-524"/>
+	
+  
+	<boostfruit x="273" y="-523"/>
+	
+  
+	<boostfruit x="273" y="-515"/>
+	
+  
+	<boostfruit x="279" y="-504"/>
+	
+  
+	<boostfruit x="278" y="-488"/>
+	
+  
+	<boostfruit x="276" y="-459"/>
+	
+  
+	<boostfruit x="274" y="-453"/>
+	
+  
+	<boostfruit x="274" y="-441"/>
+	
+  
+	<boostfruit x="274" y="-422"/>
+	
+  
+	<boostfruit x="275" y="-413"/>
+	
+  
+	<boostfruit x="275" y="-396"/>
+	
+  
+	<boostfruit x="278" y="-386"/>
+	
+  
+	<boostfruit x="278" y="-364"/>
+	
+  
+	<boostfruit x="272" y="-350"/>
+	
+  
+	<boostfruit x="279" y="-331"/>
+	
+  
+	<boostfruit x="279" y="-312"/>
+	
+  
+	<boostfruit x="279" y="-282"/>
+	
+  
+	<boostfruit x="279" y="-510"/>
+	
+  
+	<boostfruit x="279" y="-495"/>
+	
+  
+	<boostfruit x="279" y="-480"/>
+	
+  
+	<boostfruit x="279" y="-460"/>
+	
+  
+	<boostfruit x="279" y="-440"/>
+	
+  
+	<boostfruit x="279" y="-425"/>
+	
+  
+	<boostfruit x="279" y="-415"/>
+	
+  
+	<boostfruit x="279" y="-395"/>
+	
+  
+	<boostfruit x="279" y="-385"/>
+	
+  
+	<boostfruit x="279" y="-370"/>
+	
+  
+	<boostfruit x="279" y="-355"/>
+	
+  
+	<boostfruit x="279" y="-340"/>
+	
+  
+	<boostfruit x="279" y="-330"/>
+	
+  
+	<boostfruit x="279" y="-315"/>
+	
+  
+	<boostfruit x="279" y="-300"/>
+	
+  
+	<boostfruit x="279" y="-285"/>
+	
+  
+	<boostfruit x="279" y="-275"/>
+	
+  
+	<boostfruit x="279" y="-265"/>
+	
+  
+	<boostfruit x="279" y="-250"/>
+	
+  
+	<boostfruit x="279" y="-235"/>
+	
+  
+	<boostfruit x="279" y="-220"/>
+	
+  
+	<boostfruit x="279" y="-215"/>
+	
+  
+	<boostfruit x="279" y="-205"/>
+	
+
+</level>

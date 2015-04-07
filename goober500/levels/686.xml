@@ -1,0 +1,347 @@
+<?xml version="1.0" ?>
+<level author="bobbob" bg="2" name="CAVEEXCAPE">
+	
+  
+	<wall height="60" width="172" x="329" y="289"/>
+	
+  
+	<wall height="76" width="121" x="1" y="257"/>
+	
+  
+	<wall height="64" width="93" x="50" y="195"/>
+	
+  
+	<wall height="67" width="111" x="392" y="221"/>
+	
+  
+	<wall height="43" width="70" x="37" y="152"/>
+	
+  
+	<wall height="-51" width="110" x="301" y="107"/>
+	
+  
+	<wall height="64" width="61" x="445" y="156"/>
+	
+  
+	<wall height="193" width="72" x="2" y="330"/>
+	
+  
+	<wall height="65" width="85" x="51" y="498"/>
+	
+  
+	<wall height="111" width="87" x="109" y="552"/>
+	
+  
+	<wall height="56" width="147" x="176" y="638"/>
+	
+  
+	<wall height="-127" width="93" x="301" y="659"/>
+	
+  
+	<wall height="51" width="85" x="393" y="540"/>
+	
+  
+	<wall height="-73" width="65" x="423" y="542"/>
+	
+  
+	<wall height="191" width="63" x="426" y="320"/>
+	
+  
+	<wall height="63" width="65" x="232" y="305"/>
+	
+  
+	<wall height="29" width="25" x="286" y="312"/>
+	
+  
+	<wall height="13" width="32" x="307" y="316"/>
+	
+  
+	<wall height="15" width="30" x="131" y="240"/>
+	
+  
+	<wall height="-506" width="36" x="3" y="246"/>
+	
+  
+	<wall height="-407" width="51" x="475" y="154"/>
+	
+  
+	<wall height="42" width="18" x="482" y="137"/>
+	
+  
+	<wall height="-425" width="-94" x="42" y="260"/>
+	
+  
+	<wall height="45" width="73" x="40" y="-167"/>
+	
+  
+	<wall height="86" width="51" x="91" y="-135"/>
+	
+  
+	<wall height="70" width="-89" x="475" y="-100"/>
+	
+  
+	<wall height="80" width="61" x="387" y="-39"/>
+	
+  
+	<wall height="44" width="-124" x="476" y="47"/>
+	
+  
+	<wall height="81" width="61" x="417" y="-6"/>
+	
+  
+	<track height="185" width="18" x="385" y="-297"/>
+	
+  
+	<track height="192" width="11" x="432" y="-304"/>
+	
+  
+	<trackwall height="24" width="82" x="379" y="-141"/>
+	
+  
+	<wall height="47" width="120" x="263" y="-306"/>
+	
+  
+	<wall height="33" width="60" x="446" y="-303"/>
+	
+  
+	<deathwall height="40" width="155" x="3" y="-301"/>
+	
+  
+	<deathwall height="-313" width="47" x="2" y="-292"/>
+	
+  
+	<wall height="44" width="66" x="1" y="-632"/>
+	
+  
+	<deathwall height="19" width="24" x="47" y="-581"/>
+	
+  
+	<deathwall height="18" width="21" x="54" y="-590"/>
+	
+  
+	<deathwall height="14" width="13" x="70" y="-604"/>
+	
+  
+	<deathwall height="26" width="16" x="67" y="-620"/>
+	
+  
+	<deathwall height="20" width="16" x="83" y="-613"/>
+	
+  
+	<deathwall height="18" width="16" x="78" y="-629"/>
+	
+  
+	<wall height="12" width="27" x="52" y="-313"/>
+	
+  
+	<wall height="16" width="33" x="113" y="-311"/>
+	
+  
+	<wall height="67" width="14" x="157" y="-302"/>
+	
+  
+	<wall height="85" width="10" x="50" y="-475"/>
+	
+  
+	<wall height="41" width="72" x="268" y="-345"/>
+	
+  
+	<wall height="10" width="103" x="133" y="-419"/>
+	
+  
+	<wall height="11" width="135" x="325" y="-499"/>
+	
+  
+	<wall height="33" width="29" x="442" y="-492"/>
+	
+  
+	<wall height="43" width="30" x="456" y="-470"/>
+	
+  
+	<wall height="29" width="24" x="480" y="-437"/>
+	
+  
+	<wall height="48" width="-31" x="186" y="-413"/>
+	
+  
+	<wall height="27" width="-26" x="160" y="-377"/>
+	
+  
+	<wall height="38" width="-23" x="141" y="-356"/>
+	
+  
+	<wall height="21" width="-14" x="126" y="-329"/>
+	
+  
+	<wall height="38" width="18" x="356" y="-490"/>
+	
+  
+	<wall height="78" width="31" x="390" y="-492"/>
+	
+  
+	<wall height="13" width="18" x="57" y="-461"/>
+	
+  
+	<wall height="18" width="17" x="73" y="-474"/>
+	
+  
+	<wall height="21" width="21" x="86" y="-489"/>
+	
+  
+	<wall height="37" width="29" x="91" y="-518"/>
+	
+  
+	<wall height="27" width="24" x="111" y="-534"/>
+	
+  
+	<wall height="19" width="16" x="129" y="-542"/>
+	
+  
+	<wall height="21" width="21" x="134" y="-559"/>
+	
+  
+	<wall height="31" width="106" x="89" y="-584"/>
+	
+  
+	<wall height="91" width="25" x="351" y="-590"/>
+	
+  
+	<wall height="108" width="28" x="432" y="-601"/>
+	
+  
+	<wall height="15" width="142" x="335" y="-616"/>
+	
+  
+	<textfield text="excape the CAVE!" x="71" y="81"/>
+	
+  
+	<textfield text="almost there" x="38" y="-713"/>
+	
+  
+	<wall height="61" width="19" x="5" y="-727"/>
+	
+  
+	<wall height="38" width="26" x="5" y="-761"/>
+	
+  
+	<wall height="10" width="64" x="3" y="-746"/>
+	
+  
+	<wall height="57" width="70" x="1" y="-803"/>
+	
+  
+	<wall height="63" width="51" x="48" y="-853"/>
+	
+  
+	<wall height="172" width="-125" x="115" y="-963"/>
+	
+  
+	<wall height="181" width="97" x="436" y="-935"/>
+	
+  
+	<wall height="125" width="67" x="469" y="-793"/>
+	
+  
+	<wall height="102" width="57" x="481" y="-685"/>
+	
+  
+	<wall height="27" width="17" x="489" y="-588"/>
+	
+  
+	<wall height="108" width="190" x="0" y="-1018"/>
+	
+  
+	<wall height="119" width="199" x="355" y="-1033"/>
+	
+  
+	<wall height="94" width="184" x="338" y="-1110"/>
+	
+  
+	<wall height="119" width="218" x="2" y="-1130"/>
+	
+  
+	<wall height="89" width="217" x="329" y="-1178"/>
+	
+  
+	<wall height="120" width="221" x="2" y="-1234"/>
+	
+  
+	<wall height="59" width="85" x="155" y="-1290"/>
+	
+  
+	<wall height="118" width="203" x="310" y="-1289"/>
+	
+  
+	<wall height="40" width="89" x="306" y="-1327"/>
+	
+  
+	<goal height="57" width="134" x="14" y="-1305"/>
+	
+  
+	<boostfruit x="264" y="-1117"/>
+	
+  
+	<boostfruit x="270" y="-909"/>
+	
+  
+	<boostfruit x="270" y="-712"/>
+	
+  
+	<wall height="25" width="32" x="254" y="-704"/>
+	
+  
+	<wall height="15" width="27" x="259" y="-896"/>
+	
+  
+	<wall height="16" width="-39" x="344" y="-877"/>
+	
+  
+	<wall height="16" width="30" x="337" y="-890"/>
+	
+  
+	<wall height="28" width="24" x="366" y="-914"/>
+	
+  
+	<wall height="16" width="31" x="271" y="-888"/>
+	
+  
+	<wall height="22" width="27" x="291" y="-874"/>
+	
+  
+	<wall height="35" width="20" x="307" y="-864"/>
+	
+  
+	<wall height="36" width="-23" x="319" y="-836"/>
+	
+  
+	<wall height="23" width="39" x="296" y="-800"/>
+	
+  
+	<wall height="45" width="-28" x="318" y="-788"/>
+	
+  
+	<wall height="36" width="24" x="290" y="-743"/>
+	
+  
+	<wall height="23" width="-26" x="305" y="-714"/>
+	
+  
+	<wall height="38" width="45" x="213" y="-1097"/>
+	
+  
+	<wall height="26" width="19" x="248" y="-1115"/>
+	
+  
+	<wall height="11" width="33" x="288" y="99"/>
+	
+  
+	<wall height="13" width="53" x="282" y="105"/>
+	
+  
+	<wall height="14" width="82" x="276" y="113"/>
+	
+  
+	<wall height="25" width="101" x="331" y="103"/>
+	
+
+</level>

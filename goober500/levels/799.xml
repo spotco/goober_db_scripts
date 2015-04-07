@@ -1,0 +1,344 @@
+<?xml version="1.0" ?>
+<level author="catpakoo" bg="1" name="glitches">
+	
+  
+	<wall height="86" width="336" x="129" y="364"/>
+	
+  
+	<wall height="132" width="141" x="1" y="253"/>
+	
+  
+	<wall height="114" width="185" x="68" y="174"/>
+	
+  
+	<wall height="138" width="-91" x="400" y="291"/>
+	
+  
+	<wall height="-131" width="-202" x="358" y="294"/>
+	
+  
+	<wall height="163" width="159" x="194" y="240"/>
+	
+  
+	<wall height="-250" width="-255" x="399" y="371"/>
+	
+  
+	<wall height="-281" width="-409" x="281" y="359"/>
+	
+  
+	<wall height="-628" width="-759" x="482" y="483"/>
+	
+  
+	<wall height="-676" width="-927" x="491" y="476"/>
+	
+  
+	<boostfruit x="310" y="-343"/>
+	
+  
+	<boostfruit x="314" y="-326"/>
+	
+  
+	<boostfruit x="253" y="-288"/>
+	
+  
+	<boostfruit x="169" y="-275"/>
+	
+  
+	<boostfruit x="296" y="-313"/>
+	
+  
+	<boostfruit x="296" y="-313"/>
+	
+  
+	<boostfruit x="296" y="-313"/>
+	
+  
+	<boostfruit x="282" y="-303"/>
+	
+  
+	<boostfruit x="269" y="-295"/>
+	
+  
+	<boostfruit x="237" y="-285"/>
+	
+  
+	<boostfruit x="209" y="-271"/>
+	
+  
+	<boostfruit x="206" y="-271"/>
+	
+  
+	<boostfruit x="199" y="-271"/>
+	
+  
+	<boostfruit x="201" y="-271"/>
+	
+  
+	<boostfruit x="237" y="-284"/>
+	
+  
+	<boostfruit x="213" y="-277"/>
+	
+  
+	<boostfruit x="164" y="-272"/>
+	
+  
+	<boostfruit x="222" y="-279"/>
+	
+  
+	<boostfruit x="170" y="-277"/>
+	
+  
+	<boostfruit x="201" y="-276"/>
+	
+  
+	<boostfruit x="214" y="-278"/>
+	
+  
+	<boostfruit x="215" y="-278"/>
+	
+  
+	<boostfruit x="180" y="-272"/>
+	
+  
+	<boostfruit x="183" y="-272"/>
+	
+  
+	<boostfruit x="187" y="-272"/>
+	
+  
+	<boostfruit x="194" y="-274"/>
+	
+  
+	<boostfruit x="136" y="-388"/>
+	
+  
+	<boostfruit x="252" y="-493"/>
+	
+  
+	<boostfruit x="229" y="-455"/>
+	
+  
+	<boostfruit x="234" y="-467"/>
+	
+  
+	<boostfruit x="235" y="-468"/>
+	
+  
+	<boostfruit x="238" y="-473"/>
+	
+  
+	<boostfruit x="241" y="-481"/>
+	
+  
+	<boostfruit x="241" y="-481"/>
+	
+  
+	<boostfruit x="242" y="-482"/>
+	
+  
+	<boostfruit x="257" y="-433"/>
+	
+  
+	<boostfruit x="257" y="-432"/>
+	
+  
+	<boostfruit x="257" y="-435"/>
+	
+  
+	<boostfruit x="250" y="-450"/>
+	
+  
+	<boostfruit x="250" y="-450"/>
+	
+  
+	<boostfruit x="247" y="-455"/>
+	
+  
+	<boostfruit x="247" y="-455"/>
+	
+  
+	<boostfruit x="50" y="-436"/>
+	
+  
+	<boostfruit x="51" y="-438"/>
+	
+  
+	<boostfruit x="72" y="-459"/>
+	
+  
+	<boostfruit x="92" y="-472"/>
+	
+  
+	<boostfruit x="114" y="-472"/>
+	
+  
+	<boostfruit x="143" y="-451"/>
+	
+  
+	<boostfruit x="171" y="-439"/>
+	
+  
+	<textfield text="if you die, look at the bottom wall immediatley, the left side" x="329" y="-333"/>
+	
+  
+	<bossactivate explode="no" height="89" hp="6" width="36" x="57" y="123"/>
+	
+  
+	<bossactivate explode="no" height="89" hp="6" width="38" x="140" y="119"/>
+	
+  
+	<bossactivate explode="no" height="26" hp="6" width="129" x="41" y="255"/>
+	
+  
+	<bossactivate explode="no" height="67" hp="6" width="14" x="28" y="207"/>
+	
+  
+	<bossactivate explode="no" height="25" hp="6" width="38" x="42" y="70"/>
+	
+  
+	<bossactivate explode="no" height="26" hp="6" width="26" x="72" y="83"/>
+	
+  
+	<bossactivate explode="no" height="-30" hp="6" width="15" x="123" y="116"/>
+	
+  
+	<bossactivate explode="no" height="-17" hp="6" width="14" x="138" y="86"/>
+	
+  
+	<bossactivate explode="no" height="-11" hp="6" width="14" x="152" y="80"/>
+	
+  
+	<boostfruit x="65" y="-32"/>
+	
+  
+	<boostfruit x="64" y="-21"/>
+	
+  
+	<boostfruit x="64" y="-6"/>
+	
+  
+	<boostfruit x="64" y="5"/>
+	
+  
+	<boostfruit x="65" y="7"/>
+	
+  
+	<boostfruit x="103" y="14"/>
+	
+  
+	<boostfruit x="106" y="14"/>
+	
+  
+	<boostfruit x="106" y="14"/>
+	
+  
+	<boostfruit x="101" y="13"/>
+	
+  
+	<boostfruit x="92" y="13"/>
+	
+  
+	<boostfruit x="89" y="13"/>
+	
+  
+	<boostfruit x="86" y="13"/>
+	
+  
+	<boostfruit x="84" y="13"/>
+	
+  
+	<boostfruit x="82" y="13"/>
+	
+  
+	<boostfruit x="148" y="-7"/>
+	
+  
+	<boostfruit x="158" y="2"/>
+	
+  
+	<boostfruit x="152" y="16"/>
+	
+  
+	<boostfruit x="131" y="19"/>
+	
+  
+	<boostfruit x="127" y="15"/>
+	
+  
+	<boostfruit x="127" y="2"/>
+	
+  
+	<boostfruit x="133" y="-12"/>
+	
+  
+	<boostfruit x="179" y="-15"/>
+	
+  
+	<boostfruit x="180" y="13"/>
+	
+  
+	<boostfruit x="179" y="15"/>
+	
+  
+	<boostfruit x="178" y="21"/>
+	
+  
+	<boostfruit x="192" y="21"/>
+	
+  
+	<boostfruit x="204" y="21"/>
+	
+  
+	<boostfruit x="180" y="20"/>
+	
+  
+	<boostfruit x="177" y="17"/>
+	
+  
+	<boostfruit x="177" y="-4"/>
+	
+  
+	<boostfruit x="177" y="-4"/>
+	
+  
+	<boostfruit x="177" y="-4"/>
+	
+  
+	<wall height="41" width="91" x="294" y="-697"/>
+	
+  
+	<wall height="-50" width="-85" x="143" y="-800"/>
+	
+  
+	<trackblade x="52" y="-849"/>
+	
+  
+	<goal height="63" width="132" x="71" y="-1026"/>
+	
+  
+	<wall height="59" width="40" x="115" y="-754"/>
+	
+  
+	<bossactivate explode="no" height="74" hp="6" width="17" x="430" y="-156"/>
+	
+  
+	<bossactivate explode="no" height="22" hp="6" width="40" x="440" y="-126"/>
+	
+  
+	<bossactivate explode="no" height="62" hp="6" width="19" x="466" y="-155"/>
+	
+  
+	<bossactivate explode="no" height="14" hp="6" width="57" x="428" y="-67"/>
+	
+  
+	<bossactivate explode="no" height="71" hp="6" width="23" x="456" y="-62"/>
+	
+  
+	<bossactivate explode="no" height="24" hp="6" width="63" x="435" y="-8"/>
+	
+  
+	<bossactivate explode="no" height="26" hp="6" width="71" x="426" y="-74"/>
+	
+
+</level>

@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<level author="aslan123" bg="1" name="aslan123">
+	
+  
+	<wall height="196" width="269" x="114" y="286"/>
+	
+  
+	<wall height="-293" width="48" x="388" y="456"/>
+	
+  
+	<goal height="50" width="-446" x="495" y="-479"/>
+	
+  
+	<boost height="-162" width="18" x="478" y="163"/>
+	
+  
+	<boost height="-136" width="-256" x="473" y="-17"/>
+	
+  
+	<wall height="-117" width="30" x="137" y="-46"/>
+	
+  
+	<boostfruit x="149" y="-173"/>
+	
+  
+	<wall height="-117" width="24" x="58" y="-152"/>
+	
+  
+	<boostfruit x="66" y="-285"/>
+	
+  
+	<wall height="24" width="315" x="151" y="-359"/>
+	
+  
+	<textfield text="GOOBER, i think you'll know all the parts of this game." x="332" y="91"/>
+	
+  
+	<textfield text="yay!" x="154" y="-295"/>
+	
+
+</level>

@@ -1,0 +1,146 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="malltrans">
+	
+  
+	<wall height="58" width="-594" x="464" y="379"/>
+	
+  
+	<boostfruit x="174" y="269"/>
+	
+  
+	<track height="95" width="481" x="15" y="135"/>
+	
+  
+	<trackwall height="70" width="280" x="114" y="104"/>
+	
+  
+	<bossactivate height="197" hp="6" width="63" x="461" y="-216"/>
+	
+  
+	<wall height="65" width="171" x="328" y="15"/>
+	
+  
+	<wall height="34" width="113" x="81" y="-78"/>
+	
+  
+	<wall height="57" width="74" x="327" y="-202"/>
+	
+  
+	<wall height="-37" width="-243" x="182" y="-237"/>
+	
+  
+	<bossactivate explode="no" height="-219" hp="6" width="-239" x="74" y="63"/>
+	
+  
+	<textfield text="elevator, escolator or stairs?" x="263" y="-520"/>
+	
+  
+	<wall height="62" width="346" x="152" y="-543"/>
+	
+  
+	<activatetrackwall height="-75" width="-194" x="141" y="-607"/>
+	
+  
+	<track height="158" width="39" x="296" y="-678"/>
+	
+  
+	<track height="212" width="54" x="219" y="-811"/>
+	
+  
+	<track height="202" width="26" x="177" y="-886"/>
+	
+  
+	<track height="209" width="13" x="257" y="-755"/>
+	
+  
+	<trackwall height="45" width="36" x="290" y="-627"/>
+	
+  
+	<trackwall height="52" width="29" x="249" y="-673"/>
+	
+  
+	<trackwall height="51" width="29" x="212" y="-719"/>
+	
+  
+	<trackwall height="50" width="34" x="169" y="-792"/>
+	
+  
+	<deathwall height="416" width="147" x="-49" y="-1844"/>
+	
+  
+	<wall height="71" width="63" x="363" y="-613"/>
+	
+  
+	<wall height="99" width="62" x="411" y="-641"/>
+	
+  
+	<wall height="155" width="72" x="449" y="-693"/>
+	
+  
+	<wall height="87" width="51" x="484" y="-743"/>
+	
+  
+	<wall height="-48" width="-62" x="455" y="-765"/>
+	
+  
+	<wall height="-64" width="-71" x="426" y="-817"/>
+	
+  
+	<wall height="-55" width="-71" x="390" y="-881"/>
+	
+  
+	<wall height="59" width="75" x="390" y="-1044"/>
+	
+  
+	<wall height="58" width="63" x="450" y="-1111"/>
+	
+  
+	<wall height="37" width="40" x="480" y="-1154"/>
+	
+  
+	<goal height="61" width="84" x="390" y="-1622"/>
+	
+  
+	<boostfruit x="82" y="-395"/>
+	
+  
+	<wall height="-65" width="-76" x="436" y="-1202"/>
+	
+  
+	<wall height="-93" width="-108" x="357" y="-1295"/>
+	
+  
+	<wall height="-69" width="-111" x="302" y="-1385"/>
+	
+  
+	<track height="183" width="35" x="241" y="-992"/>
+	
+  
+	<track height="238" width="22" x="293" y="-1066"/>
+	
+  
+	<trackwall height="64" width="34" x="234" y="-932"/>
+	
+  
+	<trackwall height="85" width="44" x="279" y="-992"/>
+	
+  
+	<trackblade x="229" y="-1094"/>
+	
+  
+	<trackblade x="249" y="-1103"/>
+	
+  
+	<trackblade x="260" y="-1103"/>
+	
+  
+	<trackblade x="278" y="-1100"/>
+	
+  
+	<trackblade x="303" y="-1099"/>
+	
+  
+	<trackblade x="313" y="-1097"/>
+	
+
+</level>

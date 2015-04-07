@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="2" name="nivel12">
+	
+  
+	<wall height="26" width="155" x="201" y="217"/>
+	
+  
+	<wall height="223" width="31" x="65" y="49"/>
+	
+  
+	<wall height="136" width="23" x="152" y="-42"/>
+	
+  
+	<wall height="21" width="45" x="235" y="-37"/>
+	
+  
+	<wall height="26" width="401" x="8" y="-197"/>
+	
+  
+	<boostfruit height="28" width="24" x="414" y="17"/>
+	
+  
+	<laserlauncher dir="-3" x="262" y="86"/>
+	
+  
+	<wall height="30" width="217" x="165" y="323"/>
+	
+  
+	<rocketlauncher height="20" width="20" x="255" y="-404"/>
+	
+  
+	<track height="321" width="47" x="84" y="-544"/>
+	
+  
+	<trackwall height="115" width="29" x="63" y="-423"/>
+	
+  
+	<activatetrackwall height="24" width="204" x="151" y="-484"/>
+	
+  
+	<deathwall height="21" width="373" x="32" y="-665"/>
+	
+  
+	<boostfruit x="438" y="-430"/>
+	
+  
+	<boost height="102" width="80" x="410" y="-729"/>
+	
+  
+	<boost height="184" width="76" x="20" y="-1192"/>
+	
+  
+	<deathwall height="95" width="26" x="196" y="-742"/>
+	
+  
+	<deathwall height="78" width="23" x="351" y="-730"/>
+	
+  
+	<deathwall height="35" width="304" x="172" y="-972"/>
+	
+  
+	<deathwall height="183" width="34" x="142" y="-1174"/>
+	
+  
+	<deathwall height="227" width="30" x="453" y="-1186"/>
+	
+  
+	<goal height="114" width="101" x="390" y="-1455"/>
+	
+  
+	<wall height="20" width="334" x="150" y="-933"/>
+	
+  
+	<track height="52" width="326" x="18" y="-1375"/>
+	
+  
+	<trackwall height="44" width="152" x="129" y="-1395"/>
+	
+  
+	<rocketlauncher x="331" y="-1173"/>
+	
+  
+	<boostfruit x="76" y="-807"/>
+	
+  
+	<boost height="114" width="77" x="247" y="-787"/>
+	
+  
+	<boost height="115" width="69" x="97" y="-794"/>
+	
+
+</level>

@@ -1,0 +1,389 @@
+<?xml version="1.0" ?>
+<level author="catpakoo" bg="1" name="hawuthaha">
+	
+  
+	<wall height="46" width="308" x="126" y="419"/>
+	
+  
+	<wall height="-232" width="75" x="134" y="426"/>
+	
+  
+	<wall height="39" width="281" x="142" y="182"/>
+	
+  
+	<wall height="189" width="16" x="409" y="182"/>
+	
+  
+	<wall height="26" width="66" x="455" y="388"/>
+	
+  
+	<wall height="65" width="35" x="414" y="266"/>
+	
+  
+	<wall height="24" width="52" x="464" y="190"/>
+	
+  
+	<wall height="30" width="43" x="364" y="100"/>
+	
+  
+	<wall height="28" width="58" x="441" y="53"/>
+	
+  
+	<wall height="-36" width="-118" x="356" y="38"/>
+	
+  
+	<goal height="22" width="140" x="186" y="-54"/>
+	
+  
+	<rocketlauncher x="66" y="336"/>
+	
+  
+	<rocketlauncher x="96" y="184"/>
+	
+  
+	<rocketlauncher x="76" y="253"/>
+	
+  
+	<rocketlauncher x="77" y="272"/>
+	
+  
+	<rocketlauncher x="72" y="282"/>
+	
+  
+	<rocketlauncher x="120" y="394"/>
+	
+  
+	<rocketlauncher x="99" y="458"/>
+	
+  
+	<rocketlauncher x="83" y="478"/>
+	
+  
+	<rocketlauncher x="74" y="411"/>
+	
+  
+	<rocketlauncher x="74" y="376"/>
+	
+  
+	<rocketlauncher x="76" y="341"/>
+	
+  
+	<rocketlauncher x="75" y="234"/>
+	
+  
+	<rocketlauncher x="91" y="213"/>
+	
+  
+	<rocketlauncher x="115" y="177"/>
+	
+  
+	<rocketlauncher x="116" y="177"/>
+	
+  
+	<rocketlauncher x="98" y="240"/>
+	
+  
+	<rocketlauncher x="92" y="277"/>
+	
+  
+	<rocketlauncher x="104" y="307"/>
+	
+  
+	<rocketlauncher x="105" y="307"/>
+	
+  
+	<rocketlauncher x="106" y="271"/>
+	
+  
+	<rocketlauncher x="230" y="113"/>
+	
+  
+	<bossactivate explode="no" height="181" hp="6" width="172" x="198" y="228"/>
+	
+  
+	<laserlauncher dir="3" x="91" y="90"/>
+	
+  
+	<laserlauncher dir="3" x="142" y="105"/>
+	
+  
+	<laserlauncher dir="3" x="186" y="154"/>
+	
+  
+	<laserlauncher dir="3" x="111" y="146"/>
+	
+  
+	<laserlauncher dir="3" x="79" y="149"/>
+	
+  
+	<laserlauncher dir="3" x="69" y="140"/>
+	
+  
+	<laserlauncher dir="3" x="65" y="136"/>
+	
+  
+	<laserlauncher dir="3" x="53" y="117"/>
+	
+  
+	<laserlauncher dir="3" x="52" y="112"/>
+	
+  
+	<laserlauncher dir="3" x="47" y="107"/>
+	
+  
+	<laserlauncher dir="3" x="18" y="308"/>
+	
+  
+	<laserlauncher dir="3" x="42" y="231"/>
+	
+  
+	<laserlauncher dir="3" x="42" y="215"/>
+	
+  
+	<laserlauncher dir="3" x="42" y="209"/>
+	
+  
+	<laserlauncher dir="3" x="41" y="183"/>
+	
+  
+	<laserlauncher dir="3" x="36" y="163"/>
+	
+  
+	<laserlauncher dir="3" x="34" y="159"/>
+	
+  
+	<laserlauncher dir="3" x="5" y="435"/>
+	
+  
+	<laserlauncher dir="3" x="14" y="451"/>
+	
+  
+	<laserlauncher dir="3" x="31" y="458"/>
+	
+  
+	<laserlauncher dir="3" x="70" y="473"/>
+	
+  
+	<laserlauncher dir="3" x="95" y="477"/>
+	
+  
+	<laserlauncher dir="3" x="108" y="479"/>
+	
+  
+	<laserlauncher dir="3" x="130" y="482"/>
+	
+  
+	<laserlauncher dir="3" x="130" y="482"/>
+	
+  
+	<laserlauncher dir="3" x="101" y="481"/>
+	
+  
+	<laserlauncher dir="3" x="36" y="407"/>
+	
+  
+	<laserlauncher dir="3" x="34" y="378"/>
+	
+  
+	<laserlauncher dir="3" x="39" y="354"/>
+	
+  
+	<laserlauncher dir="3" x="54" y="271"/>
+	
+  
+	<laserlauncher dir="3" x="48" y="233"/>
+	
+  
+	<laserlauncher dir="3" x="45" y="221"/>
+	
+  
+	<laserlauncher dir="3" x="29" y="248"/>
+	
+  
+	<laserlauncher dir="3" x="33" y="313"/>
+	
+  
+	<laserlauncher dir="3" x="40" y="306"/>
+	
+  
+	<laserlauncher dir="3" x="87" y="321"/>
+	
+  
+	<laserlauncher dir="3" x="99" y="332"/>
+	
+  
+	<laserlauncher dir="3" x="106" y="341"/>
+	
+  
+	<laserlauncher dir="3" x="174" y="126"/>
+	
+  
+	<laserlauncher dir="3" x="174" y="126"/>
+	
+  
+	<laserlauncher dir="3" x="185" y="121"/>
+	
+  
+	<laserlauncher dir="3" x="263" y="122"/>
+	
+  
+	<laserlauncher dir="3" x="264" y="129"/>
+	
+  
+	<laserlauncher dir="3" x="262" y="138"/>
+	
+  
+	<laserlauncher dir="3" x="259" y="147"/>
+	
+  
+	<laserlauncher dir="3" x="256" y="146"/>
+	
+  
+	<laserlauncher dir="3" x="241" y="116"/>
+	
+  
+	<laserlauncher dir="3" x="226" y="106"/>
+	
+  
+	<laserlauncher dir="3" x="210" y="98"/>
+	
+  
+	<laserlauncher dir="3" x="195" y="96"/>
+	
+  
+	<laserlauncher dir="3" x="138" y="107"/>
+	
+  
+	<laserlauncher dir="3" x="121" y="122"/>
+	
+  
+	<laserlauncher dir="3" x="80" y="161"/>
+	
+  
+	<laserlauncher dir="3" x="71" y="233"/>
+	
+  
+	<laserlauncher dir="3" x="75" y="295"/>
+	
+  
+	<laserlauncher dir="3" x="65" y="353"/>
+	
+  
+	<laserlauncher dir="3" x="66" y="372"/>
+	
+  
+	<laserlauncher dir="3" x="72" y="337"/>
+	
+  
+	<laserlauncher dir="3" x="80" y="204"/>
+	
+  
+	<laserlauncher dir="3" x="76" y="158"/>
+	
+  
+	<laserlauncher dir="3" x="51" y="312"/>
+	
+  
+	<laserlauncher dir="3" x="59" y="340"/>
+	
+  
+	<laserlauncher dir="3" x="70" y="266"/>
+	
+  
+	<laserlauncher dir="3" x="71" y="242"/>
+	
+  
+	<laserlauncher dir="3" x="71" y="242"/>
+	
+  
+	<laserlauncher dir="3" x="66" y="284"/>
+	
+  
+	<laserlauncher dir="3" x="71" y="332"/>
+	
+  
+	<laserlauncher dir="3" x="71" y="341"/>
+	
+  
+	<laserlauncher dir="3" x="70" y="359"/>
+	
+  
+	<laserlauncher dir="3" x="70" y="365"/>
+	
+  
+	<laserlauncher dir="3" x="70" y="395"/>
+	
+  
+	<laserlauncher dir="3" x="81" y="439"/>
+	
+  
+	<laserlauncher dir="3" x="81" y="445"/>
+	
+  
+	<laserlauncher dir="3" x="82" y="462"/>
+	
+  
+	<laserlauncher dir="3" x="69" y="412"/>
+	
+  
+	<laserlauncher dir="3" x="46" y="317"/>
+	
+  
+	<laserlauncher dir="3" x="50" y="230"/>
+	
+  
+	<laserlauncher dir="3" x="61" y="192"/>
+	
+  
+	<laserlauncher dir="3" x="69" y="177"/>
+	
+  
+	<laserlauncher dir="3" x="72" y="179"/>
+	
+  
+	<laserlauncher dir="3" x="76" y="252"/>
+	
+  
+	<laserlauncher dir="3" x="79" y="391"/>
+	
+  
+	<laserlauncher dir="3" x="73" y="352"/>
+	
+  
+	<laserlauncher dir="3" x="81" y="241"/>
+	
+  
+	<laserlauncher dir="3" x="96" y="216"/>
+	
+  
+	<laserlauncher dir="3" x="109" y="188"/>
+	
+  
+	<laserlauncher dir="3" x="120" y="176"/>
+	
+  
+	<laserlauncher dir="3" x="126" y="173"/>
+	
+  
+	<laserlauncher dir="3" x="126" y="173"/>
+	
+  
+	<laserlauncher dir="3" x="88" y="207"/>
+	
+  
+	<laserlauncher dir="3" x="58" y="296"/>
+	
+  
+	<laserlauncher dir="3" x="43" y="381"/>
+	
+  
+	<laserlauncher dir="3" x="41" y="427"/>
+	
+  
+	<laserlauncher dir="3" x="49" y="286"/>
+	
+  
+	<goal height="13" width="22" x="381" y="227"/>
+	
+
+</level>

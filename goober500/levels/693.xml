@@ -1,0 +1,218 @@
+<?xml version="1.0" ?>
+<level author="nohambob" bg="1" name="cavelevelone">
+	
+  
+	<wall height="33" width="82" x="166" y="272"/>
+	
+  
+	<wall height="51" width="66" x="247" y="285"/>
+	
+  
+	<wall height="73" width="181" x="65" y="316"/>
+	
+  
+	<wall height="15" width="187" x="61" y="301"/>
+	
+  
+	<wall height="103" width="252" x="244" y="334"/>
+	
+  
+	<wall height="122" width="256" x="0" y="386"/>
+	
+  
+	<wall height="138" width="247" x="257" y="437"/>
+	
+  
+	<wall height="139" width="434" x="24" y="443"/>
+	
+  
+	<wall height="451" width="27" x="495" y="-32"/>
+	
+  
+	<wall height="46" width="98" x="0" y="-63"/>
+	
+  
+	<wall height="46" width="-71" x="67" y="-20"/>
+	
+  
+	<wall height="31" width="-49" x="40" y="21"/>
+	
+  
+	<wall height="47" width="175" x="2" y="145"/>
+	
+  
+	<wall height="38" width="74" x="113" y="183"/>
+	
+  
+	<wall height="25" width="50" x="229" y="312"/>
+	
+  
+	<wall height="30" width="85" x="354" y="140"/>
+	
+  
+	<wall height="26" width="82" x="326" y="166"/>
+	
+  
+	<wall height="27" width="105" x="398" y="117"/>
+	
+  
+	<wall height="62" width="108" x="375" y="271"/>
+	
+  
+	<wall height="80" width="75" x="407" y="257"/>
+	
+  
+	<wall height="300" width="-45" x="1" y="-362"/>
+	
+  
+	<wall height="27" width="90" x="44" y="118"/>
+	
+  
+	<wall height="45" width="146" x="251" y="10"/>
+	
+  
+	<wall height="29" width="70" x="354" y="53"/>
+	
+  
+	<wall height="24" width="51" x="409" y="80"/>
+	
+  
+	<wall height="16" width="-36" x="453" y="102"/>
+	
+  
+	<wall height="18" width="126" x="8" y="-219"/>
+	
+  
+	<wall height="49" width="86" x="131" y="-203"/>
+	
+  
+	<wall height="45" width="97" x="213" y="-157"/>
+	
+  
+	<wall height="82" width="-64" x="18" y="-209"/>
+	
+  
+	<wall height="61" width="-82" x="59" y="-200"/>
+	
+  
+	<wall height="22" width="-59" x="65" y="-204"/>
+	
+  
+	<wall height="13" width="51" x="133" y="-210"/>
+	
+  
+	<wall height="14" width="93" x="216" y="-170"/>
+	
+  
+	<wall height="40" width="87" x="215" y="-163"/>
+	
+  
+	<wall height="50" width="87" x="220" y="-164"/>
+	
+  
+	<wall height="49" width="53" x="298" y="-330"/>
+	
+  
+	<trackwall height="113" width="48" x="1" y="-332"/>
+	
+  
+	<trackwall height="199" width="47" x="3" y="-530"/>
+	
+  
+	<wall height="53" width="118" x="350" y="-381"/>
+	
+  
+	<wall height="40" width="-106" x="496" y="-512"/>
+	
+  
+	<wall height="21" width="-35" x="497" y="-506"/>
+	
+  
+	<wall height="29" width="118" x="1" y="-557"/>
+	
+  
+	<wall height="12" width="14" x="218" y="-515"/>
+	
+  
+	<wall height="416" width="-111" x="1" y="-1534"/>
+	
+  
+	<wall height="384" width="-110" x="1" y="-1891"/>
+	
+  
+	<wall height="54" width="157" x="201" y="-1681"/>
+	
+  
+	<wall height="50" width="153" x="348" y="-1728"/>
+	
+  
+	<wall height="75" width="-107" x="104" y="-1874"/>
+	
+  
+	<wall height="80" width="-88" x="72" y="-1947"/>
+	
+  
+	<wall height="64" width="87" x="434" y="-1972"/>
+	
+  
+	<wall height="46" width="62" x="470" y="-1916"/>
+	
+  
+	<wall height="88" width="-172" x="150" y="-2031"/>
+	
+  
+	<wall height="27" width="-37" x="107" y="-1944"/>
+	
+  
+	<wall height="94" width="110" x="395" y="-2065"/>
+	
+  
+	<wall height="76" width="-178" x="171" y="-2103"/>
+	
+  
+	<wall height="61" width="-47" x="0" y="-1118"/>
+	
+  
+	<wall height="401" width="-102" x="1" y="-1119"/>
+	
+  
+	<textfield text="excape the cave and find your village!!!" x="203" y="108"/>
+	
+  
+	<wall height="83" width="-24" x="1" y="-718"/>
+	
+  
+	<goal height="12" width="13" x="400" y="-1739"/>
+	
+  
+	<textfield text="end of part one." x="287" y="-1806"/>
+	
+  
+	<wall height="-133" width="149" x="16" y="-1992"/>
+	
+  
+	<wall height="96" width="214" x="4" y="-2204"/>
+	
+  
+	<wall height="73" width="145" x="202" y="-2198"/>
+	
+  
+	<wall height="87" width="170" x="334" y="-2211"/>
+	
+  
+	<wall height="90" width="69" x="450" y="-2143"/>
+	
+  
+	<boostfruit x="99" y="-1681"/>
+	
+  
+	<boostfruit x="250" y="-1231"/>
+	
+  
+	<trackwall height="16" width="50" x="201" y="-505"/>
+	
+  
+	<activatetrackwall height="42" width="71" x="59" y="-183"/>
+	
+
+</level>

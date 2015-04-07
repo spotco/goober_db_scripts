@@ -1,0 +1,137 @@
+<?xml version="1.0" ?>
+<level author="Darkoman043" bg="1" name="Void">
+	
+  
+	<wall height="46" width="509" x="-5" y="273"/>
+	
+  
+	<activatetrackwall height="251" width="105" x="400" y="20"/>
+	
+  
+	<activatetrackwall height="255" width="176" x="0" y="20"/>
+	
+  
+	<activatetrackwall height="17" width="58" x="335" y="168"/>
+	
+  
+	<wall height="46" width="398" x="0" y="-279"/>
+	
+  
+	<trackwall height="259" width="-60" x="48" y="-531"/>
+	
+  
+	<track height="14" width="380" x="22" y="-411"/>
+	
+  
+	<track height="250" width="23" x="213" y="-536"/>
+	
+  
+	<trackwall height="29" width="207" x="121" y="-543"/>
+	
+  
+	<trackwall height="28" width="161" x="145" y="-308"/>
+	
+  
+	<trackwall height="58" width="48" x="195" y="-441"/>
+	
+  
+	<boost height="203" width="104" x="179" y="-816"/>
+	
+  
+	<trackwall height="40" width="166" x="17" y="-920"/>
+	
+  
+	<trackwall height="144" width="48" x="4" y="-1060"/>
+	
+  
+	<trackwall height="47" width="46" x="94" y="-1115"/>
+	
+  
+	<trackwall height="22" width="111" x="70" y="-1054"/>
+	
+  
+	<track height="199" width="23" x="107" y="-1095"/>
+	
+  
+	<track height="14" width="197" x="31" y="-1012"/>
+	
+  
+	<trackwall height="23" width="102" x="190" y="-1020"/>
+	
+  
+	<boost height="167" width="87" x="197" y="-1239"/>
+	
+  
+	<boost height="228" width="99" x="189" y="-1461"/>
+	
+  
+	<boost height="-12" width="15" x="23" y="-1204"/>
+	
+  
+	<trackwall height="64" width="57" x="89" y="-1518"/>
+	
+  
+	<trackwall height="88" width="29" x="87" y="-1766"/>
+	
+  
+	<trackwall height="29" width="221" x="10" y="-1620"/>
+	
+  
+	<trackwall height="88" width="31" x="21" y="-1712"/>
+	
+  
+	<track height="265" width="18" x="104" y="-1737"/>
+	
+  
+	<track height="14" width="211" x="32" y="-1682"/>
+	
+  
+	<trackwall height="13" width="104" x="232" y="-1685"/>
+	
+  
+	<boost height="364" width="62" x="139" y="-1973"/>
+	
+  
+	<trackwall height="24" width="184" x="244" y="-1949"/>
+	
+  
+	<trackwall height="121" width="25" x="318" y="-2177"/>
+	
+  
+	<trackwall height="30" width="102" x="242" y="-2206"/>
+	
+  
+	<track height="242" width="13" x="327" y="-2175"/>
+	
+  
+	<track height="257" width="16" x="280" y="-2193"/>
+	
+  
+	<track height="317" width="16" x="369" y="-2252"/>
+	
+  
+	<trackwall height="23" width="100" x="327" y="-2253"/>
+	
+  
+	<boost height="350" width="67" x="345" y="-2597"/>
+	
+  
+	<trackwall height="48" width="239" x="40" y="-2838"/>
+	
+  
+	<trackwall height="262" width="65" x="265" y="-2826"/>
+	
+  
+	<track height="20" width="262" x="34" y="-2756"/>
+	
+  
+	<track height="237" width="13" x="178" y="-2832"/>
+	
+  
+	<boost height="165" width="79" x="143" y="-2991"/>
+	
+  
+	<goal height="48" width="480" x="15" y="-3125"/>
+	
+
+</level>

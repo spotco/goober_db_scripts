@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="winwin3">
+	
+  
+	<wall height="58" width="482" x="15" y="357"/>
+	
+  
+	<wall height="-332" width="-115" x="493" y="385"/>
+	
+  
+	<wall height="28" width="-390" x="406" y="54"/>
+	
+  
+	<wall height="-251" width="48" x="14" y="364"/>
+	
+  
+	<wall height="19" width="45" x="-3" y="78"/>
+	
+  
+	<textfield text="If you die in this level you have magical powers that i am jealous of." x="277" y="357"/>
+	
+  
+	<textfield text="jealous of and want" x="321" y="455"/>
+	
+  
+	<goal height="56" width="313" x="85" y="82"/>
+	
+  
+	<goal height="238" width="42" x="352" y="123"/>
+	
+  
+	<goal height="26" width="-68" x="366" y="340"/>
+	
+
+</level>

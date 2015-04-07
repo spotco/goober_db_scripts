@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<level author="xgfbgfb" bg="1" name="ghvfyhujb">
+	
+  
+	<wall height="77.60000000000002" width="449.04999999999995" x="50.1" y="267.95"/>
+	
+  
+	<boost height="-212.8" width="149.4" x="205.35" y="219.5"/>
+	
+  
+	<boost height="422.34999999999997" width="155.25" x="202" y="-381.65"/>
+	
+  
+	<trackblade x="277.95" y="-445.1"/>
+	
+  
+	<trackblade x="284.65" y="-501.9"/>
+	
+  
+	<trackblade x="277.95" y="-566.15"/>
+	
+  
+	<trackblade x="272.95" y="-633.75"/>
+	
+  
+	<trackblade x="278.8" y="-680.5"/>
+	
+  
+	<trackblade x="266.3" y="-765.65"/>
+	
+  
+	<boostfruit x="267.1" y="-819.25"/>
+	
+  
+	<boostfruit x="268.8" y="-852.6"/>
+	
+  
+	<boostfruit x="282.15" y="-905.2"/>
+	
+  
+	<boostfruit x="271.3" y="-1006.2"/>
+	
+  
+	<boostfruit x="264.6" y="-1115.55"/>
+	
+  
+	<boostfruit x="265.45" y="-1173.95"/>
+	
+  
+	<boostfruit x="274.6" y="-1208.2"/>
+	
+  
+	<boostfruit x="279.65" y="-1226.55"/>
+	
+  
+	<bossactivate explode="no" height="41.75" hp="6" width="189.45000000000002" x="181.15" y="-391"/>
+	
+  
+	<activatetrackwall height="-51.75" width="109.35" x="4.15" y="-473.65"/>
+	
+  
+	<activatetrackwall height="88.44999999999999" width="141.89999999999998" x="58.45" y="-417.7"/>
+	
+  
+	<activatetrackwall height="116" width="135.25" x="362.25" y="-428.55"/>
+	
+  
+	<goal height="96.79999999999995" width="151.05" x="172.8" y="-1434.75"/>
+	
+
+</level>

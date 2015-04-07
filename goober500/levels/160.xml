@@ -1,0 +1,119 @@
+<?xml version="1.0" ?>
+<level author="marcel" bg="1" name="123abc">
+	
+  
+	<textfield text="BlaBlaFuckingBla" x="105.3" y="306.85"/>
+	
+  
+	<textfield text="Fuck you" x="288.55" y="449.5"/>
+	
+  
+	<textfield text="Idiot" x="218.9" y="181.65"/>
+	
+  
+	<textfield text="ahhhhhhhh" x="107.8" y="233.05"/>
+	
+  
+	<boost height="56.35000000000002" width="-54.70000000000002" x="291.85" y="372.4"/>
+	
+  
+	<boost height="-33.19999999999999" width="99.5" x="275.3" y="335.9"/>
+	
+  
+	<boost height="-77.10000000000002" width="-118.55000000000001" x="359.85" y="246.3"/>
+	
+  
+	<goal height="-60.55000000000001" width="281.95" x="59.7" y="483.5"/>
+	
+  
+	<goal height="-54.75" width="-44.799999999999955" x="490.9" y="98.7"/>
+	
+  
+	<flowerboss y="434.6"/>
+	
+  
+	<boostfruit x="383.1" y="123.55"/>
+	
+  
+	<boostfruit x="354.05" y="126.05"/>
+	
+  
+	<boostfruit x="222.2" y="155.9"/>
+	
+  
+	<boostfruit x="228.05" y="130.2"/>
+	
+  
+	<boostfruit x="415.4" y="228.05"/>
+	
+  
+	<boostfruit x="126.05" y="226.4"/>
+	
+  
+	<boostfruit x="212.25" y="207.35"/>
+	
+  
+	<boostfruit x="298.5" y="265.4"/>
+	
+  
+	<boostfruit x="28.2" y="91.25"/>
+	
+  
+	<boostfruit x="28.2" y="91.25"/>
+	
+  
+	<boostfruit x="182.4" y="240.5"/>
+	
+  
+	<boostfruit x="453.55" y="400.55"/>
+	
+  
+	<boostfruit x="387.25" y="369.05"/>
+	
+  
+	<boostfruit x="383.9" y="360.75"/>
+	
+  
+	<boostfruit x="392.2" y="345"/>
+	
+  
+	<boostfruit x="400.5" y="339.2"/>
+	
+  
+	<boostfruit x="397.2" y="327.6"/>
+	
+  
+	<boostfruit x="326.7" y="302.7"/>
+	
+  
+	<boostfruit x="322.55" y="287.8"/>
+	
+  
+	<boostfruit x="412.95" y="257.1"/>
+	
+  
+	<boostfruit x="408.8" y="252.1"/>
+	
+  
+	<boostfruit x="332.5" y="236.35"/>
+	
+  
+	<boostfruit x="322.55" y="259.6"/>
+	
+  
+	<boostfruit x="295.2" y="372.4"/>
+	
+  
+	<bossactivate explode="no" height="35.64999999999998" hp="6" width="43.10000000000001" x="26.55" y="321.8"/>
+	
+  
+	<bossactivate explode="no" height="-55.54999999999998" hp="6" width="48.9" x="29.85" y="200.7"/>
+	
+  
+	<bossactivate explode="no" height="25.75" hp="6" width="-62.150000000000006" x="98.65" y="256.25"/>
+	
+  
+	<bossactivate explode="no" height="199.04999999999998" hp="6" width="-34" x="173.3" y="160.9"/>
+	
+
+</level>

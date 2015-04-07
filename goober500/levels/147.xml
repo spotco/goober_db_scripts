@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<level author="mira" bg="1" name="creepy">
+	
+  
+	<wall height="81" width="284" x="115" y="330"/>
+	
+  
+	<wall height="61" width="103" x="368" y="57"/>
+	
+  
+	<wall height="94" width="99" x="88" y="-149"/>
+	
+  
+	<wall height="56" width="-74" x="458" y="-456"/>
+	
+  
+	<deathwall height="206" width="64" x="85" y="65"/>
+	
+  
+	<wall height="122" width="50" x="177" y="47"/>
+	
+  
+	<boost height="47" width="90" x="374" y="-27"/>
+	
+  
+	<boostfruit x="136" y="-295"/>
+	
+  
+	<boostfruit x="253" y="-404"/>
+	
+  
+	<goal height="57" width="66" x="388" y="-614"/>
+	
+  
+	<wall height="112" width="55" x="315" y="168"/>
+	
+  
+	<boostfruit x="297" y="-81"/>
+	
+
+</level>

@@ -1,0 +1,116 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="3bosses">
+	
+  
+	<bossactivate explode="no" height="151" hp="6" width="104" x="200" y="170"/>
+	
+  
+	<wall height="56" width="506" x="0" y="318"/>
+	
+  
+	<flowerboss y="473"/>
+	
+  
+	<wall height="48" width="52" x="101" y="269"/>
+	
+  
+	<wall height="52" width="52" x="49" y="219"/>
+	
+  
+	<cloudboss/>
+	
+  
+	<wall height="51" width="49" x="149" y="169"/>
+	
+  
+	<wall height="51" width="47" x="251" y="120"/>
+	
+  
+	<wall height="53" width="52" x="302" y="69"/>
+	
+  
+	<boostfruit x="320" y="40"/>
+	
+  
+	<boostfruit x="321" y="34"/>
+	
+  
+	<boostfruit x="316" y="24"/>
+	
+  
+	<boostfruit x="318" y="15"/>
+	
+  
+	<boostfruit x="320" y="8"/>
+	
+  
+	<track height="20" width="149" x="349" y="-12"/>
+	
+  
+	<trackblade x="360" y="-8"/>
+	
+  
+	<trackblade x="379" y="-9"/>
+	
+  
+	<trackblade x="392" y="-9"/>
+	
+  
+	<trackblade x="404" y="-9"/>
+	
+  
+	<trackblade x="406" y="-9"/>
+	
+  
+	<trackblade x="413" y="-9"/>
+	
+  
+	<trackblade x="417" y="-9"/>
+	
+  
+	<trackwall height="40" width="33" x="435" y="-27"/>
+	
+  
+	<trackblade x="477" y="-7"/>
+	
+  
+	<trackblade x="484" y="-11"/>
+	
+  
+	<trackblade x="488" y="-12"/>
+	
+  
+	<trackblade x="493" y="-12"/>
+	
+  
+	<trackblade x="493" y="-12"/>
+	
+  
+	<boost height="-183" width="38" x="436" y="-56"/>
+	
+  
+	<boostfruit x="313" y="-217"/>
+	
+  
+	<boostfruit x="182" y="-218"/>
+	
+  
+	<activatetrackwall height="100" width="51" x="50" y="-230"/>
+	
+  
+	<wall height="49" width="52" x="49" y="-579"/>
+	
+  
+	<wall height="69" width="51" x="100" y="-497"/>
+	
+  
+	<wall height="-93" width="48" x="151" y="-484"/>
+	
+  
+	<deathwall height="82" width="11" x="143" y="-580"/>
+	
+  
+	<goal height="198" width="302" x="199" y="-781"/>
+	
+
+</level>

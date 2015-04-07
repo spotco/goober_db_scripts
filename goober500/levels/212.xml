@@ -1,0 +1,155 @@
+<?xml version="1.0" ?>
+<level author="dijon" bg="1" name="Explosion">
+	
+  
+	<wall height="123" width="496" x="1" y="317"/>
+	
+  
+	<activatetrackwall height="24" width="185" x="17" y="260"/>
+	
+  
+	<wall height="-400" width="16" x="242" y="254"/>
+	
+  
+	<wall height="-175" width="17" x="242" y="-149"/>
+	
+  
+	<bossactivate explode="no" height="39" hp="6" width="-142" x="323" y="-386"/>
+	
+  
+	<activatetrackwall height="39" width="46" x="29" y="-320"/>
+	
+  
+	<activatetrackwall height="31" width="34" x="130" y="-466"/>
+	
+  
+	<activatetrackwall height="47" width="37" x="26" y="-585"/>
+	
+  
+	<activatetrackwall height="61" width="77" x="208" y="-621"/>
+	
+  
+	<activatetrackwall height="59" width="64" x="62" y="-806"/>
+	
+  
+	<activatetrackwall height="77" width="81" x="272" y="-919"/>
+	
+  
+	<activatetrackwall height="64" width="69" x="65" y="-996"/>
+	
+  
+	<activatetrackwall height="92" width="40" x="435" y="-1119"/>
+	
+  
+	<activatetrackwall height="79" width="56" x="163" y="-1175"/>
+	
+  
+	<activatetrackwall height="23" width="101" x="280" y="-1222"/>
+	
+  
+	<boostfruit x="167" y="-974"/>
+	
+  
+	<boostfruit x="346" y="-1049"/>
+	
+  
+	<boostfruit x="108" y="-1074"/>
+	
+  
+	<boostfruit x="234" y="-1298"/>
+	
+  
+	<boostfruit x="434" y="-899"/>
+	
+  
+	<boostfruit x="82" y="-836"/>
+	
+  
+	<boostfruit x="254" y="-731"/>
+	
+  
+	<boostfruit x="401" y="-700"/>
+	
+  
+	<boostfruit x="101" y="-616"/>
+	
+  
+	<boostfruit x="343" y="-506"/>
+	
+  
+	<trackwall height="26" width="122" x="323" y="-471"/>
+	
+  
+	<activatetrackwall height="63" width="60" x="399" y="-808"/>
+	
+  
+	<activatetrackwall height="26" width="46" x="403" y="-619"/>
+	
+  
+	<rocketlauncher x="253" y="-983"/>
+	
+  
+	<rocketlauncher x="457" y="-1176"/>
+	
+  
+	<rocketlauncher x="54" y="-1186"/>
+	
+  
+	<rocketlauncher x="19" y="-872"/>
+	
+  
+	<rocketlauncher x="215" y="-823"/>
+	
+  
+	<rocketlauncher x="459" y="-972"/>
+	
+  
+	<rocketlauncher x="290" y="-669"/>
+	
+  
+	<rocketlauncher x="75" y="-676"/>
+	
+  
+	<rocketlauncher x="157" y="-533"/>
+	
+  
+	<rocketlauncher x="450" y="-495"/>
+	
+  
+	<goal height="84" width="132" x="197" y="-1434"/>
+	
+  
+	<boostfruit x="420" y="-334"/>
+	
+  
+	<boostfruit x="416" y="-274"/>
+	
+  
+	<boostfruit x="411" y="-201"/>
+	
+  
+	<boostfruit x="340" y="-135"/>
+	
+  
+	<boostfruit x="412" y="-84"/>
+	
+  
+	<boostfruit x="349" y="-25"/>
+	
+  
+	<boostfruit x="428" y="54"/>
+	
+  
+	<boostfruit x="373" y="113"/>
+	
+  
+	<boostfruit x="441" y="151"/>
+	
+  
+	<boostfruit x="342" y="205"/>
+	
+  
+	<boostfruit x="461" y="281"/>
+	
+
+</level>

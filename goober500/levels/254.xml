@@ -1,0 +1,263 @@
+<?xml version="1.0" ?>
+<level author="jonathan" bg="1" name="dedle">
+	
+  
+	<wall height="-85" width="272" x="130" y="400"/>
+	
+  
+	<wall height="-251" width="10" x="339" y="292"/>
+	
+  
+	<boost height="-145" width="90" x="305" y="32"/>
+	
+  
+	<textfield text="woch awot" x="123" y="210"/>
+	
+  
+	<track height="-24" width="334" x="153" y="89"/>
+	
+  
+	<track height="11" width="367" x="125" y="139"/>
+	
+  
+	<trackblade x="154" y="68"/>
+	
+  
+	<trackblade x="128" y="138"/>
+	
+  
+	<boostfruit x="348" y="-117"/>
+	
+  
+	<boostfruit x="325" y="-125"/>
+	
+  
+	<boostfruit x="283" y="-152"/>
+	
+  
+	<boostfruit x="245" y="-192"/>
+	
+  
+	<boostfruit x="315" y="-221"/>
+	
+  
+	<boostfruit x="366" y="-239"/>
+	
+  
+	<boostfruit x="374" y="-281"/>
+	
+  
+	<boostfruit x="372" y="-331"/>
+	
+  
+	<boostfruit x="325" y="-331"/>
+	
+  
+	<boostfruit x="281" y="-364"/>
+	
+  
+	<boostfruit x="268" y="-416"/>
+	
+  
+	<boostfruit x="311" y="-435"/>
+	
+  
+	<boostfruit x="329" y="-355"/>
+	
+  
+	<boostfruit x="329" y="-439"/>
+	
+  
+	<boostfruit x="330" y="-396"/>
+	
+  
+	<boostfruit x="316" y="-245"/>
+	
+  
+	<boostfruit x="316" y="-296"/>
+	
+  
+	<boostfruit x="319" y="-151"/>
+	
+  
+	<boostfruit x="318" y="-177"/>
+	
+  
+	<boostfruit x="315" y="-204"/>
+	
+  
+	<wall height="-41" width="-151" x="386" y="-493"/>
+	
+  
+	<wall height="60" width="29" x="234" y="-497"/>
+	
+  
+	<wall height="-20" width="167" x="226" y="-590"/>
+	
+  
+	<wall height="33" width="-172" x="230" y="-617"/>
+	
+  
+	<wall height="170" width="20" x="53" y="-590"/>
+	
+  
+	<wall height="24" width="107" x="69" y="-440"/>
+	
+  
+	<wall height="-16" width="88" x="68" y="-510"/>
+	
+  
+	<wall height="-11" width="70" x="395" y="-504"/>
+	
+  
+	<wall height="-97" width="-20" x="461" y="-517"/>
+	
+  
+	<wall height="-39" width="40" x="463" y="-515"/>
+	
+  
+	<wall height="-55" width="-24" x="389" y="-610"/>
+	
+  
+	<wall height="28" width="-76" x="355" y="-668"/>
+	
+  
+	<wall height="-65" width="24" x="442" y="-618"/>
+	
+  
+	<trackblade x="104" y="-556"/>
+	
+  
+	<trackblade x="115" y="-474"/>
+	
+  
+	<boost height="-161" width="41" x="186" y="-421"/>
+	
+  
+	<boost height="-175" width="49" x="389" y="-519"/>
+	
+  
+	<boost height="-187" width="43" x="194" y="-232"/>
+	
+  
+	<boost height="-112" width="59" x="244" y="-283"/>
+	
+  
+	<boost height="-84" width="42" x="230" y="-294"/>
+	
+  
+	<boost height="-62" width="35" x="256" y="-253"/>
+	
+  
+	<textfield text="if you pas you will pae" x="57" y="-666"/>
+	
+  
+	<wall height="-40" width="87" x="228" y="-720"/>
+	
+  
+	<track height="15" width="-128" x="227" y="-748"/>
+	
+  
+	<rocketlauncher x="174" y="-683"/>
+	
+  
+	<trackwall height="-23" width="26" x="91" y="-733"/>
+	
+  
+	<trackwall height="15" width="-28" x="92" y="-741"/>
+	
+  
+	<trackwall height="-20" width="38" x="115" y="-737"/>
+	
+  
+	<bossactivate explode="no" height="-46" hp="6" width="28" x="121" y="-758"/>
+	
+  
+	<bossactivate explode="no" height="-17" hp="6" width="40" x="98" y="-767"/>
+	
+  
+	<bossactivate explode="no" height="-18" hp="6" width="58" x="94" y="-772"/>
+	
+  
+	<bossactivate explode="no" height="-20" hp="6" width="38" x="101" y="-764"/>
+	
+  
+	<bossactivate explode="no" height="-36" hp="6" width="32" x="74" y="-743"/>
+	
+  
+	<bossactivate explode="no" height="-38" hp="6" width="51" x="68" y="-754"/>
+	
+  
+	<bossactivate explode="no" height="-18" hp="6" width="46" x="112" y="-778"/>
+	
+  
+	<track height="-18" width="135" x="309" y="-734"/>
+	
+  
+	<trackwall height="-18" width="33" x="381" y="-735"/>
+	
+  
+	<track height="-241" width="23" x="438" y="-739"/>
+	
+  
+	<trackwall height="-33" width="43" x="423" y="-811"/>
+	
+  
+	<wall height="-33" width="-189" x="406" y="-950"/>
+	
+  
+	<boost height="-253" width="48" x="224" y="-987"/>
+	
+  
+	<rocketlauncher x="115" y="-1140"/>
+	
+  
+	<rocketlauncher x="110" y="-1201"/>
+	
+  
+	<rocketlauncher x="112" y="-1102"/>
+	
+  
+	<rocketlauncher x="53" y="-1177"/>
+	
+  
+	<rocketlauncher x="44" y="-1099"/>
+	
+  
+	<rocketlauncher x="8" y="-1145"/>
+	
+  
+	<trackwall height="-32" width="216" x="280" y="-1224"/>
+	
+  
+	<boost height="-151" width="57" x="454" y="-1268"/>
+	
+  
+	<boost height="-183" width="45" x="456" y="-1420"/>
+	
+  
+	<boost height="-168" width="40" x="461" y="-1614"/>
+	
+  
+	<boost height="-246" width="31" x="468" y="-1776"/>
+	
+  
+	<boost height="-298" width="30" x="465" y="-2014"/>
+	
+  
+	<boost height="-258" width="36" x="468" y="-2314"/>
+	
+  
+	<boost height="-215" width="30" x="464" y="-2571"/>
+	
+  
+	<boost height="-204" width="29" x="463" y="-2790"/>
+	
+  
+	<goal height="-140" width="67" x="430" y="-2992"/>
+	
+  
+	<textfield text="it will be a long wae up." x="279" y="-1380"/>
+	
+
+</level>

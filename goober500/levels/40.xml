@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<level author="yomama" name="fucq">
+	
+  
+	<wall height="27" width="370" x="70" y="462"/>
+	
+  
+	<wall height="111" width="233" x="204" y="348"/>
+	
+  
+	<wall height="168" width="160" x="276" y="183"/>
+	
+  
+	<wall height="81" width="168" x="100" y="58"/>
+	
+  
+	<wall height="257" width="38" x="27" y="-219"/>
+	
+  
+	<boostfruit x="132" y="-300"/>
+	
+  
+	<boostfruit x="269" y="-374"/>
+	
+  
+	<wall height="342" width="51" x="355" y="-626"/>
+	
+  
+	<wall height="117" width="243" x="56" y="-602"/>
+	
+  
+	<wall height="102" width="156" x="243" y="-797"/>
+	
+  
+	<wall height="81" width="134" x="84" y="-924"/>
+	
+  
+	<wall height="109" width="160" x="233" y="-1088"/>
+	
+  
+	<wall height="83" width="166" x="55" y="-1268"/>
+	
+  
+	<wall height="101" width="158" x="248" y="-1448"/>
+	
+  
+	<wall height="253" width="37" x="307" y="-1721"/>
+	
+  
+	<deathwall height="311" text="" width="59" x="102" y="-1796"/>
+	
+  
+	<deathwall height="343" width="52" x="424" y="-1815"/>
+	
+  
+	<deathwall height="195" width="55" x="191" y="-1879"/>
+	
+  
+	<goal height="114" width="50" x="256" y="-1725"/>
+	
+  
+	<goal height="70" width="65" x="189" y="-1624"/>
+	
+
+</level>

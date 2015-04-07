@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="frick">
+	
+  
+	<wall height="163" width="31" x="151" y="228"/>
+	
+  
+	<wall height="139" width="75" x="236" y="289"/>
+	
+  
+	<boostfruit x="236" y="224"/>
+	
+  
+	<deathwall height="187" width="147" x="1" y="78"/>
+	
+  
+	<wall height="169" width="44" x="361" y="137"/>
+	
+  
+	<wall height="23" width="-26" x="333" y="362"/>
+	
+  
+	<boostfruit x="295" y="49"/>
+	
+  
+	<boostfruit x="199" y="-33"/>
+	
+  
+	<boostfruit x="302" y="-127"/>
+	
+  
+	<boostfruit x="151" y="-223"/>
+	
+  
+	<laserlauncher dir="3" x="5" y="-202"/>
+	
+  
+	<laserlauncher dir="-3" x="491" y="-226"/>
+	
+  
+	<boostfruit x="254" y="-325"/>
+	
+  
+	<boostfruit x="147" y="-428"/>
+	
+  
+	<wall height="62" width="189" x="213" y="-568"/>
+	
+  
+	<boostfruit x="99" y="-533"/>
+	
+  
+	<boostfruit x="101" y="-626"/>
+	
+  
+	<boostfruit x="31" y="-197"/>
+	
+  
+	<deathwall height="158" width="143" x="369" y="-701"/>
+	
+  
+	<wall height="92" width="196" x="188" y="-833"/>
+	
+  
+	<goal height="80" width="66" x="255" y="-739"/>
+	
+  
+	<deathwall height="122" width="-192" x="184" y="-828"/>
+	
+  
+	<boost height="185" width="126" x="9" y="-482"/>
+	
+  
+	<rocketlauncher x="494" y="-448"/>
+	
+  
+	<rocketlauncher x="318" y="-510"/>
+	
+  
+	<rocketlauncher x="446" y="-540"/>
+	
+
+</level>

@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="bosses23">
+	
+  
+	<wall height="112" width="201" x="211" y="273"/>
+	
+  
+	<wall height="76" width="-187" x="290" y="378"/>
+	
+  
+	<laserlauncher dir="3" x="361" y="293"/>
+	
+  
+	<laserlauncher dir="3" x="379" y="302"/>
+	
+  
+	<laserlauncher dir="3" x="372" y="301"/>
+	
+  
+	<trackwall height="-223" width="-22" x="140" y="281"/>
+	
+  
+	<wall height="-147" width="256" x="232" y="202"/>
+	
+  
+	<wall height="44" width="-126" x="254" y="167"/>
+	
+  
+	<goal height="46" width="180" x="259" y="30"/>
+	
+  
+	<bossactivate explode="no" height="90" hp="6" width="100" x="24" y="101"/>
+	
+  
+	<bossactivate explode="no" height="88" hp="6" width="48" x="169" y="80"/>
+	
+  
+	<bossactivate explode="no" height="35" hp="6" width="142" x="194" y="15"/>
+	
+  
+	<bossactivate explode="no" height="53" hp="6" width="48" x="80" y="33"/>
+	
+  
+	<bossactivate explode="no" height="58" hp="6" width="42" x="84" y="254"/>
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+
+</level>

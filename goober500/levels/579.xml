@@ -1,0 +1,98 @@
+<?xml version="1.0" ?>
+<level author="NATCHAS24" bg="1" name="EASYLEVEL">
+	
+  
+	<wall height="147" width="507" x="0" y="523"/>
+	
+  
+	<wall height="-574" width="90" x="421" y="531"/>
+	
+  
+	<wall height="-404" width="131" x="426" y="-32"/>
+	
+  
+	<wall height="48" width="176" x="179" y="-421"/>
+	
+  
+	<trackblade x="156" y="-397"/>
+	
+  
+	<trackblade x="140" y="-395"/>
+	
+  
+	<trackblade x="114" y="-395"/>
+	
+  
+	<trackblade x="94" y="-395"/>
+	
+  
+	<wall height="-308" width="-34" x="34" y="-426"/>
+	
+  
+	<wall height="-335" width="-32" x="28" y="-726"/>
+	
+  
+	<bossactivate explode="no" height="186" hp="6" width="564" x="31" y="-870"/>
+	
+  
+	<wall height="36" width="173" x="93" y="-1098"/>
+	
+  
+	<wall height="38" width="224" x="279" y="-1171"/>
+	
+  
+	<goal height="146" width="158" x="342" y="-1321"/>
+	
+  
+	<trackblade x="18" y="489"/>
+	
+  
+	<trackblade x="17" y="475"/>
+	
+  
+	<trackblade x="17" y="442"/>
+	
+  
+	<trackblade x="22" y="403"/>
+	
+  
+	<trackblade x="24" y="380"/>
+	
+  
+	<trackblade x="28" y="352"/>
+	
+  
+	<trackblade x="41" y="316"/>
+	
+  
+	<trackblade x="64" y="283"/>
+	
+  
+	<trackblade x="88" y="271"/>
+	
+  
+	<trackblade x="113" y="272"/>
+	
+  
+	<trackblade x="127" y="270"/>
+	
+  
+	<trackblade x="149" y="267"/>
+	
+  
+	<trackblade x="166" y="267"/>
+	
+  
+	<trackblade x="168" y="267"/>
+	
+  
+	<trackblade x="184" y="267"/>
+	
+  
+	<trackblade x="189" y="267"/>
+	
+  
+	<wall height="-352" width="-48" x="25" y="-1062"/>
+	
+
+</level>

@@ -1,0 +1,380 @@
+<?xml version="1.0" ?>
+<level author="Aziz" bg="1" name="Lagi3">
+	
+  
+	<trackwall height="-53.89999999999998" width="497" x="1.6" y="324.2"/>
+	
+  
+	<bossactivate explode="no" height="-30.900000000000006" hp="6" width="51.5" x="1.6" y="270.3"/>
+	
+  
+	<bossactivate explode="no" height="-11.099999999999994" hp="6" width="28.550000000000004" x="30.9" y="259.2"/>
+	
+  
+	<bossactivate explode="no" height="-38.04999999999998" hp="6" width="40.449999999999996" x="25.35" y="263.95"/>
+	
+  
+	<bossactivate explode="no" height="-28.55000000000001" hp="6" width="22.999999999999996" x="28.55" y="265.55"/>
+	
+  
+	<bossactivate explode="no" height="-37.24999999999997" hp="6" width="26.150000000000002" x="31.7" y="263.15"/>
+	
+  
+	<bossactivate explode="no" height="-19.850000000000023" hp="6" width="23.75" x="67.4" y="223.55"/>
+	
+  
+	<bossactivate explode="no" height="-27.75" hp="6" width="36.45" x="59.45" y="240.2"/>
+	
+  
+	<bossactivate explode="no" height="-25.400000000000006" hp="6" width="33.3" x="65" y="250.5"/>
+	
+  
+	<bossactivate explode="no" height="-39.60000000000002" hp="6" width="44.39999999999999" x="82.45" y="252.05"/>
+	
+  
+	<bossactivate explode="no" height="-50.75000000000003" hp="6" width="38.85000000000001" x="70.55" y="266.35"/>
+	
+  
+	<bossactivate explode="no" height="-40.39999999999998" hp="6" width="19.80000000000001" x="71.35" y="267.9"/>
+	
+  
+	<bossactivate explode="no" height="-46" hp="6" width="32.50000000000001" x="58.65" y="260.8"/>
+	
+  
+	<bossactivate explode="no" height="-53.150000000000006" hp="6" width="47.55" x="65" y="234.65"/>
+	
+  
+	<bossactivate explode="no" height="-49.150000000000006" hp="6" width="32.5" x="67.4" y="241.75"/>
+	
+  
+	<bossactivate explode="no" height="-27.75" hp="6" width="32.5" x="46.8" y="231.45"/>
+	
+  
+	<bossactivate explode="no" height="-46.79999999999998" hp="6" width="54.7" x="22.2" y="238.6"/>
+	
+  
+	<bossactivate explode="no" height="-36.45000000000002" hp="6" width="46.8" x="10.3" y="248.9"/>
+	
+  
+	<bossactivate explode="no" height="-35.69999999999999" hp="6" width="31.7" x="23.8" y="250.5"/>
+	
+  
+	<bossactivate explode="no" height="-53.900000000000006" hp="6" width="48.349999999999994" x="27.75" y="265.55"/>
+	
+  
+	<bossactivate explode="no" height="-49.89999999999998" hp="6" width="28.5" x="13.5" y="245.7"/>
+	
+  
+	<bossactivate explode="no" height="-68.95000000000002" hp="6" width="53.10000000000001" x="23.8" y="253.65"/>
+	
+  
+	<bossactivate explode="no" height="-66.6" hp="6" width="44.349999999999994" x="40.45" y="253.65"/>
+	
+  
+	<bossactivate explode="no" height="-49.95000000000002" hp="6" width="51.55" x="60.25" y="234.65"/>
+	
+  
+	<bossactivate explode="no" height="-49.94999999999999" hp="6" width="38.85" x="53.1" y="248.1"/>
+	
+  
+	<bossactivate explode="no" height="-48.349999999999994" hp="6" width="23.75" x="68.2" y="235.4"/>
+	
+  
+	<bossactivate explode="no" height="-42" hp="6" width="38.85" x="53.1" y="231.45"/>
+	
+  
+	<bossactivate explode="no" height="-54.70000000000002" hp="6" width="27.75" x="61.05" y="225.9"/>
+	
+  
+	<bossactivate explode="no" height="-36.5" hp="6" width="23.749999999999993" x="57.1" y="218"/>
+	
+  
+	<bossactivate explode="no" height="-51.5" hp="6" width="32.5" x="42.8" y="247.3"/>
+	
+  
+	<bossactivate explode="no" height="-38.05000000000001" hp="6" width="30.950000000000003" x="36.45" y="242.55"/>
+	
+  
+	<bossactivate explode="no" height="-38.849999999999994" hp="6" width="48.4" x="57.85" y="237"/>
+	
+  
+	<bossactivate explode="no" height="-49.150000000000006" hp="6" width="35.650000000000006" x="55.5" y="235.4"/>
+	
+  
+	<bossactivate explode="no" height="-17.44999999999999" hp="6" width="11.100000000000009" x="61.05" y="221.95"/>
+	
+  
+	<bossactivate explode="no" height="-27.75" hp="6" width="35.7" x="68.95" y="211.65"/>
+	
+  
+	<bossactivate explode="no" height="-35.650000000000006" hp="6" width="29.300000000000004" x="61.85" y="232.25"/>
+	
+  
+	<bossactivate explode="no" height="-23" hp="6" width="37.25000000000001" x="49.15" y="238.6"/>
+	
+  
+	<bossactivate explode="no" height="-26.950000000000017" hp="6" width="49.95" x="23.8" y="247.3"/>
+	
+  
+	<bossactivate explode="no" height="-16.650000000000006" hp="6" width="45.14999999999999" x="67.4" y="233.85"/>
+	
+  
+	<bossactivate explode="no" height="-30.900000000000006" hp="6" width="38.05" x="59.45" y="235.4"/>
+	
+  
+	<bossactivate explode="no" height="-10.300000000000011" hp="6" width="30.900000000000006" x="46.8" y="237.8"/>
+	
+  
+	<bossactivate explode="no" height="-21.400000000000006" hp="6" width="21.400000000000006" x="56.3" y="237.8"/>
+	
+  
+	<bossactivate explode="no" height="-45.19999999999999" hp="6" width="44.39999999999999" x="45.2" y="258.4"/>
+	
+  
+	<bossactivate explode="no" height="-33.25" hp="6" width="53.10000000000001" x="56.3" y="240.95"/>
+	
+  
+	<bossactivate explode="no" height="-33.25" hp="6" width="22.199999999999996" x="58.65" y="218.75"/>
+	
+  
+	<bossactivate explode="no" height="-25.349999999999994" hp="6" width="19.799999999999997" x="54.7" y="215.6"/>
+	
+  
+	<bossactivate explode="no" height="-44.400000000000006" hp="6" width="26.15" x="48.35" y="230.65"/>
+	
+  
+	<bossactivate explode="no" height="-78.45000000000002" hp="6" width="51.550000000000004" x="53.9" y="219.55"/>
+	
+  
+	<bossactivate explode="no" height="-38.849999999999994" hp="6" width="22.2" x="31.7" y="190.25"/>
+	
+  
+	<bossactivate explode="no" height="-57.05000000000001" hp="6" width="66.6" x="16.65" y="202.9"/>
+	
+  
+	<bossactivate explode="no" height="-62.650000000000006" hp="6" width="78.5" x="-0.8" y="222.75"/>
+	
+  
+	<bossactivate explode="no" height="-53.900000000000006" hp="6" width="55.5" x="66.6" y="210.85"/>
+	
+  
+	<bossactivate explode="no" height="-26.150000000000006" hp="6" width="30.150000000000006" x="108.6" y="188.65"/>
+	
+  
+	<bossactivate explode="no" height="46.75" hp="6" width="-38.849999999999994" x="165.7" y="177.55"/>
+	
+  
+	<bossactivate explode="no" height="-78.45000000000002" hp="6" width="84.80000000000001" x="46" y="284.55"/>
+	
+  
+	<bossactivate explode="no" height="-68.19999999999999" hp="6" width="83.25" x="69.75" y="250.5"/>
+	
+  
+	<bossactivate explode="no" height="-53.150000000000006" hp="6" width="52.30000000000001" x="89.6" y="202.15"/>
+	
+  
+	<bossactivate explode="no" height="-95.10000000000002" hp="6" width="88.80000000000001" x="38.85" y="289.3"/>
+	
+  
+	<bossactivate explode="no" height="-96.69999999999999" hp="6" width="74.5" x="104.65" y="316.25"/>
+	
+  
+	<bossactivate explode="no" height="-91.14999999999998" hp="6" width="51.5" x="95.15" y="273.45"/>
+	
+  
+	<bossactivate explode="no" height="-95.15" hp="6" width="45.2" x="-6.35" y="283"/>
+	
+  
+	<bossactivate explode="no" height="-89.60000000000002" hp="6" width="53.9" x="26.15" y="275.85"/>
+	
+  
+	<bossactivate explode="no" height="-55.45000000000002" hp="6" width="61.849999999999994" x="32.5" y="294.85"/>
+	
+  
+	<bossactivate explode="no" height="-78.44999999999999" hp="6" width="53.89999999999999" x="68.95" y="278.2"/>
+	
+  
+	<bossactivate explode="no" height="-66.60000000000002" hp="6" width="57.05000000000001" x="71.35" y="275.05"/>
+	
+  
+	<bossactivate explode="no" height="-72.15" hp="6" width="61.05" x="68.95" y="293.3"/>
+	
+  
+	<bossactivate explode="no" height="-74.5" hp="6" width="45.94999999999999" x="104.65" y="265.55"/>
+	
+  
+	<bossactivate explode="no" height="-69.74999999999997" hp="6" width="45.19999999999999" x="92.75" y="263.15"/>
+	
+  
+	<bossactivate explode="no" height="-103.80000000000001" hp="6" width="116.55" x="9.5" y="262.35"/>
+	
+  
+	<bossactivate explode="no" height="-59.44999999999999" hp="6" width="80.05" x="68.2" y="217.2"/>
+	
+  
+	<bossactivate explode="no" height="-41.19999999999999" hp="6" width="53.900000000000006" x="65" y="178.35"/>
+	
+  
+	<bossactivate explode="no" height="-30.900000000000006" hp="6" width="41.2" x="82.45" y="173.6"/>
+	
+  
+	<bossactivate explode="no" height="-99.10000000000001" hp="6" width="76.10000000000001" x="33.3" y="211.65"/>
+	
+  
+	<bossactivate explode="no" height="-79.29999999999998" hp="6" width="111.74999999999999" x="22.2" y="217.2"/>
+	
+  
+	<bossactivate explode="no" height="-104.65000000000003" hp="6" width="102.24999999999999" x="64.2" y="266.35"/>
+	
+  
+	<bossactivate explode="no" height="-103.85000000000002" hp="6" width="97.5" x="88" y="280.6"/>
+	
+  
+	<bossactivate explode="no" height="-42" hp="6" width="11.900000000000006" x="107" y="206.1"/>
+	
+  
+	<bossactivate explode="no" height="116.54999999999998" hp="6" width="-30.949999999999996" x="94.35" y="100.65"/>
+	
+  
+	<bossactivate explode="no" height="-36.45000000000002" hp="6" width="30.900000000000006" x="88" y="198.15"/>
+	
+  
+	<bossactivate explode="no" height="-88" hp="6" width="116.55000000000001" x="20.6" y="241.75"/>
+	
+  
+	<bossactivate explode="no" height="-82.45" hp="6" width="114.15" x="55.5" y="209.25"/>
+	
+  
+	<bossactivate explode="no" height="-110.19999999999999" hp="6" width="56.3" x="87.2" y="226.7"/>
+	
+  
+	<bossactivate explode="no" height="-137.95" hp="6" width="86.4" x="30.15" y="250.5"/>
+	
+  
+	<bossactivate explode="no" height="-124.49999999999999" hp="6" width="17.450000000000003" x="87.2" y="175.2"/>
+	
+  
+	<bossactivate explode="no" height="-58.650000000000006" hp="6" width="101.45" x="38.05" y="187.05"/>
+	
+  
+	<bossactivate explode="no" height="-67.35" hp="6" width="69.75000000000001" x="103.05" y="99.85"/>
+	
+  
+	<bossactivate explode="no" height="-60.25" hp="6" width="72.15" x="-11.9" y="205.3"/>
+	
+  
+	<bossactivate explode="no" height="-81.65" hp="6" width="44.349999999999994" x="41.25" y="167.25"/>
+	
+  
+	<bossactivate explode="no" height="-95.89999999999999" hp="6" width="51.5" x="33.3" y="183.1"/>
+	
+  
+	<bossactivate explode="no" height="-139.5" hp="6" width="64.25" x="-7.15" y="184.7"/>
+	
+  
+	<bossactivate explode="no" height="-127.65" hp="6" width="69" x="52.3" y="162.5"/>
+	
+  
+	<bossactivate explode="no" height="-43.60000000000001" hp="6" width="39.650000000000006" x="69.75" y="158.55"/>
+	
+  
+	<bossactivate explode="no" height="-50.70000000000002" hp="6" width="133.14999999999998" x="54.7" y="198.15"/>
+	
+  
+	<bossactivate explode="no" height="-71.35" hp="6" width="189.45" x="50.75" y="136.35"/>
+	
+  
+	<bossactivate explode="no" height="-53.9" hp="6" width="76.9" x="132.4" y="98.3"/>
+	
+  
+	<bossactivate explode="no" height="-71.35000000000001" hp="6" width="109.39999999999999" x="45.2" y="183.9"/>
+	
+  
+	<bossactivate explode="no" height="-99.10000000000001" hp="6" width="103.85000000000001" x="77.7" y="205.3"/>
+	
+  
+	<bossactivate explode="no" height="-50.69999999999999" hp="6" width="20.600000000000023" x="142.7" y="143.45"/>
+	
+  
+	<bossactivate explode="no" height="-87.2" hp="6" width="28.55000000000001" x="85.6" y="165.65"/>
+	
+  
+	<bossactivate explode="no" height="-57.85" hp="6" width="15.850000000000009" x="80.85" y="88.75"/>
+	
+  
+	<bossactivate explode="no" height="-27" hp="6" width="27.75" x="51.55" y="110.2"/>
+	
+  
+	<bossactivate explode="no" height="-76.89999999999999" hp="6" width="130" x="54.7" y="131.6"/>
+	
+  
+	<bossactivate explode="no" height="-44.349999999999994" hp="6" width="49.14999999999999" x="112.55" y="148.2"/>
+	
+  
+	<bossactivate explode="no" height="-101.5" hp="6" width="148.25" x="87.2" y="202.15"/>
+	
+  
+	<bossactivate explode="no" height="-51.5" hp="6" width="61.05" x="50.75" y="160.9"/>
+	
+  
+	<bossactivate explode="no" height="-85.64999999999999" hp="6" width="102.25" x="17.45" y="136.35"/>
+	
+  
+	<bossactivate explode="no" height="-64.19999999999999" hp="6" width="87.2" x="84.05" y="90.35"/>
+	
+  
+	<bossactivate explode="no" height="-89.55" hp="6" width="119.7" x="23.8" y="149"/>
+	
+  
+	<bossactivate explode="no" height="-48.349999999999994" hp="6" width="96.70000000000002" x="103.85" y="149"/>
+	
+  
+	<bossactivate explode="no" height="-31.700000000000003" hp="6" width="44.35000000000002" x="165.7" y="134.75"/>
+	
+  
+	<bossactivate explode="no" height="-38.05" hp="6" width="43.599999999999994" x="186.3" y="145.85"/>
+	
+  
+	<bossactivate explode="no" height="-49.95" hp="6" width="51.5" x="176" y="160.9"/>
+	
+  
+	<bossactivate explode="no" height="-15.049999999999983" hp="6" width="38.05000000000001" x="172" y="161.7"/>
+	
+  
+	<trackwall height="-16.649999999999977" width="-19.049999999999955" x="299.65" y="221.95"/>
+	
+  
+	<trackwall height="-18.25" width="-22.19999999999999" x="283" y="205.3"/>
+	
+  
+	<trackwall height="-18.19999999999999" width="-17.44999999999999" x="264.75" y="187.85"/>
+	
+  
+	<trackwall height="-14.300000000000011" width="17.44999999999999" x="266.35" y="168.05"/>
+	
+  
+	<trackwall height="-16.599999999999994" width="16.649999999999977" x="283.8" y="153.75"/>
+	
+  
+	<trackwall height="-15.049999999999983" width="102.25" x="265.55" y="184.7"/>
+	
+  
+	<textfield text="Idi tuda" x="369.4" y="145.1"/>
+	
+  
+	<goal height="-26.150000000000006" width="23.80000000000001" x="443.9" y="265.55"/>
+	
+  
+	<boost height="-197.39999999999998" width="45.94999999999999" x="273.5" y="142.7"/>
+	
+  
+	<boost height="-562" width="47.55000000000001" x="272.7" y="-47.69999999999999"/>
+	
+  
+	<boost height="-571.5" width="48.35000000000002" x="271.9" y="-608.2"/>
+	
+  
+	<goal height="-45.950000000000045" width="45.14999999999998" x="268.75" y="-1183.8"/>
+	
+
+</level>

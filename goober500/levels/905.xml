@@ -1,0 +1,146 @@
+<?xml version="1.0" ?>
+<level author="kambo" bg="1" name="secretkambopart2">
+	
+  
+	<wall height="31" width="254" x="10" y="310"/>
+	
+  
+	<wall height="27" width="220" x="290" y="307"/>
+	
+  
+	<trackblade x="37" y="169"/>
+	
+  
+	<trackblade x="72" y="161"/>
+	
+  
+	<trackblade x="59" y="167"/>
+	
+  
+	<trackblade x="59" y="167"/>
+	
+  
+	<trackblade x="46" y="165"/>
+	
+  
+	<trackblade x="61" y="167"/>
+	
+  
+	<trackblade x="71" y="163"/>
+	
+  
+	<trackblade x="68" y="165"/>
+	
+  
+	<trackblade x="52" y="165"/>
+	
+  
+	<trackblade x="45" y="166"/>
+	
+  
+	<trackblade x="47" y="166"/>
+	
+  
+	<trackblade x="59" y="164"/>
+	
+  
+	<trackblade x="59" y="167"/>
+	
+  
+	<trackblade x="52" y="151"/>
+	
+  
+	<boost height="45" width="103" x="212" y="139"/>
+	
+  
+	<track height="41" width="455" x="29" y="155"/>
+	
+  
+	<track height="65" width="630" x="23" y="153"/>
+	
+  
+	<track height="40" width="485" x="29" y="158"/>
+	
+  
+	<track height="42" width="499" x="30" y="161"/>
+	
+  
+	<trackwall height="46" width="215" x="10" y="72"/>
+	
+  
+	<trackwall height="42" width="215" x="295" y="87"/>
+	
+  
+	<trackwall height="24" width="74" x="71" y="-44"/>
+	
+  
+	<trackwall height="20" width="81" x="309" y="-52"/>
+	
+  
+	<trackwall height="380" width="26" x="5" y="-308"/>
+	
+  
+	<trackwall height="55" width="344" x="168" y="-421"/>
+	
+  
+	<trackwall height="223" width="51" x="47" y="-683"/>
+	
+  
+	<trackwall height="113" width="50" x="301" y="-534"/>
+	
+  
+	<textfield text="lawl ikep doin dis!" x="212" y="-496"/>
+	
+  
+	<textfield text="defeat an unamay!" x="99" y="-328"/>
+	
+  
+	<boostfruit x="423" y="-602"/>
+	
+  
+	<boostfruit x="423" y="-600"/>
+	
+  
+	<boostfruit x="423" y="-572"/>
+	
+  
+	<boostfruit x="425" y="-560"/>
+	
+  
+	<boostfruit x="433" y="-543"/>
+	
+  
+	<boostfruit x="440" y="-582"/>
+	
+  
+	<boostfruit x="439" y="-609"/>
+	
+  
+	<bossactivate explode="no" height="-221" hp="6" width="362" x="155" y="-422"/>
+	
+  
+	<rocketlauncher x="115" y="-596"/>
+	
+  
+	<rocketlauncher height="20" width="20" x="132" y="-632"/>
+	
+  
+	<rocketlauncher height="20" width="20" x="137" y="-574"/>
+	
+  
+	<trackwall height="18" width="315" x="95" y="-673"/>
+	
+  
+	<laserlauncher dir="3" x="382" y="-174"/>
+	
+  
+	<laserlauncher dir="3" x="341" y="-166"/>
+	
+  
+	<laserlauncher dir="3" x="295" y="-166"/>
+	
+  
+	<goal height="38" width="123" x="117" y="-786"/>
+	
+
+</level>

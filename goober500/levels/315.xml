@@ -1,0 +1,89 @@
+<?xml version="1.0" ?>
+<level author="George" bg="3" name="RocketLaunch">
+	
+  
+	<wall height="14.149999999999977" width="451.5" x="50.5" y="301.5"/>
+	
+  
+	<wall height="482.65" width="77.80000000000001" x="376.75" y="-188.85"/>
+	
+  
+	<wall height="-493.75" width="77.80000000000001" x="375.75" y="-187.35000000000002"/>
+	
+  
+	<wall height="-536.1499999999999" width="77.80000000000001" x="375.75" y="-679.45"/>
+	
+  
+	<wall height="-502.85000000000014" width="78.80000000000001" x="375.75" y="-1206.6"/>
+	
+  
+	<wall height="62.600000000000136" width="240.39999999999998" x="53.55" y="-1719.2"/>
+	
+  
+	<boost height="498.79999999999995" width="101.00000000000001" x="54.55" y="-2230"/>
+	
+  
+	<boost height="471.5500000000002" width="102.00000000000001" x="54.55" y="-2688.9"/>
+	
+  
+	<boost height="305.9499999999998" width="106.05000000000001" x="50.5" y="-2958.6"/>
+	
+  
+	<boost height="412.9500000000003" width="100.00000000000001" x="54.55" y="-3350.9"/>
+	
+  
+	<textfield text="Come on sargent! Time for your space lauch! Climb that ladder and ill see ya on the top!" x="63.6" y="100.55000000000001"/>
+	
+  
+	<boostfruit height="28" width="24" x="304" y="-1612.3"/>
+	
+  
+	<textfield text="T-5 seconds...4,3,2,1,BLAST OFF!!!!!" x="234.35" y="-1846.25"/>
+	
+  
+	<boostfruit x="170.7" y="-3566.5"/>
+	
+  
+	<boostfruit x="337.35" y="-3857.7"/>
+	
+  
+	<boostfruit x="144.45" y="-4010"/>
+	
+  
+	<boostfruit x="322.2" y="-4178.4"/>
+	
+  
+	<boost height="146.39999999999964" width="315.15" x="127.25" y="-4352.4"/>
+	
+  
+	<boostfruit x="130.3" y="-4520.05"/>
+	
+  
+	<boostfruit x="336.35" y="-4698.9"/>
+	
+  
+	<boostfruit x="124.25" y="-4859.5"/>
+	
+  
+	<boostfruit x="264.65" y="-5071.45"/>
+	
+  
+	<boostfruit x="129.3" y="-5329"/>
+	
+  
+	<goal height="332.1999999999998" width="440.4" x="60.6" y="-5938.8"/>
+	
+  
+	<boostfruit x="330.3" y="-5503.5"/>
+	
+  
+	<textfield text="Your in space now, so float around!" x="272.65" y="-3782.8"/>
+	
+  
+	<textfield text="BOOST FAST!!!!!" x="60.6" y="-4268.2"/>
+	
+  
+	<textfield text="dESTINATION REACHED." x="302.05" y="-5415.2"/>
+	
+
+</level>

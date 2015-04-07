@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+<level author="heather" bg="1" name="hardornot">
+	
+  
+	<wall height="53" width="46" x="453" y="169"/>
+	
+  
+	<wall height="59" width="278" x="2" y="83"/>
+	
+  
+	<wall height="65" width="280" x="5" y="279"/>
+	
+  
+	<wall height="79" width="-101" x="483" y="331"/>
+	
+  
+	<wall height="81" width="301" x="10" y="398"/>
+	
+  
+	<bossactivate explode="no" height="-42" hp="6" width="62" x="358" y="90"/>
+	
+  
+	<boostfruit x="361" y="165"/>
+	
+  
+	<boostfruit x="347" y="31"/>
+	
+  
+	<boostfruit x="176" y="26"/>
+	
+  
+	<boostfruit x="188" y="-114"/>
+	
+  
+	<boostfruit x="247" y="-214"/>
+	
+  
+	<boostfruit x="300" y="-317"/>
+	
+  
+	<boostfruit x="313" y="-435"/>
+	
+  
+	<boostfruit x="347" y="-576"/>
+	
+  
+	<rocketlauncher x="375" y="-707"/>
+	
+  
+	<trackwall height="71" width="58" x="246" y="-642"/>
+	
+  
+	<trackwall height="86" width="114" x="66" y="-758"/>
+	
+  
+	<trackwall height="99" width="141" x="257" y="-893"/>
+	
+  
+	<trackwall height="41" width="124" x="91" y="-954"/>
+	
+  
+	<boost height="33" width="75" x="354" y="-927"/>
+	
+  
+	<boost height="31" width="108" x="262" y="-924"/>
+	
+  
+	<boost height="172" width="50" x="152" y="-1178"/>
+	
+  
+	<trackblade x="15" y="-1290"/>
+	
+  
+	<trackblade x="23" y="-1244"/>
+	
+  
+	<trackblade x="21" y="-1244"/>
+	
+  
+	<trackblade x="20" y="-1195"/>
+	
+  
+	<textfield text="here we are getting tricky....." x="267" y="-659"/>
+	
+  
+	<goal height="161" width="-188" x="310" y="-1571"/>
+	
+  
+	<wall height="351" width="42" x="461" y="-1342"/>
+	
+  
+	<wall height="-156" width="49" x="465" y="-1352"/>
+	
+  
+	<activatetrackwall height="89" width="84" x="373" y="25"/>
+	
+  
+	<activatetrackwall height="90" width="-11" x="367" y="27"/>
+	
+  
+	<activatetrackwall height="65" width="-15" x="371" y="37"/>
+	
+  
+	<activatetrackwall height="49" width="27" x="368" y="52"/>
+	
+
+</level>

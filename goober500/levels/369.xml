@@ -1,0 +1,314 @@
+<?xml version="1.0" ?>
+<level author="hdss" bg="1" name="hqw">
+	
+  
+	<track height="-300" width="19" x="247" y="327"/>
+	
+  
+	<trackwall height="33" width="76" x="221" y="293"/>
+	
+  
+	<activatetrackwall height="-210" width="85" x="116" y="394"/>
+	
+  
+	<activatetrackwall height="-157" width="16" x="201" y="183"/>
+	
+  
+	<boost height="18" width="63" x="230" y="52"/>
+	
+  
+	<boost height="-301" width="-62" x="291" y="51"/>
+	
+  
+	<boost height="-480" width="65" x="229" y="-249"/>
+	
+  
+	<textfield text="..." x="250" y="-753"/>
+	
+  
+	<wall height="-253" width="59" x="197" y="-734"/>
+	
+  
+	<trackblade x="471" y="-984"/>
+	
+  
+	<trackblade x="430" y="-924"/>
+	
+  
+	<trackblade x="396" y="-896"/>
+	
+  
+	<trackblade x="382" y="-863"/>
+	
+  
+	<trackblade x="370" y="-836"/>
+	
+  
+	<trackblade x="379" y="-822"/>
+	
+  
+	<trackblade x="405" y="-823"/>
+	
+  
+	<trackblade x="414" y="-847"/>
+	
+  
+	<trackblade x="419" y="-878"/>
+	
+  
+	<trackblade x="419" y="-906"/>
+	
+  
+	<trackblade x="425" y="-939"/>
+	
+  
+	<trackblade x="443" y="-971"/>
+	
+  
+	<trackblade x="459" y="-976"/>
+	
+  
+	<trackblade x="458" y="-1003"/>
+	
+  
+	<trackblade x="440" y="-1019"/>
+	
+  
+	<trackblade x="419" y="-1004"/>
+	
+  
+	<trackblade x="415" y="-988"/>
+	
+  
+	<trackblade x="429" y="-974"/>
+	
+  
+	<trackblade x="456" y="-956"/>
+	
+  
+	<trackblade x="426" y="-887"/>
+	
+  
+	<trackblade x="384" y="-895"/>
+	
+  
+	<trackblade x="391" y="-931"/>
+	
+  
+	<trackblade x="423" y="-977"/>
+	
+  
+	<trackblade x="400" y="-1026"/>
+	
+  
+	<trackblade x="383" y="-1018"/>
+	
+  
+	<trackblade x="371" y="-954"/>
+	
+  
+	<trackblade x="427" y="-962"/>
+	
+  
+	<trackblade x="396" y="-956"/>
+	
+  
+	<trackblade x="367" y="-1022"/>
+	
+  
+	<trackblade x="396" y="-988"/>
+	
+  
+	<boost height="10" width="-35" x="227" y="-727"/>
+	
+  
+	<boost height="31" width="-69" x="191" y="-727"/>
+	
+  
+	<boostfruit x="147" y="-774"/>
+	
+  
+	<boostfruit x="147" y="-818"/>
+	
+  
+	<boostfruit x="147" y="-849"/>
+	
+  
+	<boostfruit x="143" y="-904"/>
+	
+  
+	<boostfruit x="143" y="-921"/>
+	
+  
+	<boostfruit x="151" y="-968"/>
+	
+  
+	<boostfruit x="151" y="-991"/>
+	
+  
+	<boostfruit x="150" y="-1038"/>
+	
+  
+	<boostfruit x="140" y="-1070"/>
+	
+  
+	<boostfruit x="140" y="-1076"/>
+	
+  
+	<boostfruit x="130" y="-1142"/>
+	
+  
+	<boostfruit x="131" y="-1152"/>
+	
+  
+	<boostfruit x="131" y="-1157"/>
+	
+  
+	<boostfruit x="131" y="-1167"/>
+	
+  
+	<boostfruit x="131" y="-1177"/>
+	
+  
+	<boostfruit x="131" y="-1197"/>
+	
+  
+	<boostfruit x="131" y="-1217"/>
+	
+  
+	<boostfruit x="131" y="-1257"/>
+	
+  
+	<boostfruit x="131" y="-1302"/>
+	
+  
+	<boostfruit x="131" y="-1342"/>
+	
+  
+	<boostfruit x="131" y="-1377"/>
+	
+  
+	<boostfruit x="131" y="-1407"/>
+	
+  
+	<boostfruit x="131" y="-1442"/>
+	
+  
+	<boostfruit x="131" y="-1477"/>
+	
+  
+	<boostfruit x="131" y="-1502"/>
+	
+  
+	<boostfruit x="131" y="-1527"/>
+	
+  
+	<boostfruit x="131" y="-1557"/>
+	
+  
+	<boostfruit x="131" y="-1582"/>
+	
+  
+	<boostfruit x="131" y="-1607"/>
+	
+  
+	<boostfruit x="131" y="-1627"/>
+	
+  
+	<boostfruit x="131" y="-1657"/>
+	
+  
+	<boostfruit x="131" y="-1682"/>
+	
+  
+	<boostfruit x="131" y="-1707"/>
+	
+  
+	<boostfruit x="131" y="-1727"/>
+	
+  
+	<boostfruit x="131" y="-1752"/>
+	
+  
+	<boostfruit x="131" y="-1787"/>
+	
+  
+	<boostfruit x="131" y="-1812"/>
+	
+  
+	<boostfruit x="131" y="-1832"/>
+	
+  
+	<boostfruit x="131" y="-1862"/>
+	
+  
+	<boostfruit x="131" y="-1882"/>
+	
+  
+	<boostfruit x="131" y="-1907"/>
+	
+  
+	<boostfruit x="131" y="-1917"/>
+	
+  
+	<boostfruit x="131" y="-1927"/>
+	
+  
+	<boostfruit x="131" y="-1942"/>
+	
+  
+	<boostfruit x="131" y="-1952"/>
+	
+  
+	<boostfruit x="131" y="-1967"/>
+	
+  
+	<boostfruit x="131" y="-1977"/>
+	
+  
+	<boostfruit x="131" y="-1987"/>
+	
+  
+	<boostfruit x="131" y="-2002"/>
+	
+  
+	<boostfruit x="131" y="-2032"/>
+	
+  
+	<boostfruit x="131" y="-2062"/>
+	
+  
+	<boostfruit x="131" y="-2097"/>
+	
+  
+	<boostfruit x="131" y="-2137"/>
+	
+  
+	<boostfruit x="131" y="-2237"/>
+	
+  
+	<boostfruit x="131" y="-2307"/>
+	
+  
+	<boostfruit x="131" y="-2392"/>
+	
+  
+	<boostfruit x="131" y="-2467"/>
+	
+  
+	<boostfruit x="131" y="-2547"/>
+	
+  
+	<boostfruit x="131" y="-2632"/>
+	
+  
+	<boostfruit x="131" y="-2717"/>
+	
+  
+	<flowerboss y="872"/>
+	
+  
+	<goal height="356" width="173" x="44" y="-3107"/>
+	
+
+</level>

@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="coolman">
+	
+  
+	<wall height="-47" width="405" x="66" y="411"/>
+	
+  
+	<track height="113" width="50" x="278" y="176"/>
+	
+  
+	<activatetrackwall height="41" width="59" x="257" y="200"/>
+	
+  
+	<goal height="277" width="468" x="20" y="-1045"/>
+	
+  
+	<boostfruit x="297" y="162"/>
+	
+  
+	<boostfruit x="240" y="321"/>
+	
+  
+	<wall height="221" width="-42" x="418" y="143"/>
+	
+  
+	<wall height="178" width="-68" x="165" y="188"/>
+	
+  
+	<trackblade x="372" y="-406"/>
+	
+  
+	<trackblade x="125" y="-407"/>
+	
+  
+	<deathwall height="242" width="154" x="23" y="-431"/>
+	
+  
+	<deathwall height="315" width="176" x="321" y="-467"/>
+	
+
+</level>

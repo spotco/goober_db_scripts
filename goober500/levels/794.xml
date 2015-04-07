@@ -1,0 +1,200 @@
+<?xml version="1.0" ?>
+<level author="sotco" bg="1" name="goodboy">
+	
+  
+	<wall height="41" width="60" x="111" y="244"/>
+	
+  
+	<wall height="40" width="81" x="325" y="263"/>
+	
+  
+	<wall height="28" width="27" x="239" y="308"/>
+	
+  
+	<wall height="25" width="128" x="225" y="394"/>
+	
+  
+	<wall height="55" width="18" x="355" y="364"/>
+	
+  
+	<wall height="18" width="60" x="344" y="356"/>
+	
+  
+	<wall height="292" width="28" x="67" y="177"/>
+	
+  
+	<wall height="29" width="358" x="77" y="460"/>
+	
+  
+	<wall height="-342" width="39" x="435" y="483"/>
+	
+  
+	<boostfruit x="82" y="196"/>
+	
+  
+	<boostfruit x="154" y="161"/>
+	
+  
+	<boostfruit x="192" y="138"/>
+	
+  
+	<boostfruit x="213" y="126"/>
+	
+  
+	<boostfruit x="252" y="108"/>
+	
+  
+	<boostfruit x="265" y="100"/>
+	
+  
+	<boostfruit x="182" y="148"/>
+	
+  
+	<boostfruit x="158" y="163"/>
+	
+  
+	<boostfruit x="109" y="190"/>
+	
+  
+	<boostfruit x="87" y="190"/>
+	
+  
+	<boostfruit x="91" y="107"/>
+	
+  
+	<boostfruit x="119" y="85"/>
+	
+  
+	<boostfruit x="146" y="60"/>
+	
+  
+	<boostfruit x="186" y="45"/>
+	
+  
+	<boostfruit x="246" y="41"/>
+	
+  
+	<boostfruit x="322" y="41"/>
+	
+  
+	<boostfruit x="377" y="51"/>
+	
+  
+	<boostfruit x="423" y="85"/>
+	
+  
+	<boostfruit x="433" y="112"/>
+	
+  
+	<boostfruit x="435" y="130"/>
+	
+  
+	<boostfruit x="432" y="128"/>
+	
+  
+	<boostfruit x="362" y="92"/>
+	
+  
+	<boostfruit x="359" y="93"/>
+	
+  
+	<boostfruit x="281" y="94"/>
+	
+  
+	<boostfruit x="373" y="91"/>
+	
+  
+	<boostfruit x="418" y="105"/>
+	
+  
+	<boostfruit x="421" y="106"/>
+	
+  
+	<boostfruit x="391" y="88"/>
+	
+  
+	<boostfruit x="324" y="80"/>
+	
+  
+	<boostfruit x="295" y="82"/>
+	
+  
+	<boostfruit x="265" y="88"/>
+	
+  
+	<boostfruit x="193" y="104"/>
+	
+  
+	<boostfruit x="146" y="138"/>
+	
+  
+	<boostfruit x="100" y="165"/>
+	
+  
+	<boostfruit x="85" y="171"/>
+	
+  
+	<boostfruit x="97" y="131"/>
+	
+  
+	<boostfruit x="187" y="71"/>
+	
+  
+	<boostfruit x="307" y="50"/>
+	
+  
+	<boostfruit x="359" y="51"/>
+	
+  
+	<boostfruit x="384" y="71"/>
+	
+  
+	<boostfruit x="289" y="67"/>
+	
+  
+	<boostfruit x="180" y="54"/>
+	
+  
+	<boostfruit x="133" y="74"/>
+	
+  
+	<boostfruit x="81" y="141"/>
+	
+  
+	<boostfruit x="72" y="183"/>
+	
+  
+	<boostfruit x="86" y="177"/>
+	
+  
+	<boostfruit x="101" y="102"/>
+	
+  
+	<boostfruit x="149" y="97"/>
+	
+  
+	<boostfruit x="209" y="90"/>
+	
+  
+	<boostfruit x="266" y="64"/>
+	
+  
+	<boostfruit x="277" y="58"/>
+	
+  
+	<boostfruit x="251" y="56"/>
+	
+  
+	<boostfruit x="229" y="56"/>
+	
+  
+	<goal height="-118" width="-251" x="422" y="30"/>
+	
+  
+	<goal height="-39" width="-132" x="192" y="22"/>
+	
+  
+	<boostfruit x="297" y="-115"/>
+	
+
+</level>

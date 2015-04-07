@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<level author="abcd" bg="3" name="mydiygame">
+	
+  
+	<wall height="104" width="194.85000000000002" x="153.7" y="268.6"/>
+	
+  
+	<deathwall height="152" width="150.3" x="49.7" y="15.45"/>
+	
+  
+	<wall height="197.14999999999998" width="58.25" x="402.3" y="172"/>
+	
+  
+	<wall height="49.14999999999999" width="139.40000000000003" x="207.45" y="69.15"/>
+	
+  
+	<wall height="17.150000000000006" width="48" x="401.15" y="-30.400000000000006"/>
+	
+  
+	<wall height="286.3" width="11.450000000000017" x="200.5" y="-286.75"/>
+	
+  
+	<wall height="17.69999999999999" width="49.69999999999999" x="300" y="-99.25"/>
+	
+  
+	<boost height="208" width="109.15000000000003" x="297.15" y="-436.7"/>
+	
+  
+	<deathwall height="96" width="54.849999999999994" x="67.45" y="-504.1"/>
+	
+  
+	<activatetrackwall height="142.25" width="98.30000000000001" x="392" y="-696.1"/>
+	
+  
+	<trackblade x="91.45" y="-766.4"/>
+	
+  
+	<trackblade x="106.85" y="-633.25"/>
+	
+  
+	<wall height="48" width="46.299999999999955" x="302.85" y="-627.55"/>
+	
+  
+	<wall height="136" width="132" x="134.3" y="-949.85"/>
+	
+  
+	<boost height="166.30000000000007" width="98.25" x="302.3" y="-853.85"/>
+	
+  
+	<textfield text="almost there:)" x="358.85" y="-944.1"/>
+	
+  
+	<wall height="91.40000000000009" width="184" x="236" y="-1165.4"/>
+	
+  
+	<deathwall height="113.7" width="83.39999999999999" x="12.5" y="-1199.65"/>
+	
+  
+	<textfield text="becareful of the vines!!!" x="142.3" y="-1013.4"/>
+	
+  
+	<goal height="141.1500000000001" width="318.25" x="147.45" y="-1381"/>
+	
+  
+	<wall height="99.44999999999999" width="40" x="209.7" y="-275.55"/>
+	
+  
+	<deathwall height="78.25" width="76.60000000000001" x="65.7" y="-312.1"/>
+	
+  
+	<wall height="134.25" width="109.15" x="150.85" y="-579.25"/>
+	
+  
+	<trackblade x="194.85" y="-738.1"/>
+	
+  
+	<trackblade x="200" y="-430.1"/>
+	
+  
+	<trackblade x="462.3" y="-441"/>
+	
+  
+	<wall height="28.55000000000001" width="80" x="426.3" y="-502.1"/>
+	
+  
+	<boostfruit x="466.85" y="-522.1"/>
+	
+  
+	<textfield text="hip hip hooray!!" x="243.45" y="-382.1"/>
+	
+  
+	<textfield text="hello,hope you like it:)" x="193.7" y="240.14999999999998"/>
+	
+
+</level>

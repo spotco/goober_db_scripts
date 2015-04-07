@@ -1,0 +1,143 @@
+<?xml version="1.0" ?>
+<level author="DTBYHBY" bg="1" name="DELANOLEVEL1">
+	
+  
+	<wall height="207" width="499" x="0" y="293"/>
+	
+  
+	<boostfruit x="234" y="126"/>
+	
+  
+	<boostfruit x="108" y="53"/>
+	
+  
+	<boostfruit x="416" y="47"/>
+	
+  
+	<boostfruit x="402" y="132"/>
+	
+  
+	<boostfruit x="263" y="49"/>
+	
+  
+	<boostfruit x="336" y="338"/>
+	
+  
+	<boostfruit x="258" y="-227"/>
+	
+  
+	<boostfruit x="281" y="-557"/>
+	
+  
+	<boostfruit x="198" y="-655"/>
+	
+  
+	<boostfruit x="317" y="-672"/>
+	
+  
+	<boostfruit x="280" y="-783"/>
+	
+  
+	<boostfruit x="267" y="-968"/>
+	
+  
+	<laserlauncher dir="3" x="-152" y="-1033"/>
+	
+  
+	<laserlauncher dir="3" x="208" y="-1281"/>
+	
+  
+	<textfield text="YOU MADE IT THIS FAR..." x="180" y="-1133"/>
+	
+  
+	<boost height="179" width="93" x="219" y="-1188"/>
+	
+  
+	<boost height="16" width="16" x="117" y="-1178"/>
+	
+  
+	<wall height="88" width="406" x="29" y="-1315"/>
+	
+  
+	<boost height="34" width="36" x="452" y="-1213"/>
+	
+  
+	<boost height="24" width="11" x="6" y="-1211"/>
+	
+  
+	<deathwall height="-201" width="-64" x="66" y="-1375"/>
+	
+  
+	<deathwall height="-234" width="54" x="447" y="-1379"/>
+	
+  
+	<deathwall height="-272" width="-58" x="56" y="-1550"/>
+	
+  
+	<deathwall height="-238" width="72" x="443" y="-1611"/>
+	
+  
+	<deathwall height="-297" width="78" x="440" y="-1848"/>
+	
+  
+	<deathwall height="-347" width="-80" x="59" y="-1828"/>
+	
+  
+	<goal height="16" width="13" x="147" y="-2062"/>
+	
+  
+	<goal height="41" width="40" x="293" y="-1985"/>
+	
+  
+	<goal height="116" width="131" x="173" y="-1828"/>
+	
+  
+	<goal height="-15" width="59" x="247" y="-2025"/>
+	
+  
+	<goal height="24" width="52" x="218" y="-1946"/>
+	
+  
+	<wall height="115" width="195" x="168" y="-1512"/>
+	
+  
+	<wall height="26" width="37" x="373" y="-1492"/>
+	
+  
+	<boost height="102" width="72" x="82" y="-1433"/>
+	
+  
+	<boost height="63" width="25" x="85" y="-1511"/>
+	
+  
+	<boost height="83" width="19" x="145" y="-1519"/>
+	
+  
+	<wall height="40" width="31" x="111" y="-1506"/>
+	
+  
+	<textfield text="GOOD JOB! YOUVE MEATEN MY FIRST LEVEL" x="361" y="-1747"/>
+	
+  
+	<boostfruit x="465" y="-995"/>
+	
+  
+	<wall height="17" width="51" x="449" y="-1370"/>
+	
+  
+	<wall height="18" width="-71" x="64" y="-1369"/>
+	
+  
+	<textfield text="YOU THINK THIS IS HARD? SEE MY OTHER LEVELS NEXT WEEK!" x="86" y="229"/>
+	
+  
+	<textfield text="MADE BY DELANO THOMPSON" x="130" y="-1897"/>
+	
+  
+	<boost height="35" width="58" x="118" y="-1612"/>
+	
+  
+	<boost height="41" width="29" x="292" y="-1622"/>
+	
+
+</level>

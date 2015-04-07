@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<level author="tyhxt" bg="1" name="bcftjx">
+	
+  
+	<boost height="171" width="392" x="93" y="272"/>
+	
+  
+	<boost height="-165" width="-353" x="487" y="443"/>
+	
+  
+	<boost height="-12" width="-46" x="133" y="293"/>
+	
+  
+	<boost height="117" width="-20" x="121" y="310"/>
+	
+  
+	<laserlauncher dir="-3" x="92" y="172"/>
+	
+  
+	<wall height="-60" width="50" x="159" y="256"/>
+	
+  
+	<wall height="92" width="35" x="167" y="67"/>
+	
+  
+	<wall height="-256" width="133" x="296" y="270"/>
+	
+  
+	<wall height="186" width="19" x="470" y="138"/>
+	
+  
+	<boostfruit x="352" y="-71"/>
+	
+  
+	<boostfruit x="211" y="-145"/>
+	
+  
+	<trackwall height="93" width="54" x="400" y="-306"/>
+	
+  
+	<rocketlauncher x="72" y="-767"/>
+	
+  
+	<wall height="97" width="158" x="178" y="-625"/>
+	
+  
+	<wall height="105" width="107" x="397" y="-622"/>
+	
+  
+	<wall height="-103" width="-68" x="307" y="-622"/>
+	
+  
+	<wall height="-273" width="106" x="402" y="-640"/>
+	
+  
+	<wall height="-167" width="124" x="398" y="-886"/>
+	
+  
+	<wall height="-268" width="78" x="236" y="-797"/>
+	
+  
+	<wall height="157" width="168" x="58" y="-997"/>
+	
+  
+	<laserlauncher dir="-3" x="232" y="-400"/>
+	
+  
+	<laserlauncher dir="-3" x="145" y="-301"/>
+	
+  
+	<laserlauncher dir="-3" x="275" y="-310"/>
+	
+  
+	<laserlauncher dir="-3" x="207" y="-290"/>
+	
+  
+	<laserlauncher dir="-3" x="205" y="-370"/>
+	
+  
+	<boost height="444" width="54" x="344" y="-653"/>
+	
+  
+	<activatetrackwall height="-77" width="13" x="85" y="-669"/>
+	
+  
+	<activatetrackwall height="26" width="135" x="71" y="-1036"/>
+	
+  
+	<goal height="486" width="506" x="6" y="-1991"/>
+	
+
+</level>

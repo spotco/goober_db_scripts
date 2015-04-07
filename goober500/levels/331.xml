@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="Spicy">
+	
+  
+	<wall height="48" width="150" x="199" y="371"/>
+	
+  
+	<wall height="151" width="50" x="301" y="171"/>
+	
+  
+	<wall height="-198" width="-48" x="250" y="220"/>
+	
+  
+	<wall height="49" width="98" x="300" y="-29"/>
+	
+  
+	<wall height="97" width="48" x="351" y="-179"/>
+	
+  
+	<boost height="197" width="50" x="350" y="-430"/>
+	
+  
+	<goal height="96" width="56" x="48" y="-780"/>
+	
+  
+	<wall height="50" width="49" x="401" y="-480"/>
+	
+  
+	<goal height="-97" width="-60" x="107" y="-679"/>
+	
+  
+	<wall height="-48" width="-199" x="349" y="-431"/>
+	
+  
+	<wall height="99" width="55" x="99" y="-530"/>
+	
+  
+	<wall height="151" width="52" x="48" y="-581"/>
+	
+  
+	<deathwall height="23" width="272" x="201" y="-776"/>
+	
+  
+	<deathwall height="20" width="97" x="203" y="-748"/>
+	
+  
+	<deathwall height="31" width="92" x="206" y="-731"/>
+	
+  
+	<deathwall height="24" width="71" x="400" y="-747"/>
+	
+  
+	<deathwall height="18" width="117" x="178" y="-703"/>
+	
+  
+	<deathwall height="28" width="133" x="162" y="-681"/>
+	
+  
+	<deathwall height="40" width="90" x="204" y="-650"/>
+	
+
+</level>

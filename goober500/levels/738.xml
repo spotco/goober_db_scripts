@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="listentohim">
+	
+  
+	<wall height="110" width="427" x="34" y="441"/>
+	
+  
+	<wall height="72" width="180" x="45" y="317"/>
+	
+  
+	<wall height="70" width="153" x="314" y="231"/>
+	
+  
+	<goal height="233" width="502" x="13" y="-716"/>
+	
+  
+	<wall height="28" width="192" x="304" y="-468"/>
+	
+  
+	<boost height="61" width="63" x="39" y="114"/>
+	
+  
+	<boost height="106" width="83" x="363" y="49"/>
+	
+  
+	<deathwall height="58" width="90" x="364" y="-196"/>
+	
+  
+	<textfield text="idz w lewo!" x="121" y="30"/>
+	
+  
+	<deathwall height="28" width="-34" x="33" y="-176"/>
+	
+  
+	<wall height="-437" width="49" x="456" y="230"/>
+	
+  
+	<wall height="-298" width="73" x="458" y="-206"/>
+	
+  
+	<wall height="-172" width="-74" x="29" y="-219"/>
+	
+  
+	<wall height="-150" width="-117" x="23" y="-187"/>
+	
+  
+	<wall height="-447" width="-129" x="40" y="308"/>
+	
+
+</level>

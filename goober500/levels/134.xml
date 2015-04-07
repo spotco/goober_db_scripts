@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="bigbang">
+	
+  
+	<boost height="-328.15" width="103.25000000000001" x="47.55" y="497.25"/>
+	
+  
+	<trackblade x="221.2" y="478.05"/>
+	
+  
+	<trackblade x="324.5" y="471.65"/>
+	
+  
+	<wall height="21.950000000000045" width="532.9" x="0" y="474.4"/>
+	
+  
+	<deathwall height="-151.75000000000003" width="17.350000000000023" x="200.2" y="320.85"/>
+	
+  
+	<boostfruit x="122.5" y="146.25"/>
+	
+  
+	<boostfruit x="123.4" y="94.15"/>
+	
+  
+	<boostfruit x="124.3" y="42.05"/>
+	
+  
+	<activatetrackwall height="100.55" width="101.5" x="199.25" y="19.2"/>
+	
+  
+	<deathwall height="-347.35" width="49.35000000000002" x="351" y="118.55000000000001"/>
+	
+  
+	<boostfruit x="284.3" y="-252.55"/>
+	
+  
+	<wall height="365.65000000000003" width="28.350000000000023" x="468" y="-231.55"/>
+	
+  
+	<goal height="53.05000000000001" width="64.90000000000003" x="402.2" y="68.25"/>
+	
+  
+	<boostfruit x="281.55" y="-312"/>
+	
+  
+	<boostfruit x="326.35" y="-302.85"/>
+	
+  
+	<boostfruit x="382.1" y="-309.25"/>
+	
+  
+	<boostfruit x="430.55" y="-305.6"/>
+	
+  
+	<goal height="248.6" width="66.75" x="405.85" y="-177.6"/>
+	
+
+</level>

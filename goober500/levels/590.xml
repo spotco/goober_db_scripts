@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<level author="SOFIAANDAUGUSTIN" bg="1" name="ZONIKS20">
+	
+  
+	<wall height="178" width="151" x="263" y="263"/>
+	
+  
+	<wall height="-47" width="-28" x="152" y="198"/>
+	
+  
+	<wall height="-29" width="-67" x="218" y="263"/>
+	
+  
+	<wall height="-50" width="72" x="213" y="97"/>
+	
+  
+	<boost height="26" width="37" x="297" y="-71"/>
+	
+  
+	<boost height="120" width="94" x="321" y="-64"/>
+	
+  
+	<wall height="-80" width="-34" x="249" y="-192"/>
+	
+  
+	<wall height="-70" width="-83" x="284" y="-116"/>
+	
+  
+	<wall height="-50" width="121" x="299" y="-218"/>
+	
+  
+	<wall height="-70" width="-120" x="277" y="-347"/>
+	
+  
+	<boostfruit x="349" y="-330"/>
+	
+  
+	<boostfruit x="366" y="-558"/>
+	
+  
+	<boostfruit x="263" y="-616"/>
+	
+  
+	<boostfruit x="338" y="-682"/>
+	
+  
+	<boostfruit x="389" y="-698"/>
+	
+  
+	<boostfruit x="236" y="-744"/>
+	
+  
+	<boostfruit x="231" y="-764"/>
+	
+  
+	<goal height="-69" width="-158" x="333" y="-899"/>
+	
+  
+	<boostfruit x="305" y="-164"/>
+	
+
+</level>

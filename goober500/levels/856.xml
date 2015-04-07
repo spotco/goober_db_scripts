@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<level author="catpakoo" bg="1" name="tosomeone2">
+	
+  
+	<textfield text="I AM NOT A TROLL! also, is someone peter?" x="106" y="166"/>
+	
+  
+	<wall height="108" width="-580" x="358" y="373"/>
+	
+  
+	<wall height="-252" width="220" x="344" y="322"/>
+	
+  
+	<wall height="77" width="70" x="55" y="47"/>
+	
+  
+	<wall height="32" width="40" x="216" y="-6"/>
+	
+  
+	<textfield text="listen to me, or the internet can just ignore you. You're cyberbullying, peter." x="117" y="-87"/>
+	
+  
+	<textfield text="cyberbullying, peter." x="145" y="-32"/>
+	
+  
+	<wall height="-367" width="-135" x="98" y="-56"/>
+	
+  
+	<boost height="-707" width="73" x="117" y="-308"/>
+	
+  
+	<wall height="116" width="137" x="86" y="-1127"/>
+	
+  
+	<wall height="63" width="106" x="281" y="-875"/>
+	
+  
+	<goal height="53" width="50" x="366" y="-1075"/>
+	
+  
+	<textfield text="though i may believe that someone could be typing in multiple names" x="360" y="-921"/>
+	
+  
+	<textfield text="names, it is very possible but that someone is NOT ME." x="355" y="-868"/>
+	
+
+</level>

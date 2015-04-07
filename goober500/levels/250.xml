@@ -1,0 +1,137 @@
+<?xml version="1.0" ?>
+<level author="nope" bg="1" name="beer">
+	
+  
+	<wall height="51" width="434" x="32" y="321"/>
+	
+  
+	<boost height="36" width="289" x="103" y="191"/>
+	
+  
+	<textfield text="beer is awsome" x="90" y="231"/>
+	
+  
+	<boostfruit x="116" y="275"/>
+	
+  
+	<boostfruit x="140" y="258"/>
+	
+  
+	<boostfruit x="125" y="258"/>
+	
+  
+	<boostfruit x="125" y="258"/>
+	
+  
+	<boostfruit x="115" y="258"/>
+	
+  
+	<boostfruit x="113" y="258"/>
+	
+  
+	<boostfruit x="97" y="262"/>
+	
+  
+	<boostfruit x="79" y="258"/>
+	
+  
+	<boostfruit x="77" y="259"/>
+	
+  
+	<boostfruit x="65" y="274"/>
+	
+  
+	<boostfruit x="61" y="283"/>
+	
+  
+	<boostfruit x="59" y="294"/>
+	
+  
+	<boostfruit x="58" y="305"/>
+	
+  
+	<boostfruit x="62" y="313"/>
+	
+  
+	<boostfruit x="69" y="318"/>
+	
+  
+	<boostfruit x="83" y="326"/>
+	
+  
+	<boostfruit x="95" y="323"/>
+	
+  
+	<boostfruit x="104" y="325"/>
+	
+  
+	<boostfruit x="115" y="318"/>
+	
+  
+	<boostfruit x="121" y="308"/>
+	
+  
+	<boostfruit x="123" y="298"/>
+	
+  
+	<boostfruit x="123" y="290"/>
+	
+  
+	<bossactivate explode="no" height="24" hp="6" width="261" x="117" y="138"/>
+	
+  
+	<bossactivate explode="no" height="22" hp="6" width="282" x="100" y="103"/>
+	
+  
+	<bossactivate explode="no" height="27" hp="6" width="278" x="104" y="63"/>
+	
+  
+	<bossactivate explode="no" height="153" hp="6" width="282" x="108" y="30"/>
+	
+  
+	<boost height="172" width="353" x="67" y="12"/>
+	
+  
+	<trackblade x="53" y="-48"/>
+	
+  
+	<trackblade x="438" y="-41"/>
+	
+  
+	<trackblade x="103" y="-103"/>
+	
+  
+	<trackblade x="405" y="-107"/>
+	
+  
+	<trackblade x="163" y="-148"/>
+	
+  
+	<trackblade x="334" y="-162"/>
+	
+  
+	<track height="14" width="282" x="101" y="-247"/>
+	
+  
+	<laserlauncher dir="3" x="392" y="-256"/>
+	
+  
+	<laserlauncher dir="-3" x="107" y="-250"/>
+	
+  
+	<boostfruit x="246" y="-131"/>
+	
+  
+	<boostfruit x="244" y="-306"/>
+	
+  
+	<boostfruit x="239" y="-454"/>
+	
+  
+	<boostfruit x="230" y="-581"/>
+	
+  
+	<goal height="31" width="227" x="111" y="-696"/>
+	
+
+</level>

@@ -1,0 +1,149 @@
+<?xml version="1.0" ?>
+<level author="bjarni" bg="1" name="hello">
+	
+  
+	<wall height="75" width="165" x="191" y="516"/>
+	
+  
+	<wall height="72" width="180" x="10" y="517"/>
+	
+  
+	<wall height="79" width="139" x="358" y="514"/>
+	
+  
+	<textfield text="Hi and welcome to my fist level" x="90" y="362"/>
+	
+  
+	<deathwall height="241" width="67" x="20" y="270"/>
+	
+  
+	<deathwall height="290" width="-57" x="484" y="215"/>
+	
+  
+	<deathwall height="98" width="54" x="34" y="162"/>
+	
+  
+	<deathwall height="404" width="50" x="1" y="-2981"/>
+	
+  
+	<deathwall height="608" width="26" x="1" y="-2981"/>
+	
+  
+	<deathwall height="247" width="19" x="31" y="-2578"/>
+	
+  
+	<deathwall height="37" width="21" x="5" y="-2370"/>
+	
+  
+	<deathwall height="481" width="49" x="1" y="-2332"/>
+	
+  
+	<deathwall height="499" width="47" x="3" y="-1850"/>
+	
+  
+	<deathwall height="465" width="47" x="2" y="-1347"/>
+	
+  
+	<deathwall height="557" width="62" x="2" y="-1347"/>
+	
+  
+	<deathwall height="498" width="34" x="2" y="-1347"/>
+	
+  
+	<deathwall height="491" width="46" x="5" y="-878"/>
+	
+  
+	<deathwall height="491" width="48" x="0" y="-384"/>
+	
+  
+	<deathwall height="513" width="28" x="0" y="-384"/>
+	
+  
+	<deathwall height="43" width="55" x="5" y="124"/>
+	
+  
+	<deathwall height="-336" width="-55" x="482" y="207"/>
+	
+  
+	<deathwall height="-174" width="-52" x="480" y="-146"/>
+	
+  
+	<deathwall height="-445" width="-54" x="475" y="-329"/>
+	
+  
+	<deathwall height="-275" width="-63" x="469" y="-781"/>
+	
+  
+	<boost height="-493" width="54" x="146" y="502"/>
+	
+  
+	<boost height="-394" width="54" x="148" y="5"/>
+	
+  
+	<boost height="-371" width="51" x="151" y="-393"/>
+	
+  
+	<boost height="-76" width="49" x="150" y="-770"/>
+	
+  
+	<boost height="79" width="89" x="64" y="-848"/>
+	
+  
+	<boost height="63" width="200" x="198" y="-844"/>
+	
+  
+	<boost height="499" width="81" x="63" y="-769"/>
+	
+  
+	<boost height="491" width="81" x="63" y="-273"/>
+	
+  
+	<boost height="291" width="82" x="62" y="220"/>
+	
+  
+	<boost height="-118" width="334" x="65" y="-855"/>
+	
+  
+	<boost height="-23" width="352" x="69" y="-854"/>
+	
+  
+	<boost height="32" width="352" x="59" y="-861"/>
+	
+  
+	<boost height="-458" width="337" x="62" y="-974"/>
+	
+  
+	<boost height="-354" width="338" x="61" y="-1434"/>
+	
+  
+	<boost height="-256" width="337" x="62" y="-1790"/>
+	
+  
+	<goal height="286" width="340" x="60" y="-2333"/>
+	
+  
+	<deathwall height="80" width="358" x="56" y="-2418"/>
+	
+  
+	<deathwall height="456" width="88" x="410" y="-2416"/>
+	
+  
+	<deathwall height="453" width="92" x="406" y="-1961"/>
+	
+  
+	<deathwall height="409" width="93" x="404" y="-1505"/>
+	
+  
+	<deathwall height="275" width="90" x="404" y="-1097"/>
+	
+  
+	<deathwall height="374" width="95" x="403" y="-816"/>
+	
+  
+	<deathwall height="442" width="92" x="409" y="-440"/>
+	
+  
+	<deathwall height="415" width="86" x="411" y="2"/>
+	
+
+</level>

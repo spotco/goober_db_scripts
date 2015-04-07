@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<level author="lamboe" bg="1" name="glutcha">
+	
+  
+	<wall height="821" width="80" x="88" y="-745"/>
+	
+  
+	<wall height="795" width="68" x="338" y="-742"/>
+	
+  
+	<track height="806" width="75" x="215" y="-635"/>
+	
+  
+	<wall height="91" width="382" x="29" y="369"/>
+	
+  
+	<wall height="107" width="105" x="94" y="280"/>
+	
+  
+	<trackwall height="67" width="171" x="168" y="12"/>
+	
+  
+	<deathwall height="142" width="89" x="248" y="-693"/>
+	
+  
+	<deathwall height="-481" width="24" x="167" y="-574"/>
+	
+  
+	<deathwall height="96" width="215" x="318" y="-687"/>
+	
+  
+	<deathwall height="-76" width="-392" x="172" y="-617"/>
+	
+  
+	<boost height="-284" width="40" x="202" y="-610"/>
+	
+  
+	<wall height="106" width="166" x="321" y="-975"/>
+	
+  
+	<wall height="-72" width="-194" x="178" y="-1028"/>
+	
+  
+	<wall height="28" width="346" x="259" y="-1166"/>
+	
+  
+	<rocketlauncher x="67" y="-1526"/>
+	
+  
+	<laserlauncher dir="-3" x="411" y="-1848"/>
+	
+  
+	<deathwall height="61" width="657" x="-339" y="-2255"/>
+	
+  
+	<deathwall height="55" width="290" x="258" y="-2449"/>
+	
+  
+	<goal height="-219" width="-372" x="130" y="-2293"/>
+	
+  
+	<activatetrackwall height="88" width="429" x="24" y="-1333"/>
+	
+  
+	<wall height="86" width="-92" x="145" y="165"/>
+	
+  
+	<wall height="-319" width="79" x="83" y="71"/>
+	
+  
+	<wall height="-311" width="65" x="339" y="57"/>
+	
+  
+	<boostfruit x="254" y="-981"/>
+	
+  
+	<track height="-717" width="-52" x="318" y="172"/>
+	
+
+</level>

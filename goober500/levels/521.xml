@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<level author="LLL" bg="1" name="AChoice">
+	
+  
+	<wall height="456" width="224" x="1" y="-46"/>
+	
+  
+	<wall height="457" width="199" x="303" y="-47"/>
+	
+  
+	<wall height="19" width="86" x="220" y="391"/>
+	
+  
+	<boost height="263" width="132" x="194" y="-330"/>
+	
+  
+	<boostfruit x="17" y="-348"/>
+	
+  
+	<boostfruit x="63" y="-331"/>
+	
+  
+	<boostfruit x="98" y="-352"/>
+	
+  
+	<boostfruit x="123" y="-328"/>
+	
+  
+	<boostfruit x="159" y="-344"/>
+	
+  
+	<boostfruit x="338" y="-351"/>
+	
+  
+	<boostfruit x="363" y="-323"/>
+	
+  
+	<boostfruit x="392" y="-359"/>
+	
+  
+	<boostfruit x="410" y="-320"/>
+	
+  
+	<boostfruit x="447" y="-356"/>
+	
+  
+	<boostfruit x="473" y="-316"/>
+	
+  
+	<boostfruit x="120" y="-654"/>
+	
+  
+	<boostfruit x="350" y="-668"/>
+	
+  
+	<deathwall height="235" width="174" x="1" y="-313"/>
+	
+  
+	<deathwall height="215" width="147" x="347" y="-291"/>
+	
+  
+	<wall height="330" width="70" x="23" y="-978"/>
+	
+  
+	<wall height="240" width="59" x="203" y="-976"/>
+	
+  
+	<track height="445" width="15" x="442" y="-970"/>
+	
+  
+	<trackblade x="447" y="-941"/>
+	
+  
+	<wall height="285" width="40" x="33" y="-1263"/>
+	
+  
+	<wall height="164" width="33" x="172" y="-1295"/>
+	
+  
+	<wall height="211" width="36" x="315" y="-1288"/>
+	
+  
+	<wall height="179" width="26" x="174" y="-1471"/>
+	
+  
+	<wall height="181" width="26" x="175" y="-1641"/>
+	
+  
+	<deathwall height="360" width="25" x="5" y="-1681"/>
+	
+  
+	<deathwall height="369" width="27" x="469" y="-1692"/>
+	
+  
+	<goal height="145" width="393" x="48" y="-2057"/>
+	
+  
+	<boostfruit x="311" y="-1656"/>
+	
+  
+	<boostfruit x="403" y="-1794"/>
+	
+  
+	<boost height="308" width="39" x="41" y="-1888"/>
+	
+  
+	<boostfruit x="241" y="-1555"/>
+	
+
+</level>

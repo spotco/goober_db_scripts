@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<level author="fdf" bg="1" name="gfgf">
+	
+  
+	<trackwall height="69.35000000000002" width="392.54999999999995" x="69.35" y="293.65"/>
+	
+  
+	<track height="-96.85000000000002" width="39.75000000000003" x="239.6" y="266.1"/>
+	
+  
+	<boostfruit x="243.7" y="230.45"/>
+	
+  
+	<boostfruit x="255.9" y="231.45"/>
+	
+  
+	<boostfruit x="261" y="199.85"/>
+	
+  
+	<boostfruit x="251.85" y="175.35"/>
+	
+  
+	<boostfruit x="264.1" y="138.65"/>
+	
+  
+	<goal height="30.549999999999955" width="102" x="118.25" y="277.35"/>
+	
+
+</level>

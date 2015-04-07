@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<level author="worstlvleditor" bg="1" name="worstlvlever">
+	
+  
+	<wall height="87" width="-266" x="337" y="274"/>
+	
+  
+	<wall height="-209" width="-23" x="326" y="272"/>
+	
+  
+	<wall height="-92" width="-15" x="175" y="274"/>
+	
+  
+	<wall height="-83" width="29" x="165" y="114"/>
+	
+  
+	<textfield text="this level sucks!!" x="231" y="65"/>
+	
+  
+	<boost height="-172" width="30" x="168" y="19"/>
+	
+  
+	<boost height="-158" width="28" x="189" y="-153"/>
+	
+  
+	<boost height="-182" width="35" x="206" y="-310"/>
+	
+  
+	<boost height="-245" width="237" x="230" y="-486"/>
+	
+  
+	<boost height="-268" width="-230" x="245" y="-729"/>
+	
+  
+	<boost height="-211" width="38" x="216" y="-988"/>
+	
+  
+	<boost height="-147" width="168" x="168" y="-1210"/>
+	
+  
+	<wall height="-160" width="-60" x="169" y="-1212"/>
+	
+  
+	<wall height="16" width="209" x="167" y="-1372"/>
+	
+  
+	<wall height="152" width="-35" x="373" y="-1359"/>
+	
+  
+	<goal height="10" width="12" x="321" y="-1356"/>
+	
+
+</level>

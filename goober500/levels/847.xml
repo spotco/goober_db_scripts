@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<level author="catpakoo" bg="1" name="topeter">
+	
+  
+	<textfield text="Peter: I know alpaca did not make devil." x="114" y="190"/>
+	
+  
+	<textfield text="stop getting alpaca in trouble. i know who made devil. you, obviously." x="292" y="41"/>
+	
+  
+	<textfield text="obviously. i don't want to start a fight." x="321" y="120"/>
+	
+  
+	<wall height="39" width="384" x="30" y="293"/>
+	
+  
+	<boostfruit x="332" y="234"/>
+	
+  
+	<boostfruit x="89" y="-8"/>
+	
+  
+	<boostfruit x="172" y="-82"/>
+	
+  
+	<track height="135" width="490" x="26" y="-272"/>
+	
+  
+	<trackwall height="74" width="209" x="195" y="-292"/>
+	
+  
+	<textfield text="i doubt alpaca would lie," x="99" y="-439"/>
+	
+  
+	<boostfruit x="261" y="-330"/>
+	
+  
+	<boostfruit x="280" y="-510"/>
+	
+  
+	<boostfruit x="180" y="-664"/>
+	
+  
+	<textfield text="alpaca does nothing related to the devil, and hates gross stuff." x="64" y="-770"/>
+	
+  
+	<textfield text="alpaca does not eat boogers." x="42" y="-664"/>
+	
+  
+	<goal height="91" width="198" x="232" y="-771"/>
+	
+  
+	<wall height="28" width="-160" x="208" y="-524"/>
+	
+  
+	<textfield text="WHO'S WITH ME?!" x="334" y="-607"/>
+	
+
+</level>

@@ -1,0 +1,284 @@
+<?xml version="1.0" ?>
+<level author="alpaca" bg="1" name="giantdogs">
+	
+  
+	<wall height="60" width="512" x="11" y="287"/>
+	
+  
+	<wall height="52" width="153" x="58" y="113"/>
+	
+  
+	<wall height="-28" width="-27" x="80" y="109"/>
+	
+  
+	<wall height="-31" width="30" x="95" y="112"/>
+	
+  
+	<wall height="55" width="52" x="59" y="159"/>
+	
+  
+	<wall height="-43" width="-78" x="57" y="203"/>
+	
+  
+	<wall height="32" width="-84" x="55" y="198"/>
+	
+  
+	<wall height="82" width="22" x="53" y="201"/>
+	
+  
+	<wall height="69" width="23" x="98" y="217"/>
+	
+  
+	<wall height="-12" width="15" x="201" y="113"/>
+	
+  
+	<trackblade x="94" y="131"/>
+	
+  
+	<boostfruit x="209" y="107"/>
+	
+  
+	<textfield text="look a giant dog!!!!" x="277" y="154"/>
+	
+  
+	<boostfruit height="28" width="24" x="395" y="-20"/>
+	
+  
+	<track height="62" width="10" x="394" y="-22"/>
+	
+  
+	<track height="27" width="68" x="333" y="33"/>
+	
+  
+	<track height="13" width="66" x="396" y="34"/>
+	
+  
+	<trackblade height="55" width="50" x="453" y="-16"/>
+	
+  
+	<trackblade height="55" width="50" x="347" y="-25"/>
+	
+  
+	<wall height="134" width="184" x="304" y="-71"/>
+	
+  
+	<wall height="55" width="29" x="265" y="296"/>
+	
+  
+	<wall height="95" width="86" x="294" y="-159"/>
+	
+  
+	<wall height="87" width="60" x="429" y="-154"/>
+	
+  
+	<wall height="63" width="37" x="375" y="59"/>
+	
+  
+	<wall height="179" width="-59" x="381" y="109"/>
+	
+  
+	<wall height="168" width="82" x="381" y="111"/>
+	
+  
+	<wall height="54" width="37" x="458" y="220"/>
+	
+  
+	<wall height="-34" width="21" x="485" y="215"/>
+	
+  
+	<wall height="-22" width="13" x="495" y="171"/>
+	
+  
+	<wall height="178" width="175" x="18" y="-318"/>
+	
+  
+	<wall height="-40" width="69" x="148" y="-322"/>
+	
+  
+	<wall height="-38" width="-80" x="68" y="-329"/>
+	
+  
+	<boostfruit x="34" y="-274"/>
+	
+  
+	<boostfruit x="52" y="-275"/>
+	
+  
+	<boostfruit x="74" y="-270"/>
+	
+  
+	<boostfruit x="79" y="-261"/>
+	
+  
+	<boostfruit x="79" y="-255"/>
+	
+  
+	<boostfruit x="77" y="-247"/>
+	
+  
+	<boostfruit x="76" y="-233"/>
+	
+  
+	<boostfruit x="67" y="-230"/>
+	
+  
+	<boostfruit x="60" y="-229"/>
+	
+  
+	<boostfruit x="40" y="-230"/>
+	
+  
+	<boostfruit x="37" y="-231"/>
+	
+  
+	<boostfruit x="37" y="-232"/>
+	
+  
+	<boostfruit x="34" y="-246"/>
+	
+  
+	<boostfruit x="34" y="-257"/>
+	
+  
+	<boostfruit x="35" y="-262"/>
+	
+  
+	<boostfruit x="123" y="-274"/>
+	
+  
+	<boostfruit x="134" y="-275"/>
+	
+  
+	<boostfruit x="144" y="-276"/>
+	
+  
+	<boostfruit x="152" y="-275"/>
+	
+  
+	<boostfruit x="154" y="-274"/>
+	
+  
+	<boostfruit x="162" y="-257"/>
+	
+  
+	<boostfruit x="163" y="-245"/>
+	
+  
+	<boostfruit x="163" y="-238"/>
+	
+  
+	<boostfruit x="158" y="-229"/>
+	
+  
+	<boostfruit x="144" y="-232"/>
+	
+  
+	<boostfruit x="119" y="-229"/>
+	
+  
+	<boostfruit x="117" y="-230"/>
+	
+  
+	<boostfruit x="117" y="-250"/>
+	
+  
+	<boostfruit x="119" y="-265"/>
+	
+  
+	<boostfruit x="120" y="-274"/>
+	
+  
+	<boostfruit x="133" y="-232"/>
+	
+  
+	<boostfruit x="94" y="-206"/>
+	
+  
+	<boostfruit x="94" y="-206"/>
+	
+  
+	<boostfruit x="101" y="-200"/>
+	
+  
+	<boostfruit x="104" y="-203"/>
+	
+  
+	<boostfruit x="105" y="-203"/>
+	
+  
+	<boostfruit x="107" y="-203"/>
+	
+  
+	<boostfruit x="98" y="-202"/>
+	
+  
+	<boostfruit x="89" y="-202"/>
+	
+  
+	<boostfruit x="88" y="-202"/>
+	
+  
+	<boostfruit x="98" y="-192"/>
+	
+  
+	<boostfruit x="96" y="-183"/>
+	
+  
+	<boostfruit x="86" y="-177"/>
+	
+  
+	<boostfruit x="72" y="-178"/>
+	
+  
+	<boostfruit x="66" y="-178"/>
+	
+  
+	<boostfruit x="96" y="-189"/>
+	
+  
+	<boostfruit x="100" y="-184"/>
+	
+  
+	<boostfruit x="107" y="-178"/>
+	
+  
+	<boostfruit x="113" y="-177"/>
+	
+  
+	<boostfruit x="119" y="-176"/>
+	
+  
+	<boostfruit x="59" y="-278"/>
+	
+  
+	<goal height="27" width="18" x="142" y="-275"/>
+	
+  
+	<goal height="17" width="19" x="57" y="-266"/>
+	
+  
+	<wall height="70" width="-38" x="62" y="-139"/>
+	
+  
+	<wall height="29" width="12" x="19" y="-71"/>
+	
+  
+	<wall height="40" width="60" x="10" y="-72"/>
+	
+  
+	<wall height="24" width="82" x="56" y="-119"/>
+	
+  
+	<wall height="-14" width="-51" x="27" y="-108"/>
+	
+  
+	<wall height="-11" width="95" x="60" y="-37"/>
+	
+  
+	<wall height="-15" width="115" x="45" y="-60"/>
+	
+  
+	<goal height="15" width="119" x="52" y="-379"/>
+	
+
+</level>

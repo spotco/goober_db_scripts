@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="avery">
+	
+  
+	<wall height="63.14999999999998" width="146" x="183" y="319.6"/>
+	
+  
+	<wall height="68.15000000000003" width="112" x="360" y="235.45"/>
+	
+  
+	<wall height="53.099999999999994" width="54" x="257" y="151.3"/>
+	
+  
+	<wall height="66.1" width="61" x="130" y="65.15"/>
+	
+  
+	<activatetrackwall height="59.099999999999994" width="91" x="263" y="4.25"/>
+	
+  
+	<goal height="50.10000000000002" width="105" x="132" y="-127.35000000000002"/>
+	
+  
+	<goal height="138.25" width="120" x="360" y="-126.35000000000002"/>
+	
+  
+	<goal height="-290.54999999999995" width="-280" x="377" y="-127.35000000000002"/>
+	
+  
+	<goal height="251.5" width="119" x="384" y="-358.8"/>
+	
+  
+	<goal height="352.7" width="85" x="273" y="-433.95"/>
+	
+
+</level>

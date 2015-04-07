@@ -1,0 +1,254 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="easymode2bygian">
+	
+  
+	<wall height="64" width="333.7" x="163.45" y="281.75"/>
+	
+  
+	<wall height="210.85000000000002" width="338.84999999999997" x="162.3" y="281.75"/>
+	
+  
+	<wall height="484" width="99.99999999999999" x="59.45" y="11.45"/>
+	
+  
+	<wall height="128.55" width="224" x="265.15" y="-34.25"/>
+	
+  
+	<boost height="317.7" width="57.14999999999998" x="438.3" y="-353.4"/>
+	
+  
+	<boostfruit x="473.15" y="-426.25"/>
+	
+  
+	<boostfruit x="434.3" y="-432.55"/>
+	
+  
+	<boostfruit x="383.45" y="-491.4"/>
+	
+  
+	<boostfruit x="366.3" y="-520.55"/>
+	
+  
+	<boostfruit x="342.3" y="-562.25"/>
+	
+  
+	<boostfruit x="301.15" y="-610.25"/>
+	
+  
+	<boostfruit x="246.3" y="-668.55"/>
+	
+  
+	<boostfruit x="165.15" y="-723.4"/>
+	
+  
+	<boostfruit x="106.3" y="-773.7"/>
+	
+  
+	<boostfruit x="175.45" y="-870.25"/>
+	
+  
+	<boostfruit x="276" y="-934.7"/>
+	
+  
+	<boostfruit x="358.3" y="-966.55"/>
+	
+  
+	<boostfruit x="421.15" y="-990.55"/>
+	
+  
+	<trackblade x="78.3" y="-988.55"/>
+	
+  
+	<trackblade x="394.3" y="-776.7"/>
+	
+  
+	<boostfruit x="467.45" y="-1068.25"/>
+	
+  
+	<wall height="72" width="346.84999999999997" x="42.3" y="-1108.25"/>
+	
+  
+	<wall height="290.8499999999999" width="56" x="39.45" y="-1402.25"/>
+	
+  
+	<boostfruit x="204" y="-1374.7"/>
+	
+  
+	<boostfruit x="278.3" y="-1412.25"/>
+	
+  
+	<boostfruit x="353.15" y="-1460.25"/>
+	
+  
+	<boostfruit x="437.15" y="-1514.7"/>
+	
+  
+	<boostfruit x="455.45" y="-1604.25"/>
+	
+  
+	<boostfruit x="410.3" y="-1667.55"/>
+	
+  
+	<boostfruit x="313.15" y="-1714.25"/>
+	
+  
+	<boostfruit x="197.15" y="-1753.25"/>
+	
+  
+	<boostfruit x="75.45" y="-1823.55"/>
+	
+  
+	<boostfruit x="71.45" y="-1920.55"/>
+	
+  
+	<boostfruit x="371.45" y="-1736.55"/>
+	
+  
+	<boostfruit x="458.3" y="-1771.4"/>
+	
+  
+	<boostfruit x="479.45" y="-1879.4"/>
+	
+  
+	<boostfruit x="458.3" y="-1960.55"/>
+	
+  
+	<boostfruit x="253.15" y="-1730.25"/>
+	
+  
+	<boostfruit x="145.15" y="-1779.4"/>
+	
+  
+	<boostfruit x="466.3" y="-1813.25"/>
+	
+  
+	<boostfruit x="410.3" y="-1768.7"/>
+	
+  
+	<boostfruit x="78.3" y="-2017.55"/>
+	
+  
+	<boostfruit x="71.45" y="-2109.25"/>
+	
+  
+	<boostfruit x="76" y="-2222.55"/>
+	
+  
+	<boostfruit x="76" y="-2282.25"/>
+	
+  
+	<boostfruit x="465.15" y="-2007.7"/>
+	
+  
+	<boostfruit x="461.15" y="-2104.7"/>
+	
+  
+	<boostfruit x="455.45" y="-2199.55"/>
+	
+  
+	<boostfruit x="442.3" y="-2315.4"/>
+	
+  
+	<boostfruit x="452" y="-2398.4"/>
+	
+  
+	<boostfruit x="445.15" y="-2505.4"/>
+	
+  
+	<boostfruit x="443.45" y="-2591.25"/>
+	
+  
+	<boostfruit x="53.15" y="-2338.4"/>
+	
+  
+	<boostfruit x="75.45" y="-2435.25"/>
+	
+  
+	<boostfruit x="77.15" y="-2539.7"/>
+	
+  
+	<boostfruit x="78.3" y="-2621.4"/>
+	
+  
+	<boostfruit x="83.45" y="-2710.4"/>
+	
+  
+	<boostfruit x="76" y="-2788.55"/>
+	
+  
+	<boostfruit x="467.45" y="-2637.25"/>
+	
+  
+	<boostfruit x="441.15" y="-2754.55"/>
+	
+  
+	<boostfruit x="448" y="-2856.4"/>
+	
+  
+	<trackblade x="450.3" y="-2928.7"/>
+	
+  
+	<trackblade x="401.15" y="-2944.7"/>
+	
+  
+	<trackblade x="394.3" y="-2866.4"/>
+	
+  
+	<trackblade x="477.15" y="-2875.55"/>
+	
+  
+	<trackblade x="43.45" y="-2839.55"/>
+	
+  
+	<trackblade x="53.15" y="-2885.25"/>
+	
+  
+	<trackblade x="86.3" y="-2898.4"/>
+	
+  
+	<trackblade x="114.3" y="-2857.25"/>
+	
+  
+	<trackblade x="116" y="-2815.55"/>
+	
+  
+	<boostfruit x="275.45" y="-2625.25"/>
+	
+  
+	<boostfruit x="270.3" y="-2771.25"/>
+	
+  
+	<boostfruit x="270.3" y="-2903.4"/>
+	
+  
+	<boostfruit x="265.15" y="-2990.55"/>
+	
+  
+	<boostfruit x="264" y="-3052.4"/>
+	
+  
+	<boostfruit x="269.15" y="-3102.25"/>
+	
+  
+	<boostfruit x="269.15" y="-3152.25"/>
+	
+  
+	<boostfruit x="274.3" y="-3217.55"/>
+	
+  
+	<boostfruit x="274.3" y="-3247.55"/>
+	
+  
+	<boostfruit x="274.3" y="-3282.55"/>
+	
+  
+	<wall height="66.29999999999973" width="185.15000000000003" x="305.15" y="-3309.7"/>
+	
+  
+	<wall height="174.30000000000018" width="62.85000000000002" x="433.15" y="-3489.55"/>
+	
+  
+	<goal height="33.15000000000009" width="28" x="465.15" y="-3524.55"/>
+	
+
+</level>

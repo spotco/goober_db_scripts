@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="winwin6">
+	
+  
+	<wall height="90" width="358" x="71" y="371"/>
+	
+  
+	<wall height="-819" width="-83" x="428" y="373"/>
+	
+  
+	<wall height="-770" width="-77" x="119" y="368"/>
+	
+  
+	<goal height="240" width="397" x="64" y="-2363"/>
+	
+  
+	<textfield text="tell me if you died" x="287" y="-287"/>
+	
+  
+	<boost height="-750" width="220" x="122" y="362"/>
+	
+  
+	<wall height="-694" width="75" x="43" y="-393"/>
+	
+  
+	<wall height="-692" width="81" x="344" y="-384"/>
+	
+  
+	<boost height="-667" width="227" x="121" y="-384"/>
+	
+  
+	<wall height="-752" width="74" x="45" y="-1079"/>
+	
+  
+	<wall height="-743" width="78" x="344" y="-1044"/>
+	
+  
+	<boost height="-671" width="236" x="123" y="-1058"/>
+	
+  
+	<boost height="-459" width="232" x="121" y="-1711"/>
+	
+  
+	<wall height="-320" width="75" x="47" y="-1822"/>
+	
+  
+	<wall height="-359" width="72" x="350" y="-1781"/>
+	
+
+</level>

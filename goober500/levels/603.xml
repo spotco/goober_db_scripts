@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<level author="madeleine" bg="1" name="sqigysqosh161">
+	
+  
+	<activatetrackwall height="81" width="-91" x="151" y="413"/>
+	
+  
+	<activatetrackwall height="54" width="-77" x="238" y="346"/>
+	
+  
+	<activatetrackwall height="53" width="-49" x="318" y="282"/>
+	
+  
+	<boost height="-151" width="67" x="321" y="204"/>
+	
+  
+	<activatetrackwall height="-212" width="-24" x="421" y="24"/>
+	
+  
+	<activatetrackwall height="73" width="-95" x="342" y="-229"/>
+	
+  
+	<boostfruit x="249" y="-319"/>
+	
+  
+	<boostfruit x="271" y="-391"/>
+	
+  
+	<boostfruit x="278" y="-441"/>
+	
+  
+	<boostfruit x="266" y="-357"/>
+	
+  
+	<boostfruit x="328" y="-331"/>
+	
+  
+	<boostfruit x="312" y="-384"/>
+	
+  
+	<boostfruit x="304" y="-444"/>
+	
+  
+	<boostfruit x="324" y="-356"/>
+	
+  
+	<boostfruit x="305" y="-423"/>
+	
+  
+	<wall height="96" width="-101" x="254" y="-551"/>
+	
+  
+	<wall height="176" width="-20" x="142" y="-756"/>
+	
+  
+	<deathwall height="136" width="43" x="460" y="-935"/>
+	
+  
+	<deathwall height="149" width="-49" x="463" y="-942"/>
+	
+  
+	<wall height="89" width="105" x="239" y="-866"/>
+	
+  
+	<goal height="-20" width="95" x="274" y="-990"/>
+	
+  
+	<goal height="62" width="-53" x="278" y="-1016"/>
+	
+  
+	<goal height="49" width="44" x="309" y="-988"/>
+	
+  
+	<goal height="38" width="29" x="291" y="-978"/>
+	
+  
+	<goal height="18" width="96" x="278" y="-1032"/>
+	
+  
+	<goal height="44" width="-16" x="364" y="-979"/>
+	
+
+</level>

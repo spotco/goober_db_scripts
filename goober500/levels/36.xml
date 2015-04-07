@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" name="thisisashit">
+	
+  
+	<wall height="57" width="-36" x="268" y="252"/>
+	
+  
+	<wall height="55" width="-11" x="261" y="302"/>
+	
+  
+	<wall height="41" width="168" x="171" y="195"/>
+	
+  
+	<wall height="11" width="147" x="292" y="339"/>
+	
+  
+	<wall height="178" width="24" x="393" y="135"/>
+	
+  
+	<wall height="-216" width="-44" x="313" y="152"/>
+	
+  
+	<wall height="-223" width="39" x="391" y="-39"/>
+	
+  
+	<wall height="-19" width="-236" x="349" y="-228"/>
+	
+  
+	<wall height="-249" width="40" x="112" y="-283"/>
+	
+  
+	<wall height="-231" width="15" x="212" y="-313"/>
+	
+  
+	<wall height="-228" width="-23" x="159" y="-584"/>
+	
+  
+	<deathwall height="-69" width="189" x="243" y="-324"/>
+	
+  
+	<deathwall height="129" width="-187" x="317" y="-218"/>
+	
+  
+	<deathwall height="-214" width="-141" x="252" y="152"/>
+	
+  
+	<deathwall height="125" width="119" x="396" y="-24"/>
+	
+  
+	<deathwall height="50" width="349" x="108" y="375"/>
+	
+  
+	<deathwall height="-299" width="63" x="210" y="-576"/>
+	
+  
+	<goal height="21" width="32" x="111" y="-933"/>
+	
+
+</level>

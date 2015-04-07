@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="awnser">
+	
+  
+	<textfield text="we still play this in 2014 because..." x="88" y="165"/>
+	
+  
+	<textfield text="it's fun and also i am new to this game" x="360" y="28"/>
+	
+  
+	<goal height="62" width="119" x="113" y="12"/>
+	
+  
+	<boostfruit x="325" y="394"/>
+	
+  
+	<boostfruit x="348" y="187"/>
+	
+  
+	<boostfruit x="188" y="89"/>
+	
+  
+	<wall height="43" width="104" x="278" y="437"/>
+	
+
+</level>

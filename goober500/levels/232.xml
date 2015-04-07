@@ -1,0 +1,98 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="applesandair">
+	
+  
+	<wall height="-88" width="30" x="22" y="412"/>
+	
+  
+	<wall height="-176" width="-187" x="236" y="499"/>
+	
+  
+	<wall height="-105" width="-225" x="417" y="485"/>
+	
+  
+	<wall height="229" width="139" x="3" y="97"/>
+	
+  
+	<wall height="-168" width="-138" x="140" y="97"/>
+	
+  
+	<deathwall height="238" width="152" x="334" y="-107"/>
+	
+  
+	<goal height="136" width="101" x="222" y="-766"/>
+	
+  
+	<boostfruit x="151" y="-228"/>
+	
+  
+	<boostfruit x="273" y="-222"/>
+	
+  
+	<boostfruit x="209" y="-275"/>
+	
+  
+	<boostfruit x="211" y="-215"/>
+	
+  
+	<boostfruit x="166" y="-180"/>
+	
+  
+	<boostfruit x="124" y="-296"/>
+	
+  
+	<boostfruit x="241" y="-251"/>
+	
+  
+	<boostfruit x="166" y="-266"/>
+	
+  
+	<boostfruit x="116" y="-213"/>
+	
+  
+	<boostfruit x="172" y="-410"/>
+	
+  
+	<boostfruit x="258" y="-411"/>
+	
+  
+	<boostfruit x="175" y="-393"/>
+	
+  
+	<boostfruit x="244" y="-342"/>
+	
+  
+	<boostfruit x="186" y="-353"/>
+	
+  
+	<boostfruit x="211" y="-385"/>
+	
+  
+	<boostfruit x="183" y="-444"/>
+	
+  
+	<boostfruit x="261" y="-455"/>
+	
+  
+	<boostfruit x="242" y="-513"/>
+	
+  
+	<boostfruit x="222" y="-455"/>
+	
+  
+	<boostfruit x="170" y="-523"/>
+	
+  
+	<boostfruit x="333" y="-550"/>
+	
+  
+	<boostfruit x="295" y="-477"/>
+	
+  
+	<boostfruit x="244" y="-568"/>
+	
+  
+	<boostfruit x="295" y="-584"/>
+	
+
+</level>

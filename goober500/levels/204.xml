@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<level author="yesright" bg="1" name="yesright">
+	
+  
+	<wall height="164.2" width="85.39999999999999" x="64.7" y="306.85"/>
+	
+  
+	<wall height="53.10000000000002" width="202.29999999999998" x="153.4" y="417.15"/>
+	
+  
+	<wall height="119.39999999999998" width="138.5" x="362.35" y="167.55"/>
+	
+  
+	<trackwall height="144.3" width="92.05000000000001" x="128.5" y="143.5"/>
+	
+  
+	<trackwall height="20.75" width="47.25" x="315.1" y="190.75"/>
+	
+  
+	<boost height="101.15" width="68" x="241.3" y="53.1"/>
+	
+  
+	<boost height="100.35" width="75.45000000000002" x="234.65" y="-266.95"/>
+	
+  
+	<track height="106.14999999999998" width="228.85" x="187.4" y="-501.45"/>
+	
+  
+	<boost height="63" width="139.3" x="116.1" y="-360.45"/>
+	
+  
+	<boost height="45.60000000000002" width="39.8" x="109.45" y="-475.75"/>
+	
+  
+	<trackwall height="38.14999999999998" width="99.55" x="118.55" y="-605.8"/>
+	
+  
+	<trackwall height="38.950000000000045" width="165.8" x="259.55" y="-658.85"/>
+	
+  
+	<trackwall height="250.5" width="77.1" x="173.3" y="-930.5"/>
+	
+  
+	<goal height="205.70000000000005" width="342.45000000000005" x="113.6" y="-1256.95"/>
+	
+  
+	<boostfruit x="69.65" y="-528.45"/>
+	
+  
+	<boostfruit x="97" y="-611.4"/>
+	
+
+</level>

@@ -1,0 +1,245 @@
+<?xml version="1.0" ?>
+<level author="catpakoo" bg="1" name="thefair1">
+	
+  
+	<wall height="39" width="144" x="73" y="394"/>
+	
+  
+	<wall height="30" width="-18" x="241" y="384"/>
+	
+  
+	<wall height="64" width="134" x="294" y="320"/>
+	
+  
+	<wall height="168" width="140" x="242" y="329"/>
+	
+  
+	<wall height="126" width="145" x="234" y="252"/>
+	
+  
+	<wall height="139" width="80" x="185" y="199"/>
+	
+  
+	<wall height="122" width="150" x="158" y="300"/>
+	
+  
+	<wall height="137" width="294" x="159" y="331"/>
+	
+  
+	<wall height="178" width="389" x="121" y="307"/>
+	
+  
+	<wall height="233" width="504" x="21" y="266"/>
+	
+  
+	<wall height="38" width="18" x="136" y="168"/>
+	
+  
+	<wall height="-89" width="50" x="84" y="233"/>
+	
+  
+	<textfield text="welcome to the fair! Want some cotton candy?" x="298" y="29"/>
+	
+  
+	<trackwall height="31" width="35" x="367" y="170"/>
+	
+  
+	<trackwall height="30" width="14" x="380" y="198"/>
+	
+  
+	<deathwall height="37" width="29" x="352" y="135"/>
+	
+  
+	<deathwall height="29" width="26" x="383" y="147"/>
+	
+  
+	<deathwall height="20" width="25" x="400" y="136"/>
+	
+  
+	<deathwall height="29" width="34" x="374" y="117"/>
+	
+  
+	<deathwall height="38" width="34" x="355" y="91"/>
+	
+  
+	<deathwall height="32" width="28" x="395" y="94"/>
+	
+  
+	<deathwall height="33" width="28" x="382" y="73"/>
+	
+  
+	<textfield text="the evil merry go round" x="64" y="-263"/>
+	
+  
+	<boostfruit x="69" y="61"/>
+	
+  
+	<boostfruit x="100" y="-17"/>
+	
+  
+	<boostfruit x="249" y="-131"/>
+	
+  
+	<trackwall height="28" width="378" x="169" y="-222"/>
+	
+  
+	<boost height="74" width="469" x="107" y="-580"/>
+	
+  
+	<boost height="80" width="383" x="192" y="-654"/>
+	
+  
+	<boost height="-162" width="205" x="339" y="-643"/>
+	
+  
+	<boost height="-93" width="122" x="421" y="-744"/>
+	
+  
+	<boost height="-65" width="-92" x="364" y="-642"/>
+	
+  
+	<track height="257" width="39" x="215" y="-501"/>
+	
+  
+	<track height="257" width="59" x="297" y="-502"/>
+	
+  
+	<track height="244" width="93" x="387" y="-496"/>
+	
+  
+	<track height="237" width="88" x="450" y="-497"/>
+	
+  
+	<trackwall height="31" width="43" x="201" y="-365"/>
+	
+  
+	<trackwall height="20" width="-41" x="208" y="-357"/>
+	
+  
+	<trackwall height="40" width="41" x="282" y="-349"/>
+	
+  
+	<trackwall height="24" width="38" x="286" y="-309"/>
+	
+  
+	<trackwall height="36" width="51" x="437" y="-369"/>
+	
+  
+	<trackwall height="37" width="10" x="454" y="-340"/>
+	
+  
+	<trackwall height="33" width="12" x="478" y="-339"/>
+	
+  
+	<trackwall height="23" width="-30" x="446" y="-358"/>
+	
+  
+	<trackwall height="48" width="47" x="369" y="-327"/>
+	
+  
+	<textfield text="roller coaster" x="98" y="-1056"/>
+	
+  
+	<trackwall height="75" width="194" x="174" y="-1181"/>
+	
+  
+	<goal height="87" width="256" x="135" y="-1377"/>
+	
+  
+	<wall height="-34" width="-190" x="316" y="-848"/>
+	
+  
+	<wall height="-59" width="-107" x="141" y="-878"/>
+	
+  
+	<boostfruit x="287" y="-904"/>
+	
+  
+	<track height="39" width="431" x="73" y="-1173"/>
+	
+  
+	<track height="-60" width="-420" x="498" y="-1103"/>
+	
+  
+	<track height="44" width="445" x="79" y="-1166"/>
+	
+  
+	<track height="44" width="462" x="78" y="-1157"/>
+	
+  
+	<track height="69" width="466" x="81" y="-1149"/>
+	
+  
+	<track height="40" width="446" x="67" y="-1132"/>
+	
+  
+	<track height="23" width="453" x="105" y="-1145"/>
+	
+  
+	<track height="31" width="390" x="143" y="-1159"/>
+	
+  
+	<track height="45" width="444" x="110" y="-1151"/>
+	
+  
+	<track height="51" width="456" x="98" y="-1160"/>
+	
+  
+	<track height="52" width="575" x="46" y="-1163"/>
+	
+  
+	<track height="45" width="429" x="179" y="-1126"/>
+	
+  
+	<track height="46" width="367" x="163" y="-1159"/>
+	
+  
+	<track height="47" width="393" x="137" y="-1163"/>
+	
+  
+	<track height="46" width="408" x="124" y="-1160"/>
+	
+  
+	<track height="57" width="256" x="212" y="-1156"/>
+	
+  
+	<track height="48" width="357" x="139" y="-1135"/>
+	
+  
+	<wall height="-347" width="-32" x="37" y="-923"/>
+	
+  
+	<textfield text="you must be this tall to ride" x="24" y="-1314"/>
+	
+  
+	<trackwall height="23" width="14" x="25" y="-1159"/>
+	
+  
+	<trackwall height="20" width="21" x="18" y="-1115"/>
+	
+  
+	<trackwall height="20" width="16" x="24" y="-1203"/>
+	
+  
+	<trackwall height="26" width="18" x="18" y="-1057"/>
+	
+  
+	<trackwall height="25" width="12" x="26" y="-1008"/>
+	
+  
+	<deathwall height="12" width="16" x="14" y="-1200"/>
+	
+  
+	<boostfruit x="98" y="-1046"/>
+	
+  
+	<boostfruit x="148" y="-1232"/>
+	
+  
+	<boostfruit x="12" y="-895"/>
+	
+  
+	<goal height="19" width="42" x="51" y="-863"/>
+	
+
+</level>

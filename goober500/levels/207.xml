@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<level author="asdadasdsadad" bg="1" name="shuaysbd">
+	
+  
+	<goal height="111" width="413.84999999999997" x="54.1" y="56"/>
+	
+  
+	<goal height="86" width="20.05000000000001" x="119.25" y="292"/>
+	
+  
+	<wall height="-32" width="168.3" x="217.45" y="325"/>
+	
+  
+	<trackblade x="152.3" y="239"/>
+	
+  
+	<trackblade x="228.45" y="231"/>
+	
+  
+	<trackblade x="231.45" y="230"/>
+	
+  
+	<trackblade x="366.75" y="235"/>
+	
+  
+	<trackblade x="378.75" y="239"/>
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+  
+	<bossactivate explode="no" height="48" hp="6" width="-143.29999999999998" x="325.65" y="407"/>
+	
+  
+	<bossactivate explode="no" height="73" hp="6" width="95.19999999999999" x="375.75" y="392"/>
+	
+  
+	<bossactivate explode="no" height="-12" hp="6" width="227.45" x="229.45" y="370"/>
+	
+  
+	<bossactivate explode="no" height="42" hp="6" width="46.10000000000001" x="37.05" y="437"/>
+	
+  
+	<bossactivate explode="no" height="23" hp="6" width="12.050000000000004" x="57.1" y="350"/>
+	
+  
+	<bossactivate explode="no" height="-61" hp="6" width="-13" x="57.1" y="381"/>
+	
+
+</level>

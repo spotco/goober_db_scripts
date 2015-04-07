@@ -1,0 +1,101 @@
+<?xml version="1.0" ?>
+<level author="bLUEBASHO" bg="1" name="vINES">
+	
+  
+	<wall height="32" width="173" x="167" y="277"/>
+	
+  
+	<deathwall height="156" width="134" x="36" y="155"/>
+	
+  
+	<deathwall height="77" width="154" x="337" y="229"/>
+	
+  
+	<wall height="27" width="154" x="338" y="203"/>
+	
+  
+	<wall height="24" width="142" x="32" y="140"/>
+	
+  
+	<boostfruit x="329" y="158"/>
+	
+  
+	<boostfruit x="282" y="130"/>
+	
+  
+	<boostfruit x="247" y="107"/>
+	
+  
+	<boostfruit x="204" y="109"/>
+	
+  
+	<boostfruit x="167" y="113"/>
+	
+  
+	<boost height="161" width="61" x="35" y="-21"/>
+	
+  
+	<deathwall height="67" width="316" x="159" y="-76"/>
+	
+  
+	<wall height="37" width="156" x="158" y="-115"/>
+	
+  
+	<wall height="31" width="122" x="361" y="-110"/>
+	
+  
+	<boost height="282" width="83" x="399" y="-389"/>
+	
+  
+	<track height="279" width="27" x="324" y="-369"/>
+	
+  
+	<trackblade x="329" y="-363"/>
+	
+  
+	<deathwall height="65" width="333" x="28" y="-475"/>
+	
+  
+	<wall height="29" width="334" x="29" y="-501"/>
+	
+  
+	<trackwall height="38" width="282" x="85" y="-749"/>
+	
+  
+	<track height="221" width="17" x="243" y="-754"/>
+	
+  
+	<boost height="376" width="60" x="20" y="-872"/>
+	
+  
+	<deathwall height="53" width="214" x="118" y="-911"/>
+	
+  
+	<wall height="29" width="219" x="113" y="-932"/>
+	
+  
+	<boost height="257" width="208" x="123" y="-1188"/>
+	
+  
+	<boostfruit x="226" y="-1227"/>
+	
+  
+	<boostfruit x="224" y="-1292"/>
+	
+  
+	<boostfruit x="223" y="-1350"/>
+	
+  
+	<boostfruit x="223" y="-1405"/>
+	
+  
+	<boostfruit x="222" y="-1464"/>
+	
+  
+	<boost height="384" width="297" x="73" y="-1905"/>
+	
+  
+	<goal height="120" width="311" x="77" y="-2177"/>
+	
+
+</level>

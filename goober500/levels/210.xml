@@ -1,0 +1,131 @@
+<?xml version="1.0" ?>
+<level author="santasia" bg="1" name="funrideitfundot">
+	
+  
+	<laserlauncher dir="-3" x="62" y="453"/>
+	
+  
+	<laserlauncher dir="-3" x="453" y="264"/>
+	
+  
+	<laserlauncher dir="-3" x="73" y="454"/>
+	
+  
+	<boost height="63" width="-30" x="236" y="243"/>
+	
+  
+	<boost height="-12" width="30" x="268" y="307"/>
+	
+  
+	<boost height="-396" width="106" x="250" y="297"/>
+	
+  
+	<boost height="-179" width="-55" x="302" y="-72"/>
+	
+  
+	<textfield text="hahaHA" x="153" y="81"/>
+	
+  
+	<boost height="35" width="34" x="257" y="-287"/>
+	
+  
+	<boostfruit x="195" y="-346"/>
+	
+  
+	<boostfruit x="361" y="-349"/>
+	
+  
+	<boostfruit x="203" y="-339"/>
+	
+  
+	<boostfruit x="202" y="-393"/>
+	
+  
+	<boostfruit x="215" y="-416"/>
+	
+  
+	<boostfruit x="357" y="-370"/>
+	
+  
+	<boostfruit x="225" y="-270"/>
+	
+  
+	<boostfruit x="152" y="-281"/>
+	
+  
+	<boostfruit x="238" y="-426"/>
+	
+  
+	<boostfruit x="312" y="-372"/>
+	
+  
+	<boostfruit x="251" y="-363"/>
+	
+  
+	<boostfruit x="309" y="-337"/>
+	
+  
+	<boostfruit x="252" y="-360"/>
+	
+  
+	<boostfruit x="435" y="-329"/>
+	
+  
+	<boostfruit x="348" y="-404"/>
+	
+  
+	<boostfruit x="268" y="-310"/>
+	
+  
+	<boostfruit x="166" y="-340"/>
+	
+  
+	<boostfruit x="278" y="-420"/>
+	
+  
+	<boostfruit x="454" y="-390"/>
+	
+  
+	<trackblade x="96" y="-223"/>
+	
+  
+	<boost height="-303" width="198" x="264" y="-117"/>
+	
+  
+	<boost height="96" width="196" x="266" y="-514"/>
+	
+  
+	<boost height="-274" width="-96" x="339" y="-527"/>
+	
+  
+	<boost height="-251" width="123" x="269" y="-812"/>
+	
+  
+	<boost height="78" width="121" x="281" y="-1120"/>
+	
+  
+	<boost height="-188" width="118" x="308" y="-1089"/>
+	
+  
+	<boost height="-268" width="-140" x="419" y="-1270"/>
+	
+  
+	<boost height="-524" width="-373" x="417" y="-1541"/>
+	
+  
+	<boost height="-465" width="-379" x="414" y="-2067"/>
+	
+  
+	<boost height="-515" width="-494" x="492" y="-2543"/>
+	
+  
+	<boost height="-540" width="-512" x="492" y="-3060"/>
+	
+  
+	<boost height="-507" width="-501" x="491" y="-3600"/>
+	
+  
+	<goal height="28" width="503" x="0" y="-4394"/>
+	
+
+</level>

@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<level author="SOFA" bg="1" name="76HUUOIK">
+	
+  
+	<wall height="114" width="357" x="105" y="313"/>
+	
+  
+	<wall height="163" width="49" x="160" y="97"/>
+	
+  
+	<wall height="203" width="-46" x="330" y="38"/>
+	
+  
+	<wall height="74" width="139" x="28" y="-130"/>
+	
+  
+	<wall height="49" width="60" x="170" y="-40"/>
+	
+  
+	<wall height="152" width="250" x="248" y="-322"/>
+	
+  
+	<wall height="144" width="34" x="92" y="-352"/>
+	
+  
+	<wall height="81" width="128" x="81" y="-574"/>
+	
+  
+	<wall height="86" width="111" x="202" y="-546"/>
+	
+  
+	<wall height="264" width="41" x="443" y="-652"/>
+	
+  
+	<wall height="262" width="74" x="404" y="-651"/>
+	
+  
+	<deathwall height="227" width="117" x="162" y="-853"/>
+	
+  
+	<wall height="89" width="22" x="298" y="-726"/>
+	
+  
+	<wall height="147" width="28" x="18" y="-796"/>
+	
+  
+	<wall height="193" width="28" x="115" y="-861"/>
+	
+  
+	<boost height="30" width="45" x="403" y="-849"/>
+	
+  
+	<boost height="37" width="43" x="366" y="-766"/>
+	
+  
+	<boost height="72" width="110" x="163" y="-981"/>
+	
+  
+	<boost height="120" width="85" x="224" y="-1233"/>
+	
+  
+	<goal height="114" width="76" x="113" y="-1290"/>
+	
+
+</level>

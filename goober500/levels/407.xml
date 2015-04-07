@@ -1,0 +1,203 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="isithard">
+	
+  
+	<wall height="14" width="10" x="259" y="271"/>
+	
+  
+	<activatetrackwall height="22" width="99" x="289" y="249"/>
+	
+  
+	<activatetrackwall height="23" width="66" x="172" y="250"/>
+	
+  
+	<deathwall height="45" width="120" x="310" y="-650"/>
+	
+  
+	<deathwall height="60" width="146" x="328" y="-658"/>
+	
+  
+	<deathwall height="85" width="93" x="348" y="-686"/>
+	
+  
+	<deathwall height="131" width="73" x="368" y="-692"/>
+	
+  
+	<deathwall height="105" width="54" x="366" y="-664"/>
+	
+  
+	<deathwall height="74" width="21" x="325" y="-670"/>
+	
+  
+	<deathwall height="160" width="82" x="334" y="-675"/>
+	
+  
+	<activatetrackwall height="-20" width="79" x="313" y="-694"/>
+	
+  
+	<trackblade x="12" y="-1428"/>
+	
+  
+	<trackblade x="10" y="-1429"/>
+	
+  
+	<trackblade x="9" y="-1429"/>
+	
+  
+	<trackblade x="24" y="-1424"/>
+	
+  
+	<trackblade x="34" y="-1425"/>
+	
+  
+	<trackblade x="50" y="-1423"/>
+	
+  
+	<trackblade x="61" y="-1423"/>
+	
+  
+	<trackblade x="75" y="-1423"/>
+	
+  
+	<trackblade x="93" y="-1423"/>
+	
+  
+	<trackblade x="105" y="-1424"/>
+	
+  
+	<trackblade x="124" y="-1424"/>
+	
+  
+	<trackblade x="138" y="-1424"/>
+	
+  
+	<trackblade x="144" y="-1424"/>
+	
+  
+	<trackblade x="153" y="-1424"/>
+	
+  
+	<trackblade x="158" y="-1426"/>
+	
+  
+	<trackblade x="171" y="-1428"/>
+	
+  
+	<trackblade x="190" y="-1428"/>
+	
+  
+	<trackblade x="197" y="-1428"/>
+	
+  
+	<trackblade x="204" y="-1428"/>
+	
+  
+	<boost height="20" width="25" x="140" y="-743"/>
+	
+  
+	<boost height="19" width="17" x="227" y="-747"/>
+	
+  
+	<boost height="12" width="21" x="292" y="-751"/>
+	
+  
+	<boost height="-316" width="567" x="4" y="-2080"/>
+	
+  
+	<bossactivate explode="no" height="31" hp="6" width="33" x="29" y="-2273"/>
+	
+  
+	<bossactivate explode="no" height="29" hp="6" width="35" x="420" y="-2154"/>
+	
+  
+	<bossactivate explode="no" height="24" hp="6" width="29" x="236" y="-2374"/>
+	
+  
+	<bossactivate explode="no" height="25" hp="6" width="27" x="161" y="-2129"/>
+	
+  
+	<wall height="32" width="242" x="1" y="-2486"/>
+	
+  
+	<trackblade x="408" y="-2467"/>
+	
+  
+	<trackblade x="438" y="-2470"/>
+	
+  
+	<trackblade x="461" y="-2468"/>
+	
+  
+	<trackblade x="473" y="-2468"/>
+	
+  
+	<trackblade x="489" y="-2466"/>
+	
+  
+	<trackblade x="474" y="-2466"/>
+	
+  
+	<trackblade x="457" y="-2468"/>
+	
+  
+	<trackblade x="444" y="-2472"/>
+	
+  
+	<trackblade x="429" y="-2470"/>
+	
+  
+	<trackblade x="419" y="-2469"/>
+	
+  
+	<trackblade x="415" y="-2469"/>
+	
+  
+	<trackblade x="413" y="-2469"/>
+	
+  
+	<trackblade x="404" y="-2469"/>
+	
+  
+	<activatetrackwall height="18" width="21" x="16" y="-2503"/>
+	
+  
+	<wall height="153" width="703" x="76" y="-4107"/>
+	
+  
+	<wall height="-21" width="29" x="414" y="-4126"/>
+	
+  
+	<wall height="-35" width="39" x="421" y="-4199"/>
+	
+  
+	<wall height="-40" width="33" x="423" y="-4276"/>
+	
+  
+	<wall height="-51" width="33" x="427" y="-4370"/>
+	
+  
+	<wall height="-76" width="31" x="431" y="-4476"/>
+	
+  
+	<deathwall height="46" width="-485" x="431" y="-4553"/>
+	
+  
+	<wall height="23" width="25" x="401" y="-4603"/>
+	
+  
+	<wall height="32" width="41" x="343" y="-4645"/>
+	
+  
+	<wall height="44" width="61" x="255" y="-4704"/>
+	
+  
+	<wall height="51" width="49" x="181" y="-4765"/>
+	
+  
+	<wall height="43" width="82" x="93" y="-4836"/>
+	
+  
+	<goal height="-41" width="39" x="7" y="-4582"/>
+	
+
+</level>

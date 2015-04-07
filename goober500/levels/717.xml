@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="seeingred">
+	
+  
+	<wall height="18" width="405" x="-70" y="221"/>
+	
+  
+	<wall height="-41" width="-375" x="432" y="390"/>
+	
+  
+	<wall height="38" width="65" x="436" y="263"/>
+	
+  
+	<deathwall height="58" width="81" x="73" y="133"/>
+	
+  
+	<deathwall height="50" width="101" x="324" y="60"/>
+	
+  
+	<deathwall height="45" width="52" x="439" y="105"/>
+	
+  
+	<deathwall height="55" width="81" x="402" y="395"/>
+	
+  
+	<deathwall height="42" width="38" x="225" y="408"/>
+	
+  
+	<deathwall height="35" width="36" x="72" y="418"/>
+	
+  
+	<bossactivate explode="no" height="73" hp="6" width="78" x="104" y="254"/>
+	
+  
+	<flowerboss height="300" width="500" x="-1" y="925"/>
+	
+  
+	<laserlauncher dir="3" x="70" y="20"/>
+	
+  
+	<wall height="42" width="57" x="153" y="75"/>
+	
+  
+	<wall height="24" width="68" x="243" y="-28"/>
+	
+  
+	<wall height="97" width="151" x="304" y="-142"/>
+	
+  
+	<goal height="64" width="59" x="316" y="-217"/>
+	
+
+</level>

@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="2023">
+	
+  
+	<wall height="15" width="26" x="12" y="48"/>
+	
+  
+	<deathwall height="22" width="32" x="43" y="41"/>
+	
+  
+	<goal height="36" width="37" x="90" y="36"/>
+	
+  
+	<goal height="42" width="49" x="450" y="424"/>
+	
+  
+	<wall height="48" width="447" x="4" y="370"/>
+	
+  
+	<wall height="61" width="499" x="0" y="-30"/>
+	
+  
+	<wall height="290" width="46" x="452" y="26"/>
+	
+  
+	<wall height="338" width="14" x="2" y="32"/>
+	
+  
+	<wall height="35" width="46" x="148" y="43"/>
+	
+  
+	<boostfruit x="237" y="268"/>
+	
+  
+	<boostfruit x="207" y="284"/>
+	
+  
+	<boostfruit x="206" y="283"/>
+	
+  
+	<boostfruit x="168" y="282"/>
+	
+  
+	<boostfruit x="137" y="271"/>
+	
+  
+	<boostfruit x="123" y="251"/>
+	
+  
+	<boostfruit x="116" y="226"/>
+	
+
+</level>

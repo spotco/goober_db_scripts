@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<level author="jACOB" bg="2" name="BLADEMANIA">
+	
+  
+	<wall height="54" width="500" x="0" y="418"/>
+	
+  
+	<boost height="150" width="99" x="0" y="270"/>
+	
+  
+	<trackwall height="102" width="101" x="300" y="69"/>
+	
+  
+	<track height="18" width="-314" x="312" y="169"/>
+	
+  
+	<track height="17" width="-306" x="303" y="72"/>
+	
+  
+	<track height="24" width="-319" x="323" y="112"/>
+	
+  
+	<trackblade x="390" y="411"/>
+	
+  
+	<trackblade x="387" y="366"/>
+	
+  
+	<trackblade x="386" y="316"/>
+	
+  
+	<trackblade x="384" y="272"/>
+	
+  
+	<trackblade x="385" y="228"/>
+	
+  
+	<trackblade x="385" y="188"/>
+	
+  
+	<trackblade x="2" y="-25"/>
+	
+  
+	<trackblade x="35" y="-43"/>
+	
+  
+	<trackblade x="82" y="-64"/>
+	
+  
+	<trackblade x="126" y="-70"/>
+	
+  
+	<trackblade x="175" y="-80"/>
+	
+  
+	<trackblade x="220" y="-82"/>
+	
+  
+	<trackblade x="256" y="-85"/>
+	
+  
+	<trackblade x="301" y="-85"/>
+	
+  
+	<trackblade x="336" y="-85"/>
+	
+  
+	<trackblade x="375" y="-84"/>
+	
+  
+	<trackblade x="410" y="-80"/>
+	
+  
+	<trackblade x="446" y="-70"/>
+	
+  
+	<trackblade x="460" y="-68"/>
+	
+  
+	<trackblade x="484" y="-51"/>
+	
+  
+	<goal height="89" width="40" x="452" y="319"/>
+	
+
+</level>

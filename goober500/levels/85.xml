@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<level author="Karl" bg="1" name="lightdash">
+	
+  
+	<wall height="12" width="10" x="460" y="-37"/>
+	
+  
+	<wall height="120" width="280" x="164" y="75"/>
+	
+  
+	<wall height="42" width="275" x="131" y="349"/>
+	
+  
+	<wall height="248" width="51" x="32" y="55"/>
+	
+  
+	<wall height="35" width="43" x="32" y="-103"/>
+	
+  
+	<rocketlauncher height="20" width="20" x="127" y="-41"/>
+	
+  
+	<track height="248" width="13" x="82" y="57"/>
+	
+  
+	<trackblade x="87" y="284"/>
+	
+  
+	<wall height="316" width="11" x="473" y="57"/>
+	
+  
+	<goal height="35" width="30" x="263" y="-83"/>
+	
+  
+	<goal height="-73" width="-54" x="287" y="-57"/>
+	
+  
+	<goal height="69" width="87" x="261" y="-109"/>
+	
+  
+	<goal height="-46" width="-156" x="402" y="-84"/>
+	
+  
+	<goal height="40" width="168" x="237" y="-77"/>
+	
+  
+	<trackblade x="460" y="-36"/>
+	
+  
+	<cloudboss/>
+	
+
+</level>

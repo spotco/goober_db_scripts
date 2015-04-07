@@ -1,0 +1,248 @@
+<?xml version="1.0" ?>
+<level author="catpakoo" bg="1" name="hauntedhouse1">
+	
+  
+	<wall height="76" width="459" x="35" y="354"/>
+	
+  
+	<textfield text="help! I'm trapped in here!" x="299" y="134"/>
+	
+  
+	<deathwall height="90" width="13" x="430" y="174"/>
+	
+  
+	<deathwall height="14" width="75" x="437" y="262"/>
+	
+  
+	<deathwall height="12" width="81" x="431" y="171"/>
+	
+  
+	<deathwall height="86" width="16" x="491" y="179"/>
+	
+  
+	<wall height="-75" width="-130" x="242" y="353"/>
+	
+  
+	<wall height="-139" width="-106" x="171" y="328"/>
+	
+  
+	<wall height="-101" width="-92" x="100" y="233"/>
+	
+  
+	<wall height="-118" width="-83" x="43" y="166"/>
+	
+  
+	<wall height="-147" width="-218" x="170" y="360"/>
+	
+  
+	<wall height="-88" width="-74" x="49" y="249"/>
+	
+  
+	<track height="80" width="528" x="5" y="-112"/>
+	
+  
+	<boostfruit x="131" y="-20"/>
+	
+  
+	<boostfruit x="148" y="-216"/>
+	
+  
+	<boostfruit x="303" y="-229"/>
+	
+  
+	<wall height="65" width="377" x="201" y="-349"/>
+	
+  
+	<trackblade x="58" y="-110"/>
+	
+  
+	<trackblade x="188" y="-105"/>
+	
+  
+	<trackblade x="337" y="-106"/>
+	
+  
+	<trackblade x="452" y="-107"/>
+	
+  
+	<trackwall height="87" width="208" x="45" y="-521"/>
+	
+  
+	<trackwall height="46" width="20" x="191" y="-444"/>
+	
+  
+	<trackwall height="57" width="28" x="78" y="-453"/>
+	
+  
+	<trackwall height="-132" width="10" x="69" y="-509"/>
+	
+  
+	<trackwall height="14" width="66" x="69" y="-647"/>
+	
+  
+	<trackwall height="31" width="15" x="122" y="-640"/>
+	
+  
+	<trackwall height="21" width="47" x="108" y="-618"/>
+	
+  
+	<deathwall height="11" width="209" x="44" y="-530"/>
+	
+  
+	<deathwall height="47" width="15" x="175" y="-524"/>
+	
+  
+	<activatetrackwall height="63" width="115" x="333" y="-497"/>
+	
+  
+	<textfield text="creeeeeeeak...." x="-1" y="-941"/>
+	
+  
+	<wall height="344" width="34" x="191" y="-1072"/>
+	
+  
+	<wall height="27" width="223" x="192" y="-1068"/>
+	
+  
+	<wall height="323" width="20" x="413" y="-1054"/>
+	
+  
+	<wall height="15" width="93" x="419" y="-1056"/>
+	
+  
+	<wall height="15" width="122" x="430" y="-734"/>
+	
+  
+	<trackblade x="451" y="-862"/>
+	
+  
+	<textfield text="who's there? Would you like some pieeeee?" x="273" y="-999"/>
+	
+  
+	<boostfruit x="108" y="-809"/>
+	
+  
+	<boostfruit x="103" y="-1002"/>
+	
+  
+	<boostfruit x="163" y="-1116"/>
+	
+  
+	<boostfruit x="264" y="-683"/>
+	
+  
+	<trackwall height="18" width="78" x="244" y="-858"/>
+	
+  
+	<trackwall height="-106" width="25" x="322" y="-844"/>
+	
+  
+	<trackwall height="-119" width="-14" x="244" y="-844"/>
+	
+  
+	<trackwall height="45" width="16" x="259" y="-933"/>
+	
+  
+	<trackwall height="10" width="32" x="266" y="-889"/>
+	
+  
+	<trackwall height="16" width="36" x="294" y="-938"/>
+	
+  
+	<trackwall height="-37" width="108" x="233" y="-958"/>
+	
+  
+	<trackwall height="53" width="61" x="298" y="-1040"/>
+	
+  
+	<boostfruit x="303" y="-916"/>
+	
+  
+	<boostfruit x="246" y="-918"/>
+	
+  
+	<wall height="37" width="87" x="340" y="-899"/>
+	
+  
+	<wall height="41" width="-104" x="424" y="-813"/>
+	
+  
+	<wall height="21" width="-96" x="418" y="-753"/>
+	
+  
+	<trackwall height="27" width="88" x="253" y="-812"/>
+	
+  
+	<trackwall height="84" width="20" x="253" y="-800"/>
+	
+  
+	<trackwall height="-14" width="101" x="264" y="-716"/>
+	
+  
+	<trackwall height="-72" width="-26" x="363" y="-730"/>
+	
+  
+	<boostfruit x="306" y="-764"/>
+	
+  
+	<boostfruit x="285" y="-763"/>
+	
+  
+	<boostfruit x="279" y="-780"/>
+	
+  
+	<boostfruit x="290" y="-777"/>
+	
+  
+	<boostfruit x="276" y="-737"/>
+	
+  
+	<boostfruit x="285" y="-736"/>
+	
+  
+	<boostfruit x="324" y="-747"/>
+	
+  
+	<boostfruit x="332" y="-758"/>
+	
+  
+	<boostfruit x="309" y="-789"/>
+	
+  
+	<boostfruit x="297" y="-783"/>
+	
+  
+	<boostfruit x="288" y="-757"/>
+	
+  
+	<boostfruit x="318" y="-758"/>
+	
+  
+	<boostfruit x="321" y="-756"/>
+	
+  
+	<boostfruit x="300" y="-746"/>
+	
+  
+	<boostfruit x="307" y="-746"/>
+	
+  
+	<boostfruit x="331" y="-775"/>
+	
+  
+	<boostfruit x="329" y="-794"/>
+	
+  
+	<rocketlauncher x="22" y="-1304"/>
+	
+  
+	<rocketlauncher x="428" y="-1315"/>
+	
+  
+	<wall height="79" width="107" x="163" y="-1442"/>
+	
+  
+	<goal height="-225" width="124" x="217" y="-1518"/>
+	
+
+</level>

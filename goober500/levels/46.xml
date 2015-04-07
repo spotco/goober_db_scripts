@@ -1,0 +1,128 @@
+<?xml version="1.0" ?>
+<level author="spotco" bg="1" name="movingblocktest">
+	
+  
+	<track height="53" width="257" x="143" y="297"/>
+	
+  
+	<trackwall height="65" width="120" x="221" y="280"/>
+	
+  
+	<track height="-298" width="-44" x="225" y="398"/>
+	
+  
+	<trackwall height="61" width="127" x="112" y="111"/>
+	
+  
+	<track height="193" width="43" x="355" y="80"/>
+	
+  
+	<trackwall height="58" width="73" x="325" y="179"/>
+	
+  
+	<track height="30" width="-171" x="433" y="120"/>
+	
+  
+	<trackwall height="53" width="-92" x="464" y="99"/>
+	
+  
+	<track height="-189" width="-38" x="265" y="87"/>
+	
+  
+	<trackwall height="114" width="59" x="192" y="-47"/>
+	
+  
+	<track height="68" width="182" x="293" y="-41"/>
+	
+  
+	<trackwall height="128" width="57" x="302" y="-75"/>
+	
+  
+	<track height="-167" width="-37" x="105" y="77"/>
+	
+  
+	<trackwall height="57" width="109" x="17" y="3"/>
+	
+  
+	<track height="163" width="61" x="53" y="181"/>
+	
+  
+	<trackwall height="60" width="-96" x="109" y="236"/>
+	
+  
+	<track height="-42" width="415" x="28" y="202"/>
+	
+  
+	<trackwall height="-151" width="-40" x="47" y="222"/>
+	
+  
+	<track height="-54" width="224" x="44" y="-48"/>
+	
+  
+	<track height="57" width="292" x="193" y="-174"/>
+	
+  
+	<track height="223" width="31" x="152" y="-270"/>
+	
+  
+	<track height="205" width="86" x="345" y="-309"/>
+	
+  
+	<track height="-116" width="-322" x="406" y="-230"/>
+	
+  
+	<track height="65" width="207" x="48" y="-263"/>
+	
+  
+	<track height="254" width="57" x="420" y="-289"/>
+	
+  
+	<track height="265" width="47" x="397" y="-253"/>
+	
+  
+	<trackwall height="55" width="97" x="374" y="-239"/>
+	
+  
+	<trackwall height="73" width="59" x="268" y="-367"/>
+	
+  
+	<trackwall height="40" width="71" x="289" y="-239"/>
+	
+  
+	<trackwall height="118" width="63" x="202" y="-245"/>
+	
+  
+	<trackwall height="59" width="79" x="107" y="-244"/>
+	
+  
+	<trackwall height="108" width="45" x="36" y="-307"/>
+	
+  
+	<trackwall height="99" width="71" x="35" y="-147"/>
+	
+  
+	<trackwall height="192" width="59" x="93" y="-496"/>
+	
+  
+	<track height="63" width="407" x="22" y="-443"/>
+	
+  
+	<track height="182" width="73" x="369" y="-558"/>
+	
+  
+	<trackwall height="50" width="70" x="336" y="-516"/>
+	
+  
+	<trackwall height="58" width="87" x="237" y="-464"/>
+	
+  
+	<track height="-192" width="-25" x="205" y="-383"/>
+	
+  
+	<trackwall height="-84" width="-80" x="226" y="-513"/>
+	
+  
+	<goal height="111" width="118" x="192" y="-759"/>
+	
+
+</level>

@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="chanceofluck8">
+	
+  
+	<wall height="43" width="692" x="4" y="318"/>
+	
+  
+	<wall height="-339" width="26" x="254" y="231"/>
+	
+  
+	<boost height="-673" width="216" x="293" y="246"/>
+	
+  
+	<boost height="-689" width="211" x="14" y="263"/>
+	
+  
+	<wall height="-656" width="58" x="231" y="-333"/>
+	
+  
+	<wall height="-411" width="14" x="109" y="-432"/>
+	
+  
+	<wall height="-476" width="19" x="385" y="-411"/>
+	
+  
+	<boost height="-530" width="102" x="135" y="-416"/>
+	
+  
+	<boost height="-503" width="90" x="22" y="-408"/>
+	
+  
+	<boost height="-528" width="76" x="303" y="-407"/>
+	
+  
+	<boost height="-517" width="101" x="414" y="-394"/>
+	
+  
+	<deathwall height="127" width="108" x="129" y="-949"/>
+	
+  
+	<rocketlauncher x="346" y="-801"/>
+	
+  
+	<wall height="-327" width="19" x="112" y="-844"/>
+	
+  
+	<wall height="-323" width="27" x="381" y="-882"/>
+	
+  
+	<wall height="-416" width="-17" x="467" y="-883"/>
+	
+  
+	<wall height="-338" width="21" x="52" y="-883"/>
+	
+  
+	<boost height="-370" width="35" x="30" y="-888"/>
+	
+  
+	<boost height="-286" width="28" x="80" y="-898"/>
+	
+  
+	<boost height="-308" width="34" x="420" y="-895"/>
+	
+  
+	<boost height="-354" width="39" x="473" y="-904"/>
+	
+  
+	<goal height="104" width="494" x="21" y="-1374"/>
+	
+  
+	<deathwall height="45" width="58" x="398" y="-1192"/>
+	
+  
+	<trackblade x="93" y="-1176"/>
+	
+
+</level>

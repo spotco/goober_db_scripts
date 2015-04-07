@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<level author="lamboe" bg="1" name="hoopla">
+	
+  
+	<wall height="-41" width="-276" x="243" y="419"/>
+	
+  
+	<wall height="-218" width="-15" x="222" y="393"/>
+	
+  
+	<wall height="13" width="137" x="217" y="204"/>
+	
+  
+	<wall height="-472" width="59" x="408" y="468"/>
+	
+  
+	<wall height="34" width="-113" x="452" y="312"/>
+	
+  
+	<wall height="61" width="197" x="38" y="72"/>
+	
+  
+	<wall height="22" width="92" x="343" y="12"/>
+	
+  
+	<boostfruit x="301" y="-16"/>
+	
+  
+	<boostfruit x="172" y="-134"/>
+	
+  
+	<boostfruit x="369" y="-150"/>
+	
+  
+	<boostfruit x="63" y="-7"/>
+	
+  
+	<textfield text="fight for dark jinv" x="133" y="-474"/>
+	
+  
+	<wall height="34" width="221" x="304" y="-315"/>
+	
+  
+	<track height="-521" width="10" x="231" y="-321"/>
+	
+  
+	<trackwall height="58" width="-293" x="373" y="-569"/>
+	
+  
+	<goal height="156" width="-421" x="373" y="-981"/>
+	
+
+</level>

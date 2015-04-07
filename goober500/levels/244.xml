@@ -1,0 +1,155 @@
+<?xml version="1.0" ?>
+<level author="JOHN" bg="1" name="WARNING">
+	
+  
+	<wall height="-20.900000000000034" width="278.15" x="137.3" y="296.35"/>
+	
+  
+	<deathwall height="207.29999999999995" width="255.45000000000002" x="3.65" y="-598.65"/>
+	
+  
+	<boost height="278.1500000000001" width="284.54999999999995" x="140.9" y="-1117.7"/>
+	
+  
+	<wall height="42.69999999999982" width="-122.75" x="108.2" y="-1366.35"/>
+	
+  
+	<goal height="56.34999999999991" width="56.4" x="20.9" y="-1481.8"/>
+	
+  
+	<deathwall height="152.75" width="224.55" x="280.9" y="-250"/>
+	
+  
+	<textfield text="PROSEXE EDO ARXIZOUN TA DISKOLA" x="21.85" y="75.44999999999999"/>
+	
+  
+	<boostfruit x="35.45" y="54.55000000000001"/>
+	
+  
+	<boostfruit x="159.1" y="63.650000000000006"/>
+	
+  
+	<boostfruit x="235.45" y="50.900000000000006"/>
+	
+  
+	<boostfruit x="363.65" y="42.75"/>
+	
+  
+	<boostfruit x="266.35" y="38.19999999999999"/>
+	
+  
+	<boostfruit x="51.85" y="27.30000000000001"/>
+	
+  
+	<boostfruit x="93.65" y="-61.8"/>
+	
+  
+	<boostfruit x="166.35" y="-59.099999999999994"/>
+	
+  
+	<boostfruit x="140.9" y="-63.650000000000006"/>
+	
+  
+	<boostfruit x="104.55" y="-130.9"/>
+	
+  
+	<boostfruit x="163.65" y="-133.15"/>
+	
+  
+	<boostfruit x="175.45" y="-144.1"/>
+	
+  
+	<boostfruit x="39.1" y="-175.9"/>
+	
+  
+	<boostfruit x="155.45" y="-191.8"/>
+	
+  
+	<boostfruit x="184.55" y="-218.15"/>
+	
+  
+	<boostfruit x="185.45" y="-224.1"/>
+	
+  
+	<boostfruit x="157.3" y="-192.7"/>
+	
+  
+	<boostfruit x="87.3" y="-237.25"/>
+	
+  
+	<boostfruit x="146.35" y="-256.8"/>
+	
+  
+	<boostfruit x="237.3" y="-291.35"/>
+	
+  
+	<boostfruit x="253.65" y="-300.9"/>
+	
+  
+	<boostfruit x="291.85" y="-294.1"/>
+	
+  
+	<boostfruit x="334.55" y="-321.35"/>
+	
+  
+	<boostfruit x="370.9" y="-329.1"/>
+	
+  
+	<boostfruit x="400" y="-346.35"/>
+	
+  
+	<boostfruit x="419.1" y="-375.9"/>
+	
+  
+	<boostfruit x="408.2" y="-415.9"/>
+	
+  
+	<boostfruit x="392.75" y="-438.15"/>
+	
+  
+	<boostfruit x="382.75" y="-463.65"/>
+	
+  
+	<boostfruit x="370.9" y="-482.25"/>
+	
+  
+	<boostfruit x="352.75" y="-507.7"/>
+	
+  
+	<boostfruit x="352.75" y="-527.7"/>
+	
+  
+	<boostfruit x="352.75" y="-547.7"/>
+	
+  
+	<boostfruit x="352.75" y="-562.7"/>
+	
+  
+	<boostfruit x="352.75" y="-582.7"/>
+	
+  
+	<boostfruit x="352.75" y="-597.7"/>
+	
+  
+	<boostfruit x="352.75" y="-612.7"/>
+	
+  
+	<boostfruit x="352.75" y="-627.7"/>
+	
+  
+	<boostfruit x="287.3" y="-660.45"/>
+	
+  
+	<boostfruit x="294.55" y="-688.65"/>
+	
+  
+	<boostfruit x="300" y="-717.7"/>
+	
+  
+	<boostfruit x="310.9" y="-763.15"/>
+	
+  
+	<boostfruit x="188.2" y="185.89999999999998"/>
+	
+
+</level>

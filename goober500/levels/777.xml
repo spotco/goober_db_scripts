@@ -1,0 +1,215 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="deepfriedshrew">
+	
+  
+	<textfield text="gess wut i is ur presidunt" x="129" y="144"/>
+	
+  
+	<textfield text="prime minister" x="285" y="23"/>
+	
+  
+	<textfield text="emperor" x="52" y="6"/>
+	
+  
+	<textfield text="poopstaar" x="314" y="-138"/>
+	
+  
+	<boost height="433" width="243" x="195" y="-207"/>
+	
+  
+	<wall height="27" width="27" x="237" y="-242"/>
+	
+  
+	<wall height="-42" width="-50" x="250" y="-219"/>
+	
+  
+	<wall height="-76" width="-70" x="219" y="-242"/>
+	
+  
+	<wall height="-80" width="-51" x="175" y="-286"/>
+	
+  
+	<wall height="-80" width="-51" x="140" y="-327"/>
+	
+  
+	<wall height="-113" width="-65" x="115" y="-350"/>
+	
+  
+	<wall height="-95" width="-52" x="80" y="-390"/>
+	
+  
+	<wall height="-77" width="-31" x="37" y="-452"/>
+	
+  
+	<wall height="-79" width="-88" x="17" y="-514"/>
+	
+  
+	<wall height="15" width="-445" x="253" y="-223"/>
+	
+  
+	<wall height="-72" width="-285" x="203" y="-230"/>
+	
+  
+	<wall height="34" width="40" x="186" y="-255"/>
+	
+  
+	<wall height="22" width="-211" x="224" y="-244"/>
+	
+  
+	<wall height="-60" width="-232" x="144" y="-280"/>
+	
+  
+	<wall height="-145" width="-198" x="107" y="-300"/>
+	
+  
+	<wall height="-122" width="-81" x="33" y="-417"/>
+	
+  
+	<textfield text="teh sno glows wite on teh mountain tonught" x="267" y="-443"/>
+	
+  
+	<boostfruit x="189" y="-664"/>
+	
+  
+	<boostfruit x="184" y="-742"/>
+	
+  
+	<boostfruit x="306" y="-666"/>
+	
+  
+	<boostfruit x="311" y="-725"/>
+	
+  
+	<boostfruit x="311" y="-759"/>
+	
+  
+	<textfield text="let it gooooooooooo" x="208" y="-1010"/>
+	
+  
+	<wall height="-78" width="-250" x="222" y="-1111"/>
+	
+  
+	<wall height="13" width="273" x="229" y="-1326"/>
+	
+  
+	<wall height="104" width="-294" x="151" y="-1412"/>
+	
+  
+	<wall height="63" width="224" x="219" y="-1464"/>
+	
+  
+	<wall height="105" width="-175" x="195" y="-1585"/>
+	
+  
+	<wall height="53" width="182" x="392" y="-1644"/>
+	
+  
+	<wall height="41" width="126" x="219" y="-1667"/>
+	
+  
+	<textfield text="go to senorfrogs restaurant lol" x="108" y="-1757"/>
+	
+  
+	<textfield text="or german schmaltz vag which is misspelled" x="334" y="-1800"/>
+	
+  
+	<boostfruit x="282" y="-1847"/>
+	
+  
+	<boostfruit x="150" y="-1935"/>
+	
+  
+	<boostfruit x="406" y="-2027"/>
+	
+  
+	<boostfruit x="439" y="-1981"/>
+	
+  
+	<boostfruit x="152" y="-1976"/>
+	
+  
+	<boostfruit x="316" y="-2011"/>
+	
+  
+	<boostfruit x="280" y="-1865"/>
+	
+  
+	<boostfruit x="204" y="-1956"/>
+	
+  
+	<boostfruit x="277" y="-1933"/>
+	
+  
+	<boostfruit x="213" y="-1935"/>
+	
+  
+	<boostfruit x="381" y="-1928"/>
+	
+  
+	<boostfruit x="418" y="-1952"/>
+	
+  
+	<boostfruit x="358" y="-1903"/>
+	
+  
+	<boostfruit x="161" y="-1868"/>
+	
+  
+	<boostfruit x="127" y="-1866"/>
+	
+  
+	<boostfruit x="132" y="-2056"/>
+	
+  
+	<boostfruit x="330" y="-2033"/>
+	
+  
+	<boostfruit x="272" y="-1730"/>
+	
+  
+	<boostfruit x="316" y="-1709"/>
+	
+  
+	<boostfruit x="366" y="-1760"/>
+	
+  
+	<boostfruit x="379" y="-1792"/>
+	
+  
+	<boostfruit x="387" y="-1894"/>
+	
+  
+	<boostfruit x="341" y="-1915"/>
+	
+  
+	<boostfruit x="66" y="-1927"/>
+	
+  
+	<boostfruit x="102" y="-1864"/>
+	
+  
+	<boostfruit x="211" y="-1884"/>
+	
+  
+	<boostfruit x="222" y="-2043"/>
+	
+  
+	<boostfruit x="359" y="-2095"/>
+	
+  
+	<boostfruit x="419" y="-1958"/>
+	
+  
+	<textfield text="mermaids" x="79" y="-2195"/>
+	
+  
+	<goal height="60" width="-517" x="437" y="-2249"/>
+	
+  
+	<wall height="70" width="304" x="96" y="345"/>
+	
+  
+	<boostfruit x="211" y="-550"/>
+	
+
+</level>

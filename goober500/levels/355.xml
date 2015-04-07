@@ -1,0 +1,233 @@
+<?xml version="1.0" ?>
+<level author="Victor" bg="2" name="pointtodaviaexit">
+	
+  
+	<boost height="-532.95" width="-111.64999999999998" x="299.15" y="467.55"/>
+	
+  
+	<boost height="-562.6" width="-110.45000000000002" x="298.55" y="-67.25"/>
+	
+  
+	<boost height="-527.4000000000001" width="112.89999999999998" x="187.5" y="-626.75"/>
+	
+  
+	<boost height="-465.75" width="108.54999999999998" x="190.6" y="-1154.65"/>
+	
+  
+	<wall height="-46.299999999999955" width="193.7" x="-1.25" y="-1631.4"/>
+	
+  
+	<wall height="56.75" width="197.40000000000003" x="300.4" y="-1633.9"/>
+	
+  
+	<goal height="94.40000000000009" width="85.10000000000001" x="4.3" y="-1777"/>
+	
+  
+	<textfield text="Victor:Wait Before u leave umust know on 'EndOfYourWorld' was made by me i " x="408.3" y="-1836.3"/>
+	
+  
+	<textfield text="Made by me i acdiently put vicytor xD" x="454.6" y="-1777.7"/>
+	
+  
+	<wall height="-12.349999999999909" width="-11.75" x="122.75" y="-1671.5"/>
+	
+  
+	<wall height="-286.25" width="49.35000000000001" x="107.3" y="-1673.35"/>
+	
+  
+	<wall height="-316.45000000000005" width="76.5" x="305.95" y="-1635.75"/>
+	
+  
+	<wall height="58" width="126.5" x="375" y="-1952.2"/>
+	
+  
+	<wall height="69.09999999999991" width="64.75" x="500.25" y="-1952.8"/>
+	
+  
+	<wall height="54.299999999999955" width="54.29999999999998" x="157.9" y="-1957.85"/>
+	
+  
+	<boostfruit x="239.3" y="-1641.4"/>
+	
+  
+	<boostfruit x="241.8" y="-1686.4"/>
+	
+  
+	<boostfruit x="247.35" y="-1759.2"/>
+	
+  
+	<boostfruit x="251.05" y="-1833.25"/>
+	
+  
+	<boostfruit x="243" y="-1721.6"/>
+	
+  
+	<boostfruit x="247.35" y="-1802.4"/>
+	
+  
+	<boostfruit x="253.5" y="-1878.9"/>
+	
+  
+	<boostfruit x="254.75" y="-1859.75"/>
+	
+  
+	<boostfruit x="249.2" y="-1903.55"/>
+	
+  
+	<boostfruit x="250.4" y="-1920.8"/>
+	
+  
+	<boostfruit x="251.05" y="-1976.95"/>
+	
+  
+	<boostfruit x="251.05" y="-1976.95"/>
+	
+  
+	<boostfruit x="246.1" y="-1943.65"/>
+	
+  
+	<boostfruit x="247.95" y="-1938.7"/>
+	
+  
+	<boostfruit x="249.8" y="-1938.7"/>
+	
+  
+	<boostfruit x="246.7" y="-1943.65"/>
+	
+  
+	<boostfruit x="247.35" y="-1951.65"/>
+	
+  
+	<boostfruit x="241.8" y="-1958.45"/>
+	
+  
+	<boostfruit x="236.85" y="-1964"/>
+	
+  
+	<boostfruit x="225.75" y="-1970.8"/>
+	
+  
+	<boostfruit x="217.1" y="-1973.25"/>
+	
+  
+	<boostfruit x="207.25" y="-1978.2"/>
+	
+  
+	<boostfruit x="193.65" y="-1983.75"/>
+	
+  
+	<boostfruit x="166.55" y="-1993"/>
+	
+  
+	<boostfruit x="166.55" y="-1993"/>
+	
+  
+	<boostfruit x="162.2" y="-1986.85"/>
+	
+  
+	<boostfruit x="174.55" y="-1983.75"/>
+	
+  
+	<boostfruit x="176.4" y="-1983.15"/>
+	
+  
+	<boostfruit x="175.8" y="-1982.5"/>
+	
+  
+	<boostfruit x="153.6" y="-1980.65"/>
+	
+  
+	<boostfruit x="153.6" y="-1980.65"/>
+	
+  
+	<boostfruit x="135.05" y="-1981.9"/>
+	
+  
+	<boostfruit x="133.85" y="-1981.9"/>
+	
+  
+	<boostfruit x="119.65" y="-1978.8"/>
+	
+  
+	<boostfruit x="107.3" y="-1975.1"/>
+	
+  
+	<boostfruit x="104.85" y="-1974.5"/>
+	
+  
+	<boostfruit x="99.3" y="-1969.55"/>
+	
+  
+	<boostfruit x="94.35" y="-1964"/>
+	
+  
+	<boostfruit x="90.05" y="-1956.6"/>
+	
+  
+	<boostfruit x="85.7" y="-1947.35"/>
+	
+  
+	<boostfruit x="82.65" y="-1937.5"/>
+	
+  
+	<boostfruit x="78.95" y="-1923.3"/>
+	
+  
+	<boostfruit x="68.45" y="-1893.05"/>
+	
+  
+	<boostfruit x="61.65" y="-1860.35"/>
+	
+  
+	<boostfruit x="50.55" y="-1801.75"/>
+	
+  
+	<boostfruit x="40.7" y="-1783.25"/>
+	
+  
+	<boostfruit x="70.3" y="-1846.8"/>
+	
+  
+	<boostfruit x="80.15" y="-1873.95"/>
+	
+  
+	<boostfruit x="80.8" y="-1922.05"/>
+	
+  
+	<boostfruit x="30.2" y="-1870.85"/>
+	
+  
+	<boostfruit x="38.25" y="-1856.05"/>
+	
+  
+	<boostfruit x="18.5" y="-1788.8"/>
+	
+  
+	<boostfruit x="38.85" y="-1779.55"/>
+	
+  
+	<boostfruit x="40.1" y="-1737.6"/>
+	
+  
+	<boostfruit x="23.4" y="-1698.15"/>
+	
+  
+	<boostfruit x="53.05" y="-1775.25"/>
+	
+  
+	<boostfruit x="-21" y="-1861.6"/>
+	
+  
+	<boostfruit x="321.95" y="-2110.8"/>
+	
+  
+	<boostfruit x="539.7" y="-1936.25"/>
+	
+  
+	<boostfruit x="210.35" y="-2040.5"/>
+	
+  
+	<boostfruit x="212.8" y="-2054.05"/>
+	
+
+</level>

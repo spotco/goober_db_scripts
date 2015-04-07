@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<level author="Nikotiivi" bg="3" name="highland">
+	
+  
+	<wall height="55" width="152" x="201" y="319"/>
+	
+  
+	<wall height="47" width="48" x="402" y="372"/>
+	
+  
+	<wall height="52" width="49" x="453" y="269"/>
+	
+  
+	<wall height="31" width="21" x="5" y="169"/>
+	
+  
+	<trackblade x="154" y="321"/>
+	
+  
+	<trackblade x="183" y="348"/>
+	
+  
+	<trackblade x="162" y="265"/>
+	
+  
+	<trackblade x="179" y="288"/>
+	
+  
+	<boost height="-160" width="-67" x="492" y="255"/>
+	
+  
+	<boost height="75" width="-341" x="420" y="79"/>
+	
+  
+	<boost height="-58" width="53" x="92" y="67"/>
+	
+  
+	<boost height="-314" width="61" x="93" y="6"/>
+	
+  
+	<boost height="78" width="169" x="156" y="-186"/>
+	
+  
+	<wall height="17" width="-340" x="492" y="28"/>
+	
+  
+	<boost height="68" width="230" x="154" y="-370"/>
+	
+  
+	<wall height="-39" width="55" x="93" y="-317"/>
+	
+  
+	<wall height="18" width="227" x="156" y="-387"/>
+	
+  
+	<trackwall height="40" width="72" x="367" y="-472"/>
+	
+  
+	<trackwall height="31" width="102" x="116" y="-466"/>
+	
+  
+	<goal height="48" width="373" x="127" y="-579"/>
+	
+  
+	<goal height="62" width="-97" x="134" y="-585"/>
+	
+
+</level>

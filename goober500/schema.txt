@@ -1,0 +1,33 @@
+use spotco_jumpdiecreatelevels;
+
+mysql> describe level;
++--------------+-------------+------+-----+-------------------+----------------+
+| Field        | Type        | Null | Key | Default           | Extra          |
++--------------+-------------+------+-----+-------------------+----------------+
+| id           | int(11)     | NO   | PRI | NULL              | auto_increment |
+| xml          | text        | YES  |     | NULL              |                |
+| date_created | timestamp   | YES  |     | CURRENT_TIMESTAMP |                |
+| creator_name | varchar(20) | YES  |     | anonymous         |                |
+| level_name   | varchar(20) | NO   | UNI | NULL              |                |
+| creator_num  | int(11)     | YES  |     | NULL              |                |
+| creator_str  | varchar(16) | YES  |     | NULL              |                |
++--------------+-------------+------+-----+-------------------+----------------+
+
+describe level_playcount;
++-----------+---------+------+-----+---------+----------------+
+| Field     | Type    | Null | Key | Default | Extra          |
++-----------+---------+------+-----+---------+----------------+
+| id        | int(11) | NO   | PRI | NULL    | auto_increment |
+| level_id  | int(11) | NO   |     | NULL    |                |
+| playcount | int(11) | NO   |     | 0       |                |
++-----------+---------+------+-----+---------+----------------+
+
+describe level_review;
++----------+-----------+------+-----+-------------------+----------------+
+| Field    | Type      | Null | Key | Default           | Extra          |
++----------+-----------+------+-----+-------------------+----------------+
+| id       | int(11)   | NO   | PRI | NULL              | auto_increment |
+| rating   | int(11)   | NO   |     | NULL              |                |
+| level_id | int(11)   | YES  | MUL | NULL              |                |
+| date     | timestamp | NO   |     | CURRENT_TIMESTAMP |                |
++----------+-----------+------+-----+-------------------+----------------+

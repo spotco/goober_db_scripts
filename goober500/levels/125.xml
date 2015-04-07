@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<level author="gfgfhbg" bg="1" name="efrtrgfgfg">
+	
+  
+	<goal height="10" width="59" x="11" y="532"/>
+	
+  
+	<goal height="-15" width="39" x="237" y="549"/>
+	
+  
+	<goal height="277" width="202" x="299" y="214"/>
+	
+  
+	<goal height="359" width="21" x="14" y="62"/>
+	
+  
+	<goal height="-15" width="101" x="14" y="62"/>
+	
+  
+	<goal height="132" width="360" x="18" y="24"/>
+	
+  
+	<goal height="29" width="127" x="372" y="30"/>
+	
+  
+	<goal height="164" width="491" x="11" y="-111"/>
+	
+  
+	<goal height="100" width="503" x="2" y="552"/>
+	
+  
+	<goal height="96" width="26" x="2" y="439"/>
+	
+  
+	<goal height="24" width="25" x="460" y="531"/>
+	
+  
+	<goal height="177" width="84" x="322" y="179"/>
+	
+  
+	<wall height="42" width="452" x="43" y="499"/>
+	
+  
+	<goal height="259" width="105" x="45" y="196"/>
+	
+
+</level>

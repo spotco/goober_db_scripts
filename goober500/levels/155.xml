@@ -1,0 +1,62 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="fast">
+	
+  
+	<wall height="31" width="194" x="162" y="265"/>
+	
+  
+	<flowerboss y="694"/>
+	
+  
+	<wall height="66" width="135" x="63" y="201"/>
+	
+  
+	<wall height="91" width="137" x="316" y="180"/>
+	
+  
+	<wall height="97" width="-148" x="388" y="90"/>
+	
+  
+	<boost height="175" width="49" x="300" y="-84"/>
+	
+  
+	<track height="177" width="37" x="261" y="-84"/>
+	
+  
+	<track height="126" width="-24" x="389" y="-85"/>
+	
+  
+	<boostfruit x="236" y="-200"/>
+	
+  
+	<boostfruit x="371" y="-309"/>
+	
+  
+	<activatetrackwall height="124" width="137" x="368" y="-476"/>
+	
+  
+	<wall height="67" width="-107" x="391" y="-648"/>
+	
+  
+	<boost height="-292" width="56" x="332" y="-672"/>
+	
+  
+	<goal height="187" width="-322" x="420" y="-1333"/>
+	
+  
+	<goal height="-186" width="71" x="420" y="-1139"/>
+	
+  
+	<boostfruit x="348" y="-334"/>
+	
+  
+	<boostfruit x="328" y="-300"/>
+	
+  
+	<boostfruit x="279" y="-222"/>
+	
+  
+	<boostfruit x="239" y="-240"/>
+	
+
+</level>

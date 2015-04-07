@@ -1,0 +1,113 @@
+<?xml version="1.0" ?>
+<level author="catpakoo" bg="1" name="chanceofluck9">
+	
+  
+	<wall height="-715" width="-18" x="55" y="285"/>
+	
+  
+	<wall height="-697" width="-26" x="131" y="274"/>
+	
+  
+	<wall height="-685" width="26" x="184" y="278"/>
+	
+  
+	<wall height="90" width="458" x="15" y="363"/>
+	
+  
+	<wall height="-688" width="28" x="317" y="279"/>
+	
+  
+	<wall height="-583" width="21" x="407" y="273"/>
+	
+  
+	<wall height="-488" width="18" x="261" y="287"/>
+	
+  
+	<track height="249" width="17" x="233" y="-223"/>
+	
+  
+	<track height="246" width="10" x="302" y="-216"/>
+	
+  
+	<track height="25" width="110" x="213" y="-264"/>
+	
+  
+	<trackblade x="268" y="-258"/>
+	
+  
+	<trackblade x="235" y="-169"/>
+	
+  
+	<trackblade x="234" y="-45"/>
+	
+  
+	<trackblade x="311" y="-31"/>
+	
+  
+	<trackblade x="308" y="-164"/>
+	
+  
+	<trackblade x="309" y="-93"/>
+	
+  
+	<trackblade x="240" y="-110"/>
+	
+  
+	<trackblade x="223" y="-262"/>
+	
+  
+	<trackblade x="316" y="-257"/>
+	
+  
+	<boost height="-326" width="30" x="69" y="-18"/>
+	
+  
+	<boost height="-395" width="71" x="431" y="99"/>
+	
+  
+	<deathwall height="71" width="100" x="413" y="-326"/>
+	
+  
+	<wall height="31" width="70" x="131" y="-476"/>
+	
+  
+	<laserlauncher dir="3" x="159" y="-221"/>
+	
+  
+	<rocketlauncher x="150" y="-156"/>
+	
+  
+	<track height="271" width="21" x="375" y="-303"/>
+	
+  
+	<trackwall height="26" width="44" x="355" y="-175"/>
+	
+  
+	<trackwall height="27" width="27" x="371" y="114"/>
+	
+  
+	<track height="289" width="27" x="377" y="-58"/>
+	
+  
+	<wall height="-748" width="17" x="168" y="-537"/>
+	
+  
+	<boost height="-779" width="-426" x="152" y="-541"/>
+	
+  
+	<boost height="-642" width="360" x="194" y="-531"/>
+	
+  
+	<deathwall height="269" width="168" x="191" y="-1199"/>
+	
+  
+	<deathwall height="277" width="119" x="385" y="-1202"/>
+	
+  
+	<deathwall height="93" width="27" x="361" y="-812"/>
+	
+  
+	<goal height="114" width="-287" x="185" y="-1356"/>
+	
+
+</level>

@@ -1,0 +1,13 @@
+<level name="MRH" bg="1">
+  <wall x="203" y="289" width="227" height="15"/>
+  <wall x="199" y="75" width="-11" height="134"/>
+  <wall x="390" y="-31" width="-17" height="186"/>
+  <wall x="221" y="-243" width="-25" height="210"/>
+  <wall x="365" y="-461" width="58" height="232"/>
+  <boostfruit x="217" y="-474"/>
+  <boostfruit x="336" y="-680"/>
+  <boost x="171" y="-924" width="68" height="277"/>
+  <boost x="172" y="-1280" width="67" height="355"/>
+  <goal x="159" y="-1873" width="32" height="33"/>
+  <goal x="152" y="-1872" width="57" height="375"/>
+</level>

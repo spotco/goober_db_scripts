@@ -1,0 +1,134 @@
+<?xml version="1.0" ?>
+<level author="kambo" bg="1" name="cagematch">
+	
+  
+	<wall height="29" width="523" x="1" y="362"/>
+	
+  
+	<wall height="357" width="33" x="6" y="7"/>
+	
+  
+	<wall height="37" width="416" x="36" y="6"/>
+	
+  
+	<trackwall height="234" width="18" x="69" y="22"/>
+	
+  
+	<trackwall height="-253" width="18" x="145" y="364"/>
+	
+  
+	<trackwall height="217" width="10" x="333" y="46"/>
+	
+  
+	<trackwall height="-210" width="-16" x="246" y="345"/>
+	
+  
+	<trackwall height="50" width="-12" x="207" y="31"/>
+	
+  
+	<trackwall height="227" width="22" x="417" y="23"/>
+	
+  
+	<trackwall height="54" width="28" x="379" y="312"/>
+	
+  
+	<rocketlauncher x="50" y="39"/>
+	
+  
+	<rocketlauncher x="42" y="164"/>
+	
+  
+	<rocketlauncher x="44" y="332"/>
+	
+  
+	<rocketlauncher x="385" y="155"/>
+	
+  
+	<textfield text="iz cage match time!" x="233" y="33"/>
+	
+  
+	<textfield text="aww ju escaped!or did cha?!" x="230" y="-110"/>
+	
+  
+	<trackwall height="23" width="441" x="7" y="-320"/>
+	
+  
+	<trackwall height="325" width="23" x="5" y="-313"/>
+	
+  
+	<trackwall height="169" width="32" x="85" y="-302"/>
+	
+  
+	<trackwall height="-69" width="31" x="275" y="5"/>
+	
+  
+	<trackwall height="138" width="42" x="151" y="-120"/>
+	
+  
+	<trackwall height="89" width="49" x="295" y="-308"/>
+	
+  
+	<rocketlauncher x="56" y="-264"/>
+	
+  
+	<rocketlauncher x="54" y="-153"/>
+	
+  
+	<rocketlauncher x="55" y="-136"/>
+	
+  
+	<rocketlauncher x="61" y="-73"/>
+	
+  
+	<boostfruit x="433" y="-363"/>
+	
+  
+	<boostfruit x="464" y="-265"/>
+	
+  
+	<textfield text="who iz gor aponnent?!" x="195" y="221"/>
+	
+  
+	<textfield text="your aponnent vill bea comin spoon!" x="168" y="147"/>
+	
+  
+	<bossactivate explode="no" height="-307" hp="6" width="457" x="24" y="-3"/>
+	
+  
+	<boostfruit x="384" y="-214"/>
+	
+  
+	<boostfruit x="388" y="-239"/>
+	
+  
+	<boostfruit x="455" y="-161"/>
+	
+  
+	<boostfruit x="367" y="-178"/>
+	
+  
+	<boostfruit x="423" y="-199"/>
+	
+  
+	<boostfruit x="403" y="-129"/>
+	
+  
+	<textfield text="oh noze you won!!!!" x="133" y="-405"/>
+	
+  
+	<goal height="38" width="121" x="52" y="-518"/>
+	
+  
+	<goal height="104" width="27" x="92" y="-497"/>
+	
+  
+	<goal height="108" width="13" x="71" y="-505"/>
+	
+  
+	<rocketlauncher x="261" y="-281"/>
+	
+  
+	<rocketlauncher x="167" y="-271"/>
+	
+
+</level>

@@ -1,0 +1,194 @@
+<?xml version="1.0" ?>
+<level author="alpaca" bg="1" name="doyoulikeit">
+	
+  
+	<wall height="54" width="533" x="12" y="297"/>
+	
+  
+	<wall height="256" width="50" x="13" y="46"/>
+	
+  
+	<wall height="61" width="365" x="146" y="66"/>
+	
+  
+	<wall height="225" width="131" x="385" y="101"/>
+	
+  
+	<wall height="335" width="-23" x="468" y="-351"/>
+	
+  
+	<wall height="-24" width="-230" x="449" y="-18"/>
+	
+  
+	<wall height="336" width="43" x="210" y="-371"/>
+	
+  
+	<wall height="36" width="156" x="246" y="-370"/>
+	
+  
+	<trackblade x="274" y="-200"/>
+	
+  
+	<trackblade x="314" y="-199"/>
+	
+  
+	<trackblade x="352" y="-195"/>
+	
+  
+	<trackblade x="398" y="-188"/>
+	
+  
+	<trackblade x="442" y="-191"/>
+	
+  
+	<rocketlauncher x="35" y="-466"/>
+	
+  
+	<rocketlauncher x="33" y="-573"/>
+	
+  
+	<rocketlauncher x="24" y="-652"/>
+	
+  
+	<boost height="342" width="90" x="311" y="-864"/>
+	
+  
+	<boost height="18" width="92" x="311" y="-525"/>
+	
+  
+	<wall height="194" width="31" x="19" y="-1110"/>
+	
+  
+	<wall height="89" width="110" x="54" y="-968"/>
+	
+  
+	<wall height="58" width="65" x="160" y="-911"/>
+	
+  
+	<wall height="31" width="59" x="213" y="-867"/>
+	
+  
+	<wall height="19" width="35" x="267" y="-842"/>
+	
+  
+	<wall height="87" width="370" x="223" y="-1242"/>
+	
+  
+	<wall height="94" width="196" x="363" y="-1341"/>
+	
+  
+	<wall height="83" width="148" x="441" y="-1399"/>
+	
+  
+	<wall height="87" width="318" x="30" y="-1516"/>
+	
+  
+	<goal height="94" width="84" x="319" y="-1871"/>
+	
+  
+	<goal height="48" width="47" x="22" y="-1841"/>
+	
+  
+	<goal height="48" width="80" x="164" y="-1862"/>
+	
+  
+	<trackblade x="19" y="-1648"/>
+	
+  
+	<trackblade x="62" y="-1644"/>
+	
+  
+	<trackblade x="120" y="-1650"/>
+	
+  
+	<trackblade x="191" y="-1646"/>
+	
+  
+	<trackblade x="230" y="-1647"/>
+	
+  
+	<trackblade x="278" y="-1650"/>
+	
+  
+	<trackblade x="340" y="-1645"/>
+	
+  
+	<boostfruit x="441" y="-1735"/>
+	
+  
+	<boostfruit x="441" y="-1714"/>
+	
+  
+	<boostfruit x="441" y="-1699"/>
+	
+  
+	<boostfruit x="442" y="-1686"/>
+	
+  
+	<boostfruit x="442" y="-1673"/>
+	
+  
+	<boostfruit x="442" y="-1659"/>
+	
+  
+	<boostfruit x="442" y="-1652"/>
+	
+  
+	<boostfruit x="442" y="-1641"/>
+	
+  
+	<boostfruit x="442" y="-1636"/>
+	
+  
+	<boostfruit x="442" y="-1636"/>
+	
+  
+	<textfield text="hi this is alpaca" x="142" y="237"/>
+	
+  
+	<textfield text="if you played homesweethome did you like it?" x="70" y="13"/>
+	
+  
+	<textfield text="i hope you enjoyed homesweethome, alpacas and other levels that i made" x="95" y="-127"/>
+	
+  
+	<textfield text="made" x="99" y="-90"/>
+	
+  
+	<textfield text="dont go into the torture chamber!" x="377" y="-441"/>
+	
+  
+	<deathwall height="29" width="10" x="258" y="-317"/>
+	
+  
+	<deathwall height="26" width="14" x="283" y="-303"/>
+	
+  
+	<deathwall height="16" width="30" x="309" y="-279"/>
+	
+  
+	<deathwall height="10" width="16" x="255" y="-267"/>
+	
+  
+	<deathwall height="30" width="15" x="361" y="-290"/>
+	
+  
+	<deathwall height="42" width="34" x="408" y="-273"/>
+	
+  
+	<deathwall height="13" width="40" x="315" y="-240"/>
+	
+  
+	<bossactivate explode="no" height="76" hp="6" width="92" x="309" y="-288"/>
+	
+  
+	<laserlauncher dir="3" x="296" y="-164"/>
+	
+  
+	<laserlauncher dir="3" x="391" y="-160"/>
+	
+  
+	<textfield text="yes! you won good job!" x="158" y="-1896"/>
+	
+
+</level>

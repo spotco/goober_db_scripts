@@ -1,0 +1,125 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="aboutme">
+	
+  
+	<boostfruit x="143" y="256"/>
+	
+  
+	<boostfruit x="408" y="256"/>
+	
+  
+	<boostfruit x="200" y="133"/>
+	
+  
+	<boostfruit x="100" y="79"/>
+	
+  
+	<boostfruit x="309" y="73"/>
+	
+  
+	<boostfruit x="213" y="22"/>
+	
+  
+	<boostfruit x="299" y="387"/>
+	
+  
+	<boostfruit x="208" y="338"/>
+	
+  
+	<boostfruit x="244" y="-89"/>
+	
+  
+	<boostfruit x="148" y="-265"/>
+	
+  
+	<boostfruit x="346" y="-367"/>
+	
+  
+	<boostfruit x="178" y="-492"/>
+	
+  
+	<boostfruit x="313" y="-529"/>
+	
+  
+	<boostfruit x="168" y="-616"/>
+	
+  
+	<boostfruit x="303" y="-640"/>
+	
+  
+	<boostfruit x="115" y="-698"/>
+	
+  
+	<boostfruit x="283" y="-746"/>
+	
+  
+	<boostfruit x="378" y="-757"/>
+	
+  
+	<boostfruit x="418" y="-724"/>
+	
+  
+	<boostfruit x="215" y="-850"/>
+	
+  
+	<boostfruit x="194" y="-875"/>
+	
+  
+	<boostfruit x="125" y="-926"/>
+	
+  
+	<boostfruit x="125" y="-941"/>
+	
+  
+	<boostfruit x="167" y="-951"/>
+	
+  
+	<boostfruit x="229" y="-960"/>
+	
+  
+	<boostfruit x="244" y="-958"/>
+	
+  
+	<goal height="72" width="281" x="107" y="-1058"/>
+	
+  
+	<textfield text="I like cats" x="48" y="208"/>
+	
+  
+	<textfield text="I am crazy" x="381" y="-50"/>
+	
+  
+	<textfield text="I like fries but not burgers" x="79" y="-433"/>
+	
+  
+	<textfield text="you are almost there, keep going and complete this easy level" x="329" y="-826"/>
+	
+  
+	<wall height="48" width="202" x="43" y="-778"/>
+	
+  
+	<wall height="52" width="235" x="243" y="-351"/>
+	
+  
+	<wall height="72" width="172" x="40" y="-210"/>
+	
+  
+	<deathwall height="97" width="126" x="360" y="99"/>
+	
+  
+	<deathwall height="121" width="97" x="19" y="-671"/>
+	
+  
+	<deathwall height="141" width="92" x="405" y="-1035"/>
+	
+  
+	<deathwall height="151" width="65" x="11" y="-1034"/>
+	
+  
+	<track height="85" width="216" x="272" y="-690"/>
+	
+  
+	<trackwall height="38" width="95" x="314" y="-705"/>
+	
+
+</level>

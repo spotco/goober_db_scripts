@@ -1,0 +1,140 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="hardlvl">
+	
+  
+	<wall height="51" width="451" x="51" y="270"/>
+	
+  
+	<wall height="53" width="-46" x="48" y="269"/>
+	
+  
+	<bossactivate explode="no" height="49" hp="6" width="52" x="48" y="220"/>
+	
+  
+	<bossactivate explode="no" height="51" hp="6" width="51" x="50" y="170"/>
+	
+  
+	<bossactivate explode="no" height="52" hp="6" width="53" x="49" y="119"/>
+	
+  
+	<bossactivate explode="no" height="48" hp="6" width="53" x="48" y="71"/>
+	
+  
+	<bossactivate explode="no" height="52" hp="6" width="51" x="50" y="18"/>
+	
+  
+	<boost height="-248" width="47" x="1" y="267"/>
+	
+  
+	<boost height="-246" width="46" x="451" y="267"/>
+	
+  
+	<bossactivate explode="no" height="48" hp="6" width="50" x="0" y="-29"/>
+	
+  
+	<textfield text="don`t go right" x="209" y="189"/>
+	
+  
+	<wall height="50" width="104" x="198" y="21"/>
+	
+  
+	<boost height="-297" width="54" x="223" y="-16"/>
+	
+  
+	<track height="48" width="303" x="99" y="-79"/>
+	
+  
+	<track height="53" width="303" x="99" y="-132"/>
+	
+  
+	<track height="50" width="300" x="100" y="-181"/>
+	
+  
+	<track height="50" width="301" x="99" y="-231"/>
+	
+  
+	<track height="49" width="300" x="100" y="-279"/>
+	
+  
+	<trackblade x="113" y="-75"/>
+	
+  
+	<trackblade x="157" y="-127"/>
+	
+  
+	<trackblade x="205" y="-177"/>
+	
+  
+	<trackblade x="258" y="-227"/>
+	
+  
+	<trackblade x="311" y="-274"/>
+	
+  
+	<wall height="50" width="203" x="0" y="-377"/>
+	
+  
+	<boost height="-228" width="50" x="451" y="-384"/>
+	
+  
+	<textfield text="is this level hard?" x="46" y="-446"/>
+	
+  
+	<wall height="28" width="-451" x="448" y="-611"/>
+	
+  
+	<wall height="-54" width="28" x="138" y="-614"/>
+	
+  
+	<wall height="19" width="67" x="166" y="-668"/>
+	
+  
+	<wall height="54" width="24" x="231" y="-667"/>
+	
+  
+	<goal height="38" width="64" x="166" y="-649"/>
+	
+  
+	<wall height="-77" width="23" x="253" y="-615"/>
+	
+  
+	<wall height="26" width="-137" x="253" y="-692"/>
+	
+  
+	<wall height="64" width="25" x="116" y="-668"/>
+	
+  
+	<textfield text="aw that sux" x="254" y="-736"/>
+	
+  
+	<boost height="-477" width="51" x="2" y="-615"/>
+	
+  
+	<activatetrackwall height="-514" width="54" x="199" y="-1096"/>
+	
+  
+	<track height="52" width="501" x="0" y="-1679"/>
+	
+  
+	<trackwall height="37" width="37" x="7" y="-1689"/>
+	
+  
+	<trackwall height="41" width="50" x="103" y="-1689"/>
+	
+  
+	<trackwall height="40" width="61" x="230" y="-1686"/>
+	
+  
+	<trackwall height="46" width="66" x="358" y="-1692"/>
+	
+  
+	<trackwall height="41" width="33" x="469" y="-1687"/>
+	
+  
+	<goal height="-580" width="675" x="1" y="-1730"/>
+	
+  
+	<wall height="50" width="249" x="250" y="-380"/>
+	
+
+</level>

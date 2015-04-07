@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<level author="lamboe" bg="1" name="chinofroyo">
+	
+  
+	<wall height="74" width="161" x="44" y="288"/>
+	
+  
+	<wall height="67" width="80" x="264" y="372"/>
+	
+  
+	<wall height="53" width="70" x="214" y="353"/>
+	
+  
+	<wall height="59" width="61" x="159" y="406"/>
+	
+  
+	<wall height="22" width="34" x="153" y="361"/>
+	
+  
+	<textfield text="chino is kneecap" x="93" y="118"/>
+	
+  
+	<textfield text="minions" x="345" y="-407"/>
+	
+  
+	<textfield text="froyo" x="30" y="-553"/>
+	
+  
+	<goal height="81" width="203" x="223" y="-561"/>
+	
+  
+	<boostfruit x="244" y="191"/>
+	
+  
+	<boostfruit x="365" y="55"/>
+	
+  
+	<boostfruit x="341" y="-43"/>
+	
+  
+	<boostfruit x="125" y="-148"/>
+	
+  
+	<boostfruit x="111" y="-159"/>
+	
+  
+	<boostfruit x="110" y="-197"/>
+	
+  
+	<boostfruit x="251" y="-393"/>
+	
+  
+	<boostfruit x="110" y="-426"/>
+	
+
+</level>

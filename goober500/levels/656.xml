@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="3" name="ffa">
+	
+  
+	<wall height="84" width="185" x="239" y="273"/>
+	
+  
+	<wall height="-79" width="-177" x="237" y="272"/>
+	
+  
+	<wall height="-65" width="47" x="61" y="192"/>
+	
+  
+	<wall height="-47" width="-40" x="63" y="118"/>
+	
+  
+	<wall height="-239" width="62" x="366" y="260"/>
+	
+  
+	<wall height="-67" width="55" x="305" y="254"/>
+	
+  
+	<wall height="-56" width="34" x="329" y="182"/>
+	
+  
+	<wall height="-38" width="18" x="343" y="121"/>
+	
+  
+	<wall height="-23" width="11" x="351" y="75"/>
+	
+  
+	<wall height="-37" width="76" x="398" y="11"/>
+	
+  
+	<wall height="-121" width="28" x="444" y="-36"/>
+	
+  
+	<wall height="-51" width="45" x="403" y="-38"/>
+	
+  
+	<wall height="-52" width="19" x="418" y="-99"/>
+	
+  
+	<wall height="-34" width="36" x="430" y="-160"/>
+	
+  
+	<wall height="-48" width="72" x="441" y="-196"/>
+	
+  
+	<wall height="-80" width="40" x="465" y="-242"/>
+	
+  
+	<wall height="-51" width="33" x="483" y="-328"/>
+	
+  
+	<wall height="-39" width="18" x="494" y="-388"/>
+	
+  
+	<boost height="-299" width="35" x="279" y="264"/>
+	
+  
+	<boost height="-75" width="34" x="282" y="-45"/>
+	
+  
+	<boost height="-69" width="45" x="281" y="-129"/>
+	
+  
+	<boost height="-328" width="46" x="281" y="-211"/>
+	
+  
+	<boost height="-162" width="52" x="278" y="-549"/>
+	
+  
+	<boost height="-123" width="61" x="281" y="-723"/>
+	
+  
+	<boost height="-85" width="63" x="283" y="-859"/>
+	
+  
+	<boost height="-85" width="61" x="285" y="-944"/>
+	
+  
+	<boost height="-90" width="65" x="289" y="-1040"/>
+	
+  
+	<boost height="-49" width="64" x="290" y="-1141"/>
+	
+  
+	<goal height="147" width="195" x="243" y="-1401"/>
+	
+
+</level>

@@ -1,0 +1,185 @@
+<?xml version="1.0" ?>
+<level author="kambo" bg="1" name="secretkambopart3">
+	
+  
+	<wall height="47" width="313" x="11" y="374"/>
+	
+  
+	<wall height="99" width="233" x="290" y="71"/>
+	
+  
+	<wall height="190" width="87" x="27" y="94"/>
+	
+  
+	<wall height="20" width="127" x="160" y="306"/>
+	
+  
+	<wall height="18" width="107" x="96" y="3"/>
+	
+  
+	<wall height="40" width="139" x="348" y="-47"/>
+	
+  
+	<wall height="126" width="179" x="55" y="-260"/>
+	
+  
+	<wall height="44" width="146" x="304" y="-337"/>
+	
+  
+	<trackwall height="23" width="71" x="63" y="-288"/>
+	
+  
+	<trackwall height="18" width="69" x="46" y="-300"/>
+	
+  
+	<trackwall height="24" width="64" x="36" y="-316"/>
+	
+  
+	<trackwall height="10" width="51" x="37" y="-323"/>
+	
+  
+	<trackwall height="17" width="50" x="25" y="-337"/>
+	
+  
+	<trackwall height="57" width="439" x="77" y="-485"/>
+	
+  
+	<trackwall height="100" width="411" x="106" y="-508"/>
+	
+  
+	<trackwall height="101" width="385" x="127" y="-547"/>
+	
+  
+	<trackwall height="65" width="318" x="190" y="-558"/>
+	
+  
+	<textfield text="it iz da speedy test!" x="195" y="-662"/>
+	
+  
+	<activatetrackwall height="35" width="177" x="38" y="-994"/>
+	
+  
+	<boostfruit x="393" y="-612"/>
+	
+  
+	<boostfruit x="368" y="-674"/>
+	
+  
+	<boostfruit x="336" y="-746"/>
+	
+  
+	<boostfruit x="303" y="-831"/>
+	
+  
+	<boostfruit x="268" y="-887"/>
+	
+  
+	<boostfruit x="233" y="-936"/>
+	
+  
+	<deathwall height="26" width="272" x="254" y="-1186"/>
+	
+  
+	<deathwall height="26" width="134" x="14" y="-1262"/>
+	
+  
+	<deathwall height="21" width="329" x="207" y="-1417"/>
+	
+  
+	<track height="21" width="503" x="14" y="-1474"/>
+	
+  
+	<track height="19" width="487" x="9" y="-1469"/>
+	
+  
+	<track height="53" width="497" x="13" y="-1470"/>
+	
+  
+	<track height="17" width="497" x="15" y="-1467"/>
+	
+  
+	<trackwall height="20" width="187" x="12" y="-1472"/>
+	
+  
+	<boost height="373" width="112" x="296" y="-2100"/>
+	
+  
+	<boost height="245" width="52" x="21" y="-2224"/>
+	
+  
+	<boost height="397" width="230" x="20" y="-2424"/>
+	
+  
+	<activatetrackwall height="27" width="103" x="356" y="-2820"/>
+	
+  
+	<boost height="375" width="102" x="289" y="-2452"/>
+	
+  
+	<boost height="-407" width="-274" x="305" y="-1742"/>
+	
+  
+	<boost height="-354" width="-181" x="403" y="-2099"/>
+	
+  
+	<textfield text="quyick go dis vay!" x="148" y="-2704"/>
+	
+  
+	<boost height="111" width="233" x="58" y="-2834"/>
+	
+  
+	<boost height="189" width="75" x="58" y="-2721"/>
+	
+  
+	<boost height="57" width="196" x="137" y="-2584"/>
+	
+  
+	<boost height="164" width="57" x="291" y="-2746"/>
+	
+  
+	<boost height="59" width="114" x="181" y="-2642"/>
+	
+  
+	<boost height="317" width="151" x="57" y="-3122"/>
+	
+  
+	<textfield text="lol i lieyed!@!" x="168" y="-3219"/>
+	
+  
+	<trackwall height="53" width="268" x="8" y="-3332"/>
+	
+  
+	<trackwall height="101" width="188" x="12" y="-3417"/>
+	
+  
+	<trackwall height="62" width="270" x="403" y="-3485"/>
+	
+  
+	<trackwall height="83" width="115" x="6" y="-3475"/>
+	
+  
+	<trackwall height="65" width="74" x="25" y="-3527"/>
+	
+  
+	<goal height="44" width="392" x="80" y="-3698"/>
+	
+  
+	<boostfruit x="162" y="-1708"/>
+	
+  
+	<boostfruit x="153" y="-1672"/>
+	
+  
+	<boostfruit x="145" y="-1620"/>
+	
+  
+	<boostfruit x="136" y="-1555"/>
+	
+  
+	<trackwall height="148" width="23" x="4" y="-479"/>
+	
+  
+	<flowerboss y="918"/>
+	
+
+</level>

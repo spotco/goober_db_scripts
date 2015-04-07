@@ -1,0 +1,290 @@
+<?xml version="1.0" ?>
+<level author="YOU" bg="1" name="forCARPAKOO">
+	
+  
+	<deathwall height="178" width="495" x="5" y="320"/>
+	
+  
+	<deathwall height="201" width="500" x="1" y="426"/>
+	
+  
+	<flowerboss y="568"/>
+	
+  
+	<flowerboss y="568"/>
+	
+  
+	<flowerboss y="568"/>
+	
+  
+	<flowerboss y="568"/>
+	
+  
+	<flowerboss y="567"/>
+	
+  
+	<flowerboss y="567"/>
+	
+  
+	<flowerboss y="566"/>
+	
+  
+	<flowerboss y="566"/>
+	
+  
+	<flowerboss y="566"/>
+	
+  
+	<flowerboss y="566"/>
+	
+  
+	<flowerboss y="566"/>
+	
+  
+	<flowerboss y="565"/>
+	
+  
+	<flowerboss y="565"/>
+	
+  
+	<flowerboss y="565"/>
+	
+  
+	<flowerboss y="565"/>
+	
+  
+	<flowerboss y="564"/>
+	
+  
+	<flowerboss y="564"/>
+	
+  
+	<wall height="25" width="81" x="4" y="287"/>
+	
+  
+	<wall height="35" width="111" x="212" y="288"/>
+	
+  
+	<wall height="134" width="52" x="454" y="197"/>
+	
+  
+	<track height="486" width="33" x="120" y="-213"/>
+	
+  
+	<trackwall height="21" width="99" x="73" y="165"/>
+	
+  
+	<activatetrackwall height="43" width="140" x="208" y="-201"/>
+	
+  
+	<bossactivate explode="no" height="304" hp="6" width="495" x="3" y="-881"/>
+	
+  
+	<bossactivate explode="no" height="303" hp="6" width="500" x="2" y="-880"/>
+	
+  
+	<bossactivate explode="no" height="306" hp="6" width="503" x="3" y="-884"/>
+	
+  
+	<bossactivate explode="no" height="310" hp="6" width="499" x="5" y="-885"/>
+	
+  
+	<bossactivate explode="no" height="307" hp="6" width="496" x="5" y="-883"/>
+	
+  
+	<bossactivate explode="no" height="302" hp="6" width="496" x="4" y="-883"/>
+	
+  
+	<bossactivate explode="no" height="305" hp="6" width="494" x="2" y="-885"/>
+	
+  
+	<bossactivate explode="no" height="310" hp="6" width="493" x="5" y="-886"/>
+	
+  
+	<bossactivate explode="no" height="307" hp="6" width="500" x="3" y="-886"/>
+	
+  
+	<bossactivate explode="no" height="308" hp="6" width="495" x="4" y="-886"/>
+	
+  
+	<bossactivate explode="no" height="305" hp="6" width="496" x="5" y="-883"/>
+	
+  
+	<boostfruit x="238" y="-1374"/>
+	
+  
+	<boostfruit x="238" y="-1374"/>
+	
+  
+	<boostfruit x="238" y="-1374"/>
+	
+  
+	<boostfruit x="238" y="-1374"/>
+	
+  
+	<boostfruit x="238" y="-1374"/>
+	
+  
+	<boostfruit x="238" y="-1374"/>
+	
+  
+	<boostfruit x="238" y="-1374"/>
+	
+  
+	<boostfruit x="238" y="-1374"/>
+	
+  
+	<boostfruit x="238" y="-1374"/>
+	
+  
+	<boostfruit x="238" y="-1374"/>
+	
+  
+	<boostfruit x="238" y="-1374"/>
+	
+  
+	<boostfruit x="238" y="-1374"/>
+	
+  
+	<boostfruit x="238" y="-1374"/>
+	
+  
+	<boostfruit x="238" y="-1374"/>
+	
+  
+	<boostfruit x="238" y="-1374"/>
+	
+  
+	<boostfruit x="238" y="-1374"/>
+	
+  
+	<boostfruit x="238" y="-1374"/>
+	
+  
+	<boostfruit x="238" y="-1374"/>
+	
+  
+	<boostfruit x="238" y="-1374"/>
+	
+  
+	<boostfruit x="238" y="-1374"/>
+	
+  
+	<boostfruit x="238" y="-1374"/>
+	
+  
+	<boostfruit x="238" y="-1374"/>
+	
+  
+	<boostfruit x="238" y="-1374"/>
+	
+  
+	<boostfruit x="238" y="-1374"/>
+	
+  
+	<boostfruit x="238" y="-1374"/>
+	
+  
+	<boostfruit x="238" y="-1374"/>
+	
+  
+	<boostfruit x="238" y="-1374"/>
+	
+  
+	<boostfruit x="238" y="-1374"/>
+	
+  
+	<boostfruit x="238" y="-1374"/>
+	
+  
+	<boostfruit x="238" y="-1374"/>
+	
+  
+	<boostfruit x="238" y="-1374"/>
+	
+  
+	<boostfruit x="238" y="-1374"/>
+	
+  
+	<boostfruit x="238" y="-1374"/>
+	
+  
+	<boostfruit x="238" y="-1374"/>
+	
+  
+	<boostfruit x="238" y="-1374"/>
+	
+  
+	<boostfruit x="238" y="-1374"/>
+	
+  
+	<boostfruit x="238" y="-1374"/>
+	
+  
+	<boostfruit x="238" y="-1374"/>
+	
+  
+	<boostfruit x="238" y="-1374"/>
+	
+  
+	<boostfruit x="238" y="-1374"/>
+	
+  
+	<boostfruit x="238" y="-1374"/>
+	
+  
+	<boostfruit x="238" y="-1374"/>
+	
+  
+	<boostfruit x="238" y="-1374"/>
+	
+  
+	<boostfruit x="238" y="-1374"/>
+	
+  
+	<boostfruit x="238" y="-1374"/>
+	
+  
+	<boostfruit x="238" y="-1374"/>
+	
+  
+	<boostfruit x="238" y="-1374"/>
+	
+  
+	<boostfruit x="238" y="-1374"/>
+	
+  
+	<boostfruit x="238" y="-1374"/>
+	
+  
+	<boostfruit x="238" y="-1374"/>
+	
+  
+	<boostfruit x="238" y="-1374"/>
+	
+  
+	<boostfruit x="238" y="-1374"/>
+	
+  
+	<boostfruit x="238" y="-1374"/>
+	
+  
+	<goal height="106" width="124" x="126" y="-2038"/>
+	
+  
+	<trackblade x="108" y="-1943"/>
+	
+  
+	<trackblade x="106" y="-2010"/>
+	
+  
+	<trackblade x="117" y="-2065"/>
+	
+  
+	<trackblade x="225" y="-2065"/>
+	
+  
+	<trackblade x="270" y="-2007"/>
+	
+
+</level>

@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="boss2">
+	
+  
+	<boost height="-627" width="729" x="1" y="270"/>
+	
+  
+	<cloudboss/>
+	
+  
+	<boost height="-310" width="670" x="1" y="-357"/>
+	
+  
+	<boost height="-554" width="-547" x="497" y="-672"/>
+	
+  
+	<boostfruit x="404" y="-4"/>
+	
+  
+	<boostfruit x="178" y="-314"/>
+	
+  
+	<boostfruit x="294" y="-671"/>
+	
+  
+	<boostfruit x="51" y="-793"/>
+	
+  
+	<boostfruit x="304" y="-1204"/>
+	
+  
+	<track height="54" width="540" x="1" y="-1280"/>
+	
+  
+	<trackwall height="76" width="61" x="10" y="-1315"/>
+	
+  
+	<trackwall height="80" width="72" x="72" y="-1394"/>
+	
+  
+	<trackwall height="101" width="84" x="147" y="-1494"/>
+	
+  
+	<trackwall height="-205" width="197" x="232" y="-1494"/>
+	
+  
+	<track height="117" width="561" x="0" y="-1360"/>
+	
+  
+	<track height="129" width="513" x="1" y="-1450"/>
+	
+  
+	<track height="172" width="661" x="1" y="-1599"/>
+	
+  
+	<textfield text="good job" x="107" y="-1779"/>
+	
+  
+	<goal height="51" width="53" x="300" y="-1980"/>
+	
+  
+	<goal height="67" width="65" x="263" y="-1960"/>
+	
+  
+	<goal height="76" width="68" x="230" y="-1938"/>
+	
+  
+	<goal height="59" width="64" x="191" y="-1888"/>
+	
+  
+	<goal height="48" width="59" x="268" y="-1868"/>
+	
+  
+	<goal height="52" width="74" x="190" y="-1967"/>
+	
+  
+	<goal height="80" width="74" x="333" y="-2034"/>
+	
+  
+	<goal height="56" width="71" x="381" y="-2077"/>
+	
+  
+	<goal height="14" width="12" x="351" y="-1779"/>
+	
+
+</level>

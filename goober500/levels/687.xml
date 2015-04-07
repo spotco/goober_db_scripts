@@ -1,0 +1,341 @@
+<?xml version="1.0" ?>
+<level author="davemcfart" bg="1" name="pickaside">
+	
+  
+	<wall height="61" width="495" x="5" y="272"/>
+	
+  
+	<wall height="279" width="47" x="3" y="4"/>
+	
+  
+	<wall height="211" width="45" x="107" y="5"/>
+	
+  
+	<wall height="211" width="-81" x="221" y="4"/>
+	
+  
+	<wall height="213" width="182" x="217" y="3"/>
+	
+  
+	<wall height="-271" width="66" x="454" y="270"/>
+	
+  
+	<textfield text="pick a side" x="248" y="104"/>
+	
+  
+	<bossactivate explode="no" height="70" hp="6" width="59" x="50" y="9"/>
+	
+  
+	<wall height="-51" width="197" x="1" y="-90"/>
+	
+  
+	<wall height="48" width="205" x="298" y="-146"/>
+	
+  
+	<textfield text="did u pick the right one?" x="69" y="-208"/>
+	
+  
+	<wall height="112" width="15" x="195" y="-148"/>
+	
+  
+	<wall height="113" width="11" x="287" y="-150"/>
+	
+  
+	<wall height="93" width="100" x="327" y="-350"/>
+	
+  
+	<wall height="91" width="79" x="89" y="-357"/>
+	
+  
+	<wall height="240" width="46" x="484" y="-381"/>
+	
+  
+	<wall height="255" width="12" x="1" y="-394"/>
+	
+  
+	<wall height="130" width="33" x="388" y="-476"/>
+	
+  
+	<wall height="20" width="195" x="245" y="-649"/>
+	
+  
+	<wall height="79" width="22" x="427" y="-691"/>
+	
+  
+	<wall height="28" width="80" x="428" y="-698"/>
+	
+  
+	<wall height="295" width="236" x="139" y="-638"/>
+	
+  
+	<trackblade x="473" y="-604"/>
+	
+  
+	<trackblade x="473" y="-532"/>
+	
+  
+	<trackblade x="473" y="-460"/>
+	
+  
+	<wall height="19" width="-29" x="145" y="-465"/>
+	
+  
+	<wall height="342" width="12" x="1" y="-736"/>
+	
+  
+	<wall height="19" width="116" x="0" y="-751"/>
+	
+  
+	<wall height="336" width="30" x="84" y="-1086"/>
+	
+  
+	<wall height="-365" width="76" x="110" y="-737"/>
+	
+  
+	<textfield text="pick again" x="312" y="-714"/>
+	
+  
+	<wall height="339" width="-95" x="87" y="-1085"/>
+	
+  
+	<wall height="-193" width="184" x="1" y="-1079"/>
+	
+  
+	<wall height="-154" width="68" x="291" y="-1105"/>
+	
+  
+	<wall height="-173" width="97" x="418" y="-1088"/>
+	
+  
+	<wall height="57" width="118" x="185" y="-1273"/>
+	
+  
+	<deathwall height="31" width="111" x="184" y="-1233"/>
+	
+  
+	<deathwall height="63" width="44" x="447" y="-1205"/>
+	
+  
+	<boost height="-79" width="107" x="183" y="-1132"/>
+	
+  
+	<wall height="384" width="67" x="291" y="-1108"/>
+	
+  
+	<wall height="391" width="97" x="420" y="-1088"/>
+	
+  
+	<boost height="-380" width="60" x="359" y="-728"/>
+	
+  
+	<boost height="-371" width="106" x="185" y="-739"/>
+	
+  
+	<boost height="26" width="105" x="185" y="-1134"/>
+	
+  
+	<boost height="143" width="59" x="359" y="-1242"/>
+	
+  
+	<goal height="56" width="101" x="4" y="-1331"/>
+	
+  
+	<textfield text="part 2 comeing out " x="169" y="-1310"/>
+	
+  
+	<boost height="-364" width="65" x="425" y="-262"/>
+	
+  
+	<boost height="90" width="55" x="427" y="-262"/>
+	
+  
+	<boost height="-257" width="76" x="14" y="-218"/>
+	
+  
+	<boost height="88" width="51" x="89" y="-446"/>
+	
+  
+	<boost height="-156" width="128" x="13" y="-476"/>
+	
+  
+	<boost height="43" width="29" x="89" y="-481"/>
+	
+  
+	<boost height="14" width="21" x="118" y="-478"/>
+	
+  
+	<boost height="139" width="15" x="374" y="-480"/>
+	
+  
+	<boost height="-133" width="54" x="378" y="-482"/>
+	
+  
+	<bossactivate explode="no" height="38" hp="6" width="23" x="70" y="32"/>
+	
+  
+	<bossactivate explode="no" height="20" hp="6" width="25" x="58" y="69"/>
+	
+  
+	<bossactivate explode="no" height="32" hp="6" width="20" x="74" y="25"/>
+	
+  
+	<bossactivate explode="no" height="21" hp="6" width="25" x="57" y="33"/>
+	
+  
+	<bossactivate explode="no" height="35" hp="6" width="26" x="64" y="12"/>
+	
+  
+	<bossactivate explode="no" height="37" hp="6" width="38" x="58" y="42"/>
+	
+  
+	<bossactivate explode="no" height="30" hp="6" width="34" x="62" y="45"/>
+	
+  
+	<bossactivate explode="no" height="28" hp="6" width="26" x="66" y="45"/>
+	
+  
+	<bossactivate explode="no" height="24" hp="6" width="37" x="51" y="55"/>
+	
+  
+	<bossactivate explode="no" height="19" hp="6" width="22" x="66" y="51"/>
+	
+  
+	<bossactivate explode="no" height="31" hp="6" width="29" x="59" y="-4"/>
+	
+  
+	<bossactivate explode="no" height="16" hp="6" width="16" x="86" y="24"/>
+	
+  
+	<bossactivate explode="no" height="19" hp="6" width="36" x="72" y="41"/>
+	
+  
+	<bossactivate explode="no" height="38" hp="6" width="26" x="64" y="54"/>
+	
+  
+	<bossactivate explode="no" height="22" hp="6" width="38" x="49" y="38"/>
+	
+  
+	<bossactivate explode="no" height="25" hp="6" width="23" x="76" y="29"/>
+	
+  
+	<bossactivate explode="no" height="32" hp="6" width="30" x="57" y="53"/>
+	
+  
+	<bossactivate explode="no" height="43" hp="6" width="22" x="57" y="18"/>
+	
+  
+	<bossactivate explode="no" height="41" hp="6" width="41" x="79" y="40"/>
+	
+  
+	<bossactivate explode="no" height="20" hp="6" width="10" x="65" y="44"/>
+	
+  
+	<bossactivate explode="no" height="17" hp="6" width="29" x="43" y="27"/>
+	
+  
+	<bossactivate explode="no" height="49" hp="6" width="47" x="39" y="31"/>
+	
+  
+	<bossactivate explode="no" height="41" hp="6" width="70" x="52" y="41"/>
+	
+  
+	<bossactivate explode="no" height="14" hp="6" width="17" x="78" y="36"/>
+	
+  
+	<bossactivate explode="no" height="46" hp="6" width="23" x="64" y="-10"/>
+	
+  
+	<bossactivate explode="no" height="35" hp="6" width="48" x="62" y="24"/>
+	
+  
+	<bossactivate explode="no" height="16" hp="6" width="44" x="34" y="15"/>
+	
+  
+	<bossactivate explode="no" height="30" hp="6" width="37" x="60" y="-15"/>
+	
+  
+	<bossactivate explode="no" height="33" hp="6" width="41" x="76" y="-18"/>
+	
+  
+	<bossactivate explode="no" height="29" hp="6" width="44" x="65" y="-10"/>
+	
+  
+	<bossactivate explode="no" height="17" hp="6" width="29" x="50" y="23"/>
+	
+  
+	<bossactivate explode="no" height="28" hp="6" width="31" x="64" y="52"/>
+	
+  
+	<bossactivate explode="no" height="18" hp="6" width="36" x="78" y="70"/>
+	
+  
+	<bossactivate explode="no" height="30" hp="6" width="40" x="57" y="53"/>
+	
+  
+	<bossactivate explode="no" height="12" hp="6" width="31" x="40" y="47"/>
+	
+  
+	<bossactivate explode="no" height="24" hp="6" width="43" x="45" y="17"/>
+	
+  
+	<bossactivate explode="no" height="14" hp="6" width="12" x="60" y="-14"/>
+	
+  
+	<bossactivate explode="no" height="15" hp="6" width="39" x="44" y="-18"/>
+	
+  
+	<bossactivate explode="no" height="24" hp="6" width="20" x="83" y="-20"/>
+	
+  
+	<bossactivate explode="no" height="15" hp="6" width="17" x="93" y="15"/>
+	
+  
+	<bossactivate explode="no" height="20" hp="6" width="34" x="45" y="18"/>
+	
+  
+	<bossactivate explode="no" height="12" hp="6" width="43" x="52" y="32"/>
+	
+  
+	<bossactivate explode="no" height="20" hp="6" width="39" x="70" y="36"/>
+	
+  
+	<deathwall height="39" width="35" x="465" y="-99"/>
+	
+  
+	<deathwall height="89" width="54" x="328" y="47"/>
+	
+  
+	<deathwall height="65" width="27" x="475" y="136"/>
+	
+  
+	<deathwall height="20" width="97" x="334" y="-104"/>
+	
+  
+	<deathwall height="34" width="75" x="323" y="184"/>
+	
+  
+	<deathwall height="56" width="40" x="136" y="100"/>
+	
+  
+	<deathwall height="90" width="23" x="4" y="106"/>
+	
+  
+	<wall height="12" width="53" x="369" y="-83"/>
+	
+  
+	<goal height="42" width="36" x="384" y="-606"/>
+	
+  
+	<wall height="13" width="65" x="238" y="-740"/>
+	
+  
+	<wall height="14" width="23" x="222" y="-740"/>
+	
+  
+	<wall height="13" width="16" x="359" y="-740"/>
+	
+  
+	<wall height="12" width="34" x="410" y="-740"/>
+	
+
+</level>

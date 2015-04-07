@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="easyasapples">
+	
+  
+	<wall height="184" width="468" x="0" y="367"/>
+	
+  
+	<wall height="-343" width="-146" x="147" y="358"/>
+	
+  
+	<boost height="254" width="80" x="42" y="-262"/>
+	
+  
+	<boostfruit x="40" y="-341"/>
+	
+  
+	<boostfruit x="151" y="-427"/>
+	
+  
+	<boostfruit x="45" y="-500"/>
+	
+  
+	<boostfruit x="72" y="-436"/>
+	
+  
+	<boostfruit x="153" y="-339"/>
+	
+  
+	<boostfruit x="96" y="-381"/>
+	
+  
+	<boostfruit x="75" y="-301"/>
+	
+  
+	<boost height="270" width="97" x="64" y="-780"/>
+	
+  
+	<wall height="159" width="283" x="181" y="-965"/>
+	
+  
+	<boostfruit x="245" y="-1050"/>
+	
+  
+	<boostfruit x="322" y="-1091"/>
+	
+  
+	<boostfruit x="260" y="-1167"/>
+	
+  
+	<goal height="72" width="83" x="268" y="-1267"/>
+	
+
+</level>

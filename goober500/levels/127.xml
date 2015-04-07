@@ -1,0 +1,392 @@
+<?xml version="1.0" ?>
+<level author="david" bg="1" name="testyourluck2">
+	
+  
+	<wall height="245" width="44" x="115" y="65"/>
+	
+  
+	<wall height="205" width="-33" x="229" y="51"/>
+	
+  
+	<wall height="201" width="31" x="315" y="50"/>
+	
+  
+	<wall height="269" width="54" x="427" y="45"/>
+	
+  
+	<wall height="204" width="25" x="258" y="49"/>
+	
+  
+	<wall height="201" width="27" x="376" y="51"/>
+	
+  
+	<wall height="75" width="366" x="114" y="312"/>
+	
+  
+	<boost height="198" width="36" x="158" y="59"/>
+	
+  
+	<boost height="202" width="29" x="229" y="53"/>
+	
+  
+	<boost height="200" width="37" x="283" y="52"/>
+	
+  
+	<boost height="206" width="32" x="343" y="47"/>
+	
+  
+	<boost height="200" width="26" x="401" y="51"/>
+	
+  
+	<textfield text="you like testyourluck by david? this is the second version by the same creator!" x="325" y="352"/>
+	
+  
+	<textfield text="same creator! enjoy!" x="329" y="431"/>
+	
+  
+	<textfield text="this time theres no turning back, and dont say i didnt warn you!" x="101" y="218"/>
+	
+  
+	<textfield text="choose carefully!" x="98" y="139"/>
+	
+  
+	<boost height="342" width="41" x="154" y="-282"/>
+	
+  
+	<wall height="345" width="50" x="105" y="-279"/>
+	
+  
+	<wall height="337" width="30" x="198" y="-284"/>
+	
+  
+	<wall height="334" width="22" x="258" y="-280"/>
+	
+  
+	<wall height="331" width="22" x="317" y="-281"/>
+	
+  
+	<wall height="339" width="20" x="379" y="-286"/>
+	
+  
+	<wall height="329" width="39" x="437" y="-282"/>
+	
+  
+	<boost height="339" width="28" x="229" y="-284"/>
+	
+  
+	<boost height="334" width="35" x="281" y="-278"/>
+	
+  
+	<boost height="333" width="35" x="340" y="-283"/>
+	
+  
+	<boost height="332" width="36" x="401" y="-284"/>
+	
+  
+	<boost height="400" width="46" x="150" y="-682"/>
+	
+  
+	<boost height="380" width="19" x="239" y="-662"/>
+	
+  
+	<boost height="388" width="34" x="223" y="-671"/>
+	
+  
+	<boost height="394" width="33" x="283" y="-673"/>
+	
+  
+	<boost height="387" width="29" x="346" y="-670"/>
+	
+  
+	<boost height="384" width="26" x="409" y="-671"/>
+	
+  
+	<wall height="399" width="34" x="111" y="-679"/>
+	
+  
+	<wall height="401" width="24" x="198" y="-684"/>
+	
+  
+	<wall height="424" width="25" x="256" y="-691"/>
+	
+  
+	<wall height="430" width="21" x="321" y="-698"/>
+	
+  
+	<wall height="422" width="26" x="379" y="-697"/>
+	
+  
+	<wall height="416" width="33" x="442" y="-690"/>
+	
+  
+	<textfield text="if you die then try again!" x="97" y="-308"/>
+	
+  
+	<deathwall height="50" width="39" x="156" y="-731"/>
+	
+  
+	<wall height="127" width="32" x="110" y="-807"/>
+	
+  
+	<wall height="70" width="50" x="145" y="-808"/>
+	
+  
+	<wall height="125" width="27" x="194" y="-808"/>
+	
+  
+	<textfield text="one down!" x="100" y="-761"/>
+	
+  
+	<wall height="169" width="41" x="180" y="-977"/>
+	
+  
+	<goal height="172" width="168" x="8" y="-981"/>
+	
+  
+	<wall height="68" width="204" x="13" y="-1043"/>
+	
+  
+	<wall height="74" width="17" x="2" y="-1044"/>
+	
+  
+	<wall height="23" width="105" x="7" y="-794"/>
+	
+  
+	<wall height="34" width="117" x="1" y="-806"/>
+	
+  
+	<boost height="420" width="37" x="217" y="-1092"/>
+	
+  
+	<boost height="414" width="44" x="276" y="-1088"/>
+	
+  
+	<boost height="420" width="25" x="348" y="-1091"/>
+	
+  
+	<boost height="402" width="25" x="411" y="-1075"/>
+	
+  
+	<wall height="403" width="18" x="257" y="-1090"/>
+	
+  
+	<wall height="394" width="21" x="322" y="-1086"/>
+	
+  
+	<wall height="394" width="41" x="440" y="-1082"/>
+	
+  
+	<wall height="393" width="42" x="171" y="-1431"/>
+	
+  
+	<deathwall height="343" width="146" x="18" y="-1392"/>
+	
+  
+	<goal height="61" width="141" x="27" y="-1462"/>
+	
+  
+	<wall height="134" width="49" x="164" y="-1530"/>
+	
+  
+	<boost height="431" width="35" x="220" y="-1524"/>
+	
+  
+	<boost height="434" width="42" x="280" y="-1521"/>
+	
+  
+	<boost height="439" width="26" x="412" y="-1515"/>
+	
+  
+	<wall height="435" width="20" x="258" y="-1529"/>
+	
+  
+	<wall height="447" width="21" x="325" y="-1530"/>
+	
+  
+	<wall height="428" width="40" x="375" y="-1519"/>
+	
+  
+	<wall height="449" width="37" x="447" y="-1529"/>
+	
+  
+	<wall height="450" width="24" x="441" y="-1528"/>
+	
+  
+	<deathwall height="55" width="36" x="284" y="-1577"/>
+	
+  
+	<wall height="135" width="15" x="266" y="-1658"/>
+	
+  
+	<wall height="131" width="21" x="253" y="-1660"/>
+	
+  
+	<wall height="135" width="25" x="315" y="-1663"/>
+	
+  
+	<goal height="15" width="22" x="287" y="-1658"/>
+	
+  
+	<wall height="52" width="83" x="255" y="-1713"/>
+	
+  
+	<boost height="198" width="22" x="232" y="-1724"/>
+	
+  
+	<boost height="204" width="38" x="215" y="-1730"/>
+	
+  
+	<wall height="191" width="29" x="185" y="-1725"/>
+	
+  
+	<wall height="55" width="154" x="7" y="-1529"/>
+	
+  
+	<wall height="213" width="44" x="157" y="-1739"/>
+	
+  
+	<textfield text="are you still going??" x="30" y="-1634"/>
+	
+  
+	<boost height="245" width="28" x="344" y="-1762"/>
+	
+  
+	<boost height="249" width="35" x="407" y="-1762"/>
+	
+  
+	<wall height="253" width="25" x="377" y="-1769"/>
+	
+  
+	<wall height="245" width="34" x="449" y="-1774"/>
+	
+  
+	<wall height="173" width="74" x="265" y="-1885"/>
+	
+  
+	<wall height="181" width="77" x="252" y="-1889"/>
+	
+  
+	<boost height="174" width="50" x="207" y="-1897"/>
+	
+  
+	<wall height="182" width="61" x="140" y="-1918"/>
+	
+  
+	<wall height="201" width="130" x="14" y="-1930"/>
+	
+  
+	<wall height="205" width="30" x="4" y="-1925"/>
+	
+  
+	<deathwall height="57" width="64" x="6" y="-1717"/>
+	
+  
+	<goal height="74" width="62" x="92" y="-1726"/>
+	
+  
+	<deathwall height="39" width="37" x="115" y="-1571"/>
+	
+  
+	<deathwall height="214" width="166" x="11" y="-2134"/>
+	
+  
+	<wall height="215" width="22" x="179" y="-2130"/>
+	
+  
+	<wall height="231" width="76" x="263" y="-2117"/>
+	
+  
+	<boost height="214" width="61" x="203" y="-2111"/>
+	
+  
+	<deathwall height="113" width="308" x="7" y="-2228"/>
+	
+  
+	<wall height="130" width="24" x="320" y="-2242"/>
+	
+  
+	<wall height="472" width="18" x="381" y="-2236"/>
+	
+  
+	<wall height="471" width="25" x="374" y="-2238"/>
+	
+  
+	<wall height="471" width="42" x="441" y="-2240"/>
+	
+  
+	<boost height="475" width="27" x="347" y="-2241"/>
+	
+  
+	<boost height="471" width="40" x="399" y="-2238"/>
+	
+  
+	<wall height="41" width="329" x="10" y="-2281"/>
+	
+  
+	<wall height="39" width="125" x="3" y="-2277"/>
+	
+  
+	<boost height="310" width="55" x="326" y="-2552"/>
+	
+  
+	<boost height="322" width="42" x="399" y="-2557"/>
+	
+  
+	<wall height="316" width="15" x="382" y="-2553"/>
+	
+  
+	<wall height="143" width="25" x="374" y="-2695"/>
+	
+  
+	<wall height="412" width="35" x="285" y="-2690"/>
+	
+  
+	<wall height="457" width="36" x="445" y="-2698"/>
+	
+  
+	<deathwall height="138" width="40" x="402" y="-2698"/>
+	
+  
+	<wall height="56" width="102" x="379" y="-2753"/>
+	
+  
+	<wall height="265" width="42" x="281" y="-2955"/>
+	
+  
+	<boost height="395" width="39" x="331" y="-2952"/>
+	
+  
+	<wall height="246" width="42" x="379" y="-3001"/>
+	
+  
+	<goal height="221" width="30" x="443" y="-2982"/>
+	
+  
+	<wall height="66" width="266" x="14" y="-2941"/>
+	
+  
+	<wall height="56" width="284" x="0" y="-2946"/>
+	
+  
+	<goal height="165" width="75" x="11" y="-3118"/>
+	
+  
+	<wall height="285" width="119" x="382" y="-3277"/>
+	
+  
+	<textfield text="sorry but im not going to post the people that passed through my last level" x="235" y="-3211"/>
+	
+  
+	<textfield text="level. mabye next time, i promise" x="258" y="-3120"/>
+	
+  
+	<boost height="429" width="26" x="348" y="-1517"/>
+	
+  
+	<wall height="295" width="27" x="379" y="-1088"/>
+	
+  
+	<wall height="91" width="23" x="382" y="-790"/>
+	
+
+</level>

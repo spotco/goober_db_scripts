@@ -1,0 +1,125 @@
+<?xml version="1.0" ?>
+<level author="bob" bg="1" name="DARKLEVEL">
+	
+  
+	<wall height="178" width="499" x="1" y="321"/>
+	
+  
+	<wall height="183" width="-73" x="51" y="170"/>
+	
+  
+	<wall height="254" width="135" x="399" y="118"/>
+	
+  
+	<boost height="-423" width="76" x="307" y="306"/>
+	
+  
+	<boost height="-480" width="78" x="306" y="-115"/>
+	
+  
+	<boost height="-481" width="80" x="307" y="-596"/>
+	
+  
+	<boost height="-435" width="-165" x="303" y="-650"/>
+	
+  
+	<boost height="-489" width="250" x="139" y="-1075"/>
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+  
+	<goal height="49" width="69" x="140" y="-1585"/>
+	
+
+</level>

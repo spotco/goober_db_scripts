@@ -1,0 +1,131 @@
+<?xml version="1.0" ?>
+<level author="RRREEEE" bg="2" name="ERRRRRRRRRRRRRR">
+	
+  
+	<wall height="-254.9" width="395.59999999999997" x="92.8" y="337.5"/>
+	
+  
+	<wall height="-255.89999999999998" width="340.55" x="128.45" y="385.4"/>
+	
+  
+	<boost height="65.25" width="137.65" x="103" y="427.2"/>
+	
+  
+	<boost height="79.5" width="199.84999999999997" x="81.55" y="394.6"/>
+	
+  
+	<deathwall height="39.75" width="28.55000000000001" x="325.25" y="420.1"/>
+	
+  
+	<trackblade x="155" y="439.45"/>
+	
+  
+	<boost height="-131.55" width="271.2" x="236.55" y="483.3"/>
+	
+  
+	<boostfruit x="267.15" y="384.4"/>
+	
+  
+	<boostfruit x="266.1" y="383.35"/>
+	
+  
+	<boostfruit x="272.25" y="375.2"/>
+	
+  
+	<boostfruit x="264.1" y="382.35"/>
+	
+  
+	<boostfruit x="231.45" y="389.5"/>
+	
+  
+	<boostfruit x="212.1" y="389.5"/>
+	
+  
+	<boostfruit x="233.5" y="380.3"/>
+	
+  
+	<boostfruit x="276.3" y="380.3"/>
+	
+  
+	<boostfruit x="255.9" y="393.55"/>
+	
+  
+	<boostfruit x="213.1" y="401.75"/>
+	
+  
+	<boostfruit x="42.8" y="403.75"/>
+	
+  
+	<boostfruit x="37.7" y="364"/>
+	
+  
+	<boostfruit x="56.1" y="339.55"/>
+	
+  
+	<boostfruit x="77.5" y="361.95"/>
+	
+  
+	<boostfruit x="39.75" y="389.5"/>
+	
+  
+	<boostfruit x="49.95" y="303.85"/>
+	
+  
+	<boostfruit x="46.9" y="275.3"/>
+	
+  
+	<boostfruit x="48.95" y="277.35"/>
+	
+  
+	<boostfruit x="49.95" y="308.95"/>
+	
+  
+	<boostfruit x="48.95" y="328.3"/>
+	
+  
+	<activatetrackwall height="-44.89999999999998" width="59.14999999999999" x="24.45" y="467"/>
+	
+  
+	<boost height="-506.75" width="465.95" x="115.2" y="3.75"/>
+	
+  
+	<boost height="62.19999999999999" width="371.09999999999997" x="442.5" y="25.149999999999977"/>
+	
+  
+	<boost height="-543.45" width="546.5" x="103" y="31.30000000000001"/>
+	
+  
+	<activatetrackwall height="23.44999999999999" width="77.5" x="429.25" y="-354.8"/>
+	
+  
+	<activatetrackwall height="43.84999999999991" width="317.1" x="125.4" y="-1123.85"/>
+	
+  
+	<goal height="-281.39999999999986" width="396.65" x="222.25" y="-1248.15"/>
+	
+  
+	<goal height="351.79999999999995" width="373.2" x="140.7" y="-1356.25"/>
+	
+  
+	<goal height="262.04999999999995" width="435.4" x="99.9" y="-1460.25"/>
+	
+  
+	<activatetrackwall height="45.89999999999998" width="13.25" x="-4.1" y="-498.9"/>
+	
+  
+	<activatetrackwall height="216.2" width="84.65" x="16.3" y="-504"/>
+	
+  
+	<textfield text="BIE" x="188.6" y="-618.5"/>
+	
+  
+	<textfield text="BYE" x="-11.25" y="-627.65"/>
+	
+  
+	<activatetrackwall height="-216.14999999999998" width="334.40000000000003" x="20.4" y="-381.4"/>
+	
+  
+	<trackwall height="41.799999999999955" width="31.599999999999994" x="84.65" y="-1147.45"/>
+	
+
+</level>

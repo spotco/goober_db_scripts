@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<level author="even" bg="1" name="worldboss">
+	
+  
+	<wall height="179.45000000000005" width="507.15" x="1.85" y="320.4"/>
+	
+  
+	<flowerboss y="473.3"/>
+	
+  
+	<cloudboss/>
+	
+  
+	<wall height="-1042.55" width="44.099999999999966" x="451.35" y="322.25"/>
+	
+  
+	<goal height="-254.10000000000002" width="-450.65" x="447.9" y="-829.65"/>
+	
+  
+	<wall height="50.25" width="101.45000000000002" x="248.65" y="-278.45"/>
+	
+  
+	<bossactivate explode="no" height="-436" hp="6" width="448.8" x="3.65" y="-39"/>
+	
+
+</level>

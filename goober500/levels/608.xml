@@ -1,0 +1,89 @@
+<?xml version="1.0" ?>
+<level author="aNDREJA" bg="1" name="LITHUANIA">
+	
+  
+	<boost height="-302" width="-68" x="413" y="256"/>
+	
+  
+	<boost height="-281" width="58" x="53" y="233"/>
+	
+  
+	<boostfruit x="304" y="221"/>
+	
+  
+	<boostfruit x="250" y="117"/>
+	
+  
+	<boostfruit x="303" y="125"/>
+	
+  
+	<boostfruit x="252" y="172"/>
+	
+  
+	<boostfruit x="303" y="169"/>
+	
+  
+	<boostfruit x="251" y="222"/>
+	
+  
+	<boostfruit x="199" y="220"/>
+	
+  
+	<boostfruit x="149" y="220"/>
+	
+  
+	<boostfruit x="146" y="171"/>
+	
+  
+	<boostfruit x="200" y="173"/>
+	
+  
+	<boostfruit x="203" y="117"/>
+	
+  
+	<boostfruit x="149" y="119"/>
+	
+  
+	<boostfruit x="147" y="67"/>
+	
+  
+	<boostfruit x="204" y="70"/>
+	
+  
+	<boostfruit x="253" y="69"/>
+	
+  
+	<boostfruit x="304" y="70"/>
+	
+  
+	<wall height="-63" width="-303" x="379" y="336"/>
+	
+  
+	<flowerboss y="421"/>
+	
+  
+	<trackwall height="-54" width="161" x="143" y="15"/>
+	
+  
+	<wall height="-169" width="85" x="333" y="-120"/>
+	
+  
+	<wall height="-13" width="-234" x="333" y="-121"/>
+	
+  
+	<trackblade x="225" y="-460"/>
+	
+  
+	<trackblade x="224" y="-347"/>
+	
+  
+	<trackblade x="228" y="-238"/>
+	
+  
+	<wall height="-206" width="22" x="415" y="-290"/>
+	
+  
+	<goal height="-202" width="251" x="101" y="-530"/>
+	
+
+</level>

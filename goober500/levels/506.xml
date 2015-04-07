@@ -1,0 +1,260 @@
+<?xml version="1.0" ?>
+<level author="JOSH" bg="1" name="DFTHJFGBHN">
+	
+  
+	<wall height="95" width="19" x="94" y="276"/>
+	
+  
+	<wall height="86" width="151" x="197" y="281"/>
+	
+  
+	<wall height="31" width="366" x="75" y="450"/>
+	
+  
+	<wall height="82" width="17" x="95" y="369"/>
+	
+  
+	<wall height="-251" width="-50" x="345" y="280"/>
+	
+  
+	<wall height="-429" width="-35" x="436" y="447"/>
+	
+  
+	<wall height="-363" width="18" x="94" y="276"/>
+	
+  
+	<boost height="-284" width="105" x="103" y="201"/>
+	
+  
+	<boost height="423" width="61" x="343" y="27"/>
+	
+  
+	<boost height="-203" width="103" x="104" y="-85"/>
+	
+  
+	<deathwall height="104" width="99" x="107" y="-391"/>
+	
+  
+	<wall height="62" width="131" x="209" y="-33"/>
+	
+  
+	<trackblade x="230" y="48"/>
+	
+  
+	<trackblade x="271" y="48"/>
+	
+  
+	<trackblade x="229" y="92"/>
+	
+  
+	<trackblade x="269" y="91"/>
+	
+  
+	<trackblade x="226" y="144"/>
+	
+  
+	<trackblade x="272" y="146"/>
+	
+  
+	<trackblade x="228" y="182"/>
+	
+  
+	<trackblade x="273" y="186"/>
+	
+  
+	<trackblade x="273" y="180"/>
+	
+  
+	<trackblade x="273" y="180"/>
+	
+  
+	<trackblade x="272" y="172"/>
+	
+  
+	<trackblade x="272" y="163"/>
+	
+  
+	<trackblade x="272" y="163"/>
+	
+  
+	<trackblade x="272" y="159"/>
+	
+  
+	<trackblade x="272" y="153"/>
+	
+  
+	<trackblade x="272" y="151"/>
+	
+  
+	<trackblade x="270" y="142"/>
+	
+  
+	<trackblade x="270" y="140"/>
+	
+  
+	<trackblade x="270" y="134"/>
+	
+  
+	<trackblade x="270" y="129"/>
+	
+  
+	<trackblade x="267" y="124"/>
+	
+  
+	<trackblade x="266" y="115"/>
+	
+  
+	<trackblade x="268" y="107"/>
+	
+  
+	<trackblade x="270" y="101"/>
+	
+  
+	<trackblade x="271" y="94"/>
+	
+  
+	<trackblade x="272" y="87"/>
+	
+  
+	<trackblade x="272" y="81"/>
+	
+  
+	<trackblade x="272" y="75"/>
+	
+  
+	<trackblade x="272" y="70"/>
+	
+  
+	<trackblade x="274" y="67"/>
+	
+  
+	<trackblade x="274" y="60"/>
+	
+  
+	<trackblade x="274" y="52"/>
+	
+  
+	<trackblade x="273" y="45"/>
+	
+  
+	<trackblade x="231" y="47"/>
+	
+  
+	<trackblade x="231" y="47"/>
+	
+  
+	<trackblade x="231" y="52"/>
+	
+  
+	<trackblade x="230" y="58"/>
+	
+  
+	<trackblade x="230" y="59"/>
+	
+  
+	<trackblade x="230" y="68"/>
+	
+  
+	<trackblade x="230" y="69"/>
+	
+  
+	<trackblade x="230" y="72"/>
+	
+  
+	<trackblade x="225" y="82"/>
+	
+  
+	<trackblade x="225" y="84"/>
+	
+  
+	<trackblade x="225" y="86"/>
+	
+  
+	<trackblade x="226" y="94"/>
+	
+  
+	<trackblade x="226" y="101"/>
+	
+  
+	<trackblade x="226" y="104"/>
+	
+  
+	<trackblade x="227" y="109"/>
+	
+  
+	<trackblade x="227" y="116"/>
+	
+  
+	<trackblade x="228" y="129"/>
+	
+  
+	<trackblade x="228" y="129"/>
+	
+  
+	<trackblade x="228" y="136"/>
+	
+  
+	<trackblade x="228" y="147"/>
+	
+  
+	<trackblade x="228" y="157"/>
+	
+  
+	<trackblade x="228" y="165"/>
+	
+  
+	<trackblade x="229" y="174"/>
+	
+  
+	<trackblade x="229" y="180"/>
+	
+  
+	<trackblade x="229" y="184"/>
+	
+  
+	<wall height="57" width="116" x="91" y="-445"/>
+	
+  
+	<wall height="415" width="61" x="201" y="-446"/>
+	
+  
+	<wall height="372" width="18" x="89" y="-448"/>
+	
+  
+	<goal height="51" width="51" x="150" y="-387"/>
+	
+  
+	<laserlauncher dir="3" x="443" y="-351"/>
+	
+  
+	<laserlauncher dir="3" x="444" y="-308"/>
+	
+  
+	<wall height="62" width="-87" x="88" y="-449"/>
+	
+  
+	<activatetrackwall height="50" width="130" x="6" y="-526"/>
+	
+  
+	<activatetrackwall height="50" width="121" x="364" y="-549"/>
+	
+  
+	<textfield text="IM JOKING IF I SAY ANYTHING BAD UP THE TOP LIKE U GOT NO SKILL OR U BAD" x="194" y="-531"/>
+	
+  
+	<textfield text="U BAD" x="307" y="-493"/>
+	
+  
+	<wall height="86" width="59" x="108" y="277"/>
+	
+  
+	<textfield text="IN THIS LEVEL IM NOT SAYING ANYTHING... OR WILL I PROBERBLY NOT" x="178" y="245"/>
+	
+  
+	<goal height="14" width="201" x="6" y="-615"/>
+	
+  
+	<goal height="16" width="166" x="344" y="-629"/>
+	
+
+</level>

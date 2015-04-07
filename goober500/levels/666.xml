@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<level author="Tatiana" bg="1" name="BoxedIn">
+	
+  
+	<goal height="102" width="94" x="204" y="-581"/>
+	
+  
+	<wall height="52" width="105" x="198" y="320"/>
+	
+  
+	<wall height="250" width="18" x="352" y="70"/>
+	
+  
+	<boostfruit x="260" y="-19"/>
+	
+  
+	<boost height="-72" width="81" x="309" y="-150"/>
+	
+  
+	<boost height="58" width="62" x="152" y="-308"/>
+	
+  
+	<wall height="11" width="285" x="124" y="-439"/>
+	
+  
+	<wall height="-249" width="-16" x="122" y="-429"/>
+	
+  
+	<wall height="-249" width="15" x="409" y="-433"/>
+	
+  
+	<boostfruit x="53" y="-477"/>
+	
+  
+	<boostfruit x="70" y="-692"/>
+	
+  
+	<wall height="17" width="120" x="4" y="-361"/>
+	
+
+</level>

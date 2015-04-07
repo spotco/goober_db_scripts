@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<level author="lilleguttzor" bg="1" name="promoofflevel">
+	
+  
+	<boost height="37" width="116" x="215" y="273"/>
+	
+  
+	<wall height="199" width="-33" x="183" y="134"/>
+	
+  
+	<wall height="35" width="99" x="371" y="-34"/>
+	
+  
+	<wall height="40" width="83" x="251" y="-145"/>
+	
+  
+	<wall height="33" width="77" x="136" y="-232"/>
+	
+  
+	<wall height="-156" width="-50" x="300" y="-293"/>
+	
+  
+	<wall height="30" width="85" x="248" y="81"/>
+	
+  
+	<wall height="42" width="58" x="147" y="-545"/>
+	
+  
+	<wall height="26" width="121" x="245" y="-606"/>
+	
+  
+	<wall height="28" width="106" x="90" y="-679"/>
+	
+  
+	<wall height="23" width="163" x="253" y="-759"/>
+	
+  
+	<wall height="40" width="144" x="86" y="-875"/>
+	
+  
+	<wall height="-308" width="51" x="301" y="-926"/>
+	
+  
+	<wall height="22" width="115" x="121" y="-1277"/>
+	
+  
+	<wall height="20" width="139" x="119" y="-1770"/>
+	
+  
+	<goal height="57" width="116" x="138" y="-1914"/>
+	
+  
+	<wall height="398" width="-49" x="371" y="-1697"/>
+	
+  
+	<goal height="96" width="-44" x="483" y="-1938"/>
+	
+
+</level>

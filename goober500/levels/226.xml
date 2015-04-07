@@ -1,0 +1,134 @@
+<?xml version="1.0" ?>
+<level author="din" bg="1" name="kuulii">
+	
+  
+	<wall height="26.05000000000001" width="222.45000000000002" x="191.4" y="282.55"/>
+	
+  
+	<wall height="465.9" width="54.099999999999966" x="403.8" y="-186.95"/>
+	
+  
+	<activatetrackwall height="55.14999999999998" width="222.45000000000002" x="57.1" y="-269.95"/>
+	
+  
+	<trackblade x="63.15" y="-273.2"/>
+	
+  
+	<trackblade x="65.15" y="-288.25"/>
+	
+  
+	<trackblade x="64.15" y="-289.25"/>
+	
+  
+	<trackblade x="63.15" y="-289.25"/>
+	
+  
+	<trackblade x="63.15" y="-291.25"/>
+	
+  
+	<trackblade x="64.15" y="-292.25"/>
+	
+  
+	<trackblade x="66.15" y="-294.25"/>
+	
+  
+	<trackblade x="65.15" y="-296.25"/>
+	
+  
+	<trackblade x="65.15" y="-298.25"/>
+	
+  
+	<trackblade x="65.15" y="-302.25"/>
+	
+  
+	<trackblade x="65.15" y="-305.3"/>
+	
+  
+	<trackblade x="64.15" y="-317.3"/>
+	
+  
+	<trackblade x="64.15" y="-318.3"/>
+	
+  
+	<trackblade x="64.15" y="-321.3"/>
+	
+  
+	<trackblade x="63.15" y="-323.3"/>
+	
+  
+	<trackblade x="66.15" y="-311.3"/>
+	
+  
+	<trackblade x="68.15" y="-305.3"/>
+	
+  
+	<trackblade x="66.15" y="-299.25"/>
+	
+  
+	<trackblade x="70.15" y="-283.25"/>
+	
+  
+	<trackblade x="70.15" y="-275.2"/>
+	
+  
+	<trackblade x="70.15" y="-263.2"/>
+	
+  
+	<trackblade x="68.15" y="-262.2"/>
+	
+  
+	<trackblade x="59.1" y="-287.25"/>
+	
+  
+	<trackblade x="61.1" y="-321.3"/>
+	
+  
+	<trackblade x="61.1" y="-322.3"/>
+	
+  
+	<trackblade height="55" width="50" x="31.05" y="-506.7"/>
+	
+  
+	<trackblade height="55" width="50" x="57.1" y="-523.7"/>
+	
+  
+	<trackblade x="79.15" y="-309.3"/>
+	
+  
+	<trackblade x="78.15" y="-296.25"/>
+	
+  
+	<trackblade x="76.15" y="-287.25"/>
+	
+  
+	<trackblade x="79.15" y="-268.2"/>
+	
+  
+	<trackblade x="43.1" y="-314.3"/>
+	
+  
+	<trackblade x="47.1" y="-282.25"/>
+	
+  
+	<deathwall height="233.44999999999993" width="37.05" x="70.15" y="-719.8"/>
+	
+  
+	<activatetrackwall height="45.099999999999966" width="144.3" x="252.5" y="-415.2"/>
+	
+  
+	<activatetrackwall height="67.10000000000002" width="161.29999999999998" x="70.15" y="-801.95"/>
+	
+  
+	<goal height="493" width="496" x="2" y="-2642"/>
+	
+  
+	<boost height="269.54999999999995" width="75.15" x="127.25" y="-1118.75"/>
+	
+  
+	<boost height="455.95000000000005" width="414.79999999999995" x="114.25" y="-1574"/>
+	
+  
+	<activatetrackwall height="83.20000000000005" width="169.35" x="62.1" y="-1626.65"/>
+	
+
+</level>

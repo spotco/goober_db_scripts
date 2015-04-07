@@ -1,0 +1,137 @@
+<?xml version="1.0" ?>
+<level author="did" bg="1" name="did">
+	
+  
+	<wall height="25" width="170" x="180" y="327"/>
+	
+  
+	<trackwall height="200" width="45" x="363" y="105"/>
+	
+  
+	<wall height="216" width="19" x="126" y="70"/>
+	
+  
+	<boostfruit x="251" y="-2"/>
+	
+  
+	<boostfruit x="276" y="14"/>
+	
+  
+	<boostfruit x="178" y="-55"/>
+	
+  
+	<boostfruit x="228" y="-31"/>
+	
+  
+	<boostfruit x="265" y="-8"/>
+	
+  
+	<boostfruit x="247" y="16"/>
+	
+  
+	<boostfruit x="261" y="-5"/>
+	
+  
+	<boostfruit x="222" y="-7"/>
+	
+  
+	<boostfruit x="230" y="-15"/>
+	
+  
+	<boostfruit x="186" y="-34"/>
+	
+  
+	<boostfruit x="202" y="0"/>
+	
+  
+	<boostfruit x="392" y="-220"/>
+	
+  
+	<rocketlauncher x="277" y="-356"/>
+	
+  
+	<track height="17" width="-17" x="484" y="-288"/>
+	
+  
+	<track height="165" width="10" x="308" y="-230"/>
+	
+  
+	<wall height="320" width="-39" x="159" y="-376"/>
+	
+  
+	<deathwall height="120" width="25" x="19" y="-349"/>
+	
+  
+	<deathwall height="21" width="-15" x="34" y="-402"/>
+	
+  
+	<deathwall height="37" width="-25" x="36" y="-461"/>
+	
+  
+	<deathwall height="52" width="-12" x="33" y="-200"/>
+	
+  
+	<goal height="113" width="-118" x="252" y="-611"/>
+	
+  
+	<deathwall height="16" width="111" x="142" y="-476"/>
+	
+  
+	<deathwall height="133" width="14" x="272" y="-623"/>
+	
+  
+	<deathwall height="166" width="-15" x="112" y="-625"/>
+	
+  
+	<wall height="156" width="14" x="29" y="-634"/>
+	
+  
+	<wall height="275" width="-24" x="368" y="-535"/>
+	
+  
+	<trackblade x="333" y="-914"/>
+	
+  
+	<trackblade x="240" y="-917"/>
+	
+  
+	<trackblade x="156" y="-912"/>
+	
+  
+	<trackblade x="16" y="-920"/>
+	
+  
+	<trackblade x="399" y="-917"/>
+	
+  
+	<trackblade x="472" y="-916"/>
+	
+  
+	<trackblade x="465" y="-683"/>
+	
+  
+	<trackblade x="469" y="-779"/>
+	
+  
+	<trackblade x="466" y="-847"/>
+	
+  
+	<track height="-112" width="-37" x="470" y="-332"/>
+	
+  
+	<track height="-101" width="-10" x="439" y="-477"/>
+	
+  
+	<track height="16" width="-93" x="436" y="-601"/>
+	
+  
+	<track height="-99" width="-25" x="333" y="-615"/>
+	
+  
+	<track height="11" width="-101" x="292" y="-711"/>
+	
+  
+	<track height="60" width="26" x="193" y="-696"/>
+	
+
+</level>

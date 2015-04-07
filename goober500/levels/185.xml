@@ -1,0 +1,173 @@
+<?xml version="1.0" ?>
+<level author="amropro" bg="1" name="impossipole3">
+	
+  
+	<wall height="40.5" width="495.5" x="3.75" y="267.4"/>
+	
+  
+	<activatetrackwall height="49" width="166.75" x="-6.6" y="216.2"/>
+	
+  
+	<wall height="303.29999999999995" width="-41.450000000000045" x="493.6" y="-33.400000000000006"/>
+	
+  
+	<boost height="-219.5" width="47.10000000000002" x="203.45" y="-34.05000000000001"/>
+	
+  
+	<boost height="-101.75" width="15.050000000000011" x="201.6" y="-255.5"/>
+	
+  
+	<deathwall height="88.55000000000001" width="186.55" x="125.25" y="-446.55"/>
+	
+  
+	<deathwall height="109.30000000000001" width="32" x="217.6" y="-361.75"/>
+	
+  
+	<wall height="26.350000000000023" width="96.10000000000002" x="186.5" y="-577.1"/>
+	
+  
+	<wall height="-27.300000000000068" width="-159.2" x="474.75" y="-729.8"/>
+	
+  
+	<boostfruit x="239.25" y="-682.7"/>
+	
+  
+	<rocketlauncher x="469.1" y="-1016.15"/>
+	
+  
+	<rocketlauncher x="472.9" y="-947.4"/>
+	
+  
+	<rocketlauncher x="473.8" y="-892.75"/>
+	
+  
+	<rocketlauncher x="483.25" y="-817.4"/>
+	
+  
+	<bossactivate explode="no" height="285.44999999999993" hp="6" width="79.15000000000003" x="433.3" y="-1062.35"/>
+	
+  
+	<boostfruit x="28.25" y="-655.8"/>
+	
+  
+	<boostfruit x="135.65" y="-792.4"/>
+	
+  
+	<boostfruit x="65" y="-842.35"/>
+	
+  
+	<boostfruit x="249.6" y="-892.75"/>
+	
+  
+	<boostfruit x="249.6" y="-982.75"/>
+	
+  
+	<boostfruit x="135.65" y="-999.95"/>
+	
+  
+	<boostfruit x="218.55" y="-1167.25"/>
+	
+  
+	<boostfruit x="116.8" y="-1318"/>
+	
+  
+	<boostfruit x="224.2" y="-1437.4"/>
+	
+  
+	<trackblade x="-0.95" y="-1566.25"/>
+	
+  
+	<trackblade x="482.3" y="-1589.8"/>
+	
+  
+	<boost height="-244" width="118.69999999999999" x="186.5" y="-1521.95"/>
+	
+  
+	<track height="11.299999999999955" width="-181.8" x="181.8" y="-1575.5"/>
+	
+  
+	<track height="15.049999999999955" width="-222.3" x="471" y="-1592.45"/>
+	
+  
+	<track height="228.9000000000001" width="-27.349999999999998" x="30.15" y="-1718.7"/>
+	
+  
+	<track height="224.20000000000005" width="34.85000000000002" x="458.75" y="-1698"/>
+	
+  
+	<rocketlauncher x="28.25" y="-1803"/>
+	
+  
+	<rocketlauncher x="428.6" y="-1799.2"/>
+	
+  
+	<rocketlauncher x="454.05" y="-1989.5"/>
+	
+  
+	<rocketlauncher x="12.25" y="-1986.65"/>
+	
+  
+	<boostfruit x="218.55" y="-1825.15"/>
+	
+  
+	<boostfruit x="223.25" y="-1912.75"/>
+	
+  
+	<boostfruit x="236.45" y="-2036.15"/>
+	
+  
+	<wall height="42.40000000000009" width="147.90000000000003" x="313.7" y="-2121.3"/>
+	
+  
+	<wall height="44.25" width="133.75" x="12.25" y="-2228.7"/>
+	
+  
+	<wall height="20.75" width="149.8" x="158.25" y="-2322.2"/>
+	
+  
+	<wall height="22.649999999999636" width="106.44999999999999" x="373.95" y="-2387.2"/>
+	
+  
+	<goal height="263.75" width="298.65000000000003" x="243.95" y="-2635.65"/>
+	
+  
+	<trackwall height="63.150000000000034" width="118.69999999999999" x="295.8" y="-80.60000000000002"/>
+	
+  
+	<track height="450.25" width="-12.25" x="357" y="-481.15"/>
+	
+  
+	<wall height="24.5" width="78.20000000000005" x="415.4" y="-515.1"/>
+	
+  
+	<boost height="266.54999999999995" width="55.60000000000002" x="202.5" y="-33.900000000000006"/>
+	
+  
+	<bossactivate explode="no" height="211.05" hp="6" width="213.84999999999997" x="104.55" y="-455.25"/>
+	
+  
+	<bossactivate explode="no" height="94.20000000000005" hp="6" width="489.85" x="8.45" y="-1934.15"/>
+	
+  
+	<boostfruit x="239.25" y="-2096.9"/>
+	
+  
+	<boostfruit x="238.3" y="-2127.05"/>
+	
+  
+	<boostfruit x="236.45" y="-2166.6"/>
+	
+  
+	<boostfruit x="247.75" y="-2183.55"/>
+	
+  
+	<boostfruit x="246.8" y="-2201.45"/>
+	
+  
+	<boostfruit x="236.45" y="-2225"/>
+	
+  
+	<boostfruit x="195.95" y="-2253.25"/>
+	
+
+</level>

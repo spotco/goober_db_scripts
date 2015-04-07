@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<level author="bbb" bg="1" name="bob">
+	
+  
+	<trackwall height="49" width="100" x="201" y="270"/>
+	
+  
+	<track height="352" width="41" x="242" y="-80"/>
+	
+  
+	<trackwall height="50" width="98" x="303" y="-78"/>
+	
+  
+	<goal height="152" width="49" x="400" y="-179"/>
+	
+  
+	<trackwall height="47" width="149" x="50" y="-79"/>
+	
+  
+	<boostfruit x="177" y="-103"/>
+	
+  
+	<boostfruit x="117" y="-103"/>
+	
+  
+	<boostfruit x="122" y="-155"/>
+	
+  
+	<boostfruit x="176" y="-161"/>
+	
+  
+	<track height="195" width="23" x="69" y="-278"/>
+	
+  
+	<trackblade x="75" y="-272"/>
+	
+
+</level>

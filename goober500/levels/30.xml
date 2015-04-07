@@ -1,0 +1,101 @@
+<?xml version="1.0" ?>
+<level author="teal" name="TealSFRUITS">
+	
+  
+	<wall height="23" width="326" x="108" y="277"/>
+	
+  
+	<wall height="368" width="19" x="113" y="-82"/>
+	
+  
+	<wall height="24" width="22" x="198" y="43"/>
+	
+  
+	<wall height="19" width="35" x="279" y="-64"/>
+	
+  
+	<wall height="32" width="31" x="364" y="-199"/>
+	
+  
+	<textfield text="Ignore women, get monay!!!!!" x="340" y="-87"/>
+	
+  
+	<wall height="30" width="34" x="275" y="-346"/>
+	
+  
+	<boostfruit x="179" y="-230"/>
+	
+  
+	<boostfruit x="417" y="-274"/>
+	
+  
+	<boostfruit x="228" y="-457"/>
+	
+  
+	<boostfruit x="357" y="-464"/>
+	
+  
+	<boostfruit x="275" y="-639"/>
+	
+  
+	<boostfruit x="193" y="-817"/>
+	
+  
+	<boostfruit x="325" y="-809"/>
+	
+  
+	<boostfruit x="252" y="-1029"/>
+	
+  
+	<boostfruit x="185" y="-1284"/>
+	
+  
+	<boostfruit x="306" y="-1284"/>
+	
+  
+	<track height="54" width="254" x="133" y="-1512"/>
+	
+  
+	<trackblade x="254" y="-1508"/>
+	
+  
+	<boostfruit x="93" y="-1424"/>
+	
+  
+	<boostfruit x="435" y="-1401"/>
+	
+  
+	<boostfruit x="261" y="-1673"/>
+	
+  
+	<wall height="21" width="69" x="90" y="-1784"/>
+	
+  
+	<wall height="32" width="90" x="345" y="-1799"/>
+	
+  
+	<boostfruit x="265" y="-1988"/>
+	
+  
+	<wall height="123" width="18" x="155" y="-2008"/>
+	
+  
+	<wall height="141" width="23" x="343" y="-2021"/>
+	
+  
+	<boostfruit x="265" y="-2123"/>
+	
+  
+	<goal height="57" width="138" x="235" y="-2302"/>
+	
+  
+	<goal height="66" width="371" x="55" y="-2294"/>
+	
+  
+	<goal height="103" width="369" x="72" y="-2327"/>
+	
+  
+	<goal height="141" width="423" x="41" y="-2334"/>
+	
+
+</level>

@@ -1,0 +1,440 @@
+<?xml version="1.0" ?>
+<level author="matthew" bg="1" name="bossbash">
+	
+  
+	<wall height="53" width="130" x="203" y="279"/>
+	
+  
+	<wall height="-79" width="-45" x="203" y="330"/>
+	
+  
+	<wall height="98" width="70" x="342" y="235"/>
+	
+  
+	<wall height="-355" width="40" x="160" y="247"/>
+	
+  
+	<wall height="-344" width="68" x="338" y="233"/>
+	
+  
+	<boost height="28" width="153" x="198" y="95"/>
+	
+  
+	<goal height="30" width="144" x="199" y="-110"/>
+	
+  
+	<rocketlauncher x="47" y="249"/>
+	
+  
+	<rocketlauncher x="53" y="185"/>
+	
+  
+	<rocketlauncher x="47" y="128"/>
+	
+  
+	<rocketlauncher x="45" y="64"/>
+	
+  
+	<rocketlauncher x="46" y="1"/>
+	
+  
+	<rocketlauncher x="53" y="-62"/>
+	
+  
+	<rocketlauncher x="53" y="-59"/>
+	
+  
+	<rocketlauncher x="56" y="-36"/>
+	
+  
+	<rocketlauncher x="78" y="11"/>
+	
+  
+	<rocketlauncher x="86" y="26"/>
+	
+  
+	<rocketlauncher x="90" y="53"/>
+	
+  
+	<rocketlauncher x="92" y="132"/>
+	
+  
+	<rocketlauncher x="95" y="201"/>
+	
+  
+	<rocketlauncher x="86" y="250"/>
+	
+  
+	<rocketlauncher x="99" y="192"/>
+	
+  
+	<rocketlauncher x="93" y="120"/>
+	
+  
+	<rocketlauncher x="94" y="45"/>
+	
+  
+	<rocketlauncher x="88" y="11"/>
+	
+  
+	<rocketlauncher x="91" y="-49"/>
+	
+  
+	<rocketlauncher x="91" y="-53"/>
+	
+  
+	<rocketlauncher x="91" y="-53"/>
+	
+  
+	<rocketlauncher x="85" y="-1"/>
+	
+  
+	<rocketlauncher x="86" y="37"/>
+	
+  
+	<rocketlauncher x="86" y="59"/>
+	
+  
+	<rocketlauncher x="87" y="126"/>
+	
+  
+	<rocketlauncher x="79" y="198"/>
+	
+  
+	<rocketlauncher x="67" y="246"/>
+	
+  
+	<rocketlauncher x="45" y="226"/>
+	
+  
+	<rocketlauncher x="65" y="160"/>
+	
+  
+	<rocketlauncher x="104" y="88"/>
+	
+  
+	<rocketlauncher x="119" y="57"/>
+	
+  
+	<rocketlauncher x="137" y="185"/>
+	
+  
+	<rocketlauncher x="128" y="226"/>
+	
+  
+	<rocketlauncher x="120" y="256"/>
+	
+  
+	<rocketlauncher x="121" y="261"/>
+	
+  
+	<rocketlauncher x="116" y="159"/>
+	
+  
+	<rocketlauncher x="116" y="107"/>
+	
+  
+	<rocketlauncher x="115" y="86"/>
+	
+  
+	<rocketlauncher x="114" y="40"/>
+	
+  
+	<rocketlauncher x="115" y="26"/>
+	
+  
+	<rocketlauncher x="113" y="-31"/>
+	
+  
+	<rocketlauncher x="113" y="-30"/>
+	
+  
+	<rocketlauncher x="106" y="1"/>
+	
+  
+	<rocketlauncher x="111" y="0"/>
+	
+  
+	<rocketlauncher x="123" y="90"/>
+	
+  
+	<rocketlauncher x="126" y="159"/>
+	
+  
+	<rocketlauncher x="128" y="176"/>
+	
+  
+	<rocketlauncher x="121" y="119"/>
+	
+  
+	<rocketlauncher x="123" y="86"/>
+	
+  
+	<rocketlauncher x="125" y="76"/>
+	
+  
+	<rocketlauncher x="114" y="2"/>
+	
+  
+	<rocketlauncher x="113" y="-16"/>
+	
+  
+	<rocketlauncher x="75" y="-2"/>
+	
+  
+	<rocketlauncher x="20" y="103"/>
+	
+  
+	<rocketlauncher x="16" y="125"/>
+	
+  
+	<rocketlauncher x="12" y="183"/>
+	
+  
+	<rocketlauncher x="11" y="211"/>
+	
+  
+	<rocketlauncher x="15" y="232"/>
+	
+  
+	<rocketlauncher x="28" y="247"/>
+	
+  
+	<rocketlauncher x="86" y="259"/>
+	
+  
+	<rocketlauncher x="88" y="269"/>
+	
+  
+	<rocketlauncher x="107" y="286"/>
+	
+  
+	<rocketlauncher x="151" y="257"/>
+	
+  
+	<rocketlauncher x="155" y="261"/>
+	
+  
+	<rocketlauncher x="137" y="216"/>
+	
+  
+	<rocketlauncher x="403" y="-82"/>
+	
+  
+	<rocketlauncher x="403" y="-82"/>
+	
+  
+	<rocketlauncher x="408" y="-32"/>
+	
+  
+	<rocketlauncher x="407" y="4"/>
+	
+  
+	<rocketlauncher x="408" y="54"/>
+	
+  
+	<rocketlauncher x="410" y="117"/>
+	
+  
+	<rocketlauncher x="415" y="175"/>
+	
+  
+	<rocketlauncher x="413" y="227"/>
+	
+  
+	<rocketlauncher x="409" y="255"/>
+	
+  
+	<rocketlauncher x="411" y="273"/>
+	
+  
+	<rocketlauncher x="409" y="291"/>
+	
+  
+	<rocketlauncher x="409" y="309"/>
+	
+  
+	<rocketlauncher x="429" y="0"/>
+	
+  
+	<rocketlauncher x="433" y="-14"/>
+	
+  
+	<rocketlauncher x="438" y="-18"/>
+	
+  
+	<rocketlauncher x="442" y="-41"/>
+	
+  
+	<rocketlauncher x="468" y="-84"/>
+	
+  
+	<rocketlauncher x="471" y="-84"/>
+	
+  
+	<rocketlauncher x="469" y="-59"/>
+	
+  
+	<rocketlauncher x="467" y="-30"/>
+	
+  
+	<rocketlauncher x="459" y="15"/>
+	
+  
+	<rocketlauncher x="459" y="65"/>
+	
+  
+	<rocketlauncher x="457" y="112"/>
+	
+  
+	<rocketlauncher x="460" y="88"/>
+	
+  
+	<rocketlauncher x="460" y="84"/>
+	
+  
+	<rocketlauncher x="457" y="137"/>
+	
+  
+	<rocketlauncher x="455" y="166"/>
+	
+  
+	<rocketlauncher x="454" y="194"/>
+	
+  
+	<rocketlauncher x="457" y="225"/>
+	
+  
+	<rocketlauncher x="460" y="255"/>
+	
+  
+	<rocketlauncher x="463" y="285"/>
+	
+  
+	<rocketlauncher x="463" y="297"/>
+	
+  
+	<rocketlauncher x="470" y="284"/>
+	
+  
+	<rocketlauncher x="473" y="223"/>
+	
+  
+	<rocketlauncher x="475" y="179"/>
+	
+  
+	<rocketlauncher x="478" y="143"/>
+	
+  
+	<rocketlauncher x="478" y="89"/>
+	
+  
+	<rocketlauncher x="480" y="-6"/>
+	
+  
+	<rocketlauncher x="480" y="-18"/>
+	
+  
+	<rocketlauncher x="495" y="37"/>
+	
+  
+	<rocketlauncher x="497" y="59"/>
+	
+  
+	<rocketlauncher x="483" y="75"/>
+	
+  
+	<rocketlauncher x="170" y="-43"/>
+	
+  
+	<rocketlauncher x="121" y="-49"/>
+	
+  
+	<rocketlauncher x="119" y="-47"/>
+	
+  
+	<rocketlauncher x="117" y="-39"/>
+	
+  
+	<rocketlauncher x="110" y="-32"/>
+	
+  
+	<rocketlauncher x="142" y="-46"/>
+	
+  
+	<rocketlauncher x="118" y="47"/>
+	
+  
+	<rocketlauncher x="119" y="32"/>
+	
+  
+	<rocketlauncher x="127" y="15"/>
+	
+  
+	<rocketlauncher x="141" y="11"/>
+	
+  
+	<rocketlauncher x="138" y="44"/>
+	
+  
+	<rocketlauncher x="137" y="52"/>
+	
+  
+	<rocketlauncher x="138" y="94"/>
+	
+  
+	<rocketlauncher x="137" y="125"/>
+	
+  
+	<rocketlauncher x="137" y="141"/>
+	
+  
+	<rocketlauncher x="95" y="111"/>
+	
+  
+	<rocketlauncher x="68" y="84"/>
+	
+  
+	<rocketlauncher x="47" y="64"/>
+	
+  
+	<rocketlauncher x="33" y="61"/>
+	
+  
+	<rocketlauncher x="21" y="67"/>
+	
+  
+	<rocketlauncher x="15" y="42"/>
+	
+  
+	<rocketlauncher x="6" y="-2"/>
+	
+  
+	<rocketlauncher x="7" y="-30"/>
+	
+  
+	<rocketlauncher x="16" y="-66"/>
+	
+  
+	<rocketlauncher x="17" y="-70"/>
+	
+  
+	<rocketlauncher x="26" y="-85"/>
+	
+  
+	<rocketlauncher x="75" y="-74"/>
+	
+  
+	<rocketlauncher x="118" y="-85"/>
+	
+  
+	<rocketlauncher x="135" y="-83"/>
+	
+  
+	<rocketlauncher x="135" y="-83"/>
+	
+  
+	<bossactivate explode="no" height="456" hp="6" width="148" x="194" y="-69"/>
+	
+
+</level>

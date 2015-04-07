@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<level author="carlos" bg="1" name="carlos">
+	
+  
+	<wall height="11" width="95" x="138" y="293"/>
+	
+  
+	<wall height="-15" width="131" x="286" y="309"/>
+	
+  
+	<wall height="32" width="67" x="219" y="465"/>
+	
+  
+	<boostfruit x="124" y="392"/>
+	
+  
+	<boostfruit x="244" y="393"/>
+	
+  
+	<boostfruit x="381" y="388"/>
+	
+  
+	<rocketlauncher x="106" y="82"/>
+	
+  
+	<rocketlauncher x="431" y="72"/>
+	
+  
+	<boostfruit x="165" y="168"/>
+	
+  
+	<boostfruit x="278" y="121"/>
+	
+  
+	<boostfruit x="336" y="201"/>
+	
+  
+	<boostfruit x="256" y="45"/>
+	
+  
+	<wall height="13" width="180" x="64" y="-6"/>
+	
+  
+	<wall height="35" width="137" x="327" y="-68"/>
+	
+  
+	<deathwall height="54" width="147" x="59" y="-195"/>
+	
+  
+	<bossactivate explode="no" height="23" hp="6" width="-90" x="406" y="-152"/>
+	
+  
+	<boostfruit x="398" y="-147"/>
+	
+  
+	<boostfruit x="308" y="-214"/>
+	
+  
+	<wall height="38" width="188" x="82" y="-248"/>
+	
+  
+	<boost height="-70" width="345" x="109" y="-467"/>
+	
+  
+	<goal height="121" width="197" x="170" y="-699"/>
+	
+  
+	<boostfruit x="195" y="-301"/>
+	
+  
+	<boostfruit x="233" y="-353"/>
+	
+  
+	<boostfruit x="297" y="-397"/>
+	
+
+</level>

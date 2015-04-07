@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="conversation">
+	
+  
+	<wall height="108" width="247" x="87" y="285"/>
+	
+  
+	<wall height="91" width="143" x="322" y="139"/>
+	
+  
+	<wall height="108" width="126" x="22" y="81"/>
+	
+  
+	<wall height="41" width="111" x="309" y="20"/>
+	
+  
+	<wall height="73" width="99" x="363" y="-259"/>
+	
+  
+	<wall height="44" width="51" x="133" y="-331"/>
+	
+  
+	<deathwall height="75" width="62" x="397" y="-147"/>
+	
+  
+	<deathwall height="191" width="233" x="265" y="-812"/>
+	
+  
+	<goal height="34" width="-40" x="36" y="-693"/>
+	
+  
+	<textfield text="Hi, I'm Fred and I like pickles!" x="167" y="3"/>
+	
+  
+	<textfield text="Chichen wings are better..." x="323" y="-170"/>
+	
+  
+	<textfield text="Chicken wings are animal cruelty! I prefer pickles!" x="65" y="-280"/>
+	
+  
+	<textfield text="You can do it! Go team! Rah rah sis boom bah!!" x="151" y="-657"/>
+	
+  
+	<textfield text="I'm trying to read here..." x="116" y="-710"/>
+	
+  
+	<wall height="34" width="-217" x="140" y="-41"/>
+	
+  
+	<deathwall height="85" width="-214" x="164" y="-4"/>
+	
+  
+	<boost height="40" width="80" x="117" y="-126"/>
+	
+  
+	<wall height="31" width="35" x="253" y="-196"/>
+	
+  
+	<wall height="-45" width="-166" x="164" y="-209"/>
+	
+  
+	<wall height="94" width="-72" x="20" y="-343"/>
+	
+  
+	<wall height="77" width="398" x="77" y="-475"/>
+	
+  
+	<wall height="58" width="-80" x="23" y="-533"/>
+	
+  
+	<wall height="96" width="-73" x="52" y="-346"/>
+	
+  
+	<textfield text="Which do you prefer? I prefer texting and makeup." x="294" y="-387"/>
+	
+
+</level>

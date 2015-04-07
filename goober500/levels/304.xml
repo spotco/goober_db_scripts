@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="20003">
+	
+  
+	<wall height="52" width="52" x="99" y="19"/>
+	
+  
+	<deathwall height="51" width="52" x="50" y="19"/>
+	
+  
+	<goal height="50" width="48" x="2" y="19"/>
+	
+  
+	<goal height="72" width="99" x="401" y="419"/>
+	
+  
+	<textfield text="error 2023" x="58" y="134"/>
+	
+  
+	<boostfruit x="262" y="277"/>
+	
+  
+	<boostfruit x="263" y="296"/>
+	
+  
+	<boostfruit x="263" y="313"/>
+	
+  
+	<boostfruit x="263" y="328"/>
+	
+  
+	<boostfruit x="263" y="346"/>
+	
+  
+	<boostfruit x="264" y="369"/>
+	
+  
+	<boostfruit x="265" y="394"/>
+	
+  
+	<wall height="22" width="26" x="252" y="425"/>
+	
+
+</level>

@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="2" name="nivel6">
+	
+  
+	<wall height="32" width="242" x="144" y="441"/>
+	
+  
+	<textfield text="muy bien!, ahora aprenderas nuevas cosas" x="295" y="310"/>
+	
+  
+	<deathwall height="27" width="166" x="65" y="6"/>
+	
+  
+	<textfield text="ganate por al lado de la plataforma para moverla a la izquierda" x="74" y="95"/>
+	
+  
+	<activatetrackwall height="153" width="90" x="51" y="409"/>
+	
+  
+	<deathwall height="345" width="45" x="399" y="-192"/>
+	
+  
+	<textfield text="ahora tienes que escalar mejor" x="202" y="-184"/>
+	
+  
+	<wall height="31" width="152" x="79" y="-32"/>
+	
+  
+	<wall height="237" width="37" x="54" y="-298"/>
+	
+  
+	<wall height="242" width="33" x="180" y="-396"/>
+	
+  
+	<wall height="170" width="34" x="59" y="-515"/>
+	
+  
+	<wall height="38" width="254" x="74" y="-566"/>
+	
+  
+	<wall height="42" width="154" x="309" y="-391"/>
+	
+  
+	<deathwall height="35" width="70" x="227" y="-385"/>
+	
+  
+	<wall height="78" width="19" x="308" y="-644"/>
+	
+  
+	<wall height="362" width="47" x="419" y="-733"/>
+	
+  
+	<deathwall height="62" width="150" x="304" y="-871"/>
+	
+  
+	<deathwall height="46" width="39" x="171" y="-618"/>
+	
+  
+	<wall height="93" width="17" x="149" y="-658"/>
+	
+  
+	<wall height="87" width="22" x="216" y="-652"/>
+	
+  
+	<wall height="56" width="44" x="420" y="-784"/>
+	
+  
+	<wall height="47" width="178" x="139" y="-819"/>
+	
+  
+	<boost height="257" width="78" x="54" y="-825"/>
+	
+  
+	<wall height="32" width="177" x="40" y="-1020"/>
+	
+  
+	<activatetrackwall height="89" width="83" x="229" y="-902"/>
+	
+  
+	<wall height="186" width="27" x="143" y="-1348"/>
+	
+  
+	<wall height="31" width="186" x="160" y="-1176"/>
+	
+  
+	<wall height="337" width="20" x="31" y="-1354"/>
+	
+  
+	<wall height="42" width="181" x="159" y="-1355"/>
+	
+  
+	<wall height="130" width="17" x="29" y="-1464"/>
+	
+  
+	<wall height="34" width="312" x="37" y="-1538"/>
+	
+  
+	<wall height="73" width="13" x="33" y="-1521"/>
+	
+  
+	<wall height="23" width="133" x="329" y="-1346"/>
+	
+  
+	<goal height="193" width="142" x="55" y="-1748"/>
+	
+  
+	<textfield text="facil?" x="299" y="-1697"/>
+	
+
+</level>

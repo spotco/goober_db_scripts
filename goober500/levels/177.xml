@@ -1,0 +1,173 @@
+<?xml version="1.0" ?>
+<level author="sz9memo" bg="1" name="thehardyz">
+	
+  
+	<trackwall height="52" width="458" x="22" y="423"/>
+	
+  
+	<deathwall height="65" width="180" x="298" y="355"/>
+	
+  
+	<deathwall height="89" width="189" x="11" y="333"/>
+	
+  
+	<boostfruit x="231" y="372"/>
+	
+  
+	<boostfruit x="248" y="288"/>
+	
+  
+	<boostfruit x="262" y="264"/>
+	
+  
+	<boostfruit x="314" y="179"/>
+	
+  
+	<boostfruit x="364" y="115"/>
+	
+  
+	<boostfruit x="404" y="67"/>
+	
+  
+	<boostfruit x="498" y="302"/>
+	
+  
+	<wall height="380" width="38" x="432" y="-215"/>
+	
+  
+	<deathwall height="340" width="221" x="16" y="-134"/>
+	
+  
+	<boost height="263" width="103" x="275" y="-184"/>
+	
+  
+	<boostfruit x="330" y="-242"/>
+	
+  
+	<boostfruit x="300" y="-278"/>
+	
+  
+	<boostfruit x="231" y="-325"/>
+	
+  
+	<boostfruit x="183" y="-348"/>
+	
+  
+	<boostfruit x="141" y="-354"/>
+	
+  
+	<wall height="334" width="40" x="36" y="-493"/>
+	
+  
+	<trackwall height="37" width="229" x="254" y="-426"/>
+	
+  
+	<wall height="-405" width="-29" x="472" y="-431"/>
+	
+  
+	<rocketlauncher x="48" y="-661"/>
+	
+  
+	<rocketlauncher x="46" y="-777"/>
+	
+  
+	<rocketlauncher x="47" y="-557"/>
+	
+  
+	<boostfruit x="415" y="-568"/>
+	
+  
+	<boostfruit x="391" y="-621"/>
+	
+  
+	<boostfruit x="372" y="-670"/>
+	
+  
+	<boostfruit x="337" y="-758"/>
+	
+  
+	<boostfruit x="283" y="-782"/>
+	
+  
+	<boostfruit x="221" y="-822"/>
+	
+  
+	<boostfruit x="129" y="-865"/>
+	
+  
+	<textfield text="So you survived this is just the begging" x="287" y="-943"/>
+	
+  
+	<wall height="364" width="29" x="46" y="-1231"/>
+	
+  
+	<boostfruit x="102" y="-1133"/>
+	
+  
+	<boostfruit x="133" y="-1152"/>
+	
+  
+	<boostfruit x="196" y="-1202"/>
+	
+  
+	<trackwall height="29" width="245" x="240" y="-1210"/>
+	
+  
+	<textfield text="Lets Begin the action" x="296" y="-1313"/>
+	
+  
+	<boost height="-226" width="134" x="100" y="-1294"/>
+	
+  
+	<wall height="318" width="32" x="35" y="-1791"/>
+	
+  
+	<rocketlauncher x="472" y="-1567"/>
+	
+  
+	<bossactivate explode="no" height="90" hp="6" width="89" x="415" y="-1616"/>
+	
+  
+	<boostfruit x="140" y="-1761"/>
+	
+  
+	<boostfruit x="207" y="-1806"/>
+	
+  
+	<boostfruit x="285" y="-1841"/>
+	
+  
+	<boostfruit x="318" y="-1895"/>
+	
+  
+	<boostfruit x="346" y="-1923"/>
+	
+  
+	<boostfruit x="332" y="-2037"/>
+	
+  
+	<deathwall height="-291" width="159" x="14" y="-1812"/>
+	
+  
+	<activatetrackwall height="39" width="174" x="18" y="-2192"/>
+	
+  
+	<activatetrackwall height="35" width="193" x="238" y="-2286"/>
+	
+  
+	<activatetrackwall height="43" width="186" x="24" y="-2375"/>
+	
+  
+	<activatetrackwall height="32" width="203" x="197" y="-2477"/>
+	
+  
+	<activatetrackwall height="34" width="190" x="27" y="-2573"/>
+	
+  
+	<activatetrackwall height="38" width="315" x="171" y="-2662"/>
+	
+  
+	<goal height="210" width="360" x="133" y="-2878"/>
+	
+
+</level>

@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<level author="peter" bg="1" name="cagedalpaca">
+	
+  
+	<wall height="129.60000000000002" width="24.150000000000006" x="68.55" y="193.7"/>
+	
+  
+	<wall height="21.899999999999977" width="301.45" x="59.5" y="327.05"/>
+	
+  
+	<textfield text="it is your destiny to kill alpaca" x="364" y="153"/>
+	
+  
+	<wall height="-209.5" width="52" x="61.8" y="215.95"/>
+	
+  
+	<trackblade x="315" y="-32.7"/>
+	
+  
+	<trackblade x="322.55" y="9.5"/>
+	
+  
+	<trackblade x="367" y="17.80000000000001"/>
+	
+  
+	<trackblade x="406.2" y="24.55000000000001"/>
+	
+  
+	<trackblade x="438.6" y="2.6999999999999886"/>
+	
+  
+	<trackblade x="440.1" y="-41.75"/>
+	
+  
+	<trackblade x="424.25" y="-64.35"/>
+	
+  
+	<trackblade x="397.15" y="-83.95"/>
+	
+  
+	<trackblade x="342.15" y="-101.3"/>
+	
+  
+	<trackblade x="333.85" y="-65.1"/>
+	
+  
+	<trackblade x="322.55" y="-60.599999999999994"/>
+	
+  
+	<trackblade x="370.75" y="-104.3"/>
+	
+  
+	<goal height="35.44999999999999" width="-30.900000000000034" x="385.1" y="-49.5"/>
+	
+  
+	<textfield text="pretend this is alpaca in a cage" x="448.4" y="-158"/>
+	
+  
+	<boost height="-344.45" width="95.75" x="132.6" y="13.399999999999977"/>
+	
+  
+	<wall height="-37.69999999999999" width="244.95000000000002" x="243.4" y="-292.2"/>
+	
+  
+	<wall height="-265.25000000000006" width="37.64999999999998" x="469.5" y="-319.95"/>
+	
+  
+	<deathwall height="125.10000000000002" width="40.699999999999996" x="22.6" y="-598.45"/>
+	
+  
+	<deathwall height="-35.39999999999998" width="146.95" x="18.05" y="-477.9"/>
+	
+  
+	<deathwall height="-119.79999999999995" width="27.900000000000006" x="138.65" y="-520.85"/>
+	
+  
+	<deathwall height="43.69999999999993" width="-144.65" x="164.25" y="-640.65"/>
+	
+  
+	<goal height="36.14999999999998" width="26.349999999999994" x="86.65" y="-569.05"/>
+	
+  
+	<textfield text="good job you caght her ?him" x="88.15" y="-675.1"/>
+	
+  
+	<wall height="-232.8499999999999" width="63.35000000000002" x="455.9" y="-551.45"/>
+	
+  
+	<wall height="-50.450000000000045" width="338.40000000000003" x="-1.55" y="-714.3"/>
+	
+  
+	<wall height="-227.60000000000002" width="53.5" x="2.25" y="-779.4"/>
+	
+  
+	<textfield text="i here by destiny alpaca is not graguated from warcamp" x="316.5" y="-957.65"/>
+	
+  
+	<wall height="-31.649999999999977" width="299.2" x="116.05" y="-986.4"/>
+	
+  
+	<textfield text="and for stopping her?him you get a medal" x="101.7" y="-1127.25"/>
+	
+  
+	<wall height="-315" width="37.700000000000045" x="398.65" y="-1016.3"/>
+	
+  
+	<goal height="38.44999999999982" width="58.05000000000001" x="400.15" y="-1389.85"/>
+	
+
+</level>

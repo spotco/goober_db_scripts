@@ -1,0 +1,308 @@
+<?xml version="1.0" ?>
+<level author="sz9memo" bg="1" name="thehardy2">
+	
+  
+	<boostfruit x="1.05" y="367.05"/>
+	
+  
+	<boostfruit x="10.55" y="367.05"/>
+	
+  
+	<boostfruit x="15.8" y="368.1"/>
+	
+  
+	<boostfruit x="24.25" y="368.1"/>
+	
+  
+	<boostfruit x="24.25" y="367.05"/>
+	
+  
+	<boostfruit x="42.2" y="367.05"/>
+	
+  
+	<boostfruit x="126.6" y="359.7"/>
+	
+  
+	<boostfruit x="250" y="359.7"/>
+	
+  
+	<boostfruit x="405.05" y="354.4"/>
+	
+  
+	<boostfruit x="472.55" y="345.95"/>
+	
+  
+	<boostfruit x="445.15" y="348.05"/>
+	
+  
+	<boostfruit x="382.9" y="349.15"/>
+	
+  
+	<boostfruit x="321.75" y="350.2"/>
+	
+  
+	<boostfruit x="264.75" y="351.25"/>
+	
+  
+	<boostfruit x="189.85" y="348.05"/>
+	
+  
+	<boostfruit x="102.3" y="362.85"/>
+	
+  
+	<boostfruit x="49.6" y="361.8"/>
+	
+  
+	<boostfruit x="261.6" y="301.65"/>
+	
+  
+	<boostfruit x="261.6" y="226.75"/>
+	
+  
+	<wall height="278.5" width="33.8" x="15.8" y="26.35"/>
+	
+  
+	<trackwall height="48.54999999999998" width="226.8" x="257.4" y="-4.849999999999994"/>
+	
+  
+	<deathwall height="48.54999999999998" width="225.70000000000005" x="257.4" y="-5.900000000000006"/>
+	
+  
+	<trackwall height="71.74999999999997" width="246.8" x="245.8" y="-19.599999999999994"/>
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+  
+	<trackblade x="489.45" y="-330.05"/>
+	
+  
+	<trackblade x="136.1" y="-389.1"/>
+	
+  
+	<trackblade x="85.45" y="-197.15"/>
+	
+  
+	<trackblade x="91.75" y="-173.89999999999998"/>
+	
+  
+	<trackblade x="100.2" y="-157.05"/>
+	
+  
+	<trackblade x="116.05" y="-130.7"/>
+	
+  
+	<trackblade x="123.4" y="-109.60000000000002"/>
+	
+  
+	<trackblade x="122.35" y="-81.10000000000002"/>
+	
+  
+	<boostfruit x="373.4" y="-90.60000000000002"/>
+	
+  
+	<boostfruit x="338.6" y="-152.85000000000002"/>
+	
+  
+	<boostfruit x="298.5" y="-205.55"/>
+	
+  
+	<boostfruit x="251.05" y="-272"/>
+	
+  
+	<boostfruit x="220.45" y="-332.15"/>
+	
+  
+	<boostfruit x="215.2" y="-346.9"/>
+	
+  
+	<laserlauncher dir="-3" x="457.8" y="-507.35"/>
+	
+  
+	<laserlauncher dir="-3" x="457.8" y="-545.35"/>
+	
+  
+	<laserlauncher dir="-3" x="455.7" y="-573.8"/>
+	
+  
+	<laserlauncher dir="-3" x="452.55" y="-624.45"/>
+	
+  
+	<laserlauncher dir="-3" x="452.55" y="-670.85"/>
+	
+  
+	<laserlauncher dir="-3" x="446.2" y="-721.5"/>
+	
+  
+	<laserlauncher dir="3" x="22.15" y="-484.15"/>
+	
+  
+	<laserlauncher dir="3" x="28.5" y="-548.5"/>
+	
+  
+	<laserlauncher dir="3" x="25.3" y="-605.45"/>
+	
+  
+	<laserlauncher dir="3" x="25.3" y="-672.95"/>
+	
+  
+	<laserlauncher dir="3" x="20.05" y="-721.5"/>
+	
+  
+	<boost height="285.85" width="180.39999999999998" x="144.5" y="-776.35"/>
+	
+  
+	<boostfruit x="223.65" y="-501.05"/>
+	
+  
+	<boostfruit x="220.45" y="-548.55"/>
+	
+  
+	<boostfruit x="223.65" y="-609.7"/>
+	
+  
+	<boostfruit x="223.65" y="-655.05"/>
+	
+  
+	<boostfruit x="221.5" y="-702.55"/>
+	
+  
+	<boostfruit x="222.55" y="-761.6"/>
+	
+  
+	<trackblade x="24.25" y="-776.35"/>
+	
+  
+	<trackblade x="23.2" y="-842.8"/>
+	
+  
+	<trackblade x="21.1" y="-823.8"/>
+	
+  
+	<trackblade x="20.05" y="-861.85"/>
+	
+  
+	<trackblade x="20.05" y="-899.85"/>
+	
+  
+	<trackblade x="23.2" y="-945.2"/>
+	
+  
+	<trackblade x="23.2" y="-970.5"/>
+	
+  
+	<trackblade x="23.2" y="-984.2"/>
+	
+  
+	<trackblade x="20.05" y="-1031.65"/>
+	
+  
+	<trackblade x="17.95" y="-1067.55"/>
+	
+  
+	<trackblade x="459.9" y="-765.85"/>
+	
+  
+	<trackblade x="459.9" y="-766.95"/>
+	
+  
+	<trackblade x="455.7" y="-827.05"/>
+	
+  
+	<trackblade x="458.85" y="-850.25"/>
+	
+  
+	<trackblade x="459.9" y="-877.7"/>
+	
+  
+	<trackblade x="454.65" y="-918.8"/>
+	
+  
+	<trackblade x="454.65" y="-966.3"/>
+	
+  
+	<trackblade x="454.65" y="-969.45"/>
+	
+  
+	<trackblade x="453.6" y="-988.45"/>
+	
+  
+	<trackblade x="453.6" y="-1020.05"/>
+	
+  
+	<trackblade x="453.6" y="-1031.65"/>
+	
+  
+	<boostfruit x="227.85" y="-804.9"/>
+	
+  
+	<boostfruit x="227.85" y="-865"/>
+	
+  
+	<boostfruit x="228.9" y="-920.9"/>
+	
+  
+	<boostfruit x="227.85" y="-936.75"/>
+	
+  
+	<boostfruit x="222.55" y="-996.85"/>
+	
+  
+	<boostfruit x="225.75" y="-1057"/>
+	
+  
+	<boostfruit x="223.65" y="-1083.35"/>
+	
+  
+	<boostfruit x="226.8" y="-1160.4"/>
+	
+  
+	<boostfruit x="224.7" y="-1226.85"/>
+	
+  
+	<boostfruit x="23.2" y="-845.05"/>
+	
+  
+	<activatetrackwall height="30.59999999999991" width="49.599999999999994" x="145.55" y="-1313.25"/>
+	
+  
+	<track height="454.5999999999999" width="49.55000000000001" x="147.7" y="-1733.85"/>
+	
+  
+	<trackwall height="43.25" width="246.8" x="235.25" y="-1719.25"/>
+	
+  
+	<trackblade x="28.5" y="-1768.8"/>
+	
+  
+	<trackblade x="32.7" y="-1700.25"/>
+	
+  
+	<trackblade x="36.9" y="-1651.75"/>
+	
+  
+	<trackblade x="39.05" y="-1631.7"/>
+	
+  
+	<goal height="58" width="116.05000000000001" x="133.95" y="-1918.6"/>
+	
+  
+	<boostfruit x="321.75" y="-1747.7"/>
+	
+  
+	<boostfruit x="252.1" y="-1788.85"/>
+	
+  
+	<boostfruit x="214.15" y="-1814.15"/>
+	
+
+</level>

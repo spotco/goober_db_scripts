@@ -1,0 +1,383 @@
+<?xml version="1.0" ?>
+<level author="kambo" bg="1" name="kambostore">
+	
+  
+	<wall height="29" width="49" x="46" y="329"/>
+	
+  
+	<wall height="32" width="532" x="5" y="329"/>
+	
+  
+	<textfield text="dis tis da kambo shopee" x="144" y="157"/>
+	
+  
+	<textfield text="you have to buy someting" x="354" y="74"/>
+	
+  
+	<textfield text="or ekse i wil kammboooo!!!!!" x="204" y="50"/>
+	
+  
+	<textfield text="tick tick tick kamboom!!!!!" x="247" y="-91"/>
+	
+  
+	<textfield text="lamboe= yogen fruizz" x="102" y="-28"/>
+	
+  
+	<textfield text="do you want to odor someting fom da fod stor?!!!!!!" x="286" y="-244"/>
+	
+  
+	<textfield text="we havs piza wings" x="360" y="-371"/>
+	
+  
+	<textfield text="also poopcooorrnnn wit dirt and ra bacon slices" x="142" y="-390"/>
+	
+  
+	<textfield text="kkaaaammmmboooo!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!" x="133" y="-159"/>
+	
+  
+	<activatetrackwall height="16" width="195" x="29" y="263"/>
+	
+  
+	<wall height="36" width="273" x="9" y="-264"/>
+	
+  
+	<boostfruit x="306" y="-136"/>
+	
+  
+	<boostfruit x="287" y="-181"/>
+	
+  
+	<boostfruit x="249" y="-110"/>
+	
+  
+	<boostfruit x="355" y="-125"/>
+	
+  
+	<boostfruit x="320" y="-172"/>
+	
+  
+	<boostfruit x="319" y="-114"/>
+	
+  
+	<textfield text="deese are kambo cions! collect dem to buy sometin!" x="351" y="-137"/>
+	
+  
+	<boost height="20" width="51" x="235" y="-236"/>
+	
+  
+	<track height="-30" width="508" x="12" y="-520"/>
+	
+  
+	<track height="142" width="537" x="17" y="-564"/>
+	
+  
+	<track height="89" width="558" x="13" y="-553"/>
+	
+  
+	<track height="95" width="520" x="30" y="-559"/>
+	
+  
+	<track height="53" width="511" x="20" y="-552"/>
+	
+  
+	<track height="65" width="566" x="25" y="-559"/>
+	
+  
+	<textfield text="heeeeeeheeeeehheeeeeheeeeeheeee hohohohoho hahahahah snortttt!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!" x="66" y="-495"/>
+	
+  
+	<textfield text="snort! piggle snortttt!!!!!!!" x="406" y="-477"/>
+	
+  
+	<trackblade x="22" y="-550"/>
+	
+  
+	<trackblade x="23" y="-552"/>
+	
+  
+	<trackblade x="33" y="-552"/>
+	
+  
+	<trackblade x="44" y="-550"/>
+	
+  
+	<trackblade x="48" y="-551"/>
+	
+  
+	<trackblade x="49" y="-552"/>
+	
+  
+	<trackblade x="58" y="-551"/>
+	
+  
+	<trackblade x="65" y="-550"/>
+	
+  
+	<trackblade x="69" y="-548"/>
+	
+  
+	<trackblade x="61" y="-549"/>
+	
+  
+	<trackblade x="48" y="-551"/>
+	
+  
+	<trackblade x="38" y="-551"/>
+	
+  
+	<trackblade x="36" y="-550"/>
+	
+  
+	<trackblade x="30" y="-550"/>
+	
+  
+	<trackblade x="35" y="-549"/>
+	
+  
+	<trackblade x="48" y="-549"/>
+	
+  
+	<trackblade x="53" y="-549"/>
+	
+  
+	<trackblade x="22" y="-187"/>
+	
+  
+	<textfield text="wold ja lik to buy a chansaw?! hheeeeeee heee!" x="217" y="-519"/>
+	
+  
+	<boostfruit x="307" y="-385"/>
+	
+  
+	<boostfruit x="302" y="-408"/>
+	
+  
+	<boostfruit x="287" y="-436"/>
+	
+  
+	<boostfruit x="264" y="-453"/>
+	
+  
+	<boostfruit x="208" y="-475"/>
+	
+  
+	<boostfruit x="202" y="-494"/>
+	
+  
+	<boostfruit x="204" y="-525"/>
+	
+  
+	<boostfruit x="232" y="-547"/>
+	
+  
+	<boostfruit x="255" y="-559"/>
+	
+  
+	<boostfruit x="293" y="-589"/>
+	
+  
+	<boostfruit x="271" y="-630"/>
+	
+  
+	<boostfruit x="236" y="-640"/>
+	
+  
+	<boostfruit x="178" y="-652"/>
+	
+  
+	<trackwall height="24" width="154" x="0" y="-669"/>
+	
+  
+	<trackwall height="14" width="328" x="2" y="-956"/>
+	
+  
+	<trackwall height="239" width="11" x="330" y="-947"/>
+	
+  
+	<textfield text="welcom to dee cloth stor" x="63" y="-768"/>
+	
+  
+	<trackwall height="-23" width="77" x="31" y="-674"/>
+	
+  
+	<trackwall height="26" width="39" x="231" y="-898"/>
+	
+  
+	<trackwall height="14" width="42" x="266" y="-878"/>
+	
+  
+	<trackwall height="22" width="17" x="305" y="-867"/>
+	
+  
+	<trackwall height="75" width="34" x="237" y="-878"/>
+	
+  
+	<trackwall height="14" width="-40" x="243" y="-875"/>
+	
+  
+	<trackwall height="16" width="-13" x="199" y="-863"/>
+	
+  
+	<boost height="11" width="53" x="40" y="-907"/>
+	
+  
+	<boost height="50" width="13" x="87" y="-901"/>
+	
+  
+	<boost height="51" width="-13" x="43" y="-898"/>
+	
+  
+	<boost height="39" width="82" x="30" y="-852"/>
+	
+  
+	<boost height="40" width="-22" x="35" y="-851"/>
+	
+  
+	<trackwall height="41" width="333" x="8" y="-1325"/>
+	
+  
+	<trackwall height="208" width="13" x="338" y="-1307"/>
+	
+  
+	<textfield text="yo dis is da foode court!" x="104" y="-1051"/>
+	
+  
+	<boost height="18" width="141" x="31" y="-1146"/>
+	
+  
+	<trackwall height="41" width="197" x="8" y="-1185"/>
+	
+  
+	<trackwall height="20" width="158" x="27" y="-1079"/>
+	
+  
+	<boostfruit x="32" y="-1084"/>
+	
+  
+	<boostfruit x="45" y="-1079"/>
+	
+  
+	<boostfruit x="58" y="-1082"/>
+	
+  
+	<boostfruit x="68" y="-1082"/>
+	
+  
+	<boostfruit x="76" y="-1085"/>
+	
+  
+	<boostfruit x="91" y="-1086"/>
+	
+  
+	<boostfruit x="106" y="-1086"/>
+	
+  
+	<boostfruit x="124" y="-1083"/>
+	
+  
+	<boostfruit x="140" y="-1083"/>
+	
+  
+	<boostfruit x="167" y="-1077"/>
+	
+  
+	<deathwall height="22" width="129" x="31" y="-1114"/>
+	
+  
+	<goal height="12" width="21" x="51" y="-1135"/>
+	
+  
+	<goal height="11" width="13" x="93" y="-1130"/>
+	
+  
+	<trackblade x="114" y="-1121"/>
+	
+  
+	<trackblade x="146" y="-1120"/>
+	
+  
+	<trackblade x="32" y="-1123"/>
+	
+  
+	<textfield text="ham burger!!!!!!!" x="97" y="-1264"/>
+	
+  
+	<boostfruit x="198" y="-977"/>
+	
+  
+	<boostfruit x="242" y="-977"/>
+	
+  
+	<boostfruit x="291" y="-974"/>
+	
+  
+	<trackwall height="268" width="26" x="4" y="-1582"/>
+	
+  
+	<trackwall height="300" width="11" x="2" y="-1872"/>
+	
+  
+	<trackwall height="16" width="362" x="14" y="-1873"/>
+	
+  
+	<trackwall height="-111" width="70" x="228" y="-1550"/>
+	
+  
+	<textfield text="dis is ta army shopee!" x="131" y="-1737"/>
+	
+  
+	<textfield text="oh it looks like a meatball monster haz escaped oh well whateva!" x="248" y="-1438"/>
+	
+  
+	<textfield text="so there is a dangorous meatball monster! whateva!" x="92" y="-1464"/>
+	
+  
+	<boostfruit x="408" y="-1811"/>
+	
+  
+	<boostfruit x="337" y="-1720"/>
+	
+  
+	<boostfruit x="439" y="-1695"/>
+	
+  
+	<boostfruit x="372" y="-1660"/>
+	
+  
+	<boostfruit x="381" y="-1740"/>
+	
+  
+	<boostfruit x="349" y="-1799"/>
+	
+  
+	<boostfruit x="468" y="-1766"/>
+	
+  
+	<rocketlauncher x="53" y="-1778"/>
+	
+  
+	<goal height="112" width="402" x="28" y="-2135"/>
+	
+  
+	<textfield text="buhbiy!" x="65" y="-1979"/>
+	
+  
+	<trackwall height="19" width="378" x="157" y="-1547"/>
+	
+  
+	<trackwall height="124" width="-13" x="499" y="-1658"/>
+	
+  
+	<rocketlauncher x="45" y="-1661"/>
+	
+  
+	<rocketlauncher x="45" y="-1713"/>
+	
+  
+	<textfield text="iz tim to cloze!" x="260" y="-1909"/>
+	
+  
+	<bossactivate explode="no" height="-316" hp="6" width="537" x="26" y="-1563"/>
+	
+
+</level>

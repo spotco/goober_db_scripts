@@ -1,0 +1,89 @@
+<?xml version="1.0" ?>
+<level author="austin" bg="1" name="read1">
+	
+  
+	<textfield text="go up then take a right" x="20" y="120"/>
+	
+  
+	<wall height="21" width="125" x="214" y="276"/>
+	
+  
+	<wall height="-214" width="33" x="336" y="275"/>
+	
+  
+	<wall height="17" width="-177" x="385" y="-6"/>
+	
+  
+	<wall height="19" width="168" x="98" y="62"/>
+	
+  
+	<wall height="-141" width="25" x="139" y="58"/>
+	
+  
+	<wall height="-53" width="113" x="164" y="-83"/>
+	
+  
+	<wall height="58" width="118" x="289" y="-135"/>
+	
+  
+	<wall height="-71" width="22" x="384" y="-11"/>
+	
+  
+	<wall height="50" width="-17" x="288" y="-131"/>
+	
+  
+	<wall height="18" width="158" x="365" y="52"/>
+	
+  
+	<wall height="-181" width="-37" x="493" y="50"/>
+	
+  
+	<textfield text="ok now use ur bost" x="140" y="-250"/>
+	
+  
+	<boost height="-277" width="38" x="277" y="-163"/>
+	
+  
+	<trackwall height="106" width="45" x="228" y="-509"/>
+	
+  
+	<deathwall height="-179" width="-125" x="203" y="-493"/>
+	
+  
+	<wall height="188" width="17" x="207" y="-676"/>
+	
+  
+	<wall height="-17" width="-151" x="215" y="-679"/>
+	
+  
+	<wall height="210" width="-16" x="67" y="-685"/>
+	
+  
+	<wall height="20" width="162" x="65" y="-490"/>
+	
+  
+	<wall height="-208" width="40" x="69" y="-698"/>
+	
+  
+	<textfield text="quick right then left!" x="174" y="-945"/>
+	
+  
+	<deathwall height="-144" width="37" x="71" y="-910"/>
+	
+  
+	<wall height="-192" width="36" x="252" y="-921"/>
+	
+  
+	<wall height="-167" width="37" x="80" y="-1157"/>
+	
+  
+	<goal height="-260" width="538" x="42" y="-1401"/>
+	
+  
+	<goal height="-263" width="-86" x="47" y="-1401"/>
+	
+  
+	<textfield text="u win" x="206" y="-1285"/>
+	
+
+</level>

@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="freedom">
+	
+  
+	<boostfruit x="258" y="173"/>
+	
+  
+	<boostfruit x="262" y="75"/>
+	
+  
+	<boostfruit x="252" y="-33"/>
+	
+  
+	<boostfruit x="245" y="-142"/>
+	
+  
+	<boostfruit x="247" y="-228"/>
+	
+  
+	<boostfruit x="243" y="-327"/>
+	
+  
+	<boostfruit x="247" y="-425"/>
+	
+  
+	<boostfruit x="245" y="-530"/>
+	
+  
+	<wall height="33" width="39" x="245" y="271"/>
+	
+  
+	<deathwall height="-568" width="54" x="73" y="363"/>
+	
+  
+	<deathwall height="-145" width="63" x="377" y="371"/>
+	
+  
+	<deathwall height="-321" width="49" x="386" y="219"/>
+	
+  
+	<goal height="275" width="61" x="1" y="-102"/>
+	
+  
+	<goal height="188" width="73" x="4" y="186"/>
+	
+  
+	<goal height="474" width="75" x="435" y="-103"/>
+	
+  
+	<deathwall height="112" width="54" x="390" y="-200"/>
+	
+  
+	<trackblade x="6" y="-206"/>
+	
+  
+	<trackblade x="26" y="-203"/>
+	
+  
+	<trackblade x="55" y="-206"/>
+	
+  
+	<trackblade x="65" y="-205"/>
+	
+  
+	<trackblade x="446" y="-202"/>
+	
+  
+	<trackblade x="485" y="-198"/>
+	
+  
+	<trackblade x="468" y="-207"/>
+	
+  
+	<trackblade x="495" y="-204"/>
+	
+  
+	<trackwall height="28" width="24" x="173" y="-595"/>
+	
+  
+	<trackwall height="29" width="28" x="311" y="-589"/>
+	
+  
+	<goal height="291" width="521" x="3" y="-887"/>
+	
+
+</level>

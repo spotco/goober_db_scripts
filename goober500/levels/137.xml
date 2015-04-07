@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="airjump">
+	
+  
+	<wall height="74" width="101.20000000000002" x="49.1" y="421"/>
+	
+  
+	<wall height="103" width="150.3" x="150.3" y="368"/>
+	
+  
+	<wall height="75" width="197.39999999999998" x="298.6" y="420"/>
+	
+  
+	<wall height="-248" width="48.10000000000002" x="351.7" y="319"/>
+	
+  
+	<boostfruit x="281.55" y="-49"/>
+	
+  
+	<boostfruit x="185.35" y="-238"/>
+	
+  
+	<deathwall height="51" width="48.1" x="52.1" y="-380"/>
+	
+  
+	<deathwall height="49" width="46.10000000000002" x="251.5" y="-428"/>
+	
+  
+	<deathwall height="53" width="51.099999999999994" x="151.3" y="-582"/>
+	
+  
+	<deathwall height="55" width="50.10000000000002" x="350.7" y="-632"/>
+	
+  
+	<boostfruit x="171.35" y="-420"/>
+	
+  
+	<boostfruit x="279.55" y="-526"/>
+	
+  
+	<goal height="54" width="197.4" x="180.35" y="-763"/>
+	
+  
+	<deathwall height="52" width="-348.7" x="350.7" y="68"/>
+	
+
+</level>

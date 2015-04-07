@@ -1,0 +1,101 @@
+<?xml version="1.0" ?>
+<level author="dontplaythis" bg="1" name="minecraftWOW">
+	
+  
+	<wall height="202" width="407" x="57" y="279"/>
+	
+  
+	<wall height="188" width="74" x="47" y="112"/>
+	
+  
+	<wall height="54" width="56" x="103" y="134"/>
+	
+  
+	<wall height="39" width="11" x="154" y="174"/>
+	
+  
+	<wall height="35" width="29" x="163" y="202"/>
+	
+  
+	<wall height="41" width="22" x="185" y="226"/>
+	
+  
+	<wall height="154" width="218" x="170" y="53"/>
+	
+  
+	<wall height="453" width="83" x="425" y="18"/>
+	
+  
+	<goal height="33" width="42" x="170" y="20"/>
+	
+  
+	<goal height="25" width="60" x="197" y="-5"/>
+	
+  
+	<goal height="46" width="45" x="249" y="6"/>
+	
+  
+	<goal height="130" width="57" x="201" y="-127"/>
+	
+  
+	<wall height="29" width="29" x="170" y="-200"/>
+	
+  
+	<wall height="18" width="25" x="247" y="-196"/>
+	
+  
+	<wall height="17" width="24" x="209" y="-162"/>
+	
+  
+	<wall height="16" width="19" x="234" y="-146"/>
+	
+  
+	<wall height="17" width="10" x="250" y="-132"/>
+	
+  
+	<wall height="12" width="12" x="198" y="-146"/>
+	
+  
+	<wall height="10" width="16" x="187" y="-131"/>
+	
+  
+	<trackblade x="273" y="34"/>
+	
+  
+	<trackblade x="286" y="34"/>
+	
+  
+	<goal height="42" width="56" x="244" y="4"/>
+	
+  
+	<goal height="149" width="170" x="137" y="-263"/>
+	
+  
+	<activatetrackwall height="25" width="31" x="156" y="-234"/>
+	
+  
+	<activatetrackwall height="17" width="27" x="245" y="-232"/>
+	
+  
+	<activatetrackwall height="13" width="13" x="212" y="-190"/>
+	
+  
+	<activatetrackwall height="11" width="31" x="209" y="-189"/>
+	
+  
+	<activatetrackwall height="18" width="16" x="240" y="-178"/>
+	
+  
+	<activatetrackwall height="18" width="14" x="252" y="-162"/>
+	
+  
+	<activatetrackwall height="14" width="24" x="188" y="-182"/>
+	
+  
+	<activatetrackwall height="17" width="17" x="179" y="-173"/>
+	
+  
+	<activatetrackwall height="16" width="14" x="180" y="-157"/>
+	
+
+</level>

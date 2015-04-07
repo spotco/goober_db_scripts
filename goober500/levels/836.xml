@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<level author="catpakoo" bg="1" name="endwar">
+	
+  
+	<textfield text="can we please end the peter vs. alpaca thing?" x="67" y="214"/>
+	
+  
+	<wall height="66" width="-781" x="489" y="331"/>
+	
+  
+	<wall height="85" width="298" x="221" y="144"/>
+	
+  
+	<wall height="118" width="-178" x="87" y="96"/>
+	
+  
+	<wall height="108" width="183" x="175" y="-30"/>
+	
+  
+	<boostfruit x="178" y="-184"/>
+	
+  
+	<boostfruit x="131" y="-507"/>
+	
+  
+	<boostfruit x="154" y="-317"/>
+	
+  
+	<track height="-821" width="111" x="299" y="-401"/>
+	
+  
+	<trackwall height="71" width="167" x="252" y="-601"/>
+	
+  
+	<textfield text="i know alpaca in real life and as a matter of fact..." x="61" y="-1214"/>
+	
+  
+	<wall height="-810" width="510" x="354" y="-1156"/>
+	
+  
+	<boostfruit x="267" y="-1793"/>
+	
+  
+	<boostfruit x="84" y="-1918"/>
+	
+  
+	<goal height="-198" width="-511" x="181" y="-2056"/>
+	
+  
+	<textfield text="alpaca does not want to kill every human!" x="205" y="-2048"/>
+	
+  
+	<textfield text="If anyone did, it would be me!" x="367" y="-2054"/>
+	
+  
+	<wall height="-17" width="-306" x="112" y="-1817"/>
+	
+  
+	<textfield text="I don't want to kill everyone, but i'm quite upset with modern society." x="198" y="-1987"/>
+	
+  
+	<textfield text="society. and school. even though i made this in july." x="351" y="-1987"/>
+	
+  
+	<boostfruit x="177" y="-903"/>
+	
+  
+	<boostfruit x="186" y="-758"/>
+	
+  
+	<boostfruit x="289" y="-1095"/>
+	
+
+</level>

@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<level author="alpaca" bg="1" name="goodbye">
+	
+  
+	<wall height="56" width="496" x="12" y="280"/>
+	
+  
+	<textfield text="goodbye everyone!" x="235" y="36"/>
+	
+  
+	<textfield text="im going to stop making levels so goodbye!" x="168" y="-43"/>
+	
+  
+	<textfield text="ok bye!" x="369" y="187"/>
+	
+  
+	<goal height="292" width="66" x="23" y="-5"/>
+	
+  
+	<deathwall height="36" width="52" x="59" y="-37"/>
+	
+  
+	<deathwall height="316" width="-20" x="111" y="-18"/>
+	
+  
+	<activatetrackwall height="345" width="30" x="105" y="-55"/>
+	
+  
+	<activatetrackwall height="19" width="-49" x="109" y="-55"/>
+	
+
+</level>

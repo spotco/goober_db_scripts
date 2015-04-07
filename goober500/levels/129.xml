@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<level author="dijon" bg="1" name="Death">
+	
+  
+	<wall height="60" width="193.35" x="168.35" y="302"/>
+	
+  
+	<trackblade x="51.1" y="249"/>
+	
+  
+	<trackblade x="425.85" y="245"/>
+	
+  
+	<trackblade x="194.4" y="169"/>
+	
+  
+	<trackblade x="345.7" y="163"/>
+	
+  
+	<deathwall height="63" width="-49.10000000000001" x="161.3" y="300"/>
+	
+  
+	<deathwall height="63" width="50.10000000000002" x="368.75" y="303"/>
+	
+  
+	<deathwall height="84" width="204.4" x="164.35" y="374"/>
+	
+  
+	<boost height="-152" width="92.19999999999999" x="223.45" y="235"/>
+	
+  
+	<laserlauncher dir="-3" x="471.95" y="-54"/>
+	
+  
+	<laserlauncher dir="3" x="17.05" y="-36"/>
+	
+  
+	<goal height="185" width="355.70000000000005" x="72.15" y="-283"/>
+	
+  
+	<laserlauncher dir="3" x="15.05" y="9"/>
+	
+  
+	<laserlauncher dir="3" x="15.05" y="37"/>
+	
+  
+	<laserlauncher dir="3" x="15.05" y="55"/>
+	
+  
+	<laserlauncher dir="-3" x="467.95" y="-29"/>
+	
+  
+	<laserlauncher dir="-3" x="476.95" y="-3"/>
+	
+  
+	<laserlauncher dir="-3" x="475.95" y="16"/>
+	
+
+</level>

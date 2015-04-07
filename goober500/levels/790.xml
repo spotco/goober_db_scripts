@@ -1,0 +1,266 @@
+<?xml version="1.0" ?>
+<level author="catpakoo" bg="1" name="idekh">
+	
+  
+	<wall height="56" width="439" x="106" y="414"/>
+	
+  
+	<wall height="-397" width="52" x="112" y="418"/>
+	
+  
+	<wall height="94" width="313" x="154" y="18"/>
+	
+  
+	<wall height="-400" width="41" x="422" y="444"/>
+	
+  
+	<goal height="32" width="53" x="375" y="114"/>
+	
+  
+	<rocketlauncher x="60" y="192"/>
+	
+  
+	<rocketlauncher x="58" y="285"/>
+	
+  
+	<rocketlauncher x="56" y="329"/>
+	
+  
+	<rocketlauncher x="50" y="349"/>
+	
+  
+	<rocketlauncher x="38" y="356"/>
+	
+  
+	<rocketlauncher x="26" y="296"/>
+	
+  
+	<rocketlauncher x="56" y="216"/>
+	
+  
+	<rocketlauncher x="62" y="199"/>
+	
+  
+	<rocketlauncher x="43" y="287"/>
+	
+  
+	<rocketlauncher x="49" y="326"/>
+	
+  
+	<rocketlauncher x="54" y="367"/>
+	
+  
+	<rocketlauncher x="58" y="388"/>
+	
+  
+	<rocketlauncher x="65" y="397"/>
+	
+  
+	<rocketlauncher x="70" y="391"/>
+	
+  
+	<rocketlauncher x="58" y="213"/>
+	
+  
+	<rocketlauncher x="55" y="188"/>
+	
+  
+	<rocketlauncher x="54" y="157"/>
+	
+  
+	<rocketlauncher x="53" y="138"/>
+	
+  
+	<rocketlauncher x="53" y="122"/>
+	
+  
+	<rocketlauncher x="70" y="94"/>
+	
+  
+	<rocketlauncher x="81" y="169"/>
+	
+  
+	<rocketlauncher x="71" y="210"/>
+	
+  
+	<rocketlauncher x="61" y="264"/>
+	
+  
+	<rocketlauncher x="70" y="295"/>
+	
+  
+	<rocketlauncher x="70" y="296"/>
+	
+  
+	<rocketlauncher x="87" y="220"/>
+	
+  
+	<rocketlauncher x="74" y="186"/>
+	
+  
+	<rocketlauncher x="54" y="152"/>
+	
+  
+	<rocketlauncher x="33" y="200"/>
+	
+  
+	<rocketlauncher x="30" y="240"/>
+	
+  
+	<rocketlauncher x="44" y="117"/>
+	
+  
+	<rocketlauncher x="47" y="88"/>
+	
+  
+	<rocketlauncher x="54" y="58"/>
+	
+  
+	<rocketlauncher x="59" y="44"/>
+	
+  
+	<rocketlauncher x="70" y="44"/>
+	
+  
+	<rocketlauncher x="51" y="395"/>
+	
+  
+	<rocketlauncher x="56" y="451"/>
+	
+  
+	<rocketlauncher x="49" y="451"/>
+	
+  
+	<rocketlauncher x="31" y="469"/>
+	
+  
+	<rocketlauncher x="50" y="402"/>
+	
+  
+	<rocketlauncher x="85" y="357"/>
+	
+  
+	<rocketlauncher x="90" y="338"/>
+	
+  
+	<rocketlauncher x="93" y="318"/>
+	
+  
+	<rocketlauncher x="95" y="302"/>
+	
+  
+	<rocketlauncher x="89" y="321"/>
+	
+  
+	<rocketlauncher x="66" y="416"/>
+	
+  
+	<rocketlauncher x="67" y="429"/>
+	
+  
+	<rocketlauncher x="80" y="425"/>
+	
+  
+	<rocketlauncher x="61" y="269"/>
+	
+  
+	<rocketlauncher x="59" y="214"/>
+	
+  
+	<rocketlauncher x="49" y="153"/>
+	
+  
+	<rocketlauncher x="50" y="116"/>
+	
+  
+	<rocketlauncher x="25" y="85"/>
+	
+  
+	<rocketlauncher x="20" y="150"/>
+	
+  
+	<rocketlauncher x="22" y="159"/>
+	
+  
+	<rocketlauncher x="68" y="131"/>
+	
+  
+	<rocketlauncher x="72" y="130"/>
+	
+  
+	<rocketlauncher x="25" y="421"/>
+	
+  
+	<rocketlauncher x="22" y="395"/>
+	
+  
+	<rocketlauncher x="26" y="346"/>
+	
+  
+	<bossactivate explode="no" height="93" hp="6" width="261" x="167" y="353"/>
+	
+  
+	<bossactivate explode="no" height="77" hp="6" width="118" x="193" y="252"/>
+	
+  
+	<bossactivate explode="no" height="48" hp="6" width="54" x="216" y="181"/>
+	
+  
+	<bossactivate explode="no" height="59" hp="6" width="64" x="333" y="238"/>
+	
+  
+	<bossactivate explode="no" height="34" hp="6" width="54" x="283" y="170"/>
+	
+  
+	<bossactivate explode="no" height="52" hp="6" width="39" x="178" y="114"/>
+	
+  
+	<wall height="21" width="171" x="161" y="222"/>
+	
+  
+	<wall height="23" width="-149" x="434" y="345"/>
+	
+  
+	<rocketlauncher x="83" y="460"/>
+	
+  
+	<rocketlauncher x="92" y="479"/>
+	
+  
+	<rocketlauncher x="131" y="486"/>
+	
+  
+	<rocketlauncher x="175" y="486"/>
+	
+  
+	<rocketlauncher x="226" y="482"/>
+	
+  
+	<rocketlauncher x="259" y="484"/>
+	
+  
+	<rocketlauncher x="284" y="485"/>
+	
+  
+	<rocketlauncher x="340" y="487"/>
+	
+  
+	<rocketlauncher x="348" y="488"/>
+	
+  
+	<rocketlauncher x="366" y="488"/>
+	
+  
+	<rocketlauncher x="388" y="489"/>
+	
+  
+	<rocketlauncher x="58" y="41"/>
+	
+  
+	<rocketlauncher x="28" y="25"/>
+	
+  
+	<rocketlauncher x="25" y="25"/>
+	
+
+</level>

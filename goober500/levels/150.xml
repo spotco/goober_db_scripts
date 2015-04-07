@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<level author="LOL" bg="1" name="LOL">
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+  
+	<wall height="39" width="306" x="178" y="272"/>
+	
+  
+	<wall height="-50" width="94" x="129" y="167"/>
+	
+  
+	<wall height="54" width="136" x="391" y="43"/>
+	
+  
+	<wall height="48" width="131" x="326" y="180"/>
+	
+  
+	<wall height="53" width="35" x="294" y="177"/>
+	
+  
+	<goal height="54" width="67" x="441" y="-4"/>
+	
+  
+	<goal height="40" width="48" x="447" y="-20"/>
+	
+  
+	<goal height="84" width="51" x="445" y="-74"/>
+	
+  
+	<goal height="156" width="102" x="434" y="-146"/>
+	
+  
+	<goal height="181" width="99" x="423" y="-206"/>
+	
+  
+	<goal height="352" width="137" x="407" y="-271"/>
+	
+
+</level>

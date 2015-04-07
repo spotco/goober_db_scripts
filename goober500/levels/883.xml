@@ -1,0 +1,116 @@
+<?xml version="1.0" ?>
+<level author="lamboe" bg="1" name="ithot2dai">
+	
+  
+	<wall height="88" width="461" x="75" y="341"/>
+	
+  
+	<textfield text="carnivorus beast is cher" x="117" y="266"/>
+	
+  
+	<textfield text="make with" x="408" y="128"/>
+	
+  
+	<textfield text="out him" x="379" y="223"/>
+	
+  
+	<textfield text="u wanna chaincut?" x="352" y="186"/>
+	
+  
+	<textfield text="skoolgirl" x="251" y="160"/>
+	
+  
+	<textfield text="fried hotdog" x="190" y="181"/>
+	
+  
+	<textfield text="evilgirll" x="117" y="148"/>
+	
+  
+	<goal height="13" width="13" x="426" y="309"/>
+	
+  
+	<wall height="34" width="22" x="404" y="301"/>
+	
+  
+	<deathwall height="38" width="19" x="443" y="300"/>
+	
+  
+	<boostfruit x="116" y="245"/>
+	
+  
+	<boostfruit x="114" y="163"/>
+	
+  
+	<boostfruit x="123" y="101"/>
+	
+  
+	<boostfruit x="248" y="79"/>
+	
+  
+	<boostfruit x="311" y="68"/>
+	
+  
+	<boostfruit x="331" y="61"/>
+	
+  
+	<boostfruit x="95" y="-151"/>
+	
+  
+	<boostfruit x="280" y="-418"/>
+	
+  
+	<boostfruit x="80" y="-618"/>
+	
+  
+	<track height="-423" width="173" x="232" y="-462"/>
+	
+  
+	<track height="-446" width="-108" x="313" y="-444"/>
+	
+  
+	<track height="-517" width="-84" x="265" y="-441"/>
+	
+  
+	<track height="-445" width="-74" x="250" y="-444"/>
+	
+  
+	<track height="-570" width="-151" x="253" y="-431"/>
+	
+  
+	<track height="-459" width="-130" x="256" y="-432"/>
+	
+  
+	<track height="-494" width="-94" x="236" y="-421"/>
+	
+  
+	<trackwall height="152" width="289" x="77" y="-733"/>
+	
+  
+	<goal height="119" width="344" x="53" y="-1065"/>
+	
+  
+	<textfield text="yellow to ambulence" x="345" y="-848"/>
+	
+  
+	<textfield text="froyorcks" x="44" y="-853"/>
+	
+  
+	<track height="-644" width="127" x="105" y="-415"/>
+	
+  
+	<track height="-559" width="-199" x="368" y="-437"/>
+	
+  
+	<track height="-474" width="-75" x="345" y="-448"/>
+	
+  
+	<track height="-575" width="-68" x="342" y="-407"/>
+	
+  
+	<boostfruit x="445" y="-652"/>
+	
+  
+	<boostfruit x="384" y="-458"/>
+	
+
+</level>

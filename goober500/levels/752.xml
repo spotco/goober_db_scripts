@@ -1,0 +1,113 @@
+<?xml version="1.0" ?>
+<level author="roodama" bg="1" name="hakuka">
+	
+  
+	<wall height="89" width="-695" x="426" y="397"/>
+	
+  
+	<wall height="34" width="-379" x="267" y="293"/>
+	
+  
+	<wall height="188" width="22" x="340" y="245"/>
+	
+  
+	<wall height="-442" width="-104" x="13" y="424"/>
+	
+  
+	<wall height="-509" width="39" x="413" y="474"/>
+	
+  
+	<wall height="-12" width="-275" x="348" y="355"/>
+	
+  
+	<wall height="-279" width="27" x="194" y="298"/>
+	
+  
+	<wall height="-15" width="-633" x="431" y="-15"/>
+	
+  
+	<wall height="33" width="100" x="207" y="194"/>
+	
+  
+	<wall height="11" width="185" x="275" y="139"/>
+	
+  
+	<wall height="-86" width="-16" x="327" y="149"/>
+	
+  
+	<wall height="14" width="108" x="321" y="62"/>
+	
+  
+	<wall height="19" width="-68" x="330" y="58"/>
+	
+  
+	<wall height="46" width="18" x="328" y="-35"/>
+	
+  
+	<wall height="55" width="25" x="270" y="23"/>
+	
+  
+	<wall height="37" width="24" x="367" y="28"/>
+	
+  
+	<wall height="24" width="-137" x="189" y="46"/>
+	
+  
+	<wall height="62" width="161" x="42" y="18"/>
+	
+  
+	<wall height="23" width="102" x="7" y="111"/>
+	
+  
+	<wall height="175" width="13" x="149" y="65"/>
+	
+  
+	<wall height="14" width="113" x="54" y="172"/>
+	
+  
+	<wall height="16" width="86" x="4" y="225"/>
+	
+  
+	<wall height="13" width="179" x="6" y="272"/>
+	
+  
+	<wall height="15" width="-17" x="196" y="115"/>
+	
+  
+	<wall height="21" width="19" x="144" y="170"/>
+	
+  
+	<wall height="158" width="17" x="386" y="138"/>
+	
+  
+	<wall height="52" width="12" x="1" y="-20"/>
+	
+  
+	<wall height="98" width="13" x="241" y="-105"/>
+	
+  
+	<goal height="26" width="29" x="164" y="84"/>
+	
+  
+	<wall height="11" width="37" x="385" y="346"/>
+	
+  
+	<wall height="38" width="14" x="356" y="144"/>
+	
+  
+	<wall height="11" width="46" x="193" y="111"/>
+	
+  
+	<goal height="29" width="55" x="103" y="367"/>
+	
+  
+	<wall height="24" width="11" x="297" y="331"/>
+	
+  
+	<wall height="14" width="55" x="296" y="325"/>
+	
+  
+	<wall height="55" width="11" x="294" y="206"/>
+	
+
+</level>

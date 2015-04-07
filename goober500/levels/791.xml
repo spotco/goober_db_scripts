@@ -1,0 +1,188 @@
+<?xml version="1.0" ?>
+<level author="catpakoo" bg="1" name="zooescape">
+	
+  
+	<wall height="43" width="462" x="30" y="367"/>
+	
+  
+	<trackwall height="-311" width="15" x="134" y="315"/>
+	
+  
+	<trackwall height="-385" width="47" x="121" y="376"/>
+	
+  
+	<trackwall height="-405" width="52" x="400" y="375"/>
+	
+  
+	<textfield text="is that a goober?" x="45" y="182"/>
+	
+  
+	<textfield text="cool!" x="46" y="88"/>
+	
+  
+	<textfield text="yup." x="50" y="295"/>
+	
+  
+	<textfield text="goober says oink!" x="373" y="80"/>
+	
+  
+	<textfield text="that thing is so ugly!" x="36" y="3"/>
+	
+  
+	<textfield text="imma take a picture!" x="337" y="139"/>
+	
+  
+	<wall height="-336" width="16" x="70" y="-23"/>
+	
+  
+	<textfield text="psst! Hey, i'm an escapee too! The security camera!" x="139" y="-239"/>
+	
+  
+	<textfield text="hide!" x="251" y="-249"/>
+	
+  
+	<wall height="-40" width="-53" x="48" y="-384"/>
+	
+  
+	<wall height="41" width="91" x="109" y="-492"/>
+	
+  
+	<wall height="19" width="22" x="100" y="-438"/>
+	
+  
+	<wall height="29" width="39" x="143" y="-411"/>
+	
+  
+	<wall height="39" width="54" x="232" y="-434"/>
+	
+  
+	<wall height="29" width="36" x="24" y="-547"/>
+	
+  
+	<wall height="21" width="32" x="127" y="-558"/>
+	
+  
+	<laserlauncher dir="3" x="407" y="-434"/>
+	
+  
+	<wall height="-51" width="207" x="223" y="-646"/>
+	
+  
+	<wall height="-60" width="177" x="427" y="-811"/>
+	
+  
+	<wall height="-58" width="-223" x="381" y="-882"/>
+	
+  
+	<wall height="-34" width="-133" x="135" y="-1000"/>
+	
+  
+	<textfield text="just get past the cars and you'll be safe!" x="143" y="-1277"/>
+	
+  
+	<wall height="44" width="237" x="138" y="-1145"/>
+	
+  
+	<wall height="51" width="129" x="315" y="-1309"/>
+	
+  
+	<boostfruit x="279" y="-1418"/>
+	
+  
+	<boostfruit x="183" y="-1526"/>
+	
+  
+	<boostfruit x="365" y="-1709"/>
+	
+  
+	<boostfruit x="157" y="-1718"/>
+	
+  
+	<boostfruit x="269" y="-1638"/>
+	
+  
+	<goal height="37" width="292" x="164" y="-1806"/>
+	
+  
+	<track height="53" width="470" x="27" y="-1596"/>
+	
+  
+	<track height="-28" width="-473" x="495" y="-1553"/>
+	
+  
+	<track height="31" width="496" x="21" y="-1572"/>
+	
+  
+	<trackwall height="53" width="131" x="179" y="-1604"/>
+	
+  
+	<track height="50" width="483" x="48" y="-1476"/>
+	
+  
+	<track height="14" width="529" x="49" y="-1491"/>
+	
+  
+	<track height="33" width="489" x="33" y="-1494"/>
+	
+  
+	<track height="39" width="535" x="39" y="-1487"/>
+	
+  
+	<track height="26" width="552" x="58" y="-1475"/>
+	
+  
+	<track height="20" width="500" x="117" y="-1477"/>
+	
+  
+	<track height="25" width="449" x="39" y="-1479"/>
+	
+  
+	<trackwall height="38" width="159" x="234" y="-1491"/>
+	
+  
+	<track height="78" width="422" x="62" y="-1729"/>
+	
+  
+	<track height="26" width="443" x="95" y="-1726"/>
+	
+  
+	<track height="23" width="409" x="125" y="-1717"/>
+	
+  
+	<trackwall height="39" width="41" x="201" y="-1734"/>
+	
+  
+	<wall height="17" width="48" x="140" y="-344"/>
+	
+  
+	<wall height="28" width="44" x="208" y="-550"/>
+	
+  
+	<wall height="-22" width="-59" x="28" y="-494"/>
+	
+  
+	<wall height="43" width="-225" x="450" y="-31"/>
+	
+  
+	<boostfruit x="111" y="-392"/>
+	
+  
+	<boostfruit x="28" y="-489"/>
+	
+  
+	<boostfruit x="90" y="-528"/>
+	
+  
+	<boostfruit x="230" y="-489"/>
+	
+  
+	<boostfruit x="207" y="-391"/>
+	
+  
+	<textfield text="in the tree!" x="314" y="-165"/>
+	
+  
+	<textfield text="or catch a ride!" x="244" y="-1193"/>
+	
+
+</level>

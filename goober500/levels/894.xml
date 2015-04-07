@@ -1,0 +1,206 @@
+<?xml version="1.0" ?>
+<level author="kambo" bg="1" name="omgkambo">
+	
+  
+	<wall height="76" width="507" x="27" y="321"/>
+	
+  
+	<wall height="273" width="72" x="17" y="45"/>
+	
+  
+	<wall height="69" width="325" x="72" y="52"/>
+	
+  
+	<wall height="112" width="15" x="260" y="87"/>
+	
+  
+	<wall height="195" width="55" x="130" y="95"/>
+	
+  
+	<wall height="54" width="46" x="173" y="242"/>
+	
+  
+	<wall height="88" width="83" x="199" y="271"/>
+	
+  
+	<wall height="18" width="34" x="350" y="304"/>
+	
+  
+	<wall height="80" width="39" x="383" y="92"/>
+	
+  
+	<wall height="62" width="66" x="427" y="258"/>
+	
+  
+	<boost height="220" width="123" x="206" y="-153"/>
+	
+  
+	<boostfruit x="64" y="-281"/>
+	
+  
+	<boostfruit x="101" y="-292"/>
+	
+  
+	<boostfruit x="150" y="-295"/>
+	
+  
+	<boostfruit x="194" y="-297"/>
+	
+  
+	<boostfruit x="257" y="-295"/>
+	
+  
+	<boostfruit x="353" y="-283"/>
+	
+  
+	<boostfruit x="412" y="-277"/>
+	
+  
+	<boostfruit x="361" y="-325"/>
+	
+  
+	<boostfruit x="257" y="-345"/>
+	
+  
+	<boostfruit x="150" y="-358"/>
+	
+  
+	<boostfruit x="105" y="-341"/>
+	
+  
+	<boostfruit x="116" y="-341"/>
+	
+  
+	<boostfruit x="292" y="-368"/>
+	
+  
+	<boostfruit x="365" y="-340"/>
+	
+  
+	<boostfruit x="428" y="-301"/>
+	
+  
+	<boostfruit x="237" y="-354"/>
+	
+  
+	<boostfruit x="185" y="-346"/>
+	
+  
+	<boostfruit x="260" y="-381"/>
+	
+  
+	<track height="108" width="583" x="33" y="-467"/>
+	
+  
+	<track height="72" width="496" x="38" y="-479"/>
+	
+  
+	<track height="62" width="541" x="47" y="-480"/>
+	
+  
+	<track height="59" width="493" x="47" y="-474"/>
+	
+  
+	<track height="51" width="512" x="42" y="-468"/>
+	
+  
+	<track height="29" width="528" x="41" y="-469"/>
+	
+  
+	<track height="38" width="506" x="35" y="-473"/>
+	
+  
+	<track height="19" width="503" x="41" y="-468"/>
+	
+  
+	<trackblade x="43" y="-473"/>
+	
+  
+	<trackblade x="63" y="-473"/>
+	
+  
+	<trackblade x="45" y="-468"/>
+	
+  
+	<trackblade x="52" y="-466"/>
+	
+  
+	<trackblade x="67" y="-466"/>
+	
+  
+	<trackblade x="71" y="-467"/>
+	
+  
+	<trackblade x="77" y="-468"/>
+	
+  
+	<trackblade x="73" y="-470"/>
+	
+  
+	<trackblade x="62" y="-472"/>
+	
+  
+	<trackblade x="55" y="-472"/>
+	
+  
+	<trackblade x="51" y="-473"/>
+	
+  
+	<boost height="132" width="61" x="192" y="-679"/>
+	
+  
+	<wall height="14" width="173" x="7" y="-686"/>
+	
+  
+	<wall height="32" width="253" x="277" y="-674"/>
+	
+  
+	<wall height="252" width="28" x="14" y="-967"/>
+	
+  
+	<wall height="58" width="398" x="42" y="-989"/>
+	
+  
+	<wall height="32" width="26" x="19" y="-719"/>
+	
+  
+	<trackwall height="33" width="200" x="62" y="-800"/>
+	
+  
+	<trackwall height="40" width="264" x="301" y="-881"/>
+	
+  
+	<cloudboss/>
+	
+  
+	<boost height="195" width="131" x="212" y="-1378"/>
+	
+  
+	<boost height="34" width="146" x="241" y="-1146"/>
+	
+  
+	<boost height="384" width="197" x="218" y="-1772"/>
+	
+  
+	<deathwall height="11" width="165" x="159" y="-1640"/>
+	
+  
+	<boost height="336" width="35" x="256" y="-2111"/>
+	
+  
+	<goal height="68" width="324" x="143" y="-2192"/>
+	
+  
+	<textfield text="heehee the storm is out to get ju!" x="88" y="-1159"/>
+	
+  
+	<textfield text="a eerie cave! just da vay i lik it!" x="358" y="-732"/>
+	
+  
+	<textfield text="did lamboe just propose to meh?!" x="285" y="-453"/>
+	
+  
+	<textfield text="t bone steaky! mmmm pickles!" x="360" y="206"/>
+	
+
+</level>

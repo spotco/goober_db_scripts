@@ -1,0 +1,257 @@
+<?xml version="1.0" ?>
+<level author="dijon" bg="1" name="STEEP">
+	
+  
+	<wall height="-32" width="303.6" x="108.2" y="433"/>
+	
+  
+	<wall height="-296" width="61.150000000000006" x="84.15" y="374"/>
+	
+  
+	<wall height="-172" width="105.19999999999999" x="364.75" y="57"/>
+	
+  
+	<rocketlauncher x="34.05" y="-8"/>
+	
+  
+	<rocketlauncher x="20.05" y="-132"/>
+	
+  
+	<rocketlauncher x="30.05" y="-224"/>
+	
+  
+	<rocketlauncher x="33.05" y="-318"/>
+	
+  
+	<rocketlauncher x="37.05" y="-393"/>
+	
+  
+	<rocketlauncher x="39.1" y="-484"/>
+	
+  
+	<rocketlauncher x="40.1" y="-570"/>
+	
+  
+	<rocketlauncher x="40.1" y="-645"/>
+	
+  
+	<rocketlauncher x="40.1" y="-729"/>
+	
+  
+	<rocketlauncher x="41.1" y="-810"/>
+	
+  
+	<rocketlauncher x="41.1" y="-890"/>
+	
+  
+	<wall height="34" width="69.15000000000003" x="220.45" y="-166"/>
+	
+  
+	<wall height="53" width="52.099999999999994" x="132.25" y="-282"/>
+	
+  
+	<wall height="79" width="90.19999999999999" x="230.45" y="-407"/>
+	
+  
+	<wall height="64" width="56.10000000000002" x="379.75" y="-513"/>
+	
+  
+	<trackblade x="248.5" y="-100"/>
+	
+  
+	<trackblade x="205.4" y="-100"/>
+	
+  
+	<trackblade x="176.35" y="-100"/>
+	
+  
+	<trackblade x="148.3" y="-118"/>
+	
+  
+	<trackblade x="124.25" y="-143"/>
+	
+  
+	<trackblade x="105.2" y="-164"/>
+	
+  
+	<trackblade x="96.2" y="-198"/>
+	
+  
+	<trackblade x="93.2" y="-233"/>
+	
+  
+	<trackblade x="93.2" y="-278"/>
+	
+  
+	<trackblade x="96.2" y="-297"/>
+	
+  
+	<trackblade x="98.2" y="-328"/>
+	
+  
+	<trackblade x="101.2" y="-346"/>
+	
+  
+	<trackblade x="101.2" y="-401"/>
+	
+  
+	<trackblade x="101.2" y="-446"/>
+	
+  
+	<trackblade x="101.2" y="-486"/>
+	
+  
+	<trackblade x="101.2" y="-526"/>
+	
+  
+	<trackblade x="117.25" y="-561"/>
+	
+  
+	<trackblade x="150.3" y="-540"/>
+	
+  
+	<trackblade x="179.35" y="-550"/>
+	
+  
+	<trackblade x="207.4" y="-553"/>
+	
+  
+	<trackblade x="234.45" y="-565"/>
+	
+  
+	<trackblade x="272.55" y="-571"/>
+	
+  
+	<trackblade x="296.6" y="-572"/>
+	
+  
+	<trackblade x="298.6" y="-621"/>
+	
+  
+	<trackblade x="298.6" y="-651"/>
+	
+  
+	<trackblade x="298.6" y="-681"/>
+	
+  
+	<trackblade x="298.6" y="-711"/>
+	
+  
+	<boost height="-198" width="93.19999999999999" x="357.7" y="-696"/>
+	
+  
+	<boostfruit x="400.8" y="-975"/>
+	
+  
+	<boostfruit x="398.8" y="-1125"/>
+	
+  
+	<boostfruit x="263.55" y="-1244"/>
+	
+  
+	<boostfruit x="123.25" y="-1385"/>
+	
+  
+	<boostfruit x="290.6" y="-1553"/>
+	
+  
+	<boostfruit x="377.75" y="-1779"/>
+	
+  
+	<boostfruit x="162.3" y="-1958"/>
+	
+  
+	<boostfruit x="331.65" y="-2198"/>
+	
+  
+	<boostfruit x="129.25" y="-2373"/>
+	
+  
+	<rocketlauncher x="26.05" y="-2200"/>
+	
+  
+	<rocketlauncher x="446.9" y="-2009"/>
+	
+  
+	<rocketlauncher x="18.05" y="-1786"/>
+	
+  
+	<rocketlauncher x="450.9" y="-1609"/>
+	
+  
+	<rocketlauncher x="82.15" y="-1593"/>
+	
+  
+	<rocketlauncher x="439.9" y="-1415"/>
+	
+  
+	<rocketlauncher x="27.05" y="-1190"/>
+	
+  
+	<rocketlauncher x="23.05" y="-1058"/>
+	
+  
+	<boostfruit x="253.5" y="69"/>
+	
+  
+	<boostfruit x="400.8" y="-617"/>
+	
+  
+	<rocketlauncher x="23.05" y="-1384"/>
+	
+  
+	<rocketlauncher x="445.9" y="-1517"/>
+	
+  
+	<rocketlauncher x="429.85" y="-1293"/>
+	
+  
+	<rocketlauncher x="48.1" y="-1507"/>
+	
+  
+	<rocketlauncher x="66.15" y="-1689"/>
+	
+  
+	<rocketlauncher x="440.9" y="-1779"/>
+	
+  
+	<rocketlauncher x="444.9" y="-1696"/>
+	
+  
+	<rocketlauncher x="427.85" y="-1861"/>
+	
+  
+	<rocketlauncher x="26.05" y="-1875"/>
+	
+  
+	<rocketlauncher x="204.4" y="-1777"/>
+	
+  
+	<rocketlauncher x="297.6" y="-1410"/>
+	
+  
+	<goal height="50" width="413.84999999999997" x="28.05" y="-2594"/>
+	
+  
+	<boostfruit x="231.45" y="-2285"/>
+	
+  
+	<boostfruit x="259.5" y="-2012"/>
+	
+  
+	<boostfruit x="315.65" y="-1695"/>
+	
+  
+	<boostfruit x="167.35" y="-1475"/>
+	
+  
+	<boostfruit x="190.4" y="-1302"/>
+	
+  
+	<boostfruit x="336.65" y="-1199"/>
+	
+  
+	<boostfruit x="337.7" y="-1054"/>
+	
+
+</level>

@@ -1,0 +1,170 @@
+<?xml version="1.0" ?>
+<level author="MADELEINE" bg="1" name="QUIKIK">
+	
+  
+	<activatetrackwall height="48" width="-71" x="58" y="440"/>
+	
+  
+	<activatetrackwall height="48" width="-81" x="141" y="395"/>
+	
+  
+	<activatetrackwall height="43" width="-41" x="181" y="356"/>
+	
+  
+	<activatetrackwall height="18" width="-40" x="221" y="335"/>
+	
+  
+	<activatetrackwall height="50" width="-70" x="291" y="288"/>
+	
+  
+	<track height="226" width="-51" x="367" y="113"/>
+	
+  
+	<activatetrackwall height="65" width="-44" x="323" y="260"/>
+	
+  
+	<activatetrackwall height="66" width="70" x="209" y="82"/>
+	
+  
+	<boostfruit x="181" y="-103"/>
+	
+  
+	<boostfruit x="327" y="-100"/>
+	
+  
+	<boostfruit x="247" y="-178"/>
+	
+  
+	<boostfruit x="242" y="-48"/>
+	
+  
+	<boostfruit x="250" y="-111"/>
+	
+  
+	<boostfruit x="304" y="-166"/>
+	
+  
+	<boostfruit x="199" y="-152"/>
+	
+  
+	<boostfruit x="196" y="-59"/>
+	
+  
+	<boostfruit x="195" y="-63"/>
+	
+  
+	<boostfruit x="296" y="-57"/>
+	
+  
+	<boostfruit x="314" y="-128"/>
+	
+  
+	<boostfruit x="281" y="-170"/>
+	
+  
+	<boostfruit x="219" y="-168"/>
+	
+  
+	<boostfruit x="188" y="-123"/>
+	
+  
+	<boostfruit x="181" y="-83"/>
+	
+  
+	<boostfruit x="223" y="-57"/>
+	
+  
+	<boostfruit x="276" y="-53"/>
+	
+  
+	<boostfruit x="320" y="-84"/>
+	
+  
+	<boostfruit x="327" y="-121"/>
+	
+  
+	<boostfruit x="311" y="-152"/>
+	
+  
+	<boostfruit x="308" y="-72"/>
+	
+  
+	<boostfruit x="259" y="-49"/>
+	
+  
+	<boostfruit x="207" y="-64"/>
+	
+  
+	<boostfruit x="191" y="-138"/>
+	
+  
+	<boostfruit x="235" y="-178"/>
+	
+  
+	<boostfruit x="235" y="-178"/>
+	
+  
+	<boostfruit x="235" y="-178"/>
+	
+  
+	<boostfruit x="207" y="-159"/>
+	
+  
+	<boostfruit x="263" y="-178"/>
+	
+  
+	<boostfruit x="287" y="-171"/>
+	
+  
+	<boostfruit x="267" y="-141"/>
+	
+  
+	<boostfruit x="229" y="-151"/>
+	
+  
+	<boostfruit x="222" y="-94"/>
+	
+  
+	<boostfruit x="264" y="-84"/>
+	
+  
+	<boostfruit x="277" y="-112"/>
+	
+  
+	<boostfruit x="221" y="-126"/>
+	
+  
+	<boost height="143" width="66" x="249" y="-358"/>
+	
+  
+	<activatetrackwall height="128" width="-74" x="171" y="-464"/>
+	
+  
+	<activatetrackwall height="139" width="-67" x="409" y="-445"/>
+	
+  
+	<activatetrackwall height="102" width="80" x="230" y="-532"/>
+	
+  
+	<goal height="-59" width="466" x="33" y="-626"/>
+	
+  
+	<goal height="-24" width="50" x="4" y="-637"/>
+	
+  
+	<goal height="-20" width="-22" x="18" y="-666"/>
+	
+  
+	<goal height="-14" width="10" x="24" y="-664"/>
+	
+  
+	<goal height="49" width="100" x="0" y="-612"/>
+	
+  
+	<goal height="-15" width="18" x="8" y="-611"/>
+	
+  
+	<goal height="-70" width="430" x="78" y="-569"/>
+	
+
+</level>

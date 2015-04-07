@@ -1,0 +1,122 @@
+<?xml version="1.0" ?>
+<level author="lalela" bg="1" name="HOHOHO">
+	
+  
+	<wall height="-143" width="284" x="22" y="415"/>
+	
+  
+	<deathwall height="-264" width="-87" x="223" y="252"/>
+	
+  
+	<deathwall height="-296" width="-52" x="78" y="252"/>
+	
+  
+	<deathwall height="-56" width="92" x="63" y="32"/>
+	
+  
+	<deathwall height="-180" width="100" x="75" y="167"/>
+	
+  
+	<deathwall height="-39" width="68" x="80" y="205"/>
+	
+  
+	<goal height="-14" width="-15" x="111" y="234"/>
+	
+  
+	<deathwall height="-16" width="-18" x="90" y="257"/>
+	
+  
+	<deathwall height="-11" width="-16" x="132" y="249"/>
+	
+  
+	<textfield text="LOOK THERE..." x="141" y="177"/>
+	
+  
+	<wall height="140" width="357" x="306" y="276"/>
+	
+  
+	<boostfruit x="497" y="264"/>
+	
+  
+	<boost height="-97" width="-11" x="498" y="-23"/>
+	
+  
+	<boost height="-306" width="22" x="488" y="-117"/>
+	
+  
+	<boost height="-220" width="22" x="490" y="-423"/>
+	
+  
+	<boost height="-334" width="20" x="494" y="-642"/>
+	
+  
+	<wall height="-69" width="-120" x="468" y="-926"/>
+	
+  
+	<wall height="-69" width="-126" x="281" y="-927"/>
+	
+  
+	<rocketlauncher x="443" y="-829"/>
+	
+  
+	<wall height="-77" width="-98" x="99" y="-934"/>
+	
+  
+	<boost height="-507" width="95" x="2" y="-1053"/>
+	
+  
+	<boostfruit x="6" y="-1625"/>
+	
+  
+	<boostfruit x="30" y="-1615"/>
+	
+  
+	<boostfruit x="58" y="-1605"/>
+	
+  
+	<boostfruit x="88" y="-1614"/>
+	
+  
+	<boostfruit x="112" y="-1634"/>
+	
+  
+	<boostfruit x="62" y="-1649"/>
+	
+  
+	<boostfruit x="26" y="-1684"/>
+	
+  
+	<boostfruit x="87" y="-1690"/>
+	
+  
+	<boost height="-239" width="-49" x="90" y="-1736"/>
+	
+  
+	<boostfruit x="13" y="-1970"/>
+	
+  
+	<boostfruit x="46" y="-2020"/>
+	
+  
+	<boostfruit x="76" y="-2032"/>
+	
+  
+	<boostfruit x="109" y="-2007"/>
+	
+  
+	<boostfruit x="138" y="-1978"/>
+	
+  
+	<boostfruit x="27" y="-2001"/>
+	
+  
+	<goal height="31" width="502" x="6" y="-2221"/>
+	
+  
+	<goal height="-10" width="-36" x="122" y="224"/>
+	
+  
+	<goal height="-12" width="-24" x="118" y="245"/>
+	
+
+</level>

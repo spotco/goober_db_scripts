@@ -1,0 +1,113 @@
+<?xml version="1.0" ?>
+<level author="david" bg="2" name="supergooberbros3">
+	
+  
+	<wall height="58" width="86" x="203" y="285"/>
+	
+  
+	<wall height="93" width="114" x="311" y="194"/>
+	
+  
+	<wall height="28" width="23" x="293" y="270"/>
+	
+  
+	<trackblade x="363" y="208"/>
+	
+  
+	<wall height="76" width="75" x="176" y="125"/>
+	
+  
+	<wall height="83" width="74" x="102" y="41"/>
+	
+  
+	<boostfruit x="207" y="98"/>
+	
+  
+	<boostfruit x="126" y="-10"/>
+	
+  
+	<boost height="209" width="74" x="20" y="-168"/>
+	
+  
+	<wall height="75" width="72" x="27" y="44"/>
+	
+  
+	<wall height="64" width="380" x="99" y="-171"/>
+	
+  
+	<track height="312" width="32" x="117" y="-515"/>
+	
+  
+	<track height="332" width="32" x="198" y="-521"/>
+	
+  
+	<track height="335" width="26" x="310" y="-519"/>
+	
+  
+	<track height="326" width="22" x="364" y="-507"/>
+	
+  
+	<trackwall height="65" width="58" x="90" y="-489"/>
+	
+  
+	<trackwall height="62" width="56" x="171" y="-487"/>
+	
+  
+	<trackwall height="52" width="58" x="283" y="-474"/>
+	
+  
+	<trackwall height="51" width="44" x="353" y="-471"/>
+	
+  
+	<textfield text="moving walls equal thwomps" x="259" y="-242"/>
+	
+  
+	<boost height="436" width="64" x="417" y="-605"/>
+	
+  
+	<wall height="93" width="365" x="38" y="-601"/>
+	
+  
+	<deathwall height="63" width="179" x="36" y="-677"/>
+	
+  
+	<boost height="189" width="87" x="120" y="-875"/>
+	
+  
+	<boost height="199" width="95" x="111" y="-1075"/>
+	
+  
+	<wall height="88" width="275" x="209" y="-1076"/>
+	
+  
+	<wall height="349" width="48" x="430" y="-1424"/>
+	
+  
+	<goal height="42" width="63" x="365" y="-1423"/>
+	
+  
+	<laserlauncher dir="3" x="60" y="-646"/>
+	
+  
+	<laserlauncher dir="-3" x="171" y="-642"/>
+	
+  
+	<textfield text="defeat evil thing jr.!" x="292" y="-714"/>
+	
+  
+	<track height="315" width="18" x="126" y="-508"/>
+	
+  
+	<track height="326" width="17" x="174" y="-508"/>
+	
+  
+	<track height="327" width="10" x="297" y="-508"/>
+	
+  
+	<track height="335" width="14" x="383" y="-505"/>
+	
+  
+	<textfield text="part 3 cleared!" x="318" y="-1039"/>
+	
+
+</level>

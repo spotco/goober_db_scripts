@@ -1,0 +1,287 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="hardlvl3">
+	
+  
+	<wall height="38" width="191" x="144" y="282"/>
+	
+  
+	<wall height="59" width="129" x="75" y="166"/>
+	
+  
+	<wall height="-233" width="73" x="30" y="367"/>
+	
+  
+	<wall height="80" width="60" x="118" y="72"/>
+	
+  
+	<wall height="84" width="-46" x="175" y="225"/>
+	
+  
+	<wall height="70" width="-35" x="289" y="155"/>
+	
+  
+	<wall height="-25" width="19" x="345" y="163"/>
+	
+  
+	<wall height="67" width="51" x="353" y="144"/>
+	
+  
+	<wall height="252" width="29" x="420" y="126"/>
+	
+  
+	<wall height="77" width="-112" x="400" y="130"/>
+	
+  
+	<wall height="-88" width="52" x="351" y="237"/>
+	
+  
+	<wall height="99" width="71" x="372" y="200"/>
+	
+  
+	<wall height="191" width="78" x="359" y="176"/>
+	
+  
+	<wall height="95" width="-26" x="362" y="218"/>
+	
+  
+	<wall height="69" width="52" x="287" y="215"/>
+	
+  
+	<wall height="39" width="48" x="242" y="169"/>
+	
+  
+	<wall height="92" width="-43" x="186" y="83"/>
+	
+  
+	<wall height="45" width="19" x="196" y="81"/>
+	
+  
+	<wall height="15" width="26" x="161" y="73"/>
+	
+  
+	<wall height="25" width="38" x="197" y="52"/>
+	
+  
+	<wall height="32" width="19" x="220" y="49"/>
+	
+  
+	<wall height="99" width="-57" x="248" y="32"/>
+	
+  
+	<wall height="72" width="112" x="69" y="43"/>
+	
+  
+	<wall height="61" width="51" x="80" y="42"/>
+	
+  
+	<wall height="65" width="41" x="54" y="41"/>
+	
+  
+	<wall height="38" width="107" x="26" y="14"/>
+	
+  
+	<wall height="23" width="36" x="112" y="42"/>
+	
+  
+	<wall height="31" width="148" x="175" y="8"/>
+	
+  
+	<wall height="31" width="-43" x="255" y="17"/>
+	
+  
+	<wall height="-20" width="45" x="296" y="5"/>
+	
+  
+	<wall height="35" width="18" x="280" y="-24"/>
+	
+  
+	<wall height="37" width="73" x="230" y="46"/>
+	
+  
+	<wall height="-39" width="54" x="374" y="119"/>
+	
+  
+	<wall height="119" width="41" x="408" y="-14"/>
+	
+  
+	<wall height="102" width="13" x="425" y="42"/>
+	
+  
+	<wall height="51" width="16" x="410" y="136"/>
+	
+  
+	<wall height="73" width="27" x="413" y="119"/>
+	
+  
+	<wall height="98" width="64" x="91" y="231"/>
+	
+  
+	<wall height="110" width="57" x="110" y="255"/>
+	
+  
+	<wall height="33" width="11" x="125" y="248"/>
+	
+  
+	<wall height="32" width="12" x="107" y="142"/>
+	
+  
+	<wall height="65" width="35" x="83" y="94"/>
+	
+  
+	<wall height="62" width="26" x="59" y="91"/>
+	
+  
+	<wall height="76" width="49" x="38" y="74"/>
+	
+  
+	<wall height="28" width="98" x="103" y="-1"/>
+	
+  
+	<wall height="26" width="36" x="176" y="-2"/>
+	
+  
+	<wall height="-27" width="76" x="139" y="37"/>
+	
+  
+	<wall height="40" width="-30" x="179" y="24"/>
+	
+  
+	<wall height="76" width="-26" x="231" y="-11"/>
+	
+  
+	<wall height="33" width="21" x="114" y="330"/>
+	
+  
+	<wall height="86" width="23" x="108" y="343"/>
+	
+  
+	<wall height="14" width="293" x="58" y="-71"/>
+	
+  
+	<wall height="15" width="18" x="59" y="-51"/>
+	
+  
+	<wall height="18" width="19" x="56" y="-66"/>
+	
+  
+	<wall height="16" width="15" x="63" y="-62"/>
+	
+  
+	<wall height="18" width="57" x="69" y="-59"/>
+	
+  
+	<wall height="13" width="95" x="93" y="-65"/>
+	
+  
+	<wall height="17" width="76" x="153" y="-62"/>
+	
+  
+	<wall height="10" width="66" x="229" y="-59"/>
+	
+  
+	<wall height="22" width="21" x="134" y="-14"/>
+	
+  
+	<wall height="17" width="27" x="226" y="-9"/>
+	
+  
+	<wall height="12" width="34" x="126" y="-56"/>
+	
+  
+	<wall height="-20" width="63" x="293" y="-49"/>
+	
+  
+	<wall height="44" width="41" x="28" y="-78"/>
+	
+  
+	<goal height="13" width="11" x="36" y="-6"/>
+	
+  
+	<boost height="-390" width="53" x="43" y="-87"/>
+	
+  
+	<wall height="45" width="240" x="124" y="-473"/>
+	
+  
+	<textfield text="Didn`t you see the secret route?" x="163" y="-626"/>
+	
+  
+	<activatetrackwall height="66" width="75" x="345" y="-515"/>
+	
+  
+	<activatetrackwall height="59" width="64" x="65" y="-588"/>
+	
+  
+	<activatetrackwall height="107" width="152" x="325" y="-707"/>
+	
+  
+	<activatetrackwall height="81" width="115" x="150" y="-735"/>
+	
+  
+	<activatetrackwall height="158" width="102" x="25" y="-791"/>
+	
+  
+	<activatetrackwall height="82" width="73" x="50" y="-944"/>
+	
+  
+	<activatetrackwall height="104" width="70" x="236" y="-973"/>
+	
+  
+	<activatetrackwall height="313" width="126" x="400" y="-1102"/>
+	
+  
+	<activatetrackwall height="125" width="-81" x="161" y="-1109"/>
+	
+  
+	<activatetrackwall height="36" width="62" x="184" y="-938"/>
+	
+  
+	<activatetrackwall height="112" width="41" x="362" y="-1041"/>
+	
+  
+	<wall height="53" width="301" x="50" y="-1581"/>
+	
+  
+	<activatetrackwall height="51" width="53" x="50" y="-1630"/>
+	
+  
+	<wall height="-48" width="415" x="101" y="-1731"/>
+	
+  
+	<wall height="54" width="-60" x="51" y="-1781"/>
+	
+  
+	<textfield text="Oh well, since you didn`t see the secret route then..." x="142" y="-1664"/>
+	
+  
+	<wall height="-538" width="96" x="449" y="-1782"/>
+	
+  
+	<wall height="-321" width="53" x="448" y="-2321"/>
+	
+  
+	<deathwall height="-54" width="-521" x="495" y="-2644"/>
+	
+  
+	<textfield text="GOODBYE!!!" x="115" y="-2586"/>
+	
+  
+	<wall height="-10" width="67" x="226" y="-10"/>
+	
+  
+	<wall height="19" width="48" x="248" y="-6"/>
+	
+  
+	<wall height="16" width="55" x="151" y="-12"/>
+	
+  
+	<wall height="17" width="78" x="25" y="-4"/>
+	
+  
+	<wall height="47" width="74" x="32" y="11"/>
+	
+  
+	<textfield text="want more?" x="330" y="-102"/>
+	
+
+</level>

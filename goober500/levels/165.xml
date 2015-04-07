@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<level author="Egil" bg="1" name="LittleLevel">
+	
+  
+	<wall height="-174" width="28.049999999999983" x="196.4" y="376"/>
+	
+  
+	<wall height="152" width="21.049999999999955" x="296.6" y="228"/>
+	
+  
+	<wall height="21" width="-36.10000000000002" x="297.6" y="377"/>
+	
+  
+	<track height="33" width="491" x="4" y="293"/>
+	
+  
+	<trackblade x="21.05" y="296"/>
+	
+  
+	<boost height="91" width="-90.19999999999999" x="223.45" y="376"/>
+	
+  
+	<boost height="-173" width="63.150000000000006" x="133.25" y="375"/>
+	
+  
+	<goal height="12" width="37.05000000000001" x="318.65" y="228"/>
+	
+  
+	<boost height="211" width="168.35000000000002" x="326.65" y="285"/>
+	
+  
+	<wall height="29" width="154.29999999999998" x="198.4" y="200"/>
+	
+  
+	<wall height="23" width="442.9" x="46.1" y="92"/>
+	
+  
+	<trackblade x="466.95" y="298"/>
+	
+  
+	<track height="73" width="12" x="42.1" y="142"/>
+	
+  
+	<track height="78" width="11.049999999999955" x="432.85" y="146"/>
+	
+  
+	<trackblade x="48.1" y="221"/>
+	
+  
+	<trackblade x="436.85" y="229"/>
+	
+
+</level>

@@ -1,0 +1,38 @@
+<?xml version="1.0" ?>
+<level author="BEI" bg="1" name="Survival2">
+	
+  
+	<wall height="58" width="500" x="1" y="269"/>
+	
+  
+	<wall height="83" width="112" x="5" y="190"/>
+	
+  
+	<wall height="44" width="59" x="111" y="224"/>
+	
+  
+	<wall height="74" width="74" x="2" y="125"/>
+	
+  
+	<wall height="56" width="56" x="334" y="222"/>
+	
+  
+	<wall height="144" width="64" x="390" y="138"/>
+	
+  
+	<wall height="256" width="56" x="448" y="30"/>
+	
+  
+	<wall height="52" width="398" x="0" y="-32"/>
+	
+  
+	<goal height="103" width="68" x="3" y="-131"/>
+	
+  
+	<textfield text="Tired of playing? ??????????????????????????" x="136" y="-149"/>
+	
+  
+	<cloudboss/>
+	
+
+</level>

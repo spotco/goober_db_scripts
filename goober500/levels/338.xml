@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="dodgelvl2">
+	
+  
+	<wall height="51" width="526" x="0" y="269"/>
+	
+  
+	<wall height="52" width="450" x="1" y="120"/>
+	
+  
+	<track height="-334" width="-50" x="400" y="116"/>
+	
+  
+	<trackblade x="354" y="107"/>
+	
+  
+	<trackblade x="353" y="-205"/>
+	
+  
+	<track height="349" width="-44" x="345" y="-231"/>
+	
+  
+	<trackblade x="305" y="-161"/>
+	
+  
+	<trackblade x="305" y="65"/>
+	
+  
+	<track height="347" width="53" x="247" y="-229"/>
+	
+  
+	<trackblade x="251" y="26"/>
+	
+  
+	<trackblade x="250" y="-114"/>
+	
+  
+	<track height="353" width="50" x="200" y="-229"/>
+	
+  
+	<trackblade x="201" y="-79"/>
+	
+  
+	<trackblade x="203" y="-23"/>
+	
+  
+	<track height="51" width="149" x="2" y="21"/>
+	
+  
+	<track height="21" width="150" x="2" y="-13"/>
+	
+  
+	<goal height="50" width="48" x="1" y="-380"/>
+	
+  
+	<boost height="-474" width="65" x="1" y="116"/>
+	
+  
+	<trackwall height="36" width="27" x="4" y="9"/>
+	
+  
+	<trackwall height="34" width="21" x="134" y="-26"/>
+	
+
+</level>

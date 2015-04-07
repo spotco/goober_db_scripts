@@ -1,0 +1,152 @@
+<?xml version="1.0" ?>
+<level author="jaj" bg="1" name="nivel15">
+	
+  
+	<wall height="65" width="252" x="120" y="348"/>
+	
+  
+	<bossactivate explode="no" height="165" hp="6" width="249" x="123" y="181"/>
+	
+  
+	<wall height="29" width="100" x="70" y="267"/>
+	
+  
+	<wall height="169" width="38" x="39" y="39"/>
+	
+  
+	<wall height="27" width="118" x="227" y="159"/>
+	
+  
+	<wall height="27" width="-55" x="208" y="124"/>
+	
+  
+	<rocketlauncher x="437" y="143"/>
+	
+  
+	<boost height="75" width="64" x="407" y="13"/>
+	
+  
+	<boost height="95" width="65" x="365" y="-132"/>
+	
+  
+	<wall height="51" width="171" x="144" y="-203"/>
+	
+  
+	<wall height="87" width="43" x="60" y="-283"/>
+	
+  
+	<track height="71" width="332" x="63" y="-365"/>
+	
+  
+	<trackwall height="224" width="35" x="353" y="-538"/>
+	
+  
+	<boostfruit x="261" y="-629"/>
+	
+  
+	<track height="52" width="81" x="120" y="-847"/>
+	
+  
+	<track height="41" width="66" x="336" y="-847"/>
+	
+  
+	<trackwall height="44" width="36" x="131" y="-871"/>
+	
+  
+	<trackwall height="40" width="41" x="362" y="-863"/>
+	
+  
+	<boostfruit x="42" y="-958"/>
+	
+  
+	<boostfruit x="457" y="-946"/>
+	
+  
+	<boostfruit x="164" y="-1251"/>
+	
+  
+	<boostfruit x="350" y="-1251"/>
+	
+  
+	<deathwall height="115" width="147" x="182" y="-1141"/>
+	
+  
+	<bossactivate explode="no" height="162" hp="6" width="414" x="47" y="-1456"/>
+	
+  
+	<textfield text="esto se pone mas dificil:(" x="61" y="-1418"/>
+	
+  
+	<activatetrackwall height="59" width="113" x="204" y="-1288"/>
+	
+  
+	<activatetrackwall height="67" width="156" x="31" y="-1592"/>
+	
+  
+	<activatetrackwall height="61" width="120" x="361" y="-1582"/>
+	
+  
+	<deathwall height="48" width="180" x="176" y="-1793"/>
+	
+  
+	<boost height="160" width="143" x="21" y="-1919"/>
+	
+  
+	<boost height="160" width="111" x="376" y="-1915"/>
+	
+  
+	<rocketlauncher x="269" y="-1871"/>
+	
+  
+	<wall height="37" width="185" x="175" y="-1967"/>
+	
+  
+	<wall height="56" width="63" x="43" y="-2064"/>
+	
+  
+	<wall height="50" width="64" x="419" y="-2055"/>
+	
+  
+	<wall height="37" width="128" x="195" y="-2140"/>
+	
+  
+	<wall height="23" width="85" x="289" y="-2262"/>
+	
+  
+	<wall height="36" width="138" x="122" y="-2352"/>
+	
+  
+	<bossactivate height="161" hp="6" width="391" x="85" y="-2997"/>
+	
+  
+	<wall height="180" width="32" x="103" y="-2632"/>
+	
+  
+	<wall height="42" width="178" x="225" y="-2603"/>
+	
+  
+	<wall height="42" width="88" x="391" y="-2725"/>
+	
+  
+	<wall height="55" width="80" x="298" y="-2823"/>
+	
+  
+	<wall height="36" width="182" x="71" y="-2867"/>
+	
+  
+	<wall height="225" width="36" x="43" y="-3120"/>
+	
+  
+	<wall height="227" width="30" x="143" y="-3262"/>
+	
+  
+	<wall height="42" width="206" x="227" y="-3251"/>
+	
+  
+	<goal height="148" width="142" x="310" y="-3434"/>
+	
+  
+	<boost height="70" width="69" x="365" y="-216"/>
+	
+
+</level>

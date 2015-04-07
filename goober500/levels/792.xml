@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="obsession">
+	
+  
+	<wall height="50" width="291" x="134" y="371"/>
+	
+  
+	<wall height="-818" width="-43" x="426" y="395"/>
+	
+  
+	<wall height="-806" width="44" x="132" y="389"/>
+	
+  
+	<goal height="57" width="305" x="122" y="-445"/>
+	
+  
+	<bossactivate explode="no" height="210" hp="6" width="115" x="233" y="0"/>
+	
+  
+	<rocketlauncher x="58" y="171"/>
+	
+  
+	<rocketlauncher x="63" y="-11"/>
+	
+  
+	<rocketlauncher x="62" y="-114"/>
+	
+  
+	<rocketlauncher x="455" y="261"/>
+	
+  
+	<rocketlauncher x="477" y="43"/>
+	
+  
+	<rocketlauncher x="467" y="-82"/>
+	
+  
+	<rocketlauncher x="72" y="-294"/>
+	
+  
+	<rocketlauncher x="460" y="-327"/>
+	
+  
+	<rocketlauncher x="76" y="-215"/>
+	
+  
+	<rocketlauncher x="467" y="-197"/>
+	
+  
+	<rocketlauncher x="450" y="182"/>
+	
+
+</level>

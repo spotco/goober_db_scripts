@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<level author="banditpro456" bg="1" name="easybuthard">
+	
+  
+	<wall height="150" width="439" x="48" y="268"/>
+	
+  
+	<wall height="-313" width="77" x="51" y="266"/>
+	
+  
+	<wall height="-292" width="27" x="437" y="264"/>
+	
+  
+	<boost height="-350" width="101" x="128" y="259"/>
+	
+  
+	<boost height="-371" width="101" x="127" y="-93"/>
+	
+  
+	<boost height="-372" width="101" x="127" y="-464"/>
+	
+  
+	<deathwall height="112" width="169" x="270" y="-837"/>
+	
+  
+	<wall height="48" width="-129" x="125" y="-833"/>
+	
+  
+	<wall height="-208" width="-59" x="51" y="-837"/>
+	
+  
+	<wall height="39" width="193" x="92" y="-1046"/>
+	
+  
+	<wall height="134" width="88" x="271" y="-1016"/>
+	
+  
+	<wall height="27" width="93" x="261" y="-1041"/>
+	
+  
+	<boostfruit x="80" y="-871"/>
+	
+  
+	<boostfruit x="75" y="-951"/>
+	
+  
+	<boostfruit x="72" y="-1010"/>
+	
+  
+	<goal height="94" width="112" x="226" y="-1284"/>
+	
+  
+	<track height="252" width="-22" x="194" y="-1379"/>
+	
+  
+	<trackblade x="177" y="-1361"/>
+	
+  
+	<trackblade x="176" y="-1141"/>
+	
+  
+	<activatetrackwall height="40" width="84" x="280" y="-1112"/>
+	
+  
+	<track height="29" width="-245" x="453" y="-1167"/>
+	
+  
+	<trackwall height="10" width="99" x="214" y="-1164"/>
+	
+
+</level>

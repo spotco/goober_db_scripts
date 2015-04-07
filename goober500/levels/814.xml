@@ -1,0 +1,104 @@
+<?xml version="1.0" ?>
+<level author="alpaca" bg="1" name="stoppeter">
+	
+  
+	<wall height="63" width="500" x="2" y="301"/>
+	
+  
+	<textfield text="to peter, please stop bullying" x="109" y="179"/>
+	
+  
+	<textfield text="i apolagized so you should too" x="369" y="136"/>
+	
+  
+	<textfield text="dont bully!" x="131" y="39"/>
+	
+  
+	<textfield text="i dont want to fight" x="317" y="-84"/>
+	
+  
+	<textfield text="stop i am serious" x="187" y="-132"/>
+	
+  
+	<textfield text="just quit it!!!!!!" x="269" y="-235"/>
+	
+  
+	<textfield text="i am not going to argue from alpaca" x="87" y="-262"/>
+	
+  
+	<boostfruit x="262" y="195"/>
+	
+  
+	<boostfruit x="279" y="170"/>
+	
+  
+	<boostfruit x="282" y="146"/>
+	
+  
+	<boostfruit x="296" y="114"/>
+	
+  
+	<boostfruit x="314" y="83"/>
+	
+  
+	<boostfruit x="317" y="51"/>
+	
+  
+	<boostfruit x="292" y="23"/>
+	
+  
+	<boostfruit x="257" y="5"/>
+	
+  
+	<boostfruit x="234" y="-1"/>
+	
+  
+	<boostfruit x="185" y="-18"/>
+	
+  
+	<boostfruit x="155" y="-45"/>
+	
+  
+	<boostfruit x="149" y="-65"/>
+	
+  
+	<boostfruit x="149" y="-94"/>
+	
+  
+	<boostfruit x="149" y="-80"/>
+	
+  
+	<boostfruit x="180" y="-131"/>
+	
+  
+	<boostfruit x="205" y="-155"/>
+	
+  
+	<boostfruit x="233" y="-179"/>
+	
+  
+	<boostfruit x="257" y="-204"/>
+	
+  
+	<boostfruit x="269" y="-227"/>
+	
+  
+	<boostfruit x="274" y="-244"/>
+	
+  
+	<boostfruit x="254" y="-281"/>
+	
+  
+	<boostfruit x="213" y="-309"/>
+	
+  
+	<boostfruit x="200" y="-322"/>
+	
+  
+	<boostfruit x="190" y="-346"/>
+	
+  
+	<goal height="81" width="313" x="56" y="-470"/>
+	
+
+</level>

@@ -1,0 +1,137 @@
+<?xml version="1.0" ?>
+<level author="joaco" bg="1" name="nivel4">
+	
+  
+	<wall height="48" width="220" x="151" y="391"/>
+	
+  
+	<wall height="56" width="70" x="58" y="308"/>
+	
+  
+	<wall height="49" width="84" x="392" y="304"/>
+	
+  
+	<track height="52" width="200" x="162" y="241"/>
+	
+  
+	<trackwall height="43" width="54" x="180" y="226"/>
+	
+  
+	<wall height="15" width="190" x="37" y="17"/>
+	
+  
+	<wall height="16" width="184" x="295" y="20"/>
+	
+  
+	<boostfruit x="70" y="-86"/>
+	
+  
+	<boostfruit x="442" y="-84"/>
+	
+  
+	<boostfruit x="171" y="-190"/>
+	
+  
+	<boostfruit x="362" y="-199"/>
+	
+  
+	<deathwall height="51" width="70" x="226" y="-164"/>
+	
+  
+	<deathwall height="43" width="25" x="61" y="-221"/>
+	
+  
+	<deathwall height="46" width="18" x="430" y="-220"/>
+	
+  
+	<wall height="47" width="61" x="233" y="-250"/>
+	
+  
+	<wall height="20" width="84" x="70" y="-299"/>
+	
+  
+	<wall height="26" width="91" x="368" y="-304"/>
+	
+  
+	<boost height="73" width="36" x="114" y="-382"/>
+	
+  
+	<boost height="76" width="34" x="370" y="-385"/>
+	
+  
+	<track height="68" width="283" x="130" y="-654"/>
+	
+  
+	<trackblade x="159" y="-653"/>
+	
+  
+	<textfield text="preparate para el primer jefe" x="146" y="-875"/>
+	
+  
+	<textfield text="cuendo te paras en una de las plataformas con tuercas sube" x="67" y="113"/>
+	
+  
+	<activatetrackwall height="32" width="40" x="241" y="182"/>
+	
+  
+	<activatetrackwall height="27" width="172" x="178" y="-411"/>
+	
+  
+	<deathwall height="89" width="234" x="202" y="-1000"/>
+	
+  
+	<activatetrackwall height="39" width="87" x="57" y="-782"/>
+	
+  
+	<wall height="52" width="206" x="213" y="-1038"/>
+	
+  
+	<trackblade x="401" y="-1073"/>
+	
+  
+	<trackblade x="403" y="-1126"/>
+	
+  
+	<trackblade x="402" y="-1170"/>
+	
+  
+	<trackblade x="273" y="-1236"/>
+	
+  
+	<trackblade x="270" y="-1277"/>
+	
+  
+	<trackblade x="266" y="-1322"/>
+	
+  
+	<track height="278" width="68" x="330" y="-1314"/>
+	
+  
+	<trackwall height="45" width="111" x="268" y="-1072"/>
+	
+  
+	<boostfruit x="275" y="-1423"/>
+	
+  
+	<wall height="22" width="173" x="40" y="-1347"/>
+	
+  
+	<wall height="41" width="294" x="166" y="-1529"/>
+	
+  
+	<textfield text="usa todo lo que has aprendido para derrotarlo" x="59" y="-1466"/>
+	
+  
+	<boost height="125" width="54" x="95" y="-1487"/>
+	
+  
+	<goal height="194" width="105" x="374" y="-1752"/>
+	
+  
+	<track height="147" width="42" x="247" y="-1705"/>
+	
+  
+	<trackblade x="250" y="-1692"/>
+	
+
+</level>

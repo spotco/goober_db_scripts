@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<level author="lamboe" bg="1" name="how2makefroyo">
+	
+  
+	<wall height="54" width="423" x="25" y="367"/>
+	
+  
+	<textfield text="iz time for cook show!" x="151" y="146"/>
+	
+  
+	<boostfruit x="369" y="282"/>
+	
+  
+	<boostfruit x="112" y="-25"/>
+	
+  
+	<textfield text="we be maki9en g" x="285" y="-20"/>
+	
+  
+	<deathwall height="-494" width="-343" x="50" y="18"/>
+	
+  
+	<track height="35" width="114" x="27" y="-143"/>
+	
+  
+	<track height="33" width="141" x="15" y="-31"/>
+	
+  
+	<trackwall height="50" width="173" x="14" y="-44"/>
+	
+  
+	<trackwall height="51" width="157" x="21" y="-161"/>
+	
+  
+	<textfield text="lamboe froyo!!!!" x="328" y="-282"/>
+	
+  
+	<wall height="59" width="359" x="255" y="-278"/>
+	
+  
+	<wall height="-675" width="-185" x="157" y="-332"/>
+	
+  
+	<textfield text="first, ask betsy if she haz de pizzashrooms" x="326" y="-443"/>
+	
+  
+	<textfield text="add pizzashrooms to yougart" x="181" y="-695"/>
+	
+  
+	<deathwall height="-324" width="228" x="139" y="-864"/>
+	
+  
+	<wall height="-165" width="337" x="342" y="-583"/>
+	
+  
+	<activatetrackwall height="46" width="77" x="441" y="-813"/>
+	
+  
+	<goal height="-505" width="-228" x="124" y="-1020"/>
+	
+  
+	<textfield text="add 1 pickle and 1 banana an=d done" x="261" y="-1290"/>
+	
+
+</level>

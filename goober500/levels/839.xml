@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<level author="guuu" bg="1" name="superhurd">
+	
+  
+	<wall height="151" width="501" x="2" y="319"/>
+	
+  
+	<activatetrackwall height="203" width="49" x="101" y="117"/>
+	
+  
+	<wall height="52" width="249" x="2" y="70"/>
+	
+  
+	<wall height="101" width="153" x="350" y="221"/>
+	
+  
+	<trackblade x="278" y="94"/>
+	
+  
+	<goal height="67" width="80" x="8" y="243"/>
+	
+  
+	<textfield text="twy tu figur this  joan out if nut u are idiout!!!" x="165" y="168"/>
+	
+  
+	<track height="479" width="32" x="42" y="-420"/>
+	
+  
+	<trackwall height="26" width="76" x="12" y="28"/>
+	
+  
+	<wall height="58" width="418" x="85" y="-410"/>
+	
+  
+	<textfield text="yes i know how to spell unlike you!" x="212" y="-476"/>
+	
+  
+	<goal height="147" width="508" x="1" y="-683"/>
+	
+  
+	<textfield text="idioot go upa heres" x="269" y="-48"/>
+	
+  
+	<wall height="132" width="30" x="455" y="89"/>
+	
+  
+	<wall height="13" width="41" x="254" y="67"/>
+	
+  
+	<wall height="14" width="41" x="257" y="57"/>
+	
+  
+	<wall height="50" width="504" x="3" y="-556"/>
+	
+
+</level>

@@ -1,0 +1,146 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="Normal">
+	
+  
+	<wall height="138" width="400" x="76" y="298"/>
+	
+  
+	<wall height="88" width="129" x="63" y="80"/>
+	
+  
+	<wall height="46" width="73" x="367" y="61"/>
+	
+  
+	<wall height="54" width="43" x="43" y="-139"/>
+	
+  
+	<wall height="64" width="67" x="286" y="-199"/>
+	
+  
+	<wall height="45" width="34" x="151" y="-208"/>
+	
+  
+	<wall height="38" width="34" x="225" y="-149"/>
+	
+  
+	<goal height="-31" width="352" x="89" y="-1972"/>
+	
+  
+	<wall height="60" width="82" x="235" y="36"/>
+	
+  
+	<wall height="34" width="84" x="188" y="185"/>
+	
+  
+	<wall height="53" width="87" x="323" y="168"/>
+	
+  
+	<textfield text="this level is hard to lose" x="99" y="6"/>
+	
+  
+	<textfield text="it is also hard to win" x="120" y="-675"/>
+	
+  
+	<wall height="72" width="99" x="431" y="-299"/>
+	
+  
+	<wall height="77" width="-132" x="105" y="-422"/>
+	
+  
+	<wall height="102" width="130" x="256" y="-540"/>
+	
+  
+	<wall height="85" width="71" x="468" y="129"/>
+	
+  
+	<wall height="137" width="-125" x="40" y="-11"/>
+	
+  
+	<wall height="67" width="74" x="373" y="-108"/>
+	
+  
+	<wall height="24" width="27" x="130" y="-82"/>
+	
+  
+	<boostfruit x="221" y="-18"/>
+	
+  
+	<boostfruit x="400" y="-193"/>
+	
+  
+	<boostfruit x="437" y="148"/>
+	
+  
+	<wall height="-317" width="101" x="462" y="75"/>
+	
+  
+	<wall height="-62" width="-57" x="66" y="192"/>
+	
+  
+	<wall height="147" width="183" x="181" y="-425"/>
+	
+  
+	<wall height="79" width="125" x="42" y="-765"/>
+	
+  
+	<wall height="90" width="152" x="344" y="-879"/>
+	
+  
+	<wall height="105" width="204" x="280" y="-744"/>
+	
+  
+	<wall height="59" width="140" x="80" y="-673"/>
+	
+  
+	<wall height="205" width="191" x="67" y="-1207"/>
+	
+  
+	<wall height="104" width="166" x="333" y="-1320"/>
+	
+  
+	<wall height="67" width="68" x="39" y="-1374"/>
+	
+  
+	<wall height="67" width="-50" x="283" y="-961"/>
+	
+  
+	<wall height="161" width="174" x="219" y="-1644"/>
+	
+  
+	<wall height="76" width="76" x="7" y="-1806"/>
+	
+  
+	<wall height="148" width="93" x="128" y="-1750"/>
+	
+  
+	<wall height="82" width="-209" x="97" y="-1622"/>
+	
+  
+	<wall height="105" width="106" x="443" y="-1526"/>
+	
+  
+	<wall height="97" width="133" x="174" y="-1466"/>
+	
+  
+	<wall height="62" width="-130" x="35" y="-1270"/>
+	
+  
+	<wall height="37" width="61" x="343" y="-1081"/>
+	
+  
+	<wall height="10" width="-247" x="66" y="-862"/>
+	
+  
+	<wall height="19" width="-207" x="161" y="-535"/>
+	
+  
+	<wall height="67" width="-42" x="23" y="-1923"/>
+	
+  
+	<wall height="235" width="54" x="67" y="-2146"/>
+	
+  
+	<wall height="31" width="324" x="110" y="-2109"/>
+	
+
+</level>

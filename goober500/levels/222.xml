@@ -1,0 +1,116 @@
+<?xml version="1.0" ?>
+<level author="jose" bg="3" name="chesse">
+	
+  
+	<track height="489" width="495" x="21" y="7"/>
+	
+  
+	<track height="459" width="465" x="18" y="31"/>
+	
+  
+	<wall height="25" width="170" x="38" y="36"/>
+	
+  
+	<wall height="134" width="208" x="258" y="37"/>
+	
+  
+	<wall height="141" width="374" x="121" y="398"/>
+	
+  
+	<wall height="156" width="415" x="64" y="853"/>
+	
+  
+	<goal height="160" width="271" x="87" y="696"/>
+	
+  
+	<boost height="265" width="70" x="47" y="330"/>
+	
+  
+	<wall height="167" width="87" x="151" y="170"/>
+	
+  
+	<activatetrackwall height="125" width="-45" x="48" y="178"/>
+	
+  
+	<wall height="106" width="120" x="296" y="-95"/>
+	
+  
+	<goal height="142" width="85" x="310" y="-235"/>
+	
+  
+	<boostfruit x="208" y="383"/>
+	
+  
+	<boostfruit x="142" y="366"/>
+	
+  
+	<boostfruit x="131" y="348"/>
+	
+  
+	<boostfruit x="115" y="312"/>
+	
+  
+	<boostfruit x="104" y="276"/>
+	
+  
+	<boostfruit x="96" y="256"/>
+	
+  
+	<boostfruit x="92" y="242"/>
+	
+  
+	<boostfruit x="73" y="226"/>
+	
+  
+	<boostfruit x="55" y="220"/>
+	
+  
+	<boostfruit x="46" y="217"/>
+	
+  
+	<boostfruit x="50" y="196"/>
+	
+  
+	<boostfruit x="65" y="177"/>
+	
+  
+	<boostfruit x="79" y="172"/>
+	
+  
+	<boostfruit x="154" y="152"/>
+	
+  
+	<boostfruit x="181" y="150"/>
+	
+  
+	<boostfruit x="189" y="151"/>
+	
+  
+	<boostfruit x="216" y="145"/>
+	
+  
+	<boostfruit x="234" y="103"/>
+	
+  
+	<boostfruit x="235" y="61"/>
+	
+  
+	<boostfruit x="259" y="27"/>
+	
+  
+	<boostfruit x="270" y="6"/>
+	
+  
+	<boostfruit x="295" y="-3"/>
+	
+  
+	<boostfruit x="317" y="-4"/>
+	
+  
+	<boostfruit x="325" y="7"/>
+	
+  
+	<boostfruit x="328" y="15"/>
+	
+
+</level>

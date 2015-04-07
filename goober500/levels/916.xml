@@ -1,0 +1,197 @@
+<?xml version="1.0" ?>
+<level author="help" bg="1" name="HELPWTF">
+	
+  
+	<wall height="54" width="-276" x="252" y="318"/>
+	
+  
+	<wall height="128" width="539" x="2" y="372"/>
+	
+  
+	<wall height="156" width="116" x="399" y="116"/>
+	
+  
+	<wall height="62" width="104" x="400" y="318"/>
+	
+  
+	<trackwall height="67" width="75" x="30" y="244"/>
+	
+  
+	<trackwall height="35" width="20" x="71" y="270"/>
+	
+  
+	<activatetrackwall height="16" width="33" x="35" y="255"/>
+	
+  
+	<activatetrackwall height="12" width="31" x="37" y="277"/>
+	
+  
+	<activatetrackwall height="11" width="27" x="37" y="295"/>
+	
+  
+	<trackblade height="55" width="50" x="109" y="284"/>
+	
+  
+	<trackwall height="19" width="58" x="85" y="231"/>
+	
+  
+	<deathwall height="13" width="23" x="126" y="296"/>
+	
+  
+	<deathwall height="16" width="29" x="144" y="288"/>
+	
+  
+	<deathwall height="17" width="39" x="148" y="305"/>
+	
+  
+	<deathwall height="12" width="36" x="115" y="310"/>
+	
+  
+	<deathwall height="27" width="24" x="156" y="272"/>
+	
+  
+	<deathwall height="16" width="17" x="182" y="301"/>
+	
+  
+	<deathwall height="64" width="29" x="186" y="265"/>
+	
+  
+	<deathwall height="47" width="35" x="173" y="240"/>
+	
+  
+	<deathwall height="12" width="-28" x="111" y="308"/>
+	
+  
+	<deathwall height="12" width="-37" x="77" y="308"/>
+	
+  
+	<deathwall height="10" width="69" x="68" y="307"/>
+	
+  
+	<deathwall height="10" width="-40" x="41" y="311"/>
+	
+  
+	<deathwall height="45" width="26" x="180" y="203"/>
+	
+  
+	<deathwall height="63" width="24" x="177" y="162"/>
+	
+  
+	<deathwall height="44" width="42" x="149" y="135"/>
+	
+  
+	<deathwall height="26" width="39" x="127" y="114"/>
+	
+  
+	<deathwall height="28" width="26" x="102" y="104"/>
+	
+  
+	<deathwall height="18" width="17" x="81" y="100"/>
+	
+  
+	<deathwall height="28" width="26" x="186" y="129"/>
+	
+  
+	<deathwall height="25" width="48" x="211" y="114"/>
+	
+  
+	<deathwall height="22" width="29" x="252" y="96"/>
+	
+  
+	<deathwall height="29" width="41" x="283" y="101"/>
+	
+  
+	<deathwall height="36" width="22" x="313" y="128"/>
+	
+  
+	<deathwall height="34" width="11" x="328" y="164"/>
+	
+  
+	<deathwall height="22" width="-25" x="339" y="198"/>
+	
+  
+	<deathwall height="25" width="-14" x="314" y="220"/>
+	
+  
+	<wall height="30" width="77" x="61" y="81"/>
+	
+  
+	<wall height="24" width="50" x="279" y="234"/>
+	
+  
+	<wall height="19" width="50" x="290" y="87"/>
+	
+  
+	<wall height="78" width="24" x="317" y="92"/>
+	
+  
+	<flowerboss height="300" width="500" x="390" y="-448"/>
+	
+  
+	<deathwall height="258" width="55" x="458" y="-148"/>
+	
+  
+	<deathwall height="-486" width="114" x="462" y="-447"/>
+	
+  
+	<flowerboss height="300" width="500" x="-401" y="-284"/>
+	
+  
+	<flowerboss height="300" width="500" x="-332" y="-827"/>
+	
+  
+	<deathwall height="154" width="-141" x="45" y="-9"/>
+	
+  
+	<deathwall height="347" width="-114" x="36" y="-544"/>
+	
+  
+	<deathwall height="42" width="132" x="12" y="-400"/>
+	
+  
+	<deathwall height="60" width="53" x="144" y="-382"/>
+	
+  
+	<wall height="319" width="29" x="365" y="-459"/>
+	
+  
+	<wall height="309" width="-31" x="120" y="-283"/>
+	
+  
+	<wall height="323" width="-37" x="184" y="-838"/>
+	
+  
+	<wall height="47" width="54" x="145" y="-422"/>
+	
+  
+	<wall height="180" width="41" x="426" y="-721"/>
+	
+  
+	<wall height="52" width="414" x="114" y="-66"/>
+	
+  
+	<deathwall height="73" width="-61" x="109" y="21"/>
+	
+  
+	<deathwall height="67" width="-84" x="115" y="15"/>
+	
+  
+	<deathwall height="92" width="-98" x="115" y="-1"/>
+	
+  
+	<deathwall height="59" width="-76" x="96" y="16"/>
+	
+  
+	<deathwall height="77" width="-78" x="105" y="-11"/>
+	
+  
+	<deathwall height="53" width="-48" x="66" y="12"/>
+	
+  
+	<deathwall height="28" width="-40" x="88" y="13"/>
+	
+  
+	<goal height="65" width="37" x="23" y="-242"/>
+	
+
+</level>

@@ -1,0 +1,332 @@
+<?xml version="1.0" ?>
+<level author="Vicytor" bg="2" name="EndOfYourWorld">
+	
+  
+	<deathwall height="64.75" width="21.6" x="-1.25" y="412.6"/>
+	
+  
+	<deathwall height="77.10000000000002" width="14.799999999999997" x="84.5" y="415.7"/>
+	
+  
+	<deathwall height="74.05000000000001" width="-16.650000000000006" x="272" y="418.75"/>
+	
+  
+	<deathwall height="75.84999999999997" width="16.700000000000017" x="133.2" y="417.55"/>
+	
+  
+	<deathwall height="69.05000000000001" width="11.1" x="-1.85" y="474.7"/>
+	
+  
+	<deathwall height="170.84999999999997" width="11.099999999999994" x="39.45" y="419.8"/>
+	
+  
+	<deathwall height="30.25" width="495.95" x="-2.5" y="413.6"/>
+	
+  
+	<deathwall height="157.3" width="24.649999999999977" x="323.85" y="447.55"/>
+	
+  
+	<deathwall height="164.64999999999998" width="18.5" x="194.9" y="441.4"/>
+	
+  
+	<deathwall height="168.39999999999998" width="20.400000000000034" x="420.65" y="437.65"/>
+	
+  
+	<boostfruit x="453.35" y="351.9"/>
+	
+  
+	<deathwall height="23.44999999999999" width="19.75" x="481.75" y="420.35"/>
+	
+  
+	<deathwall height="-34.549999999999955" width="-16.05000000000001" x="502.1" y="445.65"/>
+	
+  
+	<deathwall height="26.55000000000001" width="10.449999999999989" x="465.1" y="444.4"/>
+	
+  
+	<wall height="-40.69999999999999" width="-500.9" x="501.5" y="412.05"/>
+	
+  
+	<deathwall height="33.89999999999998" width="502.75" x="-2.5" y="413.3"/>
+	
+  
+	<deathwall height="-32.10000000000002" width="-503.34999999999997" x="498.4" y="444.75"/>
+	
+  
+	<deathwall height="19.75" width="460.75" x="22.2" y="401.55"/>
+	
+  
+	<wall height="-117.20000000000002" width="-121.5" x="121.5" y="371.35"/>
+	
+  
+	<wall height="-66.65" width="-68.45" x="69.05" y="257.25"/>
+	
+  
+	<goal height="24.050000000000068" width="19.150000000000006" x="83.25" y="488.15"/>
+	
+  
+	<goal height="22.199999999999932" width="-19.150000000000006" x="148.65" y="490.6"/>
+	
+  
+	<goal height="22.199999999999932" width="17.299999999999997" x="37.6" y="588.7"/>
+	
+  
+	<goal height="30.200000000000045" width="-12.95" x="9.85" y="543.65"/>
+	
+  
+	<goal height="26.5" width="16.05000000000001" x="197.35" y="604.1"/>
+	
+  
+	<goal height="17.25" width="-17.30000000000001" x="273.25" y="486.3"/>
+	
+  
+	<goal height="24.649999999999977" width="15.399999999999977" x="327.55" y="604.1"/>
+	
+  
+	<goal height="21.600000000000023" width="-13.550000000000011" x="437.3" y="606.55"/>
+	
+  
+	<goal height="15.449999999999989" width="16.649999999999977" x="463.25" y="472.7"/>
+	
+  
+	<textfield text="Goober!You need to save your clan from the spikes go to the skies and save them before the spikes kill them!!" x="154.15" y="281.4"/>
+	
+  
+	<boost height="-373.2" width="-37.65" x="38.25" y="192.95"/>
+	
+  
+	<textfield text="Take this beam to go to the skies,goober" x="100.55" y="166.39999999999998"/>
+	
+  
+	<wall height="21.599999999999994" width="312.75" x="37" y="-181.15"/>
+	
+  
+	<activatetrackwall height="-25.30000000000001" width="-54.900000000000034" x="351.6" y="-181.2"/>
+	
+  
+	<wall height="-30.849999999999966" width="-259.05" x="257.8" y="-331.1"/>
+	
+  
+	<wall height="14.199999999999989" width="41.94999999999999" x="257.2" y="-344.9"/>
+	
+  
+	<deathwall height="57.400000000000034" width="-61.69999999999999" x="500.25" y="-566.35"/>
+	
+  
+	<deathwall height="32.69999999999999" width="-80.19999999999999" x="438.55" y="-510.2"/>
+	
+  
+	<deathwall height="133.85000000000002" width="28.350000000000023" x="456.45" y="-509.6"/>
+	
+  
+	<deathwall height="-27.75" width="-19.100000000000023" x="453.35" y="-483.05"/>
+	
+  
+	<deathwall height="-17.899999999999977" width="-120.89999999999998" x="436.7" y="-555.4"/>
+	
+  
+	<deathwall height="39.44999999999993" width="10.449999999999989" x="468.8" y="-573.9"/>
+	
+  
+	<deathwall height="-120.29999999999995" width="-25.299999999999955" x="487.9" y="-546.75"/>
+	
+  
+	<deathwall height="-17.25" width="-62.94999999999999" x="466.95" y="-668.3"/>
+	
+  
+	<deathwall height="-19.149999999999977" width="-20.349999999999966" x="484.2" y="-662.1"/>
+	
+  
+	<deathwall height="48.10000000000002" width="14.800000000000011" x="404.65" y="-673.2"/>
+	
+  
+	<deathwall height="-51.200000000000045" width="-22.200000000000045" x="339.85" y="-575.75"/>
+	
+  
+	<deathwall height="64.79999999999995" width="13.599999999999966" x="362.05" y="-481.4"/>
+	
+  
+	<deathwall height="16.049999999999955" width="-64.14999999999998" x="361.45" y="-507.9"/>
+	
+  
+	<boostfruit x="20.35" y="-396.05"/>
+	
+  
+	<boostfruit x="36.4" y="-421.95"/>
+	
+  
+	<boostfruit x="52.4" y="-399.1"/>
+	
+  
+	<track height="-11.100000000000023" width="-188.75" x="335.55" y="-528.65"/>
+	
+  
+	<trackblade x="321.35" y="-533.6"/>
+	
+  
+	<deathwall height="11.699999999999932" width="39.5" x="286.8" y="-631.05"/>
+	
+  
+	<deathwall height="11.100000000000023" width="-25.899999999999977" x="354.65" y="-632.9"/>
+	
+  
+	<deathwall height="-19.75" width="-35.150000000000034" x="378.1" y="-616.25"/>
+	
+  
+	<deathwall height="16" width="-17.25" x="292.35" y="-635.35"/>
+	
+  
+	<wall height="-43.799999999999955" width="86.35000000000002" x="281.9" y="-633.6"/>
+	
+  
+	<deathwall height="-22.84999999999991" width="107.30000000000001" x="271.4" y="-624.95"/>
+	
+  
+	<deathwall height="29.600000000000023" width="11.699999999999989" x="367" y="-676.15"/>
+	
+  
+	<bossactivate explode="no" height="-398.4999999999999" hp="6" width="-499" x="499" y="-881.1"/>
+	
+  
+	<wall height="-100.55000000000007" width="49.35" x="0.6" y="-580.65"/>
+	
+  
+	<wall height="50.60000000000002" width="-399.7" x="399.7" y="-880.45"/>
+	
+  
+	<wall height="-55.5" width="400.95" x="-0.65" y="-820.6"/>
+	
+  
+	<wall height="-147.44999999999993" width="199.85" x="0.6" y="-676.85"/>
+	
+  
+	<wall height="-59.200000000000045" width="397.85" x="-1.25" y="-813.8"/>
+	
+  
+	<boostfruit x="38.85" y="-464.2"/>
+	
+  
+	<boostfruit x="40.7" y="-518.45"/>
+	
+  
+	<boostfruit x="85.7" y="-568.45"/>
+	
+  
+	<boostfruit x="121.5" y="-603.6"/>
+	
+  
+	<boostfruit x="175.8" y="-656"/>
+	
+  
+	<boostfruit x="223.9" y="-654.8"/>
+	
+  
+	<boostfruit x="228.2" y="-705.35"/>
+	
+  
+	<boostfruit x="284.35" y="-711.55"/>
+	
+  
+	<boostfruit x="325.05" y="-692.4"/>
+	
+  
+	<boostfruit x="355.9" y="-731.9"/>
+	
+  
+	<boostfruit x="391.7" y="-762.75"/>
+	
+  
+	<boostfruit x="446.6" y="-770.15"/>
+	
+  
+	<boostfruit x="449.05" y="-830.6"/>
+	
+  
+	<boostfruit x="449.65" y="-881.65"/>
+	
+  
+	<boostfruit x="398.45" y="-929.15"/>
+	
+  
+	<boostfruit x="352.2" y="-898.3"/>
+	
+  
+	<wall height="-63.55000000000007" width="-158.5" x="197.35" y="-958.3"/>
+	
+  
+	<wall height="-83.84999999999991" width="156.1" x="250.4" y="-1061.95"/>
+	
+  
+	<wall height="-86.95000000000005" width="-175.20000000000002" x="193.05" y="-1197.8"/>
+	
+  
+	<wall height="-88.20000000000005" width="158.55" x="294.2" y="-1341.05"/>
+	
+  
+	<deathwall height="-30.800000000000182" width="-197.4" x="198" y="-1410.85"/>
+	
+  
+	<deathwall height="-192.5" width="50.55" x="1.85" y="-1441.65"/>
+	
+  
+	<deathwall height="36.40000000000009" width="247.35000000000002" x="3.7" y="-1637.2"/>
+	
+  
+	<wall height="41.30000000000018" width="93.14999999999998" x="201.05" y="-1442.9"/>
+	
+  
+	<goal height="-164.10000000000014" width="149.3" x="50.55" y="-1437.35"/>
+	
+  
+	<textfield text="Victor:Hey wait before you go there ill like to thank this person who gave me this idea" x="458.2" y="-1575.5"/>
+	
+  
+	<textfield text="Gave me this idea" x="452.15" y="-1505.9"/>
+	
+  
+	<textfield text="HighMan he gave me some of these ideas" x="454" y="-1447.2"/>
+	
+  
+	<boostfruit x="359" y="-1151.8"/>
+	
+  
+	<boostfruit x="362.05" y="-1178.9"/>
+	
+  
+	<boostfruit x="360.85" y="-1206.05"/>
+	
+  
+	<boostfruit x="365.75" y="-1240.6"/>
+	
+  
+	<boostfruit x="369.45" y="-1288.1"/>
+	
+  
+	<boostfruit x="433.6" y="-1309.7"/>
+	
+  
+	<boostfruit x="412.05" y="-1301.65"/>
+	
+  
+	<boostfruit x="460.15" y="-1317.1"/>
+	
+  
+	<boostfruit x="465.7" y="-1344.85"/>
+	
+  
+	<boostfruit x="465.7" y="-1370.15"/>
+	
+  
+	<boostfruit x="471.25" y="-1405.9"/>
+	
+  
+	<boostfruit x="464.45" y="-1428.75"/>
+	
+  
+	<boostfruit x="442.25" y="-1452.2"/>
+	
+  
+	<boostfruit x="161.6" y="-1072.2"/>
+	
+
+</level>

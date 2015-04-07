@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<level author="yuu" bg="1" name="folo">
+	
+  
+	<wall height="51" width="98" x="201" y="271"/>
+	
+  
+	<wall height="52" width="99" x="301" y="218"/>
+	
+  
+	<trackwall height="50" width="100" x="400" y="222"/>
+	
+  
+	<track height="183" width="45" x="402" y="80"/>
+	
+  
+	<wall height="54" width="51" x="349" y="66"/>
+	
+  
+	<deathwall height="51" width="100" x="252" y="70"/>
+	
+  
+	<wall height="54" width="49" x="200" y="67"/>
+	
+  
+	<wall height="29" width="103" x="249" y="122"/>
+	
+  
+	<boost height="151" width="49" x="200" y="-81"/>
+	
+  
+	<goal height="51" width="51" x="199" y="-133"/>
+	
+  
+	<textfield text=" kfhgjls" x="155" y="198"/>
+	
+  
+	<wall height="19" width="16" x="335" y="52"/>
+	
+  
+	<wall height="15" width="11" x="348" y="62"/>
+	
+
+</level>

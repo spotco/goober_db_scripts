@@ -1,0 +1,170 @@
+<?xml version="1.0" ?>
+<level author="super" bg="1" name="amelija">
+	
+  
+	<wall height="50" width="498" x="1" y="320"/>
+	
+  
+	<wall height="149" width="-48" x="499" y="170"/>
+	
+  
+	<wall height="62" width="72" x="301" y="119"/>
+	
+  
+	<wall height="29" width="102" x="137" y="48"/>
+	
+  
+	<boostfruit x="92" y="-25"/>
+	
+  
+	<boostfruit x="160" y="-75"/>
+	
+  
+	<boostfruit x="89" y="-119"/>
+	
+  
+	<boostfruit x="182" y="-139"/>
+	
+  
+	<boostfruit x="230" y="-63"/>
+	
+  
+	<boostfruit x="288" y="-98"/>
+	
+  
+	<boostfruit x="350" y="-113"/>
+	
+  
+	<boostfruit x="342" y="-180"/>
+	
+  
+	<boostfruit x="271" y="-152"/>
+	
+  
+	<boostfruit x="143" y="-209"/>
+	
+  
+	<boostfruit x="227" y="-220"/>
+	
+  
+	<boost height="130" width="251" x="116" y="-402"/>
+	
+  
+	<deathwall height="67" width="60" x="26" y="-492"/>
+	
+  
+	<deathwall height="63" width="77" x="401" y="-478"/>
+	
+  
+	<deathwall height="71" width="65" x="411" y="-582"/>
+	
+  
+	<deathwall height="99" width="51" x="29" y="-623"/>
+	
+  
+	<laserlauncher dir="3" x="113" y="-587"/>
+	
+  
+	<boostfruit x="149" y="-471"/>
+	
+  
+	<boostfruit x="189" y="-457"/>
+	
+  
+	<boostfruit x="309" y="-472"/>
+	
+  
+	<boostfruit x="365" y="-475"/>
+	
+  
+	<boostfruit x="175" y="-490"/>
+	
+  
+	<boostfruit x="197" y="-500"/>
+	
+  
+	<wall height="73" width="40" x="225" y="-543"/>
+	
+  
+	<wall height="50" width="35" x="216" y="-683"/>
+	
+  
+	<wall height="35" width="25" x="219" y="-614"/>
+	
+  
+	<wall height="37" width="24" x="352" y="-644"/>
+	
+  
+	<wall height="51" width="28" x="338" y="-582"/>
+	
+  
+	<boostfruit x="284" y="-562"/>
+	
+  
+	<boostfruit x="303" y="-529"/>
+	
+  
+	<boostfruit x="327" y="-613"/>
+	
+  
+	<boostfruit x="282" y="-629"/>
+	
+  
+	<boostfruit x="314" y="-680"/>
+	
+  
+	<boostfruit x="248" y="-744"/>
+	
+  
+	<boostfruit x="318" y="-741"/>
+	
+  
+	<boostfruit x="360" y="-725"/>
+	
+  
+	<boostfruit x="168" y="-705"/>
+	
+  
+	<boostfruit x="136" y="-683"/>
+	
+  
+	<boostfruit x="67" y="-763"/>
+	
+  
+	<boostfruit x="175" y="-630"/>
+	
+  
+	<boostfruit x="189" y="-595"/>
+	
+  
+	<boostfruit x="177" y="-540"/>
+	
+  
+	<boostfruit x="204" y="-778"/>
+	
+  
+	<boostfruit x="341" y="-797"/>
+	
+  
+	<boostfruit x="280" y="-859"/>
+	
+  
+	<boostfruit x="150" y="-829"/>
+	
+  
+	<wall height="96" width="37" x="216" y="-924"/>
+	
+  
+	<goal height="138" width="96" x="358" y="-978"/>
+	
+  
+	<trackblade x="447" y="-55"/>
+	
+  
+	<trackblade x="47" y="-833"/>
+	
+  
+	<trackblade x="297" y="-1029"/>
+	
+
+</level>

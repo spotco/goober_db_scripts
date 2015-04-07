@@ -1,0 +1,191 @@
+<?xml version="1.0" ?>
+<level author="ggfggf" bg="1" name="gfdrdf">
+	
+  
+	<wall height="29" width="31" x="303" y="370"/>
+	
+  
+	<wall height="16" width="29" x="134" y="381"/>
+	
+  
+	<wall height="26" width="49" x="231" y="418"/>
+	
+  
+	<wall height="15" width="16" x="207" y="399"/>
+	
+  
+	<wall height="20" width="12" x="174" y="355"/>
+	
+  
+	<wall height="20" width="13" x="134" y="341"/>
+	
+  
+	<wall height="19" width="10" x="102" y="328"/>
+	
+  
+	<wall height="14" width="15" x="115" y="332"/>
+	
+  
+	<wall height="18" width="14" x="125" y="368"/>
+	
+  
+	<wall height="18" width="19" x="107" y="390"/>
+	
+  
+	<wall height="27" width="42" x="166" y="424"/>
+	
+  
+	<wall height="10" width="12" x="169" y="393"/>
+	
+  
+	<wall height="11" width="17" x="255" y="397"/>
+	
+  
+	<boostfruit x="122" y="142"/>
+	
+  
+	<boostfruit x="295" y="195"/>
+	
+  
+	<boostfruit x="378" y="292"/>
+	
+  
+	<boostfruit x="258" y="316"/>
+	
+  
+	<boostfruit x="157" y="295"/>
+	
+  
+	<boostfruit x="89" y="267"/>
+	
+  
+	<boostfruit x="32" y="222"/>
+	
+  
+	<boostfruit x="71" y="196"/>
+	
+  
+	<boostfruit x="159" y="187"/>
+	
+  
+	<boostfruit x="197" y="174"/>
+	
+  
+	<boostfruit x="251" y="192"/>
+	
+  
+	<boostfruit x="239" y="225"/>
+	
+  
+	<boostfruit x="215" y="248"/>
+	
+  
+	<boostfruit x="168" y="275"/>
+	
+  
+	<boostfruit x="131" y="236"/>
+	
+  
+	<boostfruit x="279" y="-98"/>
+	
+  
+	<boostfruit x="184" y="123"/>
+	
+  
+	<boostfruit x="184" y="-447"/>
+	
+  
+	<rocketlauncher x="78" y="-614"/>
+	
+  
+	<rocketlauncher x="123" y="-639"/>
+	
+  
+	<rocketlauncher x="176" y="-626"/>
+	
+  
+	<rocketlauncher x="139" y="-628"/>
+	
+  
+	<rocketlauncher x="84" y="-624"/>
+	
+  
+	<rocketlauncher x="74" y="-624"/>
+	
+  
+	<rocketlauncher x="72" y="-623"/>
+	
+  
+	<rocketlauncher x="72" y="-623"/>
+	
+  
+	<rocketlauncher x="116" y="-623"/>
+	
+  
+	<rocketlauncher x="116" y="-623"/>
+	
+  
+	<rocketlauncher x="162" y="-622"/>
+	
+  
+	<rocketlauncher x="198" y="-616"/>
+	
+  
+	<wall height="37" width="192" x="251" y="-407"/>
+	
+  
+	<wall height="155" width="141" x="378" y="-544"/>
+	
+  
+	<wall height="32" width="41" x="246" y="-596"/>
+	
+  
+	<wall height="63" width="137" x="118" y="-753"/>
+	
+  
+	<wall height="-34" width="-79" x="62" y="-756"/>
+	
+  
+	<wall height="21" width="102" x="181" y="-341"/>
+	
+  
+	<wall height="14" width="19" x="254" y="-535"/>
+	
+  
+	<wall height="26" width="17" x="281" y="-569"/>
+	
+  
+	<wall height="38" width="24" x="256" y="-672"/>
+	
+  
+	<boost height="-54" width="59" x="32" y="-827"/>
+	
+  
+	<boost height="-21" width="38" x="122" y="-899"/>
+	
+  
+	<boost height="29" width="19" x="74" y="-982"/>
+	
+  
+	<boost height="18" width="27" x="128" y="-996"/>
+	
+  
+	<boost height="16" width="17" x="28" y="-954"/>
+	
+  
+	<boost height="48" width="63" x="333" y="-1073"/>
+	
+  
+	<boost height="164" width="101" x="190" y="-1065"/>
+	
+  
+	<boost height="108" width="142" x="7" y="-1118"/>
+	
+  
+	<boost height="22" width="22" x="180" y="-1100"/>
+	
+  
+	<goal height="81" width="-244" x="249" y="-1260"/>
+	
+
+</level>

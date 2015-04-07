@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<level author="dawdwsa" bg="1" name="Hovky">
+	
+  
+	<wall height="19" width="336" x="85" y="467"/>
+	
+  
+	<wall height="-185" width="28" x="388" y="465"/>
+	
+  
+	<wall height="-186" width="29" x="306" y="330"/>
+	
+  
+	<activatetrackwall height="-111" width="42" x="412" y="131"/>
+	
+  
+	<activatetrackwall height="66" width="58" x="199" y="-49"/>
+	
+  
+	<activatetrackwall height="-55" width="25" x="337" y="-54"/>
+	
+  
+	<activatetrackwall height="-37" width="37" x="197" y="-141"/>
+	
+  
+	<activatetrackwall height="-58" width="104" x="376" y="-152"/>
+	
+  
+	<goal height="90" width="63" x="393" y="-310"/>
+	
+  
+	<goal height="-29" width="-26" x="416" y="-272"/>
+	
+  
+	<goal height="85" width="24" x="419" y="-295"/>
+	
+  
+	<goal height="15" width="-45" x="460" y="-265"/>
+	
+  
+	<goal height="42" width="-38" x="443" y="-294"/>
+	
+  
+	<goal height="34" width="-16" x="436" y="-299"/>
+	
+  
+	<goal height="33" width="-13" x="416" y="-280"/>
+	
+  
+	<goal height="10" width="42" x="408" y="-255"/>
+	
+  
+	<goal height="-15" width="-31" x="459" y="-252"/>
+	
+  
+	<goal height="26" width="11" x="413" y="-298"/>
+	
+
+</level>

@@ -1,0 +1,389 @@
+<?xml version="1.0" ?>
+<level author="Aziz" bg="1" name="Lagi4">
+	
+  
+	<activatetrackwall height="-48.35000000000002" width="107.00000000000003" x="196.6" y="321.8"/>
+	
+  
+	<flowerboss y="517.75"/>
+	
+  
+	<flowerboss y="517.75"/>
+	
+  
+	<flowerboss y="517.75"/>
+	
+  
+	<flowerboss y="517.75"/>
+	
+  
+	<flowerboss y="517.75"/>
+	
+  
+	<flowerboss y="517.75"/>
+	
+  
+	<flowerboss y="517.75"/>
+	
+  
+	<flowerboss y="517.75"/>
+	
+  
+	<flowerboss y="517.75"/>
+	
+  
+	<flowerboss y="517.75"/>
+	
+  
+	<flowerboss y="517.75"/>
+	
+  
+	<flowerboss y="517.75"/>
+	
+  
+	<flowerboss y="517.75"/>
+	
+  
+	<flowerboss y="517.75"/>
+	
+  
+	<flowerboss y="517.75"/>
+	
+  
+	<flowerboss y="517.75"/>
+	
+  
+	<flowerboss y="517.75"/>
+	
+  
+	<flowerboss y="517.75"/>
+	
+  
+	<flowerboss y="517.75"/>
+	
+  
+	<flowerboss y="517.75"/>
+	
+  
+	<flowerboss y="517.75"/>
+	
+  
+	<flowerboss y="517.75"/>
+	
+  
+	<flowerboss y="517.75"/>
+	
+  
+	<flowerboss y="517.75"/>
+	
+  
+	<flowerboss y="517.75"/>
+	
+  
+	<flowerboss y="517.75"/>
+	
+  
+	<flowerboss y="517.75"/>
+	
+  
+	<flowerboss y="517.75"/>
+	
+  
+	<flowerboss y="517.75"/>
+	
+  
+	<flowerboss y="517.75"/>
+	
+  
+	<flowerboss y="517.75"/>
+	
+  
+	<flowerboss y="517.75"/>
+	
+  
+	<flowerboss y="493.15"/>
+	
+  
+	<flowerboss y="498.15"/>
+	
+  
+	<flowerboss y="498.15"/>
+	
+  
+	<flowerboss y="513.15"/>
+	
+  
+	<flowerboss y="523.15"/>
+	
+  
+	<flowerboss y="543.15"/>
+	
+  
+	<flowerboss y="563.15"/>
+	
+  
+	<flowerboss y="573.15"/>
+	
+  
+	<flowerboss y="578.15"/>
+	
+  
+	<flowerboss y="588.15"/>
+	
+  
+	<flowerboss y="603.15"/>
+	
+  
+	<flowerboss y="613.15"/>
+	
+  
+	<flowerboss y="623.15"/>
+	
+  
+	<flowerboss y="633.15"/>
+	
+  
+	<flowerboss y="648.15"/>
+	
+  
+	<flowerboss y="658.15"/>
+	
+  
+	<flowerboss y="668.15"/>
+	
+  
+	<flowerboss y="678.15"/>
+	
+  
+	<flowerboss y="688.15"/>
+	
+  
+	<flowerboss y="688.15"/>
+	
+  
+	<flowerboss y="688.95"/>
+	
+  
+	<flowerboss y="678.95"/>
+	
+  
+	<flowerboss y="668.95"/>
+	
+  
+	<flowerboss y="658.95"/>
+	
+  
+	<flowerboss y="643.95"/>
+	
+  
+	<flowerboss y="633.95"/>
+	
+  
+	<flowerboss y="623.95"/>
+	
+  
+	<flowerboss y="613.95"/>
+	
+  
+	<flowerboss y="603.95"/>
+	
+  
+	<flowerboss y="593.95"/>
+	
+  
+	<flowerboss y="583.95"/>
+	
+  
+	<flowerboss y="573.95"/>
+	
+  
+	<flowerboss y="553.95"/>
+	
+  
+	<flowerboss y="543.95"/>
+	
+  
+	<flowerboss y="533.95"/>
+	
+  
+	<flowerboss y="518.95"/>
+	
+  
+	<flowerboss y="503.95"/>
+	
+  
+	<flowerboss y="483.95"/>
+	
+  
+	<flowerboss y="468.95"/>
+	
+  
+	<flowerboss y="468.95"/>
+	
+  
+	<flowerboss y="468.95"/>
+	
+  
+	<flowerboss y="478.95"/>
+	
+  
+	<flowerboss y="488.95"/>
+	
+  
+	<flowerboss y="498.95"/>
+	
+  
+	<flowerboss y="518.95"/>
+	
+  
+	<flowerboss y="528.95"/>
+	
+  
+	<flowerboss y="538.95"/>
+	
+  
+	<flowerboss y="548.95"/>
+	
+  
+	<flowerboss y="558.95"/>
+	
+  
+	<flowerboss y="568.95"/>
+	
+  
+	<flowerboss y="578.95"/>
+	
+  
+	<flowerboss y="583.95"/>
+	
+  
+	<flowerboss y="598.95"/>
+	
+  
+	<flowerboss y="603.95"/>
+	
+  
+	<flowerboss y="603.95"/>
+	
+  
+	<flowerboss y="603.95"/>
+	
+  
+	<flowerboss y="593.95"/>
+	
+  
+	<flowerboss y="588.95"/>
+	
+  
+	<flowerboss y="578.95"/>
+	
+  
+	<flowerboss y="568.15"/>
+	
+  
+	<flowerboss y="558.15"/>
+	
+  
+	<flowerboss y="544.2"/>
+	
+  
+	<flowerboss y="534.2"/>
+	
+  
+	<flowerboss y="523.4"/>
+	
+  
+	<flowerboss y="513.4"/>
+	
+  
+	<flowerboss y="503.4"/>
+	
+  
+	<flowerboss y="490.5"/>
+	
+  
+	<flowerboss y="475.5"/>
+	
+  
+	<flowerboss y="465.5"/>
+	
+  
+	<textfield text="Hello my name is Aziz and you must run!" x="303.55" y="49.85"/>
+	
+  
+	<goal height="-49.89999999999998" width="51.5" x="49.95" y="-229.60000000000002"/>
+	
+  
+	<trackwall height="-53.10000000000002" width="151.4" x="0" y="-177.25"/>
+	
+  
+	<trackwall height="-99.09999999999997" width="48.35" x="0.8" y="-230.35000000000002"/>
+	
+  
+	<trackwall height="-96.69999999999999" width="49.150000000000006" x="99.9" y="-232.75"/>
+	
+  
+	<trackwall height="48.349999999999994" width="51.550000000000004" x="48.4" y="-328.8"/>
+	
+  
+	<activatetrackwall height="-50.69999999999999" width="198.95" x="300.45" y="-279.05"/>
+	
+  
+	<trackwall height="-49.89999999999998" width="-300.45000000000005" x="298.85" y="-581.25"/>
+	
+  
+	<trackwall height="-244.1500000000001" width="51.5" x="-2.35" y="-633.55"/>
+	
+  
+	<trackwall height="-248.14999999999998" width="49.150000000000034" x="249.7" y="-631.15"/>
+	
+  
+	<trackwall height="-48.35000000000002" width="203.7" x="49.95" y="-829.35"/>
+	
+  
+	<boost height="-50.75" width="49.150000000000006" x="50.75" y="-778.6"/>
+	
+  
+	<boost height="-46.75" width="47.60000000000002" x="198.95" y="-780.2"/>
+	
+  
+	<boost height="-47.55000000000007" width="53.1" x="48.35" y="-633.55"/>
+	
+  
+	<boost height="-46" width="48.349999999999994" x="199.75" y="-632.75"/>
+	
+  
+	<boost height="-50.75" width="101.44999999999999" x="99.9" y="-679.5"/>
+	
+  
+	<activatetrackwall height="-95.14999999999998" width="49.949999999999996" x="49.15" y="-681.1"/>
+	
+  
+	<activatetrackwall height="-97.5" width="45.95000000000002" x="201.35" y="-681.9"/>
+	
+  
+	<activatetrackwall height="-48.35000000000002" width="101.45000000000002" x="99.1" y="-731.05"/>
+	
+  
+	<activatetrackwall height="-49.14999999999998" width="97.49999999999999" x="100.7" y="-778.6"/>
+	
+  
+	<activatetrackwall height="-44.39999999999998" width="97.49999999999999" x="100.7" y="-632.75"/>
+	
+  
+	<textfield text="This pumpkin" x="650.8" y="-1069.75"/>
+	
+  
+	<textfield text="World 3 Boss" x="-458.2" y="-2290"/>
+	
+  
+	<textfield text="And this a giraffe" x="-545.35" y="-2823.6"/>
+	
+  
+	<goal height="57.900000000000006" width="57.099999999999966" x="361.35" y="-694.5"/>
+	
+  
+	<textfield text="Poka-while" x="347.9" y="-617.1"/>
+	
+
+</level>

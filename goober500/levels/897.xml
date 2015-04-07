@@ -1,0 +1,278 @@
+<?xml version="1.0" ?>
+<level author="kambo" bg="1" name="djkambo">
+	
+  
+	<wall height="36" width="556" x="2" y="327"/>
+	
+  
+	<trackwall height="12" width="194" x="28" y="174"/>
+	
+  
+	<track height="464" width="22" x="206" y="-157"/>
+	
+  
+	<track height="-455" width="-37" x="71" y="290"/>
+	
+  
+	<wall height="433" width="13" x="218" y="-195"/>
+	
+  
+	<wall height="410" width="13" x="34" y="-72"/>
+	
+  
+	<wall height="160" width="21" x="33" y="-223"/>
+	
+  
+	<textfield text="yo yo yo the levator iz for cool peps yo! word to da bird! squak!" x="300" y="11"/>
+	
+  
+	<textfield text="yo hey der iz dj kambo in da hous!" x="286" y="-386"/>
+	
+  
+	<textfield text="here is ma new rap solo!" x="98" y="-471"/>
+	
+  
+	<textfield text="yo i iz kambo an i doze wat i wants cuz a wannto!" x="294" y="-671"/>
+	
+  
+	<textfield text="yo yo word fresh!" x="184" y="-766"/>
+	
+  
+	<textfield text="blaaaaaaaaa lalalalallalalalalalalalalalalal!!!!!!!!!!!!!" x="157" y="-619"/>
+	
+  
+	<textfield text="iz da disco partay!" x="256" y="-946"/>
+	
+  
+	<textfield text="kammmbooo!!!!!!!!yo!!!!!!!!!!!" x="163" y="-1139"/>
+	
+  
+	<trackwall height="37" width="196" x="328" y="-274"/>
+	
+  
+	<trackwall height="18" width="44" x="354" y="-286"/>
+	
+  
+	<trackwall height="16" width="35" x="415" y="-284"/>
+	
+  
+	<trackblade x="24" y="-351"/>
+	
+  
+	<trackblade x="51" y="-351"/>
+	
+  
+	<trackblade x="57" y="-347"/>
+	
+  
+	<trackblade x="68" y="-347"/>
+	
+  
+	<trackblade x="64" y="-351"/>
+	
+  
+	<trackblade x="41" y="-353"/>
+	
+  
+	<trackblade x="34" y="-352"/>
+	
+  
+	<trackblade x="46" y="-348"/>
+	
+  
+	<trackblade x="85" y="-353"/>
+	
+  
+	<trackblade x="91" y="-353"/>
+	
+  
+	<trackblade x="98" y="-353"/>
+	
+  
+	<trackblade x="107" y="-353"/>
+	
+  
+	<trackblade x="110" y="-353"/>
+	
+  
+	<trackblade x="110" y="-353"/>
+	
+  
+	<trackblade x="110" y="-353"/>
+	
+  
+	<track height="74" width="371" x="8" y="-362"/>
+	
+  
+	<track height="92" width="359" x="12" y="-367"/>
+	
+  
+	<track height="94" width="332" x="19" y="-360"/>
+	
+  
+	<track height="98" width="354" x="32" y="-357"/>
+	
+  
+	<trackwall height="62" width="107" x="23" y="-536"/>
+	
+  
+	<trackwall height="20" width="119" x="129" y="-495"/>
+	
+  
+	<trackwall height="45" width="61" x="248" y="-480"/>
+	
+  
+	<trackwall height="20" width="28" x="284" y="-435"/>
+	
+  
+	<trackwall height="276" width="21" x="45" y="-841"/>
+	
+  
+	<boost height="43" width="445" x="24" y="-1046"/>
+	
+  
+	<trackblade x="65" y="-1187"/>
+	
+  
+	<trackblade x="40" y="-1186"/>
+	
+  
+	<track height="62" width="379" x="27" y="-1199"/>
+	
+  
+	<track height="64" width="495" x="23" y="-1192"/>
+	
+  
+	<track height="53" width="394" x="27" y="-1189"/>
+	
+  
+	<boost height="35" width="40" x="38" y="-1004"/>
+	
+  
+	<track height="-456" width="-39" x="202" y="325"/>
+	
+  
+	<trackwall height="100" width="199" x="13" y="-1331"/>
+	
+  
+	<trackwall height="310" width="17" x="15" y="-1632"/>
+	
+  
+	<trackwall height="43" width="395" x="30" y="-1641"/>
+	
+  
+	<boost height="18" width="414" x="36" y="-1591"/>
+	
+  
+	<boost height="70" width="22" x="426" y="-1646"/>
+	
+  
+	<boost height="47" width="49" x="17" y="-1685"/>
+	
+  
+	<boost height="34" width="64" x="75" y="-1716"/>
+	
+  
+	<boost height="38" width="54" x="142" y="-1677"/>
+	
+  
+	<boost height="37" width="56" x="194" y="-1719"/>
+	
+  
+	<boost height="46" width="49" x="248" y="-1685"/>
+	
+  
+	<boost height="45" width="49" x="301" y="-1730"/>
+	
+  
+	<boost height="44" width="39" x="355" y="-1683"/>
+	
+  
+	<boost height="36" width="41" x="406" y="-1722"/>
+	
+  
+	<trackwall height="34" width="78" x="61" y="-1678"/>
+	
+  
+	<trackwall height="34" width="57" x="139" y="-1714"/>
+	
+  
+	<trackwall height="46" width="51" x="197" y="-1680"/>
+	
+  
+	<trackwall height="41" width="54" x="253" y="-1729"/>
+	
+  
+	<trackwall height="49" width="64" x="297" y="-1684"/>
+	
+  
+	<trackwall height="35" width="51" x="346" y="-1724"/>
+	
+  
+	<trackwall height="42" width="17" x="402" y="-1683"/>
+	
+  
+	<trackwall height="42" width="68" x="10" y="-1727"/>
+	
+  
+	<laserlauncher dir="3" x="45" y="-1965"/>
+	
+  
+	<laserlauncher dir="3" x="113" y="-1971"/>
+	
+  
+	<laserlauncher dir="3" x="203" y="-1972"/>
+	
+  
+	<trackwall height="17" width="129" x="361" y="-1902"/>
+	
+  
+	<trackwall height="132" width="11" x="483" y="-1891"/>
+	
+  
+	<trackwall height="95" width="15" x="363" y="-1886"/>
+	
+  
+	<trackwall height="24" width="115" x="372" y="-1803"/>
+	
+  
+	<textfield text="dis da juice bar" x="282" y="-1915"/>
+	
+  
+	<trackwall height="82" width="250" x="42" y="-2116"/>
+	
+  
+	<trackwall height="57" width="26" x="281" y="-2043"/>
+	
+  
+	<trackwall height="26" width="15" x="288" y="-1988"/>
+	
+  
+	<goal height="64" width="234" x="52" y="-2175"/>
+	
+  
+	<textfield text="kambo kambo kambo ahhhh!!!! green stuff!!!! ahhhh!" x="333" y="-2104"/>
+	
+  
+	<textfield text="it a partay!" x="200" y="-1790"/>
+	
+  
+	<boost height="53" width="245" x="149" y="-1191"/>
+	
+  
+	<boost height="58" width="241" x="188" y="-1087"/>
+	
+  
+	<boost height="119" width="169" x="338" y="-1164"/>
+	
+  
+	<boost height="21" width="193" x="26" y="-1227"/>
+	
+  
+	<boost height="93" width="108" x="18" y="-1164"/>
+	
+  
+	<boost height="65" width="68" x="136" y="-988"/>
+	
+
+</level>

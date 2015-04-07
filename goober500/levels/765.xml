@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="loopa">
+	
+  
+	<boost height="-931" width="404" x="17" y="490"/>
+	
+  
+	<boost height="-894" width="-403" x="419" y="-446"/>
+	
+  
+	<cloudboss/>
+	
+  
+	<flowerboss y="632"/>
+	
+  
+	<goal height="177" width="570" x="-50" y="-2722"/>
+	
+  
+	<boost height="-755" width="408" x="15" y="-1344"/>
+	
+  
+	<boost height="-419" width="-407" x="424" y="-2108"/>
+	
+
+</level>

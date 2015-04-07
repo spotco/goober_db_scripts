@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<level author="roy" bg="1" name="troy">
+	
+  
+	<wall height="49" width="102" x="199" y="270"/>
+	
+  
+	<wall height="50" width="101" x="299" y="220"/>
+	
+  
+	<wall height="49" width="98" x="401" y="171"/>
+	
+  
+	<wall height="51" width="103" x="299" y="69"/>
+	
+  
+	<wall height="50" width="101" x="199" y="22"/>
+	
+  
+	<wall height="213" width="52" x="100" y="-143"/>
+	
+  
+	<activatetrackwall height="51" width="49" x="151" y="20"/>
+	
+  
+	<goal height="40" width="351" x="152" y="-143"/>
+	
+
+</level>

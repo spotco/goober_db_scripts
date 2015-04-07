@@ -1,0 +1,161 @@
+<?xml version="1.0" ?>
+<level author="lamboe" bg="1" name="hotel1">
+	
+  
+	<wall height="76" width="262" x="61" y="400"/>
+	
+  
+	<wall height="134" width="79" x="71" y="282"/>
+	
+  
+	<wall height="47" width="257" x="126" y="298"/>
+	
+  
+	<wall height="-462" width="-104" x="457" y="453"/>
+	
+  
+	<wall height="-93" width="-371" x="408" y="208"/>
+	
+  
+	<wall height="-36" width="-117" x="56" y="294"/>
+	
+  
+	<textfield text="5starhote;" x="115" y="-52"/>
+	
+  
+	<trackwall height="-29" width="59" x="120" y="120"/>
+	
+  
+	<trackwall height="-54" width="98" x="186" y="112"/>
+	
+  
+	<trackwall height="-67" width="96" x="283" y="89"/>
+	
+  
+	<track height="-855" width="-169" x="377" y="-34"/>
+	
+  
+	<trackwall height="76" width="190" x="126" y="-242"/>
+	
+  
+	<trackwall height="-682" width="-47" x="364" y="-138"/>
+	
+  
+	<trackwall height="-796" width="55" x="69" y="-145"/>
+	
+  
+	<trackwall height="-59" width="-336" x="117" y="-930"/>
+	
+  
+	<trackwall height="-76" width="330" x="317" y="-817"/>
+	
+  
+	<wall height="53" width="107" x="304" y="-962"/>
+	
+  
+	<wall height="-84" width="-68" x="163" y="-1005"/>
+	
+  
+	<wall height="32" width="170" x="214" y="-1161"/>
+	
+  
+	<trackwall height="30" width="148" x="376" y="-1310"/>
+	
+  
+	<trackwall height="70" width="-590" x="428" y="-1538"/>
+	
+  
+	<textfield text="here ur room nao play part2" x="131" y="-1723"/>
+	
+  
+	<goal height="47" width="92" x="23" y="-1705"/>
+	
+  
+	<trackwall height="135" width="13" x="58" y="-1670"/>
+	
+  
+	<trackwall height="47" width="157" x="200" y="-1632"/>
+	
+  
+	<trackwall height="62" width="12" x="224" y="-1595"/>
+	
+  
+	<trackwall height="63" width="17" x="312" y="-1599"/>
+	
+  
+	<trackwall height="-85" width="25" x="333" y="-1618"/>
+	
+  
+	<trackwall height="16" width="57" x="112" y="-1632"/>
+	
+  
+	<trackwall height="40" width="14" x="115" y="-1620"/>
+	
+  
+	<trackwall height="17" width="55" x="115" y="-1591"/>
+	
+  
+	<trackwall height="-59" width="-10" x="170" y="-1574"/>
+	
+  
+	<trackwall height="41" width="28" x="135" y="-1576"/>
+	
+  
+	<boost height="31" width="32" x="130" y="-1617"/>
+	
+  
+	<activatetrackwall height="57" width="47" x="42" y="-1597"/>
+	
+  
+	<textfield text="gib 1000 dollaz plz" x="172" y="243"/>
+	
+  
+	<textfield text="*insert ding noise here*" x="251" y="-874"/>
+	
+  
+	<textfield text="fancyphoto up above" x="135" y="-507"/>
+	
+  
+	<textfield text="*elevator music*" x="235" y="-403"/>
+	
+  
+	<trackwall height="14" width="69" x="239" y="-632"/>
+	
+  
+	<trackwall height="100" width="16" x="242" y="-623"/>
+	
+  
+	<trackwall height="14" width="56" x="245" y="-524"/>
+	
+  
+	<trackwall height="-100" width="16" x="300" y="-519"/>
+	
+  
+	<trackwall height="18" width="21" x="272" y="-603"/>
+	
+  
+	<trackwall height="39" width="12" x="278" y="-589"/>
+	
+  
+	<trackwall height="15" width="-18" x="282" y="-575"/>
+	
+  
+	<trackwall height="13" width="23" x="281" y="-572"/>
+	
+  
+	<trackwall height="29" width="10" x="275" y="-552"/>
+	
+  
+	<trackwall height="28" width="10" x="288" y="-552"/>
+	
+  
+	<wall height="73" width="18" x="401" y="-1494"/>
+	
+  
+	<wall height="22" width="235" x="135" y="283"/>
+	
+  
+	<wall height="-37" width="-322" x="393" y="311"/>
+	
+
+</level>

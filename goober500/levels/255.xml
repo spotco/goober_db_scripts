@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<level author="arttec" bg="1" name="arttec">
+	
+  
+	<wall height="55.25" width="127.79999999999998" x="202.6" y="293.6"/>
+	
+  
+	<boost height="-230.75" width="43.35000000000002" x="240.5" y="236.15"/>
+	
+  
+	<boostfruit x="256.75" y="-53.25"/>
+	
+  
+	<boostfruit x="256.75" y="-182.14999999999998"/>
+	
+  
+	<boostfruit x="255.65" y="-331.65"/>
+	
+  
+	<boostfruit x="252.4" y="-483.35"/>
+	
+  
+	<boostfruit x="250.25" y="-641.25"/>
+	
+  
+	<boostfruit x="252.4" y="-785.25"/>
+	
+  
+	<boostfruit x="252.4" y="-940.25"/>
+	
+  
+	<boostfruit x="252.4" y="-1090.25"/>
+	
+  
+	<boostfruit x="252.4" y="-1230.25"/>
+	
+  
+	<boost height="-327.1500000000001" width="94.25000000000003" x="205.85" y="-1383.1"/>
+	
+  
+	<boostfruit x="250.25" y="-1831.75"/>
+	
+  
+	<boostfruit x="252.4" y="-1975.85"/>
+	
+  
+	<boostfruit x="251.35" y="-2126.4"/>
+	
+  
+	<boostfruit x="250.25" y="-2279.5"/>
+	
+  
+	<deathwall height="106.15000000000009" width="158.15" x="61.75" y="-2486.15"/>
+	
+  
+	<deathwall height="97.5" width="169" x="286" y="-2478.6"/>
+	
+  
+	<boostfruit x="249.15" y="-2439.15"/>
+	
+  
+	<boostfruit x="252.4" y="-2601.65"/>
+	
+  
+	<boostfruit x="250.25" y="-2754.4"/>
+	
+  
+	<boostfruit x="249.15" y="-2879"/>
+	
+  
+	<deathwall height="106.15000000000009" width="264.35" x="139.75" y="-3131"/>
+	
+  
+	<boostfruit x="67.15" y="-2997.75"/>
+	
+  
+	<boostfruit x="457.15" y="-2993.4"/>
+	
+  
+	<boostfruit x="450.65" y="-3154.85"/>
+	
+  
+	<boostfruit x="68.25" y="-3164.6"/>
+	
+  
+	<boostfruit x="262.15" y="-3293.5"/>
+	
+  
+	<goal height="81.25" width="94.25000000000003" x="205.85" y="-3494.35"/>
+	
+
+</level>

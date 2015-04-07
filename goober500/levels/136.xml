@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<level author="dfhgfh" bg="1" name="wewds">
+	
+  
+	<wall height="32" width="449" x="50" y="424"/>
+	
+  
+	<wall height="-334" width="-39" x="333" y="363"/>
+	
+  
+	<wall height="-291" width="23" x="225" y="119"/>
+	
+  
+	<wall height="-351" width="-39" x="339" y="-213"/>
+	
+  
+	<wall height="27" width="-153" x="264" y="-618"/>
+	
+  
+	<wall height="30" width="-142" x="169" y="-726"/>
+	
+  
+	<wall height="87" width="19" x="237" y="-750"/>
+	
+  
+	<boost height="243" width="64" x="297" y="-800"/>
+	
+  
+	<boost height="-379" width="60" x="297" y="-800"/>
+	
+  
+	<trackblade x="137" y="-1397"/>
+	
+  
+	<bossactivate explode="no" height="-132" hp="6" width="78" x="119" y="-1138"/>
+	
+  
+	<bossactivate explode="no" height="-326" hp="6" width="97" x="381" y="-1212"/>
+	
+  
+	<boost height="-464" width="60" x="297" y="-1181"/>
+	
+  
+	<goal height="162" width="-94" x="317" y="-2407"/>
+	
+  
+	<textfield text="wes" x="47" y="-2165"/>
+	
+  
+	<activatetrackwall height="16" width="226" x="22" y="-1952"/>
+	
+  
+	<activatetrackwall height="-123" width="84" x="401" y="-1726"/>
+	
+  
+	<activatetrackwall height="-44" width="-186" x="281" y="-1771"/>
+	
+  
+	<activatetrackwall height="-58" width="126" x="365" y="-2028"/>
+	
+  
+	<activatetrackwall height="-25" width="226" x="78" y="-2169"/>
+	
+  
+	<boost height="432" width="49" x="314" y="-2148"/>
+	
+  
+	<boost height="170" width="123" x="273" y="-1739"/>
+	
+  
+	<boost height="310" width="134" x="348" y="-559"/>
+	
+  
+	<boost height="388" width="144" x="348" y="-254"/>
+	
+  
+	<boost height="317" width="152" x="346" y="124"/>
+	
+
+</level>

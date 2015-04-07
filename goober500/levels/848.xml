@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<level author="catpakoo" bg="1" name="whoswithme">
+	
+  
+	<wall height="11" width="385" x="77" y="407"/>
+	
+  
+	<textfield text="oh, and also alpaca is NEVER food racist." x="66" y="-53"/>
+	
+  
+	<textfield text="i am not alpaca's worst enemy, also everyone who's played our levels" x="158" y="202"/>
+	
+  
+	<textfield text="knows we are not like that" x="142" y="276"/>
+	
+  
+	<wall height="198" width="74" x="369" y="215"/>
+	
+  
+	<boostfruit x="302" y="176"/>
+	
+  
+	<boostfruit x="164" y="56"/>
+	
+  
+	<boostfruit x="297" y="-131"/>
+	
+  
+	<boostfruit x="162" y="-185"/>
+	
+  
+	<wall height="-30" width="-131" x="199" y="-135"/>
+	
+  
+	<textfield text="when i say a certain food smells bad, alpaca" x="79" y="-314"/>
+	
+  
+	<textfield text="tells me not to be food racist." x="114" y="-279"/>
+	
+  
+	<wall height="-72" width="79" x="227" y="-199"/>
+	
+  
+	<wall height="-100" width="83" x="314" y="-273"/>
+	
+  
+	<wall height="-106" width="33" x="400" y="-377"/>
+	
+  
+	<goal height="76" width="236" x="199" y="-685"/>
+	
+  
+	<textfield text="last but not least, we don't even know how to put snow and darkness in a level," x="142" y="-482"/>
+	
+  
+	<textfield text="in a level. i love snow and darkness." x="170" y="-438"/>
+	
+
+</level>

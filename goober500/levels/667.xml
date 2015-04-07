@@ -1,0 +1,176 @@
+<?xml version="1.0" ?>
+<level author="peter" bg="2" name="rangers">
+	
+  
+	<wall height="-33" width="279" x="143" y="313"/>
+	
+  
+	<wall height="-63" width="22" x="126" y="251"/>
+	
+  
+	<wall height="-50" width="17" x="204" y="180"/>
+	
+  
+	<wall height="-46" width="17" x="259" y="132"/>
+	
+  
+	<wall height="-64" width="26" x="308" y="94"/>
+	
+  
+	<wall height="-86" width="-246" x="292" y="-29"/>
+	
+  
+	<rocketlauncher x="126" y="-73"/>
+	
+  
+	<wall height="-24" width="80" x="57" y="-64"/>
+	
+  
+	<wall height="-52" width="231" x="5" y="-53"/>
+	
+  
+	<boost height="-252" width="60" x="383" y="95"/>
+	
+  
+	<boost height="-177" width="104" x="360" y="-138"/>
+	
+  
+	<wall height="69" width="-217" x="330" y="-317"/>
+	
+  
+	<wall height="56" width="387" x="89" y="-449"/>
+	
+  
+	<wall height="65" width="26" x="328" y="-311"/>
+	
+  
+	<wall height="52" width="-93" x="92" y="-319"/>
+	
+  
+	<wall height="26" width="38" x="84" y="-314"/>
+	
+  
+	<wall height="-244" width="11" x="5" y="-324"/>
+	
+  
+	<wall height="-77" width="245" x="83" y="-563"/>
+	
+  
+	<track height="24" width="146" x="161" y="-716"/>
+	
+  
+	<track height="24" width="172" x="143" y="-738"/>
+	
+  
+	<track height="33" width="202" x="147" y="-766"/>
+	
+  
+	<track height="16" width="162" x="154" y="-718"/>
+	
+  
+	<track height="-15" width="175" x="111" y="-722"/>
+	
+  
+	<track height="-17" width="147" x="263" y="-727"/>
+	
+  
+	<track height="-11" width="171" x="214" y="-718"/>
+	
+  
+	<track height="17" width="136" x="201" y="-725"/>
+	
+  
+	<track height="104" width="182" x="178" y="-791"/>
+	
+  
+	<trackwall height="89" width="174" x="202" y="-795"/>
+	
+  
+	<boost height="-146" width="-182" x="137" y="-786"/>
+	
+  
+	<boost height="-168" width="117" x="5" y="-932"/>
+	
+  
+	<trackblade x="10" y="-1126"/>
+	
+  
+	<trackblade x="4" y="-1094"/>
+	
+  
+	<trackblade x="10" y="-1083"/>
+	
+  
+	<trackblade x="9" y="-1062"/>
+	
+  
+	<trackblade x="9" y="-1029"/>
+	
+  
+	<trackblade x="8" y="-1011"/>
+	
+  
+	<trackblade x="8" y="-973"/>
+	
+  
+	<trackblade x="9" y="-926"/>
+	
+  
+	<trackblade x="15" y="-894"/>
+	
+  
+	<trackblade x="10" y="-866"/>
+	
+  
+	<trackblade x="56" y="-1120"/>
+	
+  
+	<trackblade x="96" y="-1125"/>
+	
+  
+	<trackblade x="113" y="-1095"/>
+	
+  
+	<trackblade x="118" y="-1059"/>
+	
+  
+	<trackblade x="118" y="-1046"/>
+	
+  
+	<trackblade x="113" y="-1023"/>
+	
+  
+	<trackblade x="115" y="-1009"/>
+	
+  
+	<trackblade x="117" y="-1002"/>
+	
+  
+	<trackblade x="121" y="-984"/>
+	
+  
+	<trackblade x="122" y="-974"/>
+	
+  
+	<trackblade x="122" y="-961"/>
+	
+  
+	<trackblade x="125" y="-940"/>
+	
+  
+	<trackblade x="125" y="-928"/>
+	
+  
+	<trackblade x="125" y="-914"/>
+	
+  
+	<trackblade x="129" y="-900"/>
+	
+  
+	<boost height="-336" width="102" x="391" y="-786"/>
+	
+  
+	<goal height="-26" width="25" x="436" y="-1160"/>
+	
+
+</level>

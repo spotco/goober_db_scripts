@@ -1,0 +1,122 @@
+<?xml version="1.0" ?>
+<level author="lilleguttzor" bg="1" name="flylikeasky">
+	
+  
+	<boost height="96" width="233" x="164" y="276"/>
+	
+  
+	<boost height="153" width="-299" x="437" y="144"/>
+	
+  
+	<boost height="111" width="-310" x="448" y="81"/>
+	
+  
+	<boost height="187" width="-292" x="381" y="-62"/>
+	
+  
+	<boost height="104" width="-159" x="252" y="-128"/>
+	
+  
+	<boost height="146" width="-215" x="391" y="-248"/>
+	
+  
+	<boost height="90" width="-107" x="430" y="-293"/>
+	
+  
+	<boost height="136" width="180" x="176" y="-409"/>
+	
+  
+	<boost height="171" width="-153" x="250" y="-517"/>
+	
+  
+	<boost height="164" width="-364" x="436" y="-628"/>
+	
+  
+	<boost height="176" width="-266" x="406" y="-763"/>
+	
+  
+	<boost height="184" width="-133" x="419" y="-923"/>
+	
+  
+	<boost height="150" width="147" x="158" y="-1049"/>
+	
+  
+	<boost height="133" width="-108" x="362" y="-1016"/>
+	
+  
+	<boost height="117" width="-82" x="323" y="-1109"/>
+	
+  
+	<boost height="157" width="170" x="117" y="-1218"/>
+	
+  
+	<boost height="116" width="-81" x="252" y="-1295"/>
+	
+  
+	<boost height="101" width="-33" x="226" y="-1392"/>
+	
+  
+	<boost height="72" width="-16" x="216" y="-1451"/>
+	
+  
+	<boost height="48" width="91" x="168" y="-1492"/>
+	
+  
+	<boost height="106" width="-87" x="305" y="-1564"/>
+	
+  
+	<boost height="102" width="-286" x="395" y="-1652"/>
+	
+  
+	<boost height="177" width="-382" x="461" y="-1805"/>
+	
+  
+	<boost height="149" width="-434" x="494" y="-1904"/>
+	
+  
+	<boost height="263" width="-340" x="450" y="-2086"/>
+	
+  
+	<boost height="200" width="-150" x="372" y="-2268"/>
+	
+  
+	<boost height="47" width="-49" x="291" y="-2280"/>
+	
+  
+	<boost height="165" width="-215" x="424" y="-2441"/>
+	
+  
+	<boost height="274" width="-174" x="425" y="-2694"/>
+	
+  
+	<boost height="156" width="-101" x="428" y="-2839"/>
+	
+  
+	<wall height="55" width="-144" x="297" y="-2878"/>
+	
+  
+	<boost height="108" width="-146" x="301" y="-3022"/>
+	
+  
+	<boost height="217" width="-355" x="438" y="-3218"/>
+	
+  
+	<boost height="147" width="-381" x="464" y="-3353"/>
+	
+  
+	<boost height="312" width="-421" x="474" y="-3662"/>
+	
+  
+	<boost height="277" width="-354" x="461" y="-3930"/>
+	
+  
+	<boost height="221" width="-295" x="438" y="-4111"/>
+	
+  
+	<boost height="214" width="-283" x="444" y="-4294"/>
+	
+  
+	<goal height="142" width="-443" x="489" y="-4493"/>
+	
+
+</level>

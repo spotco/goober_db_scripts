@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<level author="nemanja" bg="1" name="waskawaskahohoho">
+	
+  
+	<wall height="42" width="456" x="37" y="457"/>
+	
+  
+	<boostfruit x="385" y="336"/>
+	
+  
+	<boostfruit x="168" y="189"/>
+	
+  
+	<deathwall height="349" width="34" x="457" y="69"/>
+	
+  
+	<deathwall height="340" width="35" x="50" y="67"/>
+	
+  
+	<deathwall height="214" width="27" x="466" y="-140"/>
+	
+  
+	<deathwall height="235" width="35" x="51" y="-172"/>
+	
+  
+	<boostfruit x="340" y="60"/>
+	
+  
+	<boost height="157" width="40" x="137" y="-95"/>
+	
+  
+	<deathwall height="162" width="31" x="61" y="-323"/>
+	
+  
+	<wall height="46" width="58" x="421" y="-206"/>
+	
+  
+	<boostfruit x="115" y="-181"/>
+	
+  
+	<wall height="96" width="95" x="249" y="-311"/>
+	
+  
+	<wall height="240" width="26" x="469" y="-463"/>
+	
+  
+	<deathwall height="107" width="21" x="473" y="-568"/>
+	
+  
+	<deathwall height="260" width="41" x="58" y="-573"/>
+	
+  
+	<boostfruit x="298" y="-422"/>
+	
+  
+	<deathwall height="50" width="145" x="71" y="-602"/>
+	
+  
+	<deathwall height="64" width="-161" x="495" y="-604"/>
+	
+  
+	<deathwall height="209" width="-41" x="342" y="-741"/>
+	
+  
+	<boost height="115" width="51" x="159" y="-701"/>
+	
+  
+	<goal height="50" width="75" x="407" y="-663"/>
+	
+  
+	<deathwall height="101" width="30" x="364" y="-703"/>
+	
+  
+	<deathwall height="42" width="78" x="357" y="-736"/>
+	
+  
+	<deathwall height="47" width="35" x="440" y="-729"/>
+	
+  
+	<boostfruit x="277" y="-822"/>
+	
+  
+	<boostfruit x="456" y="-980"/>
+	
+  
+	<boostfruit x="167" y="-1087"/>
+	
+  
+	<goal height="98" width="109" x="326" y="-1263"/>
+	
+
+</level>

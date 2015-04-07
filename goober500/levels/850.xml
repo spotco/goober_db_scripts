@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<level author="peter" bg="1" name="ohyeahimpeter">
+	
+  
+	<wall height="75" width="521" x="2" y="352"/>
+	
+  
+	<textfield text="lol its peter! again!!! hohohohheeeeee" x="169" y="127"/>
+	
+  
+	<textfield text="im so like sorry alpaca an catpakoo!i made a mistake! lets not fight!" x="267" y="-12"/>
+	
+  
+	<textfield text="btw i made the level called devil and booger!" x="126" y="-60"/>
+	
+  
+	<textfield text="i looove boogers!" x="238" y="-178"/>
+	
+  
+	<textfield text="so gross but thats why i love em!" x="182" y="-306"/>
+	
+  
+	<trackwall height="-176" width="-93" x="148" y="354"/>
+	
+  
+	<trackwall height="272" width="71" x="14" y="-91"/>
+	
+  
+	<textfield text="lol lol lol lol i lied a bunch o times!" x="200" y="-421"/>
+	
+  
+	<activatetrackwall height="217" width="79" x="30" y="-272"/>
+	
+  
+	<trackblade x="8" y="-320"/>
+	
+  
+	<activatetrackwall height="80" width="379" x="164" y="-600"/>
+	
+  
+	<goal height="63" width="262" x="240" y="-704"/>
+	
+  
+	<textfield text="i guess alpaca and catpakoo where right i was wrong!" x="110" y="-501"/>
+	
+  
+	<cloudboss/>
+	
+
+</level>

@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="dodgity">
+	
+  
+	<activatetrackwall height="78" width="690" x="5" y="315"/>
+	
+  
+	<activatetrackwall height="83" width="-215" x="223" y="46"/>
+	
+  
+	<activatetrackwall height="108" width="152" x="393" y="112"/>
+	
+  
+	<activatetrackwall height="11" width="16" x="302" y="182"/>
+	
+  
+	<wall height="141" width="45" x="148" y="-358"/>
+	
+  
+	<wall height="75" width="227" x="309" y="-125"/>
+	
+  
+	<deathwall height="26" width="-115" x="114" y="-103"/>
+	
+  
+	<rocketlauncher x="84" y="-223"/>
+	
+  
+	<deathwall height="65" width="324" x="258" y="-563"/>
+	
+  
+	<deathwall height="-60" width="-204" x="144" y="-569"/>
+	
+  
+	<deathwall height="68" width="98" x="168" y="-862"/>
+	
+  
+	<laserlauncher dir="3" x="55" y="-1154"/>
+	
+  
+	<wall height="72" width="34" x="114" y="-1062"/>
+	
+  
+	<wall height="70" width="42" x="115" y="-1251"/>
+	
+  
+	<wall height="57" width="47" x="198" y="-1165"/>
+	
+  
+	<wall height="78" width="52" x="376" y="-1090"/>
+	
+  
+	<wall height="19" width="36" x="264" y="-1244"/>
+	
+  
+	<wall height="52" width="37" x="286" y="-979"/>
+	
+  
+	<wall height="32" width="32" x="427" y="-918"/>
+	
+  
+	<textfield text="you are a good person probably" x="82" y="-1491"/>
+	
+  
+	<bossactivate height="107" hp="6" width="130" x="1" y="-1718"/>
+	
+  
+	<textfield text="as long as you don't touch me, then we'll both be bad" x="55" y="-1743"/>
+	
+  
+	<deathwall height="34" width="119" x="182" y="-1575"/>
+	
+  
+	<deathwall height="70" width="320" x="331" y="-1772"/>
+	
+  
+	<boost height="-419" width="58" x="83" y="-1766"/>
+	
+  
+	<boost height="-480" width="74" x="278" y="-1769"/>
+	
+  
+	<deathwall height="86" width="133" x="20" y="-2261"/>
+	
+  
+	<wall height="68" width="146" x="253" y="-2297"/>
+	
+  
+	<track height="47" width="217" x="259" y="-2189"/>
+	
+  
+	<trackwall height="46" width="139" x="287" y="-2212"/>
+	
+  
+	<deathwall height="64" width="-597" x="398" y="-2521"/>
+	
+  
+	<deathwall height="109" width="29" x="247" y="-2486"/>
+	
+  
+	<deathwall height="79" width="465" x="315" y="-2750"/>
+	
+  
+	<goal height="54" width="346" x="69" y="-2887"/>
+	
+
+</level>

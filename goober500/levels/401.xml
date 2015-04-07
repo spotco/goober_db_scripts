@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<level author="rolp" bg="1" name="rej">
+	
+  
+	<wall height="51" width="100" x="199" y="271"/>
+	
+  
+	<wall height="51" width="98" x="301" y="219"/>
+	
+  
+	<wall height="52" width="99" x="100" y="219"/>
+	
+  
+	<bossactivate explode="no" height="21" hp="6" width="48" x="100" y="170"/>
+	
+  
+	<bossactivate explode="no" height="-18" hp="6" width="41" x="120" y="192"/>
+	
+  
+	<bossactivate explode="no" height="18" hp="6" width="-16" x="139" y="188"/>
+	
+  
+	<bossactivate explode="no" height="60" hp="6" width="29" x="116" y="163"/>
+	
+  
+	<bossactivate explode="no" height="20" hp="6" width="-22" x="153" y="159"/>
+	
+  
+	<bossactivate explode="no" height="-17" hp="6" width="40" x="90" y="217"/>
+	
+  
+	<bossactivate explode="no" height="-17" hp="6" width="46" x="113" y="187"/>
+	
+  
+	<bossactivate explode="no" height="-20" hp="6" width="10" x="122" y="198"/>
+	
+  
+	<bossactivate explode="no" height="-21" hp="6" width="-15" x="145" y="194"/>
+	
+  
+	<trackwall height="52" width="101" x="400" y="219"/>
+	
+  
+	<track height="232" width="99" x="401" y="0"/>
+	
+  
+	<track height="52" width="503" x="3" y="-81"/>
+	
+  
+	<trackblade x="493" y="-77"/>
+	
+  
+	<goal height="41" width="110" x="358" y="-53"/>
+	
+
+</level>

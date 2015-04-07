@@ -1,0 +1,137 @@
+<?xml version="1.0" ?>
+<level author="omar" bg="1" name="level3030688">
+	
+  
+	<activatetrackwall height="121" width="448" x="45" y="369"/>
+	
+  
+	<wall height="103" width="293" x="207" y="-80"/>
+	
+  
+	<wall height="105" width="96" x="52" y="-84"/>
+	
+  
+	<wall height="-42" width="27" x="59" y="46"/>
+	
+  
+	<wall height="45" width="-25" x="50" y="-353"/>
+	
+  
+	<wall height="47" width="250" x="254" y="-125"/>
+	
+  
+	<wall height="49" width="190" x="305" y="-177"/>
+	
+  
+	<wall height="49" width="141" x="358" y="-229"/>
+	
+  
+	<wall height="56" width="119" x="391" y="-285"/>
+	
+  
+	<wall height="45" width="56" x="451" y="-332"/>
+	
+  
+	<wall height="47" width="297" x="50" y="-351"/>
+	
+  
+	<wall height="36" width="246" x="50" y="-381"/>
+	
+  
+	<wall height="50" width="198" x="52" y="-432"/>
+	
+  
+	<wall height="54" width="158" x="45" y="-485"/>
+	
+  
+	<wall height="52" width="109" x="48" y="-533"/>
+	
+  
+	<wall height="52" width="62" x="50" y="-582"/>
+	
+  
+	<wall height="243" width="-13" x="50" y="-582"/>
+	
+  
+	<wall height="44" width="32" x="2" y="-350"/>
+	
+  
+	<deathwall height="13" width="32" x="0" y="-361"/>
+	
+  
+	<deathwall height="216" width="17" x="26" y="-576"/>
+	
+  
+	<deathwall height="298" width="49" x="3" y="-636"/>
+	
+  
+	<boostfruit x="119" y="-596"/>
+	
+  
+	<boostfruit x="127" y="-564"/>
+	
+  
+	<boostfruit x="136" y="-544"/>
+	
+  
+	<boostfruit x="145" y="-544"/>
+	
+  
+	<boostfruit x="149" y="-557"/>
+	
+  
+	<boostfruit x="133" y="-582"/>
+	
+  
+	<boostfruit x="131" y="-581"/>
+	
+  
+	<boostfruit x="133" y="-565"/>
+	
+  
+	<boostfruit x="137" y="-560"/>
+	
+  
+	<boostfruit x="138" y="-564"/>
+	
+  
+	<boostfruit x="143" y="-569"/>
+	
+  
+	<boostfruit x="146" y="-573"/>
+	
+  
+	<boostfruit x="123" y="-573"/>
+	
+  
+	<boostfruit x="122" y="-573"/>
+	
+  
+	<boostfruit x="120" y="-562"/>
+	
+  
+	<boostfruit x="119" y="-552"/>
+	
+  
+	<boostfruit x="119" y="-541"/>
+	
+  
+	<boostfruit x="119" y="-537"/>
+	
+  
+	<boostfruit x="133" y="-540"/>
+	
+  
+	<boostfruit x="156" y="-540"/>
+	
+  
+	<boost height="-496" width="-491" x="492" y="-884"/>
+	
+  
+	<boost height="198" width="285" x="119" y="-1678"/>
+	
+  
+	<goal height="298" width="440" x="50" y="-2075"/>
+	
+
+</level>

@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<level author="ghnjghj" bg="1" name="hgjghjhj">
+	
+  
+	<trackblade x="86" y="406"/>
+	
+  
+	<trackblade x="364" y="390"/>
+	
+  
+	<trackwall height="164" width="136" x="196" y="317"/>
+	
+  
+	<activatetrackwall height="220" width="34" x="200" y="253"/>
+	
+  
+	<activatetrackwall height="103" width="121" x="363" y="305"/>
+	
+  
+	<activatetrackwall height="35" width="81" x="225" y="138"/>
+	
+  
+	<activatetrackwall height="108" width="86" x="57" y="187"/>
+	
+  
+	<wall height="291" width="-47" x="173" y="90"/>
+	
+  
+	<wall height="128" width="108" x="210" y="15"/>
+	
+  
+	<goal height="96" width="-83" x="169" y="0"/>
+	
+
+</level>

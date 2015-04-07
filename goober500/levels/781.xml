@@ -1,0 +1,101 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="chanceofluck4">
+	
+  
+	<wall height="73" width="644" x="4" y="376"/>
+	
+  
+	<wall height="-655" width="23" x="77" y="234"/>
+	
+  
+	<wall height="-644" width="-11" x="210" y="230"/>
+	
+  
+	<wall height="-663" width="21" x="286" y="235"/>
+	
+  
+	<wall height="-533" width="17" x="384" y="239"/>
+	
+  
+	<wall height="-321" width="-10" x="470" y="244"/>
+	
+  
+	<wall height="-284" width="15" x="14" y="209"/>
+	
+  
+	<boost height="-606" width="-36" x="13" y="201"/>
+	
+  
+	<boost height="-619" width="64" x="29" y="205"/>
+	
+  
+	<boost height="-629" width="107" x="97" y="199"/>
+	
+  
+	<boost height="-626" width="93" x="210" y="196"/>
+	
+  
+	<boost height="-612" width="76" x="309" y="190"/>
+	
+  
+	<boost height="-499" width="64" x="399" y="182"/>
+	
+  
+	<boost height="-593" width="124" x="471" y="178"/>
+	
+  
+	<wall height="24" width="160" x="56" y="310"/>
+	
+  
+	<wall height="-17" width="175" x="332" y="328"/>
+	
+  
+	<wall height="91" width="-45" x="18" y="-423"/>
+	
+  
+	<bossactivate explode="no" height="49" hp="6" width="-19" x="11" y="-238"/>
+	
+  
+	<deathwall height="66" width="71" x="19" y="-420"/>
+	
+  
+	<goal height="61" width="98" x="104" y="-476"/>
+	
+  
+	<trackblade x="419" y="-303"/>
+	
+  
+	<trackblade x="443" y="-303"/>
+	
+  
+	<trackblade x="442" y="-296"/>
+	
+  
+	<trackblade x="432" y="-296"/>
+	
+  
+	<trackblade x="427" y="-296"/>
+	
+  
+	<trackblade x="419" y="-297"/>
+	
+  
+	<trackblade x="418" y="-297"/>
+	
+  
+	<trackblade x="442" y="-297"/>
+	
+  
+	<trackblade x="451" y="-297"/>
+	
+  
+	<rocketlauncher x="252" y="-404"/>
+	
+  
+	<laserlauncher dir="3" x="334" y="-319"/>
+	
+  
+	<activatetrackwall height="108" width="53" x="468" y="-414"/>
+	
+
+</level>

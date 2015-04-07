@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<level author="kingkong" bg="1" name="skcfuzho">
+	
+  
+	<wall height="35.650000000000034" width="177.29999999999998" x="199.4" y="457.4"/>
+	
+  
+	<wall height="83.75" width="145.5" x="48.15" y="347.65"/>
+	
+  
+	<activatetrackwall height="53.900000000000006" width="50.099999999999994" x="196.55" y="218.6"/>
+	
+  
+	<textfield text="noémi" x="261.1" y="139.65"/>
+	
+  
+	<boostfruit x="230.25" y="374.6"/>
+	
+  
+	<boostfruit x="129.1" y="259.05"/>
+	
+  
+	<boostfruit x="223.5" y="154.05"/>
+	
+  
+	<boostfruit x="253.35" y="94.35"/>
+	
+  
+	<boostfruit x="275.55" y="36.6"/>
+	
+  
+	<boostfruit x="294.8" y="14.45"/>
+	
+  
+	<goal height="77.05" width="32.75" x="369" y="40.45"/>
+	
+  
+	<goal height="149.3" width="120.44999999999999" x="336.2" y="20.2"/>
+	
+
+</level>

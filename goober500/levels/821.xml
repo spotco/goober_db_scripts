@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<level author="catpakoo" bg="1" name="winwin10">
+	
+  
+	<wall height="71" width="88" x="176" y="397"/>
+	
+  
+	<wall height="70" width="71" x="240" y="354"/>
+	
+  
+	<wall height="-79" width="-53" x="176" y="417"/>
+	
+  
+	<wall height="-66" width="-69" x="132" y="343"/>
+	
+  
+	<wall height="-104" width="10" x="90" y="273"/>
+	
+  
+	<wall height="20" width="381" x="100" y="163"/>
+	
+  
+	<wall height="297" width="-60" x="481" y="183"/>
+	
+  
+	<wall height="21" width="-357" x="440" y="479"/>
+	
+  
+	<wall height="277" width="-38" x="383" y="154"/>
+	
+  
+	<wall height="17" width="193" x="113" y="275"/>
+	
+  
+	<wall height="16" width="-148" x="354" y="220"/>
+	
+  
+	<goal height="51" width="26" x="385" y="227"/>
+	
+  
+	<goal height="-42" width="92" x="273" y="482"/>
+	
+
+</level>

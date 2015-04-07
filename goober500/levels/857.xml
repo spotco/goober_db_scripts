@@ -1,0 +1,116 @@
+<?xml version="1.0" ?>
+<level author="alpaca" bg="1" name="dearsomeone">
+	
+  
+	<wall height="77" width="521" x="3" y="291"/>
+	
+  
+	<textfield text="dear someone, i heard the things you were saying to catpakoo and i dont like it!" x="191" y="131"/>
+	
+  
+	<boostfruit x="69" y="42"/>
+	
+  
+	<boostfruit x="71" y="47"/>
+	
+  
+	<boostfruit x="72" y="59"/>
+	
+  
+	<boostfruit x="78" y="72"/>
+	
+  
+	<boostfruit x="86" y="88"/>
+	
+  
+	<boostfruit x="90" y="97"/>
+	
+  
+	<boostfruit x="98" y="115"/>
+	
+  
+	<boostfruit x="109" y="143"/>
+	
+  
+	<boostfruit x="125" y="171"/>
+	
+  
+	<boostfruit x="141" y="203"/>
+	
+  
+	<boostfruit x="178" y="224"/>
+	
+  
+	<boostfruit x="190" y="236"/>
+	
+  
+	<boostfruit x="208" y="247"/>
+	
+  
+	<wall height="49" width="391" x="138" y="-20"/>
+	
+  
+	<textfield text="please i dont want to start a big fight over this" x="332" y="-127"/>
+	
+  
+	<textfield text="im already getting bullied by peter so please dont start bullying others or me" x="248" y="-216"/>
+	
+  
+	<textfield text="a fight so please stop" x="268" y="-174"/>
+	
+  
+	<textfield text="i dont want to be rude to you so please dont be rude to me or catpakoo" x="113" y="-284"/>
+	
+  
+	<textfield text="catpakoo" x="117" y="-238"/>
+	
+  
+	<textfield text="im sorry if you took offense" x="268" y="-459"/>
+	
+  
+	<textfield text="from: alpaca" x="210" y="-594"/>
+	
+  
+	<goal height="60" width="474" x="20" y="-674"/>
+	
+  
+	<trackwall height="165" width="46" x="24" y="-192"/>
+	
+  
+	<trackwall height="129" width="27" x="16" y="-311"/>
+	
+  
+	<trackwall height="55" width="367" x="125" y="-358"/>
+	
+  
+	<trackwall height="129" width="51" x="120" y="-571"/>
+	
+  
+	<trackblade x="465" y="-580"/>
+	
+  
+	<track height="90" width="405" x="106" y="-611"/>
+	
+  
+	<track height="137" width="379" x="127" y="-611"/>
+	
+  
+	<track height="47" width="-351" x="486" y="-582"/>
+	
+  
+	<track height="72" width="-364" x="484" y="-594"/>
+	
+  
+	<track height="92" width="-393" x="488" y="-601"/>
+	
+  
+	<track height="51" width="-395" x="480" y="-589"/>
+	
+  
+	<track height="69" width="-434" x="479" y="-596"/>
+	
+  
+	<textfield text="i dont like it" x="198" y="178"/>
+	
+
+</level>

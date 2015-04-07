@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<level author="mani" bg="1" name="lasssserrr">
+	
+  
+	<wall height="72.14999999999998" width="237.14999999999998" x="165" y="270.35"/>
+	
+  
+	<wall height="-383.95000000000005" width="19.05000000000001" x="285.25" y="269.85"/>
+	
+  
+	<wall height="-237.2" width="19.100000000000023" x="284.4" y="-115.30000000000001"/>
+	
+  
+	<wall height="-418" width="18.25" x="284.4" y="-354.65"/>
+	
+  
+	<goal height="-141.79999999999995" width="-461.85" x="469.3" y="-789.85"/>
+	
+  
+	<laserlauncher dir="3" x="80.45" y="-677.9"/>
+	
+  
+	<laserlauncher dir="3" x="73.8" y="-626.5"/>
+	
+  
+	<laserlauncher dir="3" x="73.8" y="-596.6"/>
+	
+  
+	<laserlauncher dir="3" x="69.65" y="-548.5"/>
+	
+  
+	<laserlauncher dir="3" x="58.85" y="-497.95"/>
+	
+  
+	<laserlauncher dir="3" x="51.4" y="-451.5"/>
+	
+  
+	<laserlauncher dir="3" x="50.6" y="-424.1"/>
+	
+  
+	<laserlauncher dir="3" x="50.6" y="-381"/>
+	
+  
+	<laserlauncher dir="3" x="35.65" y="-337.05"/>
+	
+
+</level>

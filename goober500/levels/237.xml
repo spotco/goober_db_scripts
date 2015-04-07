@@ -1,0 +1,446 @@
+<?xml version="1.0" ?>
+<level author="benaumiller" bg="1" name="sdfsdfsdf">
+	
+  
+	<laserlauncher dir="-3" x="413.95" y="123.35"/>
+	
+  
+	<laserlauncher dir="-3" x="408.85" y="80.55"/>
+	
+  
+	<laserlauncher dir="-3" x="423.15" y="40.8"/>
+	
+  
+	<laserlauncher dir="-3" x="406.8" y="111.15"/>
+	
+  
+	<laserlauncher dir="-3" x="417" y="74.45"/>
+	
+  
+	<laserlauncher dir="-3" x="408.85" y="142.75"/>
+	
+  
+	<laserlauncher dir="-3" x="416" y="101.95"/>
+	
+  
+	<laserlauncher dir="-3" x="415" y="35.7"/>
+	
+  
+	<laserlauncher dir="-3" x="417" y="69.35"/>
+	
+  
+	<laserlauncher dir="3" x="75.45" y="265.1"/>
+	
+  
+	<laserlauncher dir="3" x="73.4" y="222.25"/>
+	
+  
+	<laserlauncher dir="3" x="73.4" y="184.55"/>
+	
+  
+	<laserlauncher dir="3" x="78.5" y="145.8"/>
+	
+  
+	<laserlauncher dir="3" x="76.45" y="83.6"/>
+	
+  
+	<laserlauncher dir="3" x="85.65" y="47.9"/>
+	
+  
+	<laserlauncher dir="3" x="89.7" y="34.65"/>
+	
+  
+	<laserlauncher dir="3" x="90.75" y="22.45"/>
+	
+  
+	<laserlauncher dir="3" x="91.75" y="16.3"/>
+	
+  
+	<laserlauncher dir="3" x="91.75" y="16.3"/>
+	
+  
+	<activatetrackwall height="70.35000000000002" width="172.35000000000002" x="180.45" y="283.45"/>
+	
+  
+	<textfield text="lasers" x="95.85" y="-54.19999999999999"/>
+	
+  
+	<trackwall height="301.8" width="31.600000000000023" x="323.2" y="-0.5500000000000114"/>
+	
+  
+	<trackwall height="308.95" width="27.5" x="152.95" y="0.44999999999998863"/>
+	
+  
+	<trackblade x="342.6" y="-13.199999999999989"/>
+	
+  
+	<trackblade x="342.6" y="-40.75"/>
+	
+  
+	<trackblade x="341.55" y="-11.149999999999977"/>
+	
+  
+	<trackblade x="341.55" y="-11.149999999999977"/>
+	
+  
+	<trackblade x="338.5" y="-10.149999999999977"/>
+	
+  
+	<trackblade x="338.5" y="-10.149999999999977"/>
+	
+  
+	<trackblade x="339.55" y="-14.199999999999989"/>
+	
+  
+	<trackblade x="339.55" y="-14.199999999999989"/>
+	
+  
+	<trackblade x="335.45" y="-27.44999999999999"/>
+	
+  
+	<trackblade x="338.5" y="-16.25"/>
+	
+  
+	<trackblade x="339.55" y="-16.25"/>
+	
+  
+	<trackblade x="337.5" y="-24.399999999999977"/>
+	
+  
+	<trackblade x="347.7" y="-42.75"/>
+	
+  
+	<trackblade x="349.7" y="-46.85000000000002"/>
+	
+  
+	<trackblade x="350.75" y="-46.85000000000002"/>
+	
+  
+	<trackblade x="350.75" y="-46.85000000000002"/>
+	
+  
+	<trackblade x="347.7" y="-43.80000000000001"/>
+	
+  
+	<trackblade x="341.55" y="-63.150000000000006"/>
+	
+  
+	<trackblade x="338.5" y="-71.30000000000001"/>
+	
+  
+	<trackblade x="340.55" y="-72.35"/>
+	
+  
+	<trackblade x="340.55" y="-73.35"/>
+	
+  
+	<trackblade x="338.5" y="-80.5"/>
+	
+  
+	<trackblade x="338.5" y="-84.55000000000001"/>
+	
+  
+	<trackblade x="338.5" y="-91.69999999999999"/>
+	
+  
+	<trackblade x="338.5" y="-94.75"/>
+	
+  
+	<trackblade x="338.5" y="-94.75"/>
+	
+  
+	<trackblade x="338.5" y="-98.85"/>
+	
+  
+	<trackblade x="338.5" y="-99.85"/>
+	
+  
+	<trackblade x="338.5" y="-106"/>
+	
+  
+	<trackblade x="338.5" y="-114.15"/>
+	
+  
+	<trackblade x="338.5" y="-114.15"/>
+	
+  
+	<trackblade x="335.45" y="-120.25"/>
+	
+  
+	<trackblade x="335.45" y="-134.55"/>
+	
+  
+	<trackblade x="333.4" y="-141.65"/>
+	
+  
+	<trackblade x="333.4" y="-147.8"/>
+	
+  
+	<trackblade x="333.4" y="-148.8"/>
+	
+  
+	<trackblade x="329.35" y="-152.9"/>
+	
+  
+	<trackblade x="329.35" y="-152.9"/>
+	
+  
+	<trackblade x="324.25" y="-158"/>
+	
+  
+	<trackblade x="324.25" y="-158"/>
+	
+  
+	<trackblade x="309.95" y="-163.1"/>
+	
+  
+	<trackblade x="309.95" y="-163.1"/>
+	
+  
+	<trackblade x="302.8" y="-162.05"/>
+	
+  
+	<trackblade x="285.5" y="-154.9"/>
+	
+  
+	<trackblade x="286.5" y="-154.9"/>
+	
+  
+	<trackblade x="286.5" y="-154.9"/>
+	
+  
+	<trackblade x="287.55" y="-155.95"/>
+	
+  
+	<trackblade x="287.55" y="-155.95"/>
+	
+  
+	<trackblade x="287.55" y="-155.95"/>
+	
+  
+	<trackblade x="287.55" y="-155.95"/>
+	
+  
+	<trackblade x="287.55" y="-155.95"/>
+	
+  
+	<trackblade x="287.55" y="-155.95"/>
+	
+  
+	<trackblade x="287.55" y="-155.95"/>
+	
+  
+	<trackblade x="282.45" y="-154.9"/>
+	
+  
+	<trackblade x="282.45" y="-154.9"/>
+	
+  
+	<trackblade x="282.45" y="-153.9"/>
+	
+  
+	<trackblade x="282.45" y="-153.9"/>
+	
+  
+	<trackblade x="163.15" y="-7.100000000000023"/>
+	
+  
+	<trackblade x="164.15" y="-10.149999999999977"/>
+	
+  
+	<trackblade x="161.1" y="-16.25"/>
+	
+  
+	<trackblade x="158.05" y="-42.75"/>
+	
+  
+	<trackblade x="159.05" y="-43.80000000000001"/>
+	
+  
+	<trackblade x="148.85" y="-67.25"/>
+	
+  
+	<trackblade x="148.85" y="-67.25"/>
+	
+  
+	<trackblade x="141.7" y="-70.30000000000001"/>
+	
+  
+	<trackblade x="135.6" y="-81.5"/>
+	
+  
+	<trackblade x="114.2" y="-76.4"/>
+	
+  
+	<trackblade x="108.1" y="-84.55000000000001"/>
+	
+  
+	<trackblade x="105" y="-82.55000000000001"/>
+	
+  
+	<trackblade x="80.55" y="-81.5"/>
+	
+  
+	<trackblade x="78.5" y="-80.5"/>
+	
+  
+	<trackblade x="67.3" y="-82.55000000000001"/>
+	
+  
+	<trackblade x="67.3" y="-82.55000000000001"/>
+	
+  
+	<trackblade x="67.3" y="-82.55000000000001"/>
+	
+  
+	<trackblade x="67.3" y="-82.55000000000001"/>
+	
+  
+	<trackblade x="133.55" y="-109.05000000000001"/>
+	
+  
+	<trackblade x="131.55" y="-110.05000000000001"/>
+	
+  
+	<trackblade x="134.6" y="-127.4"/>
+	
+  
+	<trackblade x="136.65" y="-129.45"/>
+	
+  
+	<trackblade x="125.4" y="-112.1"/>
+	
+  
+	<trackblade x="121.35" y="-114.15"/>
+	
+  
+	<trackblade x="124.4" y="-136.55"/>
+	
+  
+	<trackblade x="125.4" y="-142.7"/>
+	
+  
+	<trackblade x="125.4" y="-144.75"/>
+	
+  
+	<trackblade x="125.4" y="-175.3"/>
+	
+  
+	<trackblade x="125.4" y="-175.3"/>
+	
+  
+	<trackblade x="125.4" y="-175.3"/>
+	
+  
+	<trackblade x="125.4" y="-175.3"/>
+	
+  
+	<trackblade x="125.4" y="-175.3"/>
+	
+  
+	<trackblade x="125.4" y="-175.3"/>
+	
+  
+	<trackblade x="125.4" y="-175.3"/>
+	
+  
+	<trackblade x="125.4" y="-155.95"/>
+	
+  
+	<trackblade x="125.4" y="-155.95"/>
+	
+  
+	<trackblade x="125.4" y="-162.05"/>
+	
+  
+	<trackblade x="125.4" y="-162.05"/>
+	
+  
+	<trackblade x="124.4" y="-186.55"/>
+	
+  
+	<trackblade x="124.4" y="-193.65"/>
+	
+  
+	<trackblade x="121.35" y="-199.8"/>
+	
+  
+	<trackblade x="121.35" y="-205.9"/>
+	
+  
+	<trackblade x="121.35" y="-220.2"/>
+	
+  
+	<trackblade x="121.35" y="-222.2"/>
+	
+  
+	<trackblade x="121.35" y="-222.2"/>
+	
+  
+	<trackblade x="121.35" y="-230.35"/>
+	
+  
+	<trackblade x="121.35" y="-230.35"/>
+	
+  
+	<trackblade x="121.35" y="-230.35"/>
+	
+  
+	<trackblade x="121.35" y="-230.35"/>
+	
+  
+	<trackblade x="121.35" y="-230.35"/>
+	
+  
+	<trackblade x="121.35" y="-236.5"/>
+	
+  
+	<trackblade x="122.35" y="-244.65"/>
+	
+  
+	<goal height="108.09999999999997" width="136.65" x="6.1" y="-379.2"/>
+	
+  
+	<bossactivate explode="no" height="184.55" hp="6" width="94.80000000000001" x="267.15" y="-375.1"/>
+	
+  
+	<trackblade x="265.1" y="-173.25"/>
+	
+  
+	<trackblade x="263.05" y="-186.5"/>
+	
+  
+	<trackblade x="279.35" y="-189.55"/>
+	
+  
+	<trackblade x="294.65" y="-186.5"/>
+	
+  
+	<trackblade x="305.9" y="-183.45"/>
+	
+  
+	<trackblade x="336.45" y="-182.39999999999998"/>
+	
+  
+	<trackblade x="348.7" y="-181.39999999999998"/>
+	
+  
+	<trackblade x="349.7" y="-179.35000000000002"/>
+	
+  
+	<trackblade x="347.7" y="-177.3"/>
+	
+  
+	<trackblade x="346.65" y="-167.10000000000002"/>
+	
+  
+	<trackblade x="349.7" y="-153.85000000000002"/>
+	
+  
+	<trackblade x="350.75" y="-145.7"/>
+	
+  
+	<track height="16.349999999999966" width="346.65" x="130.5" y="-456.7"/>
+	
+
+</level>

@@ -1,0 +1,119 @@
+<?xml version="1.0" ?>
+<level author="amromousa" bg="1" name="pro1">
+	
+  
+	<wall height="33" width="16" x="256" y="271"/>
+	
+  
+	<deathwall height="63" width="-531" x="494" y="281"/>
+	
+  
+	<goal height="81" width="409" x="83" y="402"/>
+	
+  
+	<goal height="159" width="-501" x="493" y="341"/>
+	
+  
+	<trackwall height="63" width="206" x="36" y="214"/>
+	
+  
+	<track height="-395" width="33" x="119" y="213"/>
+	
+  
+	<trackwall height="75" width="269" x="303" y="219"/>
+	
+  
+	<track height="-362" width="29" x="401" y="210"/>
+	
+  
+	<deathwall height="47" width="131" x="355" y="-180"/>
+	
+  
+	<deathwall height="118" width="326" x="267" y="-203"/>
+	
+  
+	<wall height="53" width="107" x="207" y="-193"/>
+	
+  
+	<flowerboss y="383"/>
+	
+  
+	<boostfruit x="249" y="-312"/>
+	
+  
+	<boost height="-329" width="92" x="70" y="-382"/>
+	
+  
+	<boost height="-343" width="106" x="333" y="-382"/>
+	
+  
+	<deathwall height="76" width="160" x="30" y="-772"/>
+	
+  
+	<rocketlauncher x="18" y="-591"/>
+	
+  
+	<rocketlauncher x="26" y="-360"/>
+	
+  
+	<rocketlauncher x="42" y="-95"/>
+	
+  
+	<cloudboss/>
+	
+  
+	<boostfruit x="388" y="-803"/>
+	
+  
+	<boostfruit x="386" y="-927"/>
+	
+  
+	<boostfruit x="246" y="-1045"/>
+	
+  
+	<boostfruit x="428" y="-1259"/>
+	
+  
+	<boostfruit x="243" y="-1377"/>
+	
+  
+	<boostfruit x="422" y="-1498"/>
+	
+  
+	<boostfruit x="286" y="-1647"/>
+	
+  
+	<goal height="94" width="356" x="191" y="-1799"/>
+	
+  
+	<rocketlauncher x="37" y="-1477"/>
+	
+  
+	<rocketlauncher x="29" y="-1265"/>
+	
+  
+	<rocketlauncher x="25" y="-1102"/>
+	
+  
+	<rocketlauncher x="30" y="-931"/>
+	
+  
+	<rocketlauncher x="31" y="-775"/>
+	
+  
+	<trackblade x="30" y="-1033"/>
+	
+  
+	<trackblade x="29" y="-1356"/>
+	
+  
+	<track height="37" width="190" x="23" y="-1382"/>
+	
+  
+	<track height="33" width="183" x="34" y="-1057"/>
+	
+  
+	<textfield text="gost master14 amromousa" x="164" y="-613"/>
+	
+
+</level>

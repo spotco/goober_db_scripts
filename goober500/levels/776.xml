@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="spoon">
+	
+  
+	<textfield text="raccoon poop" x="45" y="74"/>
+	
+  
+	<textfield text="llamas" x="332" y="-685"/>
+	
+  
+	<goal height="32" width="-239" x="223" y="-737"/>
+	
+  
+	<deathwall height="199" width="593" x="14" y="374"/>
+	
+  
+	<wall height="-34" width="-376" x="262" y="333"/>
+	
+  
+	<boost height="-135" width="85" x="274" y="167"/>
+	
+  
+	<boost height="-47" width="39" x="377" y="279"/>
+	
+  
+	<boost height="20" width="188" x="297" y="233"/>
+	
+  
+	<wall height="-62" width="-277" x="238" y="-88"/>
+	
+  
+	<boost height="14" width="-351" x="237" y="-88"/>
+	
+  
+	<boost height="76" width="10" x="238" y="-151"/>
+	
+  
+	<boost height="26" width="-324" x="248" y="-169"/>
+	
+  
+	<boostfruit x="243" y="-304"/>
+	
+  
+	<boostfruit x="156" y="-504"/>
+	
+  
+	<boostfruit x="450" y="-511"/>
+	
+  
+	<textfield text="brawzer" x="289" y="-402"/>
+	
+
+</level>

@@ -1,0 +1,197 @@
+<?xml version="1.0" ?>
+<level author="sz9memo" bg="1" name="thehardyiv">
+	
+  
+	<boostfruit x="262" y="278"/>
+	
+  
+	<boostfruit x="262" y="278"/>
+	
+  
+	<boostfruit x="262" y="278"/>
+	
+  
+	<boostfruit x="262" y="278"/>
+	
+  
+	<boostfruit x="260" y="268"/>
+	
+  
+	<boostfruit x="260" y="262"/>
+	
+  
+	<boostfruit x="260" y="258"/>
+	
+  
+	<boostfruit x="260" y="255"/>
+	
+  
+	<boostfruit x="262" y="258"/>
+	
+  
+	<boostfruit x="262" y="275"/>
+	
+  
+	<boostfruit x="267" y="280"/>
+	
+  
+	<boostfruit x="267" y="264"/>
+	
+  
+	<boostfruit x="261" y="262"/>
+	
+  
+	<boostfruit x="257" y="250"/>
+	
+  
+	<boost height="78" width="70" x="228" y="230"/>
+	
+  
+	<flowerboss y="430"/>
+	
+  
+	<activatetrackwall height="17" width="159" x="21" y="167"/>
+	
+  
+	<wall height="19" width="123" x="369" y="158"/>
+	
+  
+	<boostfruit x="418" y="114"/>
+	
+  
+	<boostfruit x="395" y="76"/>
+	
+  
+	<boostfruit x="347" y="43"/>
+	
+  
+	<boostfruit x="285" y="30"/>
+	
+  
+	<boostfruit x="239" y="26"/>
+	
+  
+	<boostfruit x="221" y="25"/>
+	
+  
+	<boostfruit x="160" y="7"/>
+	
+  
+	<boostfruit x="144" y="0"/>
+	
+  
+	<boostfruit x="99" y="5"/>
+	
+  
+	<wall height="339" width="29" x="27" y="-190"/>
+	
+  
+	<wall height="22" width="301" x="74" y="-144"/>
+	
+  
+	<wall height="81" width="284" x="152" y="-290"/>
+	
+  
+	<boostfruit x="239" y="-348"/>
+	
+  
+	<boostfruit x="238" y="-446"/>
+	
+  
+	<boostfruit x="238" y="-553"/>
+	
+  
+	<boost height="186" width="56" x="212" y="-591"/>
+	
+  
+	<laserlauncher dir="3" x="24" y="-644"/>
+	
+  
+	<laserlauncher dir="-3" x="485" y="-652"/>
+	
+  
+	<boost height="150" width="210" x="134" y="-740"/>
+	
+  
+	<bossactivate explode="no" height="-241" hp="6" width="483" x="11" y="-744"/>
+	
+  
+	<rocketlauncher x="30" y="-956"/>
+	
+  
+	<rocketlauncher x="36" y="-922"/>
+	
+  
+	<rocketlauncher x="34" y="-848"/>
+	
+  
+	<rocketlauncher x="34" y="-797"/>
+	
+  
+	<rocketlauncher x="35" y="-770"/>
+	
+  
+	<rocketlauncher x="484" y="-977"/>
+	
+  
+	<rocketlauncher x="488" y="-940"/>
+	
+  
+	<rocketlauncher x="489" y="-920"/>
+	
+  
+	<rocketlauncher x="491" y="-876"/>
+	
+  
+	<rocketlauncher x="490" y="-849"/>
+	
+  
+	<rocketlauncher x="496" y="-826"/>
+	
+  
+	<rocketlauncher x="494" y="-795"/>
+	
+  
+	<textfield text="wich way do u take ha?" x="256" y="187"/>
+	
+  
+	<activatetrackwall height="36" width="147" x="46" y="-1194"/>
+	
+  
+	<boostfruit x="166" y="-1008"/>
+	
+  
+	<boostfruit x="181" y="-1060"/>
+	
+  
+	<boostfruit x="191" y="-1083"/>
+	
+  
+	<boostfruit x="169" y="-1113"/>
+	
+  
+	<track height="-338" width="101" x="64" y="-1171"/>
+	
+  
+	<activatetrackwall height="16" width="-334" x="483" y="-1510"/>
+	
+  
+	<track height="-38" width="-424" x="486" y="-1496"/>
+	
+  
+	<wall height="390" width="29" x="29" y="-1918"/>
+	
+  
+	<boostfruit x="143" y="-1553"/>
+	
+  
+	<boostfruit x="131" y="-1552"/>
+	
+  
+	<boostfruit x="116" y="-1555"/>
+	
+  
+	<goal height="218" width="443" x="47" y="-1905"/>
+	
+
+</level>

@@ -1,0 +1,371 @@
+<?xml version="1.0" ?>
+<level author="Aziz" bg="1" name="Lagi2">
+	
+  
+	<trackwall height="-39.64999999999998" width="54.70000000000002" x="233.85" y="314.7"/>
+	
+  
+	<trackwall height="-362.25" width="-16.650000000000006" x="233.85" y="313.1"/>
+	
+  
+	<trackwall height="-359.9" width="19" x="288.55" y="313.9"/>
+	
+  
+	<flowerboss y="599"/>
+	
+  
+	<flowerboss y="711.8"/>
+	
+  
+	<flowerboss y="726.8"/>
+	
+  
+	<flowerboss y="741.8"/>
+	
+  
+	<flowerboss y="750.5"/>
+	
+  
+	<flowerboss y="749.15"/>
+	
+  
+	<flowerboss y="741.2"/>
+	
+  
+	<flowerboss y="740.4"/>
+	
+  
+	<flowerboss y="725.4"/>
+	
+  
+	<flowerboss y="705.4"/>
+	
+  
+	<flowerboss y="684.85"/>
+	
+  
+	<flowerboss y="684.85"/>
+	
+  
+	<flowerboss y="712.6"/>
+	
+  
+	<flowerboss y="742.75"/>
+	
+  
+	<flowerboss y="746.7"/>
+	
+  
+	<flowerboss y="703.1"/>
+	
+  
+	<flowerboss y="679.3"/>
+	
+  
+	<flowerboss y="657.15"/>
+	
+  
+	<flowerboss y="646.8"/>
+	
+  
+	<flowerboss y="630.95"/>
+	
+  
+	<flowerboss y="622.25"/>
+	
+  
+	<flowerboss y="608"/>
+	
+  
+	<flowerboss y="603.2"/>
+	
+  
+	<flowerboss y="594.5"/>
+	
+  
+	<flowerboss y="590.55"/>
+	
+  
+	<flowerboss y="627"/>
+	
+  
+	<flowerboss y="696.75"/>
+	
+  
+	<flowerboss y="719.75"/>
+	
+  
+	<flowerboss y="730.85"/>
+	
+  
+	<flowerboss y="674.55"/>
+	
+  
+	<flowerboss y="629.4"/>
+	
+  
+	<flowerboss y="619.85"/>
+	
+  
+	<flowerboss y="668.2"/>
+	
+  
+	<flowerboss y="711.05"/>
+	
+  
+	<flowerboss y="716.6"/>
+	
+  
+	<flowerboss y="653.15"/>
+	
+  
+	<flowerboss y="604.8"/>
+	
+  
+	<flowerboss y="597.7"/>
+	
+  
+	<flowerboss y="644.45"/>
+	
+  
+	<flowerboss y="696.75"/>
+	
+  
+	<flowerboss y="698.35"/>
+	
+  
+	<flowerboss y="612.75"/>
+	
+  
+	<flowerboss y="585.8"/>
+	
+  
+	<flowerboss y="570.7"/>
+	
+  
+	<flowerboss y="572.3"/>
+	
+  
+	<flowerboss y="646.8"/>
+	
+  
+	<flowerboss y="694.4"/>
+	
+  
+	<flowerboss y="738"/>
+	
+  
+	<flowerboss y="736.4"/>
+	
+  
+	<flowerboss y="643.65"/>
+	
+  
+	<flowerboss y="596.9"/>
+	
+  
+	<flowerboss y="578.65"/>
+	
+  
+	<flowerboss y="611.95"/>
+	
+  
+	<flowerboss y="695.95"/>
+	
+  
+	<flowerboss y="717.35"/>
+	
+  
+	<flowerboss y="619.85"/>
+	
+  
+	<flowerboss y="577.85"/>
+	
+  
+	<flowerboss y="565.2"/>
+	
+  
+	<flowerboss y="612.75"/>
+	
+  
+	<flowerboss y="674.55"/>
+	
+  
+	<flowerboss y="708.65"/>
+	
+  
+	<flowerboss y="649.2"/>
+	
+  
+	<flowerboss y="573.9"/>
+	
+  
+	<flowerboss y="558.85"/>
+	
+  
+	<flowerboss y="563.6"/>
+	
+  
+	<flowerboss y="650.8"/>
+	
+  
+	<flowerboss y="712.6"/>
+	
+  
+	<flowerboss y="708.65"/>
+	
+  
+	<flowerboss y="600.05"/>
+	
+  
+	<flowerboss y="575.5"/>
+	
+  
+	<flowerboss y="559.65"/>
+	
+  
+	<flowerboss y="648.4"/>
+	
+  
+	<flowerboss y="700.7"/>
+	
+  
+	<flowerboss y="619.85"/>
+	
+  
+	<flowerboss y="581.05"/>
+	
+  
+	<flowerboss y="568.35"/>
+	
+  
+	<flowerboss y="630.95"/>
+	
+  
+	<flowerboss y="678.55"/>
+	
+  
+	<flowerboss y="633.35"/>
+	
+  
+	<flowerboss y="567.55"/>
+	
+  
+	<flowerboss y="562"/>
+	
+  
+	<flowerboss y="608.75"/>
+	
+  
+	<flowerboss y="686.45"/>
+	
+  
+	<flowerboss y="703.9"/>
+	
+  
+	<flowerboss y="615.1"/>
+	
+  
+	<flowerboss y="568.35"/>
+	
+  
+	<flowerboss y="559.65"/>
+	
+  
+	<flowerboss y="556.45"/>
+	
+  
+	<flowerboss y="667.45"/>
+	
+  
+	<flowerboss y="700.7"/>
+	
+  
+	<flowerboss y="680.9"/>
+	
+  
+	<flowerboss y="627.8"/>
+	
+  
+	<flowerboss y="581.8"/>
+	
+  
+	<flowerboss y="569.15"/>
+	
+  
+	<flowerboss y="554.1"/>
+	
+  
+	<trackwall height="-546.15" width="17.44999999999999" x="216.4" y="-44.60000000000002"/>
+	
+  
+	<trackwall height="-543.8" width="19" x="288.55" y="-46.94999999999999"/>
+	
+  
+	<trackwall height="-542.2" width="17.44999999999999" x="216.4" y="-588.55"/>
+	
+  
+	<trackwall height="-539.05" width="19.80000000000001" x="287.75" y="-591.7"/>
+	
+  
+	<boostfruit x="261.6" y="-1140.6"/>
+	
+  
+	<boostfruit x="256.05" y="-1182.65"/>
+	
+  
+	<boostfruit x="256.85" y="-1208"/>
+	
+  
+	<boostfruit x="257.65" y="-1242.85"/>
+	
+  
+	<boostfruit x="256.05" y="-1278.55"/>
+	
+  
+	<boostfruit x="254.45" y="-1309.45"/>
+	
+  
+	<boostfruit x="254.45" y="-1345.9"/>
+	
+  
+	<boostfruit x="254.45" y="-1366.55"/>
+	
+  
+	<boostfruit x="254.45" y="-1372.85"/>
+	
+  
+	<boostfruit x="255.25" y="-1387.15"/>
+	
+  
+	<boostfruit x="256.05" y="-1399.05"/>
+	
+  
+	<boostfruit x="257.65" y="-1416.45"/>
+	
+  
+	<boostfruit x="258.4" y="-1420.45"/>
+	
+  
+	<boostfruit x="258.4" y="-1422.8"/>
+	
+  
+	<boostfruit x="258.4" y="-1427.55"/>
+	
+  
+	<boostfruit x="258.4" y="-1453.1"/>
+	
+  
+	<boostfruit x="258.4" y="-1473.9"/>
+	
+  
+	<boostfruit x="258.4" y="-1493.9"/>
+	
+  
+	<boostfruit x="258.4" y="-1508.9"/>
+	
+  
+	<goal height="-26.15000000000009" width="315.45000000000005" x="-2.35" y="-1483.5"/>
+	
+
+</level>

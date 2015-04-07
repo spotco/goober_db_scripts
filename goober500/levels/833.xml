@@ -1,0 +1,224 @@
+<?xml version="1.0" ?>
+<level author="GOOBER" bg="1" name="EPICquest">
+	
+  
+	<wall height="-225" width="-499" x="500" y="497"/>
+	
+  
+	<boost height="-35" width="-496" x="498" y="533"/>
+	
+  
+	<wall height="75" width="-189" x="210" y="209"/>
+	
+  
+	<wall height="189" width="-172" x="119" y="109"/>
+	
+  
+	<wall height="143" width="-76" x="35" y="-2"/>
+	
+  
+	<wall height="61" width="58" x="342" y="217"/>
+	
+  
+	<wall height="147" width="155" x="386" y="156"/>
+	
+  
+	<wall height="221" width="95" x="451" y="-40"/>
+	
+  
+	<wall height="81" width="-230" x="207" y="-14"/>
+	
+  
+	<wall height="272" width="-149" x="95" y="-202"/>
+	
+  
+	<wall height="52" width="82" x="418" y="-30"/>
+	
+  
+	<wall height="191" width="98" x="443" y="-220"/>
+	
+  
+	<wall height="107" width="199" x="290" y="-182"/>
+	
+  
+	<wall height="13" width="81" x="151" y="13"/>
+	
+  
+	<wall height="25" width="55" x="79" y="-214"/>
+	
+  
+	<wall height="121" width="81" x="285" y="-286"/>
+	
+  
+	<wall height="267" width="-86" x="52" y="-538"/>
+	
+  
+	<wall height="69" width="190" x="352" y="-554"/>
+	
+  
+	<trackwall height="95" width="24" x="330" y="-383"/>
+	
+  
+	<trackwall height="22" width="20" x="332" y="-341"/>
+	
+  
+	<wall height="107" width="17" x="353" y="-487"/>
+	
+  
+	<goal height="17" width="23" x="388" y="-211"/>
+	
+  
+	<wall height="56" width="-212" x="120" y="-555"/>
+	
+  
+	<wall height="272" width="-70" x="37" y="-807"/>
+	
+  
+	<wall height="41" width="141" x="13" y="-762"/>
+	
+  
+	<wall height="204" width="-247" x="203" y="-938"/>
+	
+  
+	<wall height="23" width="20" x="197" y="-827"/>
+	
+  
+	<wall height="-241" width="134" x="404" y="-540"/>
+	
+  
+	<wall height="205" width="105" x="426" y="-969"/>
+	
+  
+	<wall height="-104" width="-99" x="452" y="-930"/>
+	
+  
+	<wall height="127" width="90" x="416" y="-1087"/>
+	
+  
+	<wall height="235" width="-172" x="116" y="-1126"/>
+	
+  
+	<wall height="187" width="-88" x="179" y="-1214"/>
+	
+  
+	<wall height="219" width="240" x="315" y="-1224"/>
+	
+  
+	<wall height="268" width="48" x="313" y="-1430"/>
+	
+  
+	<wall height="215" width="57" x="359" y="-1431"/>
+	
+  
+	<wall height="174" width="55" x="413" y="-1387"/>
+	
+  
+	<wall height="166" width="56" x="462" y="-1356"/>
+	
+  
+	<wall height="340" width="-55" x="158" y="-1487"/>
+	
+  
+	<wall height="335" width="-136" x="120" y="-1443"/>
+	
+  
+	<trackwall height="31" width="514" x="1" y="-1572"/>
+	
+  
+	<activatetrackwall height="44" width="174" x="159" y="-1547"/>
+	
+  
+	<goal height="39" width="-38" x="54" y="-1489"/>
+	
+  
+	<wall height="74" width="10" x="165" y="137"/>
+	
+  
+	<boostfruit x="170" y="120"/>
+	
+  
+	<boostfruit x="464" y="-309"/>
+	
+  
+	<boostfruit x="426" y="-389"/>
+	
+  
+	<wall height="-67" width="10" x="458" y="-222"/>
+	
+  
+	<wall height="88" width="10" x="424" y="-491"/>
+	
+  
+	<wall height="79" width="10" x="407" y="-860"/>
+	
+  
+	<boostfruit x="412" y="-880"/>
+	
+  
+	<textfield text="WARNING super hard puzzle ahead!!!" x="195" y="-993"/>
+	
+  
+	<boostfruit x="414" y="-879"/>
+	
+  
+	<boostfruit x="413" y="-879"/>
+	
+  
+	<boostfruit x="413" y="-879"/>
+	
+  
+	<boostfruit x="413" y="-879"/>
+	
+  
+	<boostfruit x="413" y="-879"/>
+	
+  
+	<boostfruit x="413" y="-879"/>
+	
+  
+	<boostfruit x="413" y="-879"/>
+	
+  
+	<boostfruit x="413" y="-879"/>
+	
+  
+	<boostfruit x="413" y="-879"/>
+	
+  
+	<boostfruit x="413" y="-879"/>
+	
+  
+	<boostfruit x="413" y="-879"/>
+	
+  
+	<boostfruit x="413" y="-879"/>
+	
+  
+	<boostfruit x="413" y="-879"/>
+	
+  
+	<boostfruit x="413" y="-879"/>
+	
+  
+	<boostfruit x="413" y="-879"/>
+	
+  
+	<boostfruit x="413" y="-879"/>
+	
+  
+	<boostfruit x="413" y="-879"/>
+	
+  
+	<boostfruit x="413" y="-879"/>
+	
+  
+	<boostfruit x="413" y="-879"/>
+	
+  
+	<boostfruit x="413" y="-879"/>
+	
+  
+	<boostfruit x="413" y="-879"/>
+	
+
+</level>

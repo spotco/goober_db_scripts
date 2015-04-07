@@ -1,0 +1,149 @@
+<?xml version="1.0" ?>
+<level author="gretule" bg="3" name="gretule">
+	
+  
+	<wall height="70" width="511" x="2" y="271"/>
+	
+  
+	<wall height="-44" width="50" x="300" y="213"/>
+	
+  
+	<wall height="49" width="45" x="203" y="171"/>
+	
+  
+	<wall height="51" width="49" x="100" y="168"/>
+	
+  
+	<wall height="46" width="47" x="1" y="121"/>
+	
+  
+	<wall height="47" width="50" x="100" y="74"/>
+	
+  
+	<wall height="45" width="53" x="204" y="74"/>
+	
+  
+	<wall height="53" width="44" x="307" y="69"/>
+	
+  
+	<wall height="51" width="167" x="349" y="22"/>
+	
+  
+	<track height="405" width="27" x="461" y="-415"/>
+	
+  
+	<activatetrackwall height="28" width="127" x="392" y="-36"/>
+	
+  
+	<trackblade x="464" y="-280"/>
+	
+  
+	<activatetrackwall height="74" width="335" x="62" y="-383"/>
+	
+  
+	<boost height="-247" width="100" x="203" y="-883"/>
+	
+  
+	<boostfruit x="256" y="-1169"/>
+	
+  
+	<boostfruit x="252" y="-1229"/>
+	
+  
+	<boostfruit x="253" y="-1258"/>
+	
+  
+	<boostfruit x="244" y="-1332"/>
+	
+  
+	<boostfruit x="249" y="-1379"/>
+	
+  
+	<boostfruit x="252" y="-1430"/>
+	
+  
+	<boostfruit x="250" y="-1482"/>
+	
+  
+	<boostfruit x="250" y="-1502"/>
+	
+  
+	<boostfruit x="250" y="-1537"/>
+	
+  
+	<boostfruit x="250" y="-1572"/>
+	
+  
+	<boostfruit x="250" y="-1602"/>
+	
+  
+	<boostfruit x="250" y="-1642"/>
+	
+  
+	<boostfruit x="250" y="-1682"/>
+	
+  
+	<boostfruit x="250" y="-1712"/>
+	
+  
+	<boostfruit x="250" y="-1752"/>
+	
+  
+	<boostfruit x="250" y="-1787"/>
+	
+  
+	<boostfruit x="250" y="-1822"/>
+	
+  
+	<boostfruit x="250" y="-1862"/>
+	
+  
+	<boostfruit x="250" y="-1902"/>
+	
+  
+	<boostfruit x="250" y="-1942"/>
+	
+  
+	<boostfruit x="250" y="-1972"/>
+	
+  
+	<boostfruit x="250" y="-2002"/>
+	
+  
+	<boostfruit x="250" y="-2032"/>
+	
+  
+	<boostfruit x="250" y="-2057"/>
+	
+  
+	<boostfruit x="250" y="-2097"/>
+	
+  
+	<boostfruit x="250" y="-2127"/>
+	
+  
+	<laserlauncher dir="-3" x="460" y="232"/>
+	
+  
+	<flowerboss y="1525"/>
+	
+  
+	<activatetrackwall height="105" width="207" x="0" y="-2228"/>
+	
+  
+	<activatetrackwall height="104" width="199" x="297" y="-2226"/>
+	
+  
+	<goal height="87" width="24" x="12" y="-2318"/>
+	
+  
+	<goal height="113" width="28" x="476" y="-2330"/>
+	
+  
+	<trackblade x="127" y="-2244"/>
+	
+  
+	<trackblade x="388" y="-2244"/>
+	
+
+</level>

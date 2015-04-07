@@ -1,0 +1,92 @@
+<?xml version="1.0" ?>
+<level author="uberhaxornova" bg="1" name="easybuttrue">
+	
+  
+	<wall height="57" width="381" x="84" y="291"/>
+	
+  
+	<boostfruit x="198" y="252"/>
+	
+  
+	<boostfruit x="113" y="92"/>
+	
+  
+	<boostfruit x="229" y="-21"/>
+	
+  
+	<boostfruit x="352" y="-122"/>
+	
+  
+	<rocketlauncher x="39" y="-156"/>
+	
+  
+	<rocketlauncher x="46" y="18"/>
+	
+  
+	<rocketlauncher x="465" y="-212"/>
+	
+  
+	<rocketlauncher x="458" y="54"/>
+	
+  
+	<track height="281" width="22" x="216" y="-201"/>
+	
+  
+	<trackblade x="220" y="-147"/>
+	
+  
+	<trackblade x="219" y="-88"/>
+	
+  
+	<trackblade x="222" y="-41"/>
+	
+  
+	<boost height="-174" width="50" x="327" y="-143"/>
+	
+  
+	<boost height="-225" width="48" x="328" y="-313"/>
+	
+  
+	<wall height="28" width="286" x="42" y="-306"/>
+	
+  
+	<wall height="25" width="128" x="376" y="-310"/>
+	
+  
+	<goal height="26" width="30" x="128" y="-516"/>
+	
+  
+	<goal height="86" width="110" x="94" y="-542"/>
+	
+  
+	<textfield text="look out" x="177" y="-356"/>
+	
+  
+	<track height="44" width="274" x="32" y="-411"/>
+	
+  
+	<trackblade x="48" y="-409"/>
+	
+  
+	<trackblade x="298" y="-407"/>
+	
+  
+	<boostfruit x="224" y="-502"/>
+	
+  
+	<boostfruit x="301" y="-501"/>
+	
+  
+	<wall height="35" width="184" x="202" y="-574"/>
+	
+  
+	<wall height="-25" width="-99" x="209" y="-539"/>
+	
+  
+	<boost height="23" width="150" x="211" y="-536"/>
+	
+  
+	<boost height="61" width="161" x="207" y="-530"/>
+	
+
+</level>

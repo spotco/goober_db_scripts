@@ -1,0 +1,125 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="Thelift">
+	
+  
+	<activatetrackwall height="51" width="402.79999999999995" x="49.1" y="418"/>
+	
+  
+	<boost height="50" width="51.1" x="50.1" y="170"/>
+	
+  
+	<boost height="49" width="50.099999999999994" x="151.3" y="170"/>
+	
+  
+	<boost height="52" width="49.10000000000002" x="250.5" y="168"/>
+	
+  
+	<boost height="53" width="49.10000000000002" x="350.7" y="169"/>
+	
+  
+	<deathwall height="48" width="99.20000000000002" x="51.1" y="20"/>
+	
+  
+	<deathwall height="53" width="-97.19999999999999" x="449.9" y="17"/>
+	
+  
+	<deathwall height="52" width="47.10000000000002" x="233.45" y="19"/>
+	
+  
+	<rocketlauncher x="439.9" y="-386"/>
+	
+  
+	<rocketlauncher x="86.15" y="-382"/>
+	
+  
+	<boost height="48" width="199.4" x="38" y="-629"/>
+	
+  
+	<boost height="51" width="199.39999999999998" x="317.65" y="-730"/>
+	
+  
+	<deathwall height="49" width="199.4" x="32" y="-729"/>
+	
+  
+	<deathwall height="50" width="196.39999999999998" x="320.55" y="-628"/>
+	
+  
+	<boost height="51" width="251.5" x="151.3" y="-905"/>
+	
+  
+	<deathwall height="48" width="252.5" x="152.3" y="-957"/>
+	
+  
+	<boostfruit x="251.5" y="-179"/>
+	
+  
+	<deathwall height="48" width="399.79999999999995" x="51.1" y="-1228"/>
+	
+  
+	<activatetrackwall height="52" width="48.10000000000002" x="449.9" y="-780"/>
+	
+  
+	<activatetrackwall height="48" width="47.1" x="2" y="-779"/>
+	
+  
+	<boost height="51" width="401.79999999999995" x="48.1" y="-1331"/>
+	
+  
+	<boost height="49" width="298.6" x="101.2" y="-1380"/>
+	
+  
+	<boost height="49" width="202.39999999999998" x="150.3" y="-1430"/>
+	
+  
+	<boost height="50" width="98.20000000000002" x="202.4" y="-1480"/>
+	
+  
+	<boost height="52" width="50.10000000000002" x="226.45" y="-1531"/>
+	
+  
+	<boostfruit x="248.5" y="-1611"/>
+	
+  
+	<boostfruit x="247.5" y="-1851"/>
+	
+  
+	<activatetrackwall height="51" width="250.5" x="0" y="-2029"/>
+	
+  
+	<activatetrackwall height="51" width="199.39999999999998" x="299.6" y="-2030"/>
+	
+  
+	<activatetrackwall height="51" width="49.10000000000002" x="251.5" y="-2280"/>
+	
+  
+	<deathwall height="52" width="48.1" x="51.1" y="-2180"/>
+	
+  
+	<deathwall height="51" width="49.10000000000002" x="359.7" y="-2226"/>
+	
+  
+	<deathwall height="34" width="27.049999999999997" x="84.15" y="-2323"/>
+	
+  
+	<deathwall height="91" width="80.14999999999998" x="157.3" y="-2207"/>
+	
+  
+	<deathwall height="44" width="45.099999999999966" x="393.8" y="-2096"/>
+	
+  
+	<deathwall height="54" width="39.099999999999966" x="428.85" y="-2308"/>
+	
+  
+	<deathwall height="59" width="68.1" x="164.35" y="-2390"/>
+	
+  
+	<deathwall height="51" width="43.10000000000002" x="347.7" y="-2433"/>
+	
+  
+	<goal height="101" width="147.29999999999998" x="201.4" y="-2730"/>
+	
+  
+	<textfield text="Avoid the things in the way" x="320.65" y="91"/>
+	
+
+</level>

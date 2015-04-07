@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="dodgelvl">
+	
+  
+	<wall height="54" width="502" x="0" y="269"/>
+	
+  
+	<track height="43" width="517" x="1" y="259"/>
+	
+  
+	<trackblade height="55" width="50" x="117" y="267"/>
+	
+  
+	<trackblade height="55" width="50" x="369" y="262"/>
+	
+  
+	<boost height="-280" width="78" x="450" y="266"/>
+	
+  
+	<boost height="283" width="-55" x="49" y="-17"/>
+	
+  
+	<wall height="52" width="298" x="101" y="-30"/>
+	
+  
+	<track height="228" width="298" x="99" y="-47"/>
+	
+  
+	<trackblade x="111" y="-43"/>
+	
+  
+	<trackblade x="388" y="-43"/>
+	
+  
+	<trackblade x="247" y="-44"/>
+	
+  
+	<boost height="-395" width="66" x="222" y="-33"/>
+	
+  
+	<wall height="54" width="209" x="302" y="-430"/>
+	
+  
+	<wall height="50" width="-236" x="199" y="-429"/>
+	
+  
+	<track height="196" width="518" x="0" y="-454"/>
+	
+  
+	<trackblade x="19" y="-449"/>
+	
+  
+	<trackblade x="158" y="-451"/>
+	
+  
+	<trackblade x="355" y="-453"/>
+	
+  
+	<trackblade x="485" y="-451"/>
+	
+  
+	<goal height="24" width="23" x="472" y="-462"/>
+	
+  
+	<goal height="24" width="25" x="11" y="-459"/>
+	
+
+</level>

@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<level author="lamboe" bg="1" name="looka">
+	
+  
+	<wall height="162" width="262" x="64" y="269"/>
+	
+  
+	<textfield text="we b taking ovah dis game!" x="104" y="163"/>
+	
+  
+	<deathwall height="22" width="203" x="199" y="110"/>
+	
+  
+	<deathwall height="340" width="-40" x="402" y="132"/>
+	
+  
+	<deathwall height="-14" width="-316" x="361" y="467"/>
+	
+  
+	<deathwall height="-378" width="20" x="48" y="463"/>
+	
+  
+	<wall height="95" width="35" x="153" y="63"/>
+	
+  
+	<wall height="165" width="152" x="-116" y="-151"/>
+	
+  
+	<wall height="123" width="252" x="228" y="-153"/>
+	
+  
+	<textfield text="must...eat... froyo.... " x="298" y="-271"/>
+	
+  
+	<textfield text="we b leavin soun" x="162" y="-479"/>
+	
+  
+	<goal height="71" width="47" x="44" y="-456"/>
+	
+  
+	<goal height="80" width="124" x="91" y="-385"/>
+	
+  
+	<goal height="-51" width="161" x="307" y="-389"/>
+	
+  
+	<track height="41" width="351" x="94" y="-261"/>
+	
+  
+	<trackwall height="-33" width="208" x="211" y="-251"/>
+	
+
+</level>

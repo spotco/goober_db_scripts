@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<level author="gerda" bg="1" name="azparkes">
+	
+  
+	<activatetrackwall height="77.19999999999999" width="134.24999999999997" x="201.4" y="284.55"/>
+	
+  
+	<trackblade x="256.5" y="150.3"/>
+	
+  
+	<trackblade x="152.3" y="21.05"/>
+	
+  
+	<trackblade x="349.7" y="-38.8"/>
+	
+  
+	<trackblade x="136.25" y="-218.75"/>
+	
+  
+	<trackblade x="365.75" y="-292.9"/>
+	
+  
+	<trackblade x="248.5" y="-157.39999999999998"/>
+	
+  
+	<trackblade x="141.3" y="-341.7"/>
+	
+  
+	<trackblade x="415.85" y="-182.35000000000002"/>
+	
+  
+	<trackblade x="267.55" y="-485.75"/>
+	
+  
+	<trackblade x="254.5" y="-328.4"/>
+	
+  
+	<trackblade x="23.05" y="-121.95000000000005"/>
+	
+  
+	<goal height="222.45" width="136.3" x="58.1" y="-613.9"/>
+	
+  
+	<goal height="239.5" width="108.19999999999999" x="351.7" y="-577.85"/>
+	
+  
+	<goal height="95.14999999999998" width="139.3" x="226.45" y="-618.9"/>
+	
+  
+	<goal height="78.14999999999998" width="75.15" x="194.4" y="-608.9"/>
+	
+  
+	<goal height="60.10000000000002" width="166.29999999999998" x="190.4" y="-438.55"/>
+	
+  
+	<deathwall height="72.15000000000003" width="133.29999999999998" x="205.4" y="-516.7"/>
+	
+
+</level>

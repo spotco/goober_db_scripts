@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<level author="lamboe" bg="1" name="lamboemsk">
+	
+  
+	<wall height="96" width="302" x="73" y="315"/>
+	
+  
+	<wall height="60" width="78" x="124" y="109"/>
+	
+  
+	<wall height="46" width="82" x="266" y="124"/>
+	
+  
+	<wall height="-51" width="18" x="148" y="268"/>
+	
+  
+	<wall height="21" width="172" x="164" y="217"/>
+	
+  
+	<wall height="36" width="16" x="336" y="238"/>
+	
+  
+	<boostfruit x="228" y="-5"/>
+	
+  
+	<boostfruit x="169" y="-155"/>
+	
+  
+	<boostfruit x="115" y="-249"/>
+	
+  
+	<textfield text="eggy froyo " x="268" y="-219"/>
+	
+  
+	<textfield text="k gon compu" x="44" y="-281"/>
+	
+  
+	<goal height="42" width="369" x="102" y="-543"/>
+	
+  
+	<trackwall height="16" width="-684" x="456" y="-307"/>
+	
+  
+	<trackwall height="12" width="683" x="19" y="-348"/>
+	
+  
+	<trackwall height="17" width="-518" x="457" y="-401"/>
+	
+  
+	<trackwall height="16" width="501" x="34" y="-453"/>
+	
+
+</level>

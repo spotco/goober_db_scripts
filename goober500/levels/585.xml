@@ -1,0 +1,251 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="3" name="PINES">
+	
+  
+	<goal height="63" width="68" x="90" y="324"/>
+	
+  
+	<goal height="72" width="247" x="155" y="361"/>
+	
+  
+	<goal height="83" width="84" x="84" y="391"/>
+	
+  
+	<deathwall height="109" width="49" x="390" y="345"/>
+	
+  
+	<goal height="14" width="-25" x="442" y="393"/>
+	
+  
+	<boostfruit x="300" y="297"/>
+	
+  
+	<boostfruit x="245" y="288"/>
+	
+  
+	<boostfruit x="209" y="267"/>
+	
+  
+	<boostfruit x="216" y="222"/>
+	
+  
+	<boostfruit x="316" y="198"/>
+	
+  
+	<boostfruit x="333" y="201"/>
+	
+  
+	<boostfruit x="332" y="239"/>
+	
+  
+	<boostfruit x="275" y="248"/>
+	
+  
+	<boostfruit x="259" y="221"/>
+	
+  
+	<boostfruit x="259" y="185"/>
+	
+  
+	<boostfruit x="221" y="158"/>
+	
+  
+	<boostfruit x="212" y="159"/>
+	
+  
+	<boostfruit x="208" y="181"/>
+	
+  
+	<boostfruit x="210" y="202"/>
+	
+  
+	<boostfruit x="231" y="240"/>
+	
+  
+	<boostfruit x="318" y="276"/>
+	
+  
+	<boostfruit x="316" y="285"/>
+	
+  
+	<boostfruit x="236" y="281"/>
+	
+  
+	<boostfruit x="235" y="280"/>
+	
+  
+	<boostfruit x="159" y="162"/>
+	
+  
+	<boostfruit x="110" y="121"/>
+	
+  
+	<boostfruit x="241" y="90"/>
+	
+  
+	<boostfruit x="263" y="114"/>
+	
+  
+	<boostfruit x="136" y="93"/>
+	
+  
+	<boostfruit x="174" y="57"/>
+	
+  
+	<boostfruit x="270" y="79"/>
+	
+  
+	<boostfruit x="120" y="102"/>
+	
+  
+	<boostfruit x="197" y="116"/>
+	
+  
+	<boostfruit x="307" y="113"/>
+	
+  
+	<boostfruit x="414" y="104"/>
+	
+  
+	<boostfruit x="429" y="98"/>
+	
+  
+	<boostfruit x="465" y="250"/>
+	
+  
+	<boostfruit x="415" y="255"/>
+	
+  
+	<boostfruit x="308" y="187"/>
+	
+  
+	<boostfruit x="358" y="142"/>
+	
+  
+	<boostfruit x="371" y="97"/>
+	
+  
+	<boostfruit x="454" y="149"/>
+	
+  
+	<boostfruit x="408" y="156"/>
+	
+  
+	<boostfruit x="399" y="184"/>
+	
+  
+	<boostfruit x="385" y="198"/>
+	
+  
+	<boostfruit x="328" y="125"/>
+	
+  
+	<boostfruit x="289" y="61"/>
+	
+  
+	<boostfruit x="199" y="87"/>
+	
+  
+	<boostfruit x="227" y="62"/>
+	
+  
+	<boostfruit x="132" y="12"/>
+	
+  
+	<boostfruit x="95" y="52"/>
+	
+  
+	<boostfruit x="111" y="126"/>
+	
+  
+	<boostfruit x="142" y="59"/>
+	
+  
+	<boostfruit x="169" y="97"/>
+	
+  
+	<boostfruit x="154" y="195"/>
+	
+  
+	<boostfruit x="111" y="203"/>
+	
+  
+	<boostfruit x="101" y="222"/>
+	
+  
+	<boostfruit x="202" y="299"/>
+	
+  
+	<boostfruit x="126" y="235"/>
+	
+  
+	<boostfruit x="119" y="250"/>
+	
+  
+	<boostfruit x="119" y="259"/>
+	
+  
+	<boostfruit x="189" y="258"/>
+	
+  
+	<boostfruit x="190" y="258"/>
+	
+  
+	<boostfruit x="328" y="10"/>
+	
+  
+	<boostfruit x="235" y="23"/>
+	
+  
+	<boostfruit x="227" y="30"/>
+	
+  
+	<boostfruit x="268" y="40"/>
+	
+  
+	<boostfruit x="310" y="24"/>
+	
+  
+	<boostfruit x="337" y="34"/>
+	
+  
+	<boostfruit x="337" y="53"/>
+	
+  
+	<boostfruit x="428" y="31"/>
+	
+  
+	<boostfruit x="460" y="33"/>
+	
+  
+	<boostfruit x="476" y="46"/>
+	
+  
+	<boostfruit x="453" y="69"/>
+	
+  
+	<boostfruit x="498" y="145"/>
+	
+  
+	<boostfruit x="476" y="212"/>
+	
+  
+	<boostfruit x="466" y="308"/>
+	
+  
+	<boostfruit x="420" y="312"/>
+	
+  
+	<boostfruit x="407" y="290"/>
+	
+  
+	<boostfruit x="374" y="267"/>
+	
+  
+	<boostfruit x="363" y="267"/>
+	
+  
+	<boostfruit x="347" y="267"/>
+	
+
+</level>

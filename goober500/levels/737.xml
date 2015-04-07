@@ -1,0 +1,65 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="fasthard">
+	
+  
+	<goal height="69" width="388" x="39" y="8"/>
+	
+  
+	<wall height="109" width="430" x="50" y="334"/>
+	
+  
+	<track height="-260" width="66" x="71" y="322"/>
+	
+  
+	<track height="-247" width="41" x="89" y="322"/>
+	
+  
+	<track height="-283" width="41" x="125" y="320"/>
+	
+  
+	<track height="-277" width="10" x="109" y="325"/>
+	
+  
+	<track height="-262" width="35" x="143" y="311"/>
+	
+  
+	<track height="-275" width="48" x="158" y="328"/>
+	
+  
+	<track height="-248" width="78" x="94" y="331"/>
+	
+  
+	<trackwall height="89" width="150" x="61" y="168"/>
+	
+  
+	<track height="-261" width="50" x="86" y="339"/>
+	
+  
+	<track height="-270" width="34" x="118" y="339"/>
+	
+  
+	<track height="-244" width="69" x="109" y="330"/>
+	
+  
+	<track height="-235" width="46" x="127" y="326"/>
+	
+  
+	<track height="-255" width="61" x="104" y="341"/>
+	
+  
+	<track height="-272" width="50" x="121" y="342"/>
+	
+  
+	<track height="-242" width="44" x="132" y="324"/>
+	
+  
+	<track height="-271" width="38" x="142" y="315"/>
+	
+  
+	<track height="-302" width="41" x="155" y="328"/>
+	
+  
+	<wall height="24" width="150" x="246" y="274"/>
+	
+
+</level>

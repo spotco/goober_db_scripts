@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<level author="alpaca" bg="1" name="ididnotmakeit">
+	
+  
+	<wall height="53" width="553" x="4" y="271"/>
+	
+  
+	<textfield text="attention! i did not make the level called booger!" x="206" y="125"/>
+	
+  
+	<textfield text="some body made the level and then said that i made it!" x="233" y="12"/>
+	
+  
+	<textfield text="i would never make a level called booger!" x="160" y="-45"/>
+	
+  
+	<textfield text="who ever made the level called booger should apologize!" x="304" y="-132"/>
+	
+  
+	<wall height="420" width="49" x="9" y="-124"/>
+	
+  
+	<wall height="-65" width="254" x="146" y="-133"/>
+	
+  
+	<wall height="-62" width="206" x="315" y="-208"/>
+	
+  
+	<wall height="48" width="259" x="17" y="-380"/>
+	
+  
+	<wall height="107" width="126" x="11" y="-473"/>
+	
+  
+	<wall height="239" width="51" x="24" y="-704"/>
+	
+  
+	<textfield text="remember i did not make the level called booger!" x="288" y="-682"/>
+	
+  
+	<textfield text="someone else did!" x="242" y="-788"/>
+	
+  
+	<goal height="108" width="123" x="15" y="-818"/>
+	
+
+</level>

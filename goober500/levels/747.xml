@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="winwin2">
+	
+  
+	<wall height="73" width="514" x="4" y="396"/>
+	
+  
+	<wall height="-359" width="79" x="10" y="398"/>
+	
+  
+	<wall height="89" width="408" x="56" y="44"/>
+	
+  
+	<wall height="-396" width="-37" x="464" y="445"/>
+	
+  
+	<wall height="23" width="231" x="74" y="342"/>
+	
+  
+	<wall height="16" width="-249" x="438" y="260"/>
+	
+  
+	<wall height="22" width="-148" x="219" y="171"/>
+	
+  
+	<textfield text="I'll give you 100 dollars if you die on this level." x="305" y="170"/>
+	
+  
+	<goal height="38" width="94" x="89" y="134"/>
+	
+
+</level>

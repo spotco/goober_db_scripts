@@ -1,0 +1,89 @@
+<?xml version="1.0" ?>
+<level author="Cece" bg="1" name="Muuuah">
+	
+  
+	<wall height="98" width="493" x="6" y="271"/>
+	
+  
+	<boost height="-397" width="-51" x="301" y="-79"/>
+	
+  
+	<boost height="-450" width="-52" x="300" y="-479"/>
+	
+  
+	<boost height="-449" width="-51" x="301" y="-930"/>
+	
+  
+	<boost height="-454" width="-54" x="302" y="-1380"/>
+	
+  
+	<boost height="-397" width="-55" x="305" y="-1834"/>
+	
+  
+	<boostfruit x="275" y="-2258"/>
+	
+  
+	<boostfruit x="275" y="-2311"/>
+	
+  
+	<boostfruit x="275" y="-2354"/>
+	
+  
+	<boostfruit x="275" y="-2404"/>
+	
+  
+	<boostfruit x="276" y="-2455"/>
+	
+  
+	<boostfruit x="277" y="-2501"/>
+	
+  
+	<boostfruit x="277" y="-2552"/>
+	
+  
+	<boostfruit x="275" y="-2603"/>
+	
+  
+	<boostfruit x="272" y="-2658"/>
+	
+  
+	<boostfruit x="273" y="-2707"/>
+	
+  
+	<boostfruit x="277" y="-2756"/>
+	
+  
+	<boostfruit x="278" y="-2805"/>
+	
+  
+	<boostfruit x="271" y="-2857"/>
+	
+  
+	<boostfruit x="273" y="-2907"/>
+	
+  
+	<boostfruit x="272" y="-2957"/>
+	
+  
+	<boostfruit x="270" y="-3009"/>
+	
+  
+	<boostfruit x="275" y="-3051"/>
+	
+  
+	<goal height="131" width="139" x="206" y="-3267"/>
+	
+  
+	<textfield text="Trust me, this will extremely difficult." x="44" y="9"/>
+	
+  
+	<textfield text="JUMP!!!!" x="76" y="-2259"/>
+	
+  
+	<textfield text="I lied, it was really easy." x="68" y="-3016"/>
+	
+  
+	<boost height="299" width="50" x="251" y="-78"/>
+	
+
+</level>

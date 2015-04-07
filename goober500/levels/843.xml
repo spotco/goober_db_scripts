@@ -1,0 +1,131 @@
+<?xml version="1.0" ?>
+<level author="alpaca" bg="3" name="booger">
+	
+  
+	<wall height="51" width="-56" x="51" y="273"/>
+	
+  
+	<wall height="52" width="50" x="151" y="370"/>
+	
+  
+	<wall height="53" width="53" x="300" y="269"/>
+	
+  
+	<wall height="51" width="51" x="350" y="420"/>
+	
+  
+	<wall height="51" width="-49" x="48" y="419"/>
+	
+  
+	<wall height="50" width="55" x="451" y="269"/>
+	
+  
+	<boost height="280" width="505" x="-1" y="220"/>
+	
+  
+	<boost height="394" width="501" x="2" y="216"/>
+	
+  
+	<wall height="32" width="-82" x="72" y="210"/>
+	
+  
+	<wall height="32" width="119" x="212" y="197"/>
+	
+  
+	<wall height="51" width="109" x="429" y="187"/>
+	
+  
+	<trackwall height="32" width="132" x="400" y="-82"/>
+	
+  
+	<trackwall height="27" width="127" x="399" y="4"/>
+	
+  
+	<trackwall height="64" width="31" x="381" y="-113"/>
+	
+  
+	<trackwall height="77" width="35" x="382" y="2"/>
+	
+  
+	<boost height="21" width="-116" x="498" y="-19"/>
+	
+  
+	<boost height="15" width="-15" x="387" y="-7"/>
+	
+  
+	<boost height="216" width="10" x="373" y="3"/>
+	
+  
+	<boost height="10" width="13" x="398" y="199"/>
+	
+  
+	<boost height="12" width="11" x="354" y="184"/>
+	
+  
+	<boost height="18" width="18" x="351" y="206"/>
+	
+  
+	<activatetrackwall height="32" width="90" x="214" y="164"/>
+	
+  
+	<goal height="-493" width="218" x="3" y="-628"/>
+	
+  
+	<goal height="489" width="244" x="309" y="-1120"/>
+	
+  
+	<goal height="492" width="-214" x="208" y="-1618"/>
+	
+  
+	<goal height="-563" width="194" x="319" y="-1127"/>
+	
+  
+	<goal height="475" width="-204" x="194" y="-2083"/>
+	
+  
+	<goal height="411" width="208" x="315" y="-2081"/>
+	
+  
+	<goal height="459" width="-193" x="196" y="-2529"/>
+	
+  
+	<goal height="471" width="255" x="300" y="-2540"/>
+	
+  
+	<goal height="465" width="-221" x="217" y="-2970"/>
+	
+  
+	<goal height="455" width="255" x="266" y="-2976"/>
+	
+  
+	<goal height="355" width="-327" x="223" y="-3300"/>
+	
+  
+	<goal height="341" width="307" x="237" y="-3295"/>
+	
+  
+	<goal height="280" width="515" x="3" y="-3405"/>
+	
+  
+	<goal height="302" width="383" x="61" y="-2840"/>
+	
+  
+	<goal height="44" width="314" x="61" y="-2840"/>
+	
+  
+	<goal height="44" width="-162" x="306" y="-2866"/>
+	
+  
+	<trackblade x="247" y="-2484"/>
+	
+  
+	<track height="16" width="65" x="216" y="-2495"/>
+	
+  
+	<track height="93" width="14" x="242" y="-2523"/>
+	
+  
+	<trackblade x="252" y="-2489"/>
+	
+
+</level>

@@ -1,0 +1,410 @@
+<?xml version="1.0" ?>
+<level author="kambo" bg="1" name="kamboland">
+	
+  
+	<wall height="55" width="528" x="8" y="309"/>
+	
+  
+	<wall height="255" width="55" x="13" y="62"/>
+	
+  
+	<wall height="41" width="281" x="27" y="41"/>
+	
+  
+	<boost height="19" width="236" x="67" y="64"/>
+	
+  
+	<boostfruit x="140" y="115"/>
+	
+  
+	<boostfruit x="201" y="125"/>
+	
+  
+	<boostfruit x="279" y="129"/>
+	
+  
+	<trackblade x="421" y="70"/>
+	
+  
+	<trackblade x="426" y="63"/>
+	
+  
+	<trackblade x="426" y="84"/>
+	
+  
+	<trackblade x="424" y="106"/>
+	
+  
+	<trackblade x="424" y="106"/>
+	
+  
+	<trackblade x="424" y="109"/>
+	
+  
+	<trackblade x="424" y="118"/>
+	
+  
+	<trackblade x="424" y="131"/>
+	
+  
+	<trackblade x="424" y="145"/>
+	
+  
+	<trackblade x="424" y="149"/>
+	
+  
+	<trackblade x="424" y="157"/>
+	
+  
+	<trackblade x="422" y="185"/>
+	
+  
+	<trackblade x="422" y="200"/>
+	
+  
+	<trackblade x="422" y="213"/>
+	
+  
+	<trackblade x="422" y="230"/>
+	
+  
+	<trackblade x="422" y="254"/>
+	
+  
+	<trackblade x="422" y="273"/>
+	
+  
+	<trackblade x="422" y="287"/>
+	
+  
+	<trackblade x="446" y="35"/>
+	
+  
+	<trackblade x="448" y="39"/>
+	
+  
+	<trackblade x="448" y="69"/>
+	
+  
+	<trackblade x="452" y="90"/>
+	
+  
+	<trackblade x="453" y="111"/>
+	
+  
+	<trackblade x="450" y="131"/>
+	
+  
+	<trackblade x="446" y="163"/>
+	
+  
+	<trackblade x="446" y="192"/>
+	
+  
+	<trackblade x="445" y="237"/>
+	
+  
+	<trackblade x="444" y="280"/>
+	
+  
+	<trackblade x="448" y="294"/>
+	
+  
+	<trackblade x="464" y="289"/>
+	
+  
+	<trackblade x="480" y="249"/>
+	
+  
+	<trackblade x="476" y="218"/>
+	
+  
+	<trackblade x="473" y="183"/>
+	
+  
+	<trackblade x="473" y="142"/>
+	
+  
+	<trackblade x="474" y="110"/>
+	
+  
+	<trackblade x="475" y="80"/>
+	
+  
+	<trackblade x="476" y="56"/>
+	
+  
+	<trackblade x="475" y="48"/>
+	
+  
+	<trackblade x="455" y="46"/>
+	
+  
+	<trackblade x="452" y="56"/>
+	
+  
+	<trackblade x="465" y="93"/>
+	
+  
+	<trackblade x="473" y="122"/>
+	
+  
+	<trackblade x="481" y="164"/>
+	
+  
+	<trackblade x="479" y="195"/>
+	
+  
+	<trackblade x="466" y="249"/>
+	
+  
+	<trackblade x="464" y="277"/>
+	
+  
+	<trackblade x="457" y="271"/>
+	
+  
+	<trackblade x="453" y="190"/>
+	
+  
+	<trackblade x="450" y="156"/>
+	
+  
+	<trackblade x="460" y="191"/>
+	
+  
+	<trackblade x="463" y="234"/>
+	
+  
+	<trackblade x="472" y="252"/>
+	
+  
+	<trackblade x="493" y="269"/>
+	
+  
+	<track height="61" width="205" x="309" y="25"/>
+	
+  
+	<track height="60" width="204" x="316" y="32"/>
+	
+  
+	<boost height="34" width="10" x="304" y="45"/>
+	
+  
+	<boost height="12" width="29" x="295" y="75"/>
+	
+  
+	<textfield text="kambo lond" x="44" y="-184"/>
+	
+  
+	<textfield text="chooockooo alamacodo somethin kambakoo" x="140" y="-19"/>
+	
+  
+	<boost height="139" width="443" x="32" y="-332"/>
+	
+  
+	<activatetrackwall height="15" width="164" x="35" y="-61"/>
+	
+  
+	<activatetrackwall height="31" width="146" x="351" y="-91"/>
+	
+  
+	<activatetrackwall height="15" width="92" x="243" y="-41"/>
+	
+  
+	<activatetrackwall height="12" width="104" x="140" y="-123"/>
+	
+  
+	<activatetrackwall height="76" width="38" x="437" y="-181"/>
+	
+  
+	<activatetrackwall height="17" width="92" x="248" y="-191"/>
+	
+  
+	<activatetrackwall height="52" width="-25" x="234" y="-198"/>
+	
+  
+	<activatetrackwall height="79" width="20" x="14" y="-189"/>
+	
+  
+	<activatetrackwall height="14" width="74" x="90" y="-99"/>
+	
+  
+	<activatetrackwall height="24" width="56" x="53" y="-14"/>
+	
+  
+	<activatetrackwall height="41" width="24" x="354" y="-39"/>
+	
+  
+	<bossactivate explode="no" height="184" hp="6" width="443" x="45" y="-516"/>
+	
+  
+	<bossactivate explode="no" height="181" hp="6" width="-57" x="59" y="-509"/>
+	
+  
+	<boostfruit x="236" y="-623"/>
+	
+  
+	<boostfruit x="236" y="-618"/>
+	
+  
+	<boostfruit x="241" y="-585"/>
+	
+  
+	<boostfruit x="243" y="-573"/>
+	
+  
+	<boostfruit x="251" y="-550"/>
+	
+  
+	<boostfruit x="256" y="-538"/>
+	
+  
+	<boostfruit x="285" y="-494"/>
+	
+  
+	<boostfruit x="315" y="-439"/>
+	
+  
+	<boostfruit x="302" y="-424"/>
+	
+  
+	<boostfruit x="264" y="-410"/>
+	
+  
+	<boostfruit x="237" y="-404"/>
+	
+  
+	<boostfruit x="220" y="-389"/>
+	
+  
+	<boostfruit x="264" y="-744"/>
+	
+  
+	<boostfruit x="238" y="-711"/>
+	
+  
+	<boostfruit x="236" y="-691"/>
+	
+  
+	<boostfruit x="239" y="-677"/>
+	
+  
+	<trackblade x="26" y="-823"/>
+	
+  
+	<track height="93" width="471" x="21" y="-858"/>
+	
+  
+	<track height="82" width="412" x="13" y="-822"/>
+	
+  
+	<track height="67" width="418" x="22" y="-851"/>
+	
+  
+	<track height="85" width="501" x="14" y="-834"/>
+	
+  
+	<textfield text="it no ovah yet!" x="131" y="-677"/>
+	
+  
+	<activatetrackwall height="37" width="258" x="68" y="-934"/>
+	
+  
+	<deathwall height="178" width="248" x="26" y="-1115"/>
+	
+  
+	<deathwall height="191" width="58" x="32" y="-1437"/>
+	
+  
+	<deathwall height="39" width="178" x="13" y="-1605"/>
+	
+  
+	<wall height="-113" width="374" x="180" y="-1706"/>
+	
+  
+	<wall height="30" width="-118" x="184" y="-1818"/>
+	
+  
+	<wall height="13" width="-34" x="72" y="-1807"/>
+	
+  
+	<boostfruit x="39" y="-1727"/>
+	
+  
+	<boostfruit x="58" y="-1720"/>
+	
+  
+	<boostfruit x="82" y="-1705"/>
+	
+  
+	<boostfruit x="97" y="-1699"/>
+	
+  
+	<boostfruit x="152" y="-1689"/>
+	
+  
+	<boostfruit x="184" y="-1679"/>
+	
+  
+	<boostfruit x="215" y="-1669"/>
+	
+  
+	<boostfruit x="244" y="-1659"/>
+	
+  
+	<boostfruit x="245" y="-1656"/>
+	
+  
+	<boostfruit x="160" y="-1691"/>
+	
+  
+	<boostfruit x="106" y="-1702"/>
+	
+  
+	<boostfruit x="104" y="-1702"/>
+	
+  
+	<boostfruit x="130" y="-1693"/>
+	
+  
+	<boostfruit x="132" y="-1692"/>
+	
+  
+	<trackwall height="76" width="155" x="64" y="-2082"/>
+	
+  
+	<trackwall height="85" width="100" x="200" y="-2022"/>
+	
+  
+	<trackwall height="52" width="94" x="256" y="-1943"/>
+	
+  
+	<trackwall height="30" width="72" x="313" y="-1897"/>
+	
+  
+	<trackwall height="22" width="33" x="375" y="-1875"/>
+	
+  
+	<rocketlauncher x="49" y="-2226"/>
+	
+  
+	<rocketlauncher x="432" y="-2238"/>
+	
+  
+	<rocketlauncher x="44" y="-2374"/>
+	
+  
+	<rocketlauncher x="413" y="-2336"/>
+	
+  
+	<boost height="398" width="90" x="151" y="-2491"/>
+	
+  
+	<goal height="46" width="355" x="39" y="-2576"/>
+	
+  
+	<deathwall height="41" width="260" x="260" y="-1443"/>
+	
+
+</level>

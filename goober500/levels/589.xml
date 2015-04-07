@@ -1,0 +1,203 @@
+<?xml version="1.0" ?>
+<level author="fart" bg="1" name="fart">
+	
+  
+	<activatetrackwall height="221" width="493" x="0" y="271"/>
+	
+  
+	<flowerboss y="460"/>
+	
+  
+	<wall height="260" width="35" x="337" y="-161"/>
+	
+  
+	<wall height="346" width="40" x="463" y="-176"/>
+	
+  
+	<trackblade x="23" y="-158"/>
+	
+  
+	<trackblade x="63" y="-158"/>
+	
+  
+	<trackblade x="63" y="-158"/>
+	
+  
+	<trackblade x="84" y="-160"/>
+	
+  
+	<trackblade x="92" y="-161"/>
+	
+  
+	<trackblade x="92" y="-161"/>
+	
+  
+	<trackblade x="101" y="-161"/>
+	
+  
+	<trackblade x="101" y="-161"/>
+	
+  
+	<trackblade x="101" y="-161"/>
+	
+  
+	<trackblade x="101" y="-161"/>
+	
+  
+	<trackblade x="115" y="-162"/>
+	
+  
+	<trackblade x="117" y="-161"/>
+	
+  
+	<trackblade x="120" y="-161"/>
+	
+  
+	<trackblade x="129" y="-160"/>
+	
+  
+	<trackblade x="133" y="-160"/>
+	
+  
+	<trackblade x="137" y="-160"/>
+	
+  
+	<trackblade x="144" y="-160"/>
+	
+  
+	<trackblade x="156" y="-159"/>
+	
+  
+	<trackblade x="157" y="-158"/>
+	
+  
+	<trackblade x="171" y="-172"/>
+	
+  
+	<trackblade x="184" y="-171"/>
+	
+  
+	<trackblade x="189" y="-167"/>
+	
+  
+	<trackblade x="201" y="-165"/>
+	
+  
+	<trackblade x="202" y="-150"/>
+	
+  
+	<trackblade x="221" y="-145"/>
+	
+  
+	<trackblade x="230" y="-145"/>
+	
+  
+	<trackblade x="233" y="-145"/>
+	
+  
+	<trackblade x="245" y="-149"/>
+	
+  
+	<trackblade x="247" y="-150"/>
+	
+  
+	<trackblade x="266" y="-154"/>
+	
+  
+	<trackblade x="280" y="-154"/>
+	
+  
+	<trackblade x="288" y="-152"/>
+	
+  
+	<trackblade x="291" y="-148"/>
+	
+  
+	<trackblade x="313" y="-150"/>
+	
+  
+	<trackblade x="324" y="-150"/>
+	
+  
+	<trackblade x="321" y="-150"/>
+	
+  
+	<trackblade x="252" y="-150"/>
+	
+  
+	<trackblade x="207" y="-157"/>
+	
+  
+	<trackblade x="204" y="-158"/>
+	
+  
+	<trackblade x="166" y="-159"/>
+	
+  
+	<trackblade x="114" y="-163"/>
+	
+  
+	<trackblade x="75" y="-161"/>
+	
+  
+	<trackblade x="63" y="-157"/>
+	
+  
+	<trackblade x="18" y="-156"/>
+	
+  
+	<trackblade x="18" y="-156"/>
+	
+  
+	<trackblade x="19" y="-156"/>
+	
+  
+	<trackblade x="47" y="-153"/>
+	
+  
+	<trackblade x="34" y="-153"/>
+	
+  
+	<trackblade x="33" y="-157"/>
+	
+  
+	<wall height="86" width="362" x="0" y="-242"/>
+	
+  
+	<activatetrackwall height="36" width="23" x="123" y="-282"/>
+	
+  
+	<goal height="123" width="88" x="447" y="-1556"/>
+	
+  
+	<goal height="51" width="33" x="368" y="-1700"/>
+	
+  
+	<goal height="53" width="60" x="326" y="-1403"/>
+	
+  
+	<goal height="153" width="79" x="427" y="-2243"/>
+	
+  
+	<goal height="146" width="50" x="5" y="-2182"/>
+	
+  
+	<goal height="403" width="503" x="1" y="-2544"/>
+	
+  
+	<goal height="426" width="501" x="0" y="-2970"/>
+	
+  
+	<activatetrackwall height="165" width="244" x="25" y="-396"/>
+	
+  
+	<boost height="160" width="88" x="269" y="-376"/>
+	
+  
+	<wall height="47" width="133" x="267" y="-499"/>
+	
+  
+	<wall height="122" width="84" x="373" y="-453"/>
+	
+
+</level>

@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<level author="poli" bg="1" name="222">
+	
+  
+	<activatetrackwall height="47" width="78" x="223" y="272"/>
+	
+  
+	<track height="50" width="309" x="117" y="-100"/>
+	
+  
+	<track height="58" width="321" x="114" y="-183"/>
+	
+  
+	<track height="76" width="332" x="115" y="-280"/>
+	
+  
+	<trackblade x="134" y="-95"/>
+	
+  
+	<trackblade x="422" y="-178"/>
+	
+  
+	<trackwall height="45" width="86" x="121" y="-296"/>
+	
+  
+	<boost height="-390" width="35" x="223" y="-396"/>
+	
+  
+	<boostfruit x="237" y="-901"/>
+	
+  
+	<boostfruit x="240" y="-1059"/>
+	
+  
+	<boostfruit x="238" y="-1183"/>
+	
+  
+	<boostfruit x="242" y="-1273"/>
+	
+  
+	<goal height="58" width="68" x="212" y="-1530"/>
+	
+  
+	<wall height="93" width="24" x="148" y="-1539"/>
+	
+  
+	<wall height="69" width="179" x="147" y="-1457"/>
+	
+  
+	<wall height="102" width="24" x="301" y="-1555"/>
+	
+  
+	<wall height="46" width="110" x="147" y="-1584"/>
+	
+  
+	<wall height="-143" width="20" x="301" y="-1554"/>
+	
+  
+	<wall height="-111" width="-25" x="253" y="-1586"/>
+	
+  
+	<boostfruit x="399" y="-1328"/>
+	
+  
+	<boostfruit x="95" y="-1360"/>
+	
+  
+	<bossactivate explode="no" height="143" hp="6" width="110" x="360" y="-1488"/>
+	
+
+</level>

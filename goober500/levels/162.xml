@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<level author="Kuba" bg="1" name="5555">
+	
+  
+	<laserlauncher dir="3" x="106" y="272"/>
+	
+  
+	<laserlauncher dir="-3" x="451" y="293"/>
+	
+  
+	<wall height="-83" width="24" x="211" y="301"/>
+	
+  
+	<wall height="16" width="75" x="224" y="288"/>
+	
+  
+	<wall height="-87" width="18" x="297" y="304"/>
+	
+  
+	<goal height="150" width="390" x="42" y="335"/>
+	
+  
+	<laserlauncher dir="3" x="96" y="192"/>
+	
+  
+	<laserlauncher dir="3" x="103" y="123"/>
+	
+  
+	<laserlauncher dir="-3" x="451" y="228"/>
+	
+  
+	<laserlauncher dir="-3" x="449" y="162"/>
+	
+
+</level>

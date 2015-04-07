@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="random">
+	
+  
+	<wall height="-20" width="473" x="26" y="465"/>
+	
+  
+	<wall height="45" width="135" x="339" y="260"/>
+	
+  
+	<wall height="50" width="147" x="71" y="140"/>
+	
+  
+	<wall height="-245" width="-45" x="488" y="178"/>
+	
+  
+	<boostfruit x="404" y="-114"/>
+	
+  
+	<boostfruit x="364" y="-142"/>
+	
+  
+	<boostfruit x="323" y="-172"/>
+	
+  
+	<boostfruit x="273" y="-199"/>
+	
+  
+	<boostfruit x="243" y="-216"/>
+	
+  
+	<boostfruit x="186" y="-243"/>
+	
+  
+	<track height="16" width="-134" x="158" y="-131"/>
+	
+  
+	<trackwall height="29" width="43" x="52" y="-140"/>
+	
+  
+	<boost height="-218" width="51" x="30" y="-284"/>
+	
+  
+	<activatetrackwall height="68" width="258" x="134" y="-563"/>
+	
+  
+	<wall height="-185" width="-31" x="439" y="-614"/>
+	
+  
+	<wall height="-98" width="-37" x="292" y="-760"/>
+	
+  
+	<wall height="68" width="213" x="38" y="-872"/>
+	
+  
+	<goal height="43" width="220" x="65" y="-1016"/>
+	
+  
+	<deathwall height="42" width="37" x="63" y="-739"/>
+	
+  
+	<deathwall height="26" width="35" x="270" y="-476"/>
+	
+  
+	<boost height="-202" width="62" x="109" y="430"/>
+	
+  
+	<boostfruit x="202" y="301"/>
+	
+  
+	<boostfruit x="279" y="233"/>
+	
+  
+	<boostfruit x="326" y="207"/>
+	
+  
+	<boostfruit x="239" y="270"/>
+	
+
+</level>

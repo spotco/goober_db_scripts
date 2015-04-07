@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<level author="lamboe" bg="1" name="lamboehard">
+	
+  
+	<wall height="88" width="290" x="118" y="264"/>
+	
+  
+	<wall height="-47" width="-130" x="142" y="175"/>
+	
+  
+	<goal height="76" width="392" x="70" y="33"/>
+	
+  
+	<textfield text="dis ish hardest!!!!!!!!!!!!!!" x="290" y="144"/>
+	
+  
+	<bossactivate explode="no" height="138" hp="6" width="268" x="166" y="190"/>
+	
+  
+	<wall height="-65" width="-365" x="179" y="457"/>
+	
+  
+	<cloudboss/>
+	
+  
+	<wall height="21" width="319" x="62" y="469"/>
+	
+  
+	<wall height="43" width="141" x="378" y="429"/>
+	
+
+</level>

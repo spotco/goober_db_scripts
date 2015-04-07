@@ -1,0 +1,143 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="2" name="scary">
+	
+  
+	<wall height="152" width="67" x="183" y="128"/>
+	
+  
+	<trackwall height="15" width="76" x="208" y="122"/>
+	
+  
+	<boostfruit x="269" y="165"/>
+	
+  
+	<boost height="-160" width="47" x="251" y="-241"/>
+	
+  
+	<wall height="48" width="215" x="194" y="288"/>
+	
+  
+	<wall height="-174" width="55" x="402" y="285"/>
+	
+  
+	<deathwall height="54" width="38" x="385" y="93"/>
+	
+  
+	<track height="31" width="11" x="147" y="278"/>
+	
+  
+	<wall height="-143" width="21" x="264" y="123"/>
+	
+  
+	<wall height="43" width="139" x="269" y="-47"/>
+	
+  
+	<boost height="34" width="172" x="326" y="13"/>
+	
+  
+	<boostfruit x="349" y="-535"/>
+	
+  
+	<wall height="66" width="92" x="403" y="-631"/>
+	
+  
+	<wall height="121" width="111" x="306" y="-816"/>
+	
+  
+	<wall height="23" width="55" x="251" y="-834"/>
+	
+  
+	<boostfruit x="247" y="-910"/>
+	
+  
+	<boostfruit x="358" y="-968"/>
+	
+  
+	<boostfruit x="227" y="-1033"/>
+	
+  
+	<boostfruit x="344" y="-1173"/>
+	
+  
+	<boost height="-241" width="-82" x="363" y="-1300"/>
+	
+  
+	<wall height="100" width="129" x="188" y="-1760"/>
+	
+  
+	<goal height="103" width="-93" x="286" y="-1935"/>
+	
+  
+	<goal height="93" width="44" x="271" y="-1932"/>
+	
+  
+	<boost height="103" width="59" x="316" y="-232"/>
+	
+  
+	<boostfruit x="333" y="-533"/>
+	
+  
+	<boostfruit x="383" y="-532"/>
+	
+  
+	<boostfruit x="381" y="-585"/>
+	
+  
+	<boostfruit x="308" y="-539"/>
+	
+  
+	<boostfruit x="338" y="-562"/>
+	
+  
+	<boostfruit x="365" y="-545"/>
+	
+  
+	<boostfruit x="362" y="-509"/>
+	
+  
+	<boostfruit x="347" y="-511"/>
+	
+  
+	<boostfruit x="333" y="-511"/>
+	
+  
+	<boostfruit x="322" y="-510"/>
+	
+  
+	<boostfruit x="297" y="-514"/>
+	
+  
+	<boostfruit x="306" y="-536"/>
+	
+  
+	<boostfruit x="327" y="-540"/>
+	
+  
+	<boostfruit x="343" y="-545"/>
+	
+  
+	<boostfruit x="388" y="-541"/>
+	
+  
+	<boostfruit x="397" y="-519"/>
+	
+  
+	<boostfruit x="371" y="-503"/>
+	
+  
+	<boostfruit x="371" y="-525"/>
+	
+  
+	<boostfruit x="369" y="-590"/>
+	
+  
+	<boostfruit x="377" y="-559"/>
+	
+  
+	<boostfruit x="335" y="-560"/>
+	
+  
+	<boostfruit x="359" y="-560"/>
+	
+
+</level>

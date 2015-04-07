@@ -1,0 +1,407 @@
+<?xml version="1.0" ?>
+<level author="catpakoo" bg="1" name="boutique">
+	
+  
+	<wall height="134" width="507" x="34" y="298"/>
+	
+  
+	<textfield text="welcome to the boutique! Everything's on sale today." x="143" y="104"/>
+	
+  
+	<wall height="53" width="128" x="330" y="156"/>
+	
+  
+	<wall height="-71" width="-154" x="217" y="86"/>
+	
+  
+	<boostfruit x="95" y="-123"/>
+	
+  
+	<boostfruit x="43" y="-227"/>
+	
+  
+	<boostfruit x="77" y="-463"/>
+	
+  
+	<boostfruit x="237" y="-320"/>
+	
+  
+	<boostfruit x="258" y="-316"/>
+	
+  
+	<boostfruit x="285" y="-326"/>
+	
+  
+	<boostfruit x="292" y="-333"/>
+	
+  
+	<boostfruit x="314" y="-346"/>
+	
+  
+	<boostfruit x="327" y="-354"/>
+	
+  
+	<boostfruit x="332" y="-361"/>
+	
+  
+	<boostfruit x="338" y="-364"/>
+	
+  
+	<boostfruit x="339" y="-361"/>
+	
+  
+	<boostfruit x="339" y="-352"/>
+	
+  
+	<boostfruit x="339" y="-348"/>
+	
+  
+	<boostfruit x="340" y="-338"/>
+	
+  
+	<boostfruit x="340" y="-333"/>
+	
+  
+	<boostfruit x="340" y="-326"/>
+	
+  
+	<boostfruit x="342" y="-314"/>
+	
+  
+	<boostfruit x="343" y="-308"/>
+	
+  
+	<boostfruit x="343" y="-292"/>
+	
+  
+	<boostfruit x="344" y="-282"/>
+	
+  
+	<boostfruit x="344" y="-272"/>
+	
+  
+	<boostfruit x="344" y="-265"/>
+	
+  
+	<boostfruit x="344" y="-259"/>
+	
+  
+	<boostfruit x="344" y="-254"/>
+	
+  
+	<boostfruit x="344" y="-249"/>
+	
+  
+	<boostfruit x="331" y="-268"/>
+	
+  
+	<boostfruit x="331" y="-270"/>
+	
+  
+	<boostfruit x="332" y="-273"/>
+	
+  
+	<boostfruit x="332" y="-292"/>
+	
+  
+	<boostfruit x="332" y="-308"/>
+	
+  
+	<boostfruit x="330" y="-315"/>
+	
+  
+	<boostfruit x="327" y="-333"/>
+	
+  
+	<boostfruit x="327" y="-336"/>
+	
+  
+	<boostfruit x="251" y="-328"/>
+	
+  
+	<boostfruit x="238" y="-319"/>
+	
+  
+	<boostfruit x="254" y="-320"/>
+	
+  
+	<boostfruit x="278" y="-331"/>
+	
+  
+	<boostfruit x="289" y="-336"/>
+	
+  
+	<boostfruit x="292" y="-338"/>
+	
+  
+	<boostfruit x="286" y="-335"/>
+	
+  
+	<boostfruit x="265" y="-325"/>
+	
+  
+	<boostfruit x="235" y="-316"/>
+	
+  
+	<boostfruit x="229" y="-315"/>
+	
+  
+	<boostfruit x="220" y="-308"/>
+	
+  
+	<boostfruit x="211" y="-296"/>
+	
+  
+	<boostfruit x="206" y="-292"/>
+	
+  
+	<boostfruit x="200" y="-286"/>
+	
+  
+	<boostfruit x="188" y="-279"/>
+	
+  
+	<boostfruit x="181" y="-276"/>
+	
+  
+	<boostfruit x="181" y="-276"/>
+	
+  
+	<boostfruit x="189" y="-281"/>
+	
+  
+	<boostfruit x="207" y="-291"/>
+	
+  
+	<boostfruit x="184" y="-266"/>
+	
+  
+	<boostfruit x="180" y="-266"/>
+	
+  
+	<boostfruit x="182" y="-261"/>
+	
+  
+	<boostfruit x="185" y="-259"/>
+	
+  
+	<boostfruit x="190" y="-254"/>
+	
+  
+	<boostfruit x="199" y="-251"/>
+	
+  
+	<boostfruit x="214" y="-248"/>
+	
+  
+	<boostfruit x="224" y="-248"/>
+	
+  
+	<boostfruit x="230" y="-248"/>
+	
+  
+	<boostfruit x="241" y="-249"/>
+	
+  
+	<boostfruit x="259" y="-255"/>
+	
+  
+	<boostfruit x="269" y="-259"/>
+	
+  
+	<boostfruit x="280" y="-262"/>
+	
+  
+	<boostfruit x="286" y="-264"/>
+	
+  
+	<boostfruit x="293" y="-268"/>
+	
+  
+	<boostfruit x="298" y="-272"/>
+	
+  
+	<boostfruit x="312" y="-287"/>
+	
+  
+	<boostfruit x="317" y="-291"/>
+	
+  
+	<boostfruit x="319" y="-294"/>
+	
+  
+	<boostfruit x="325" y="-302"/>
+	
+  
+	<boostfruit x="314" y="-313"/>
+	
+  
+	<boostfruit x="296" y="-308"/>
+	
+  
+	<boostfruit x="293" y="-305"/>
+	
+  
+	<boostfruit x="309" y="-319"/>
+	
+  
+	<boostfruit x="313" y="-330"/>
+	
+  
+	<boostfruit x="298" y="-328"/>
+	
+  
+	<boostfruit x="278" y="-318"/>
+	
+  
+	<boostfruit x="253" y="-324"/>
+	
+  
+	<boostfruit x="212" y="-287"/>
+	
+  
+	<boostfruit x="190" y="-271"/>
+	
+  
+	<boostfruit x="193" y="-266"/>
+	
+  
+	<boostfruit x="231" y="-272"/>
+	
+  
+	<boostfruit x="256" y="-274"/>
+	
+  
+	<boostfruit x="288" y="-279"/>
+	
+  
+	<boostfruit x="296" y="-283"/>
+	
+  
+	<boostfruit x="220" y="-269"/>
+	
+  
+	<boostfruit x="208" y="-266"/>
+	
+  
+	<boostfruit x="208" y="-266"/>
+	
+  
+	<boostfruit x="245" y="-272"/>
+	
+  
+	<boostfruit x="252" y="-280"/>
+	
+  
+	<boostfruit x="225" y="-275"/>
+	
+  
+	<boostfruit x="213" y="-272"/>
+	
+  
+	<boostfruit x="247" y="-309"/>
+	
+  
+	<boostfruit x="254" y="-311"/>
+	
+  
+	<boostfruit x="222" y="-289"/>
+	
+  
+	<boostfruit x="234" y="-294"/>
+	
+  
+	<boostfruit x="235" y="-296"/>
+	
+  
+	<boostfruit x="282" y="-296"/>
+	
+  
+	<boostfruit x="282" y="-296"/>
+	
+  
+	<boostfruit x="280" y="-296"/>
+	
+  
+	<boostfruit x="251" y="-284"/>
+	
+  
+	<boostfruit x="265" y="-266"/>
+	
+  
+	<boostfruit x="272" y="-271"/>
+	
+  
+	<boostfruit x="275" y="-286"/>
+	
+  
+	<boostfruit x="261" y="-293"/>
+	
+  
+	<boostfruit x="261" y="-293"/>
+	
+  
+	<boostfruit x="274" y="-297"/>
+	
+  
+	<boostfruit x="280" y="-300"/>
+	
+  
+	<boostfruit x="235" y="-275"/>
+	
+  
+	<boostfruit x="231" y="-261"/>
+	
+  
+	<textfield text="get these real gold heels for just 10 dollars!!!! And no, i'm not scamming" x="322" y="-432"/>
+	
+  
+	<textfield text="not scamming." x="399" y="-363"/>
+	
+  
+	<deathwall height="182" width="92" x="271" y="-724"/>
+	
+  
+	<deathwall height="31" width="-96" x="290" y="-670"/>
+	
+  
+	<deathwall height="34" width="109" x="342" y="-666"/>
+	
+  
+	<deathwall height="115" width="184" x="231" y="-564"/>
+	
+  
+	<textfield text="check out this red dress! Only 10 dollars... again!" x="314" y="-819"/>
+	
+  
+	<boostfruit x="47" y="-618"/>
+	
+  
+	<boostfruit x="89" y="-736"/>
+	
+  
+	<boostfruit x="124" y="-802"/>
+	
+  
+	<boostfruit x="132" y="-833"/>
+	
+  
+	<boostfruit x="110" y="-875"/>
+	
+  
+	<textfield text="last but not least, this sweater!! also 10 dollars." x="-3" y="-937"/>
+	
+  
+	<goal height="118" width="66" x="235" y="-1159"/>
+	
+  
+	<goal height="219" width="163" x="193" y="-1057"/>
+	
+  
+	<goal height="-46" width="-189" x="243" y="-988"/>
+	
+  
+	<goal height="53" width="152" x="335" y="-1040"/>
+	
+
+</level>

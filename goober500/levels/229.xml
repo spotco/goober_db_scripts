@@ -1,0 +1,143 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="3" name="Zgniatarka">
+	
+  
+	<trackwall height="48" width="-45" x="298" y="321"/>
+	
+  
+	<trackwall height="-44" width="-47" x="347" y="316"/>
+	
+  
+	<deathwall height="-31" width="-44" x="394" y="305"/>
+	
+  
+	<deathwall height="-46" width="-122" x="462" y="312"/>
+	
+  
+	<deathwall height="-75" width="-128" x="472" y="353"/>
+	
+  
+	<deathwall height="-52" width="-155" x="465" y="370"/>
+	
+  
+	<deathwall height="-78" width="-90" x="451" y="279"/>
+	
+  
+	<deathwall height="-60" width="-60" x="404" y="229"/>
+	
+  
+	<deathwall height="-63" width="-57" x="437" y="225"/>
+	
+  
+	<wall height="73" width="-37" x="250" y="336"/>
+	
+  
+	<wall height="48" width="-30" x="212" y="357"/>
+	
+  
+	<wall height="65" width="-29" x="180" y="370"/>
+	
+  
+	<track height="-638" width="37" x="101" y="497"/>
+	
+  
+	<trackwall height="-11" width="-81" x="136" y="488"/>
+	
+  
+	<track height="-473" width="35" x="151" y="-141"/>
+	
+  
+	<boostfruit x="261" y="-196"/>
+	
+  
+	<boostfruit x="360" y="-276"/>
+	
+  
+	<boostfruit x="409" y="-405"/>
+	
+  
+	<boostfruit x="461" y="-356"/>
+	
+  
+	<boostfruit x="439" y="-290"/>
+	
+  
+	<boostfruit x="390" y="-342"/>
+	
+  
+	<boostfruit x="468" y="-450"/>
+	
+  
+	<boostfruit x="435" y="-539"/>
+	
+  
+	<boostfruit x="415" y="-616"/>
+	
+  
+	<boostfruit x="357" y="-693"/>
+	
+  
+	<boostfruit x="277" y="-762"/>
+	
+  
+	<boostfruit x="177" y="-784"/>
+	
+  
+	<boostfruit x="145" y="-826"/>
+	
+  
+	<boostfruit x="133" y="-927"/>
+	
+  
+	<boostfruit x="144" y="-997"/>
+	
+  
+	<trackwall height="15" width="117" x="149" y="-152"/>
+	
+  
+	<trackwall height="16" width="137" x="149" y="-227"/>
+	
+  
+	<trackwall height="13" width="136" x="150" y="-306"/>
+	
+  
+	<trackwall height="12" width="145" x="149" y="-390"/>
+	
+  
+	<trackwall height="10" width="145" x="150" y="-479"/>
+	
+  
+	<trackwall height="13" width="147" x="152" y="-576"/>
+	
+  
+	<boostfruit x="105" y="-134"/>
+	
+  
+	<activatetrackwall height="-108" width="-26" x="149" y="-175"/>
+	
+  
+	<boost height="-65" width="222" x="229" y="-943"/>
+	
+  
+	<activatetrackwall height="-125" width="-34" x="484" y="-1070"/>
+	
+  
+	<activatetrackwall height="-123" width="36" x="206" y="-1081"/>
+	
+  
+	<activatetrackwall height="95" width="23" x="478" y="-1292"/>
+	
+  
+	<activatetrackwall height="60" width="48" x="464" y="-1355"/>
+	
+  
+	<track height="-42" width="-488" x="484" y="-1220"/>
+	
+  
+	<trackwall height="55" width="184" x="16" y="-1285"/>
+	
+  
+	<goal height="64" width="104" x="61" y="-1367"/>
+	
+
+</level>

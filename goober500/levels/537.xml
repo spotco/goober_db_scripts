@@ -1,0 +1,203 @@
+<?xml version="1.0" ?>
+<level author="OMAR" bg="1" name="LEVEL3010686">
+	
+  
+	<track height="23.649999999999977" width="-209.10000000000002" x="254.55" y="376.35"/>
+	
+  
+	<track height="30.899999999999977" width="200" x="271.85" y="427.3"/>
+	
+  
+	<trackblade x="77.3" y="300"/>
+	
+  
+	<trackblade x="420" y="310"/>
+	
+  
+	<trackblade x="341.85" y="181.85"/>
+	
+  
+	<trackblade x="158.2" y="165.45"/>
+	
+  
+	<trackblade x="249.1" y="71.85"/>
+	
+  
+	<trackblade x="23.65" y="500"/>
+	
+  
+	<trackblade x="488.2" y="492.75"/>
+	
+  
+	<activatetrackwall height="39.10000000000002" width="74.55000000000001" x="70" y="368.2"/>
+	
+  
+	<activatetrackwall height="30.899999999999977" width="42.75" x="319.1" y="419.1"/>
+	
+  
+	<trackwall height="16.350000000000023" width="35.45000000000002" x="191.85" y="372.75"/>
+	
+  
+	<trackwall height="17.25" width="31.850000000000023" x="430.9" y="422.75"/>
+	
+  
+	<boostfruit x="151.85" y="310"/>
+	
+  
+	<boostfruit x="200.9" y="265.45"/>
+	
+  
+	<boostfruit x="245.45" y="188.2"/>
+	
+  
+	<boostfruit x="297.3" y="235.45"/>
+	
+  
+	<boostfruit x="351.85" y="314.55"/>
+	
+  
+	<boostfruit x="371.85" y="260.9"/>
+	
+  
+	<boostfruit x="402.75" y="210"/>
+	
+  
+	<boostfruit x="425.45" y="192.75"/>
+	
+  
+	<boostfruit x="440.9" y="163.65"/>
+	
+  
+	<boostfruit x="254.55" y="145.45"/>
+	
+  
+	<boostfruit x="254.55" y="145.45"/>
+	
+  
+	<boostfruit x="284.55" y="130"/>
+	
+  
+	<boostfruit x="344.55" y="129.1"/>
+	
+  
+	<boostfruit x="384.55" y="129.1"/>
+	
+  
+	<boostfruit x="414.55" y="129.1"/>
+	
+  
+	<boostfruit x="136.35" y="270"/>
+	
+  
+	<boostfruit x="115.45" y="237.3"/>
+	
+  
+	<boostfruit x="102.75" y="224.55"/>
+	
+  
+	<boostfruit x="89.1" y="208.2"/>
+	
+  
+	<boostfruit x="69.1" y="188.2"/>
+	
+  
+	<boostfruit x="69.1" y="188.2"/>
+	
+  
+	<boostfruit x="62.75" y="172.75"/>
+	
+  
+	<boostfruit x="62.75" y="172.75"/>
+	
+  
+	<boostfruit x="41.85" y="136.35"/>
+	
+  
+	<boostfruit x="57.3" y="123.65"/>
+	
+  
+	<boostfruit x="110.9" y="124.55"/>
+	
+  
+	<boostfruit x="185.45" y="124.55"/>
+	
+  
+	<boostfruit x="206.35" y="125.45"/>
+	
+  
+	<boostfruit x="227.3" y="128.2"/>
+	
+  
+	<boostfruit x="369.1" y="114.55"/>
+	
+  
+	<boostfruit x="354.55" y="63.65"/>
+	
+  
+	<boostfruit x="345.45" y="26.35"/>
+	
+  
+	<boostfruit x="336.35" y="23.65"/>
+	
+  
+	<boostfruit x="254.55" y="23.65"/>
+	
+  
+	<boostfruit x="187.3" y="20"/>
+	
+  
+	<boostfruit x="176.35" y="27.3"/>
+	
+  
+	<boostfruit x="165.45" y="67.3"/>
+	
+  
+	<boostfruit x="165.45" y="99.1"/>
+	
+  
+	<boost height="395.45" width="404.55" x="62.75" y="-470"/>
+	
+  
+	<trackblade x="75.45" y="-573.65"/>
+	
+  
+	<trackblade x="436.35" y="-560"/>
+	
+  
+	<trackblade x="248.2" y="-575.45"/>
+	
+  
+	<activatetrackwall height="32.69999999999999" width="99.1" x="113.65" y="-502.7"/>
+	
+  
+	<activatetrackwall height="37.30000000000001" width="106.35000000000002" x="290" y="-509.1"/>
+	
+  
+	<boost height="360" width="440.9" x="57.3" y="-1231.8"/>
+	
+  
+	<track height="-245.45000000000005" width="13.650000000000006" x="170" y="-1315"/>
+	
+  
+	<track height="-267.25" width="14.550000000000011" x="278.2" y="-1309.55"/>
+	
+  
+	<trackwall height="14.550000000000182" width="20" x="150" y="-1345.9"/>
+	
+  
+	<trackwall height="27.299999999999955" width="20.899999999999977" x="280" y="-1345"/>
+	
+  
+	<trackwall height="12.75" width="32.69999999999999" x="163.65" y="-1345"/>
+	
+  
+	<goal height="280.89999999999986" width="281.8" x="84.55" y="-1886.35"/>
+	
+  
+	<track height="-358.1999999999998" width="-22.69999999999999" x="384.55" y="-1225.9"/>
+	
+  
+	<trackwall height="30.90000000000009" width="35.44999999999999" x="351.85" y="-1365"/>
+	
+
+</level>

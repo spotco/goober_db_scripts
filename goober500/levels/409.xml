@@ -1,0 +1,182 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="hardlevel">
+	
+  
+	<wall height="57" width="534" x="5" y="269"/>
+	
+  
+	<textfield text="get on the rocket!" x="225" y="156"/>
+	
+  
+	<boost height="-298" width="51" x="5" y="266"/>
+	
+  
+	<boost height="-362" width="62" x="6" y="-32"/>
+	
+  
+	<boost height="-395" width="599" x="0" y="-398"/>
+	
+  
+	<bossactivate explode="no" height="81" hp="6" width="-562" x="498" y="-718"/>
+	
+  
+	<bossactivate explode="no" height="92" hp="6" width="563" x="2" y="-548"/>
+	
+  
+	<boostfruit x="72" y="-846"/>
+	
+  
+	<boostfruit x="193" y="-937"/>
+	
+  
+	<boostfruit x="391" y="-979"/>
+	
+  
+	<boostfruit x="450" y="-800"/>
+	
+  
+	<boostfruit x="335" y="-914"/>
+	
+  
+	<boostfruit x="192" y="-842"/>
+	
+  
+	<boostfruit x="98" y="-993"/>
+	
+  
+	<boostfruit x="208" y="-1097"/>
+	
+  
+	<boostfruit x="31" y="-1105"/>
+	
+  
+	<boostfruit x="388" y="-1127"/>
+	
+  
+	<boostfruit x="275" y="-1023"/>
+	
+  
+	<boostfruit x="280" y="-1236"/>
+	
+  
+	<boostfruit x="101" y="-1176"/>
+	
+  
+	<boostfruit x="157" y="-1319"/>
+	
+  
+	<boostfruit x="32" y="-1262"/>
+	
+  
+	<boostfruit x="289" y="-1132"/>
+	
+  
+	<boostfruit x="162" y="-1208"/>
+	
+  
+	<boostfruit x="366" y="-1265"/>
+	
+  
+	<textfield text="An asteroid shower!" x="77" y="-1193"/>
+	
+  
+	<textfield text="Your ship broke, so float around in space!" x="346" y="-1269"/>
+	
+  
+	<boostfruit x="44" y="-1430"/>
+	
+  
+	<boostfruit x="423" y="-1613"/>
+	
+  
+	<boostfruit x="45" y="-1774"/>
+	
+  
+	<boostfruit x="409" y="-1912"/>
+	
+  
+	<wall height="324" width="37" x="418" y="-2265"/>
+	
+  
+	<wall height="35" width="-188" x="420" y="-1977"/>
+	
+  
+	<wall height="24" width="25" x="233" y="-2018"/>
+	
+  
+	<wall height="26" width="24" x="232" y="-2058"/>
+	
+  
+	<wall height="22" width="25" x="232" y="-2092"/>
+	
+  
+	<wall height="27" width="27" x="231" y="-2136"/>
+	
+  
+	<wall height="26" width="26" x="230" y="-2183"/>
+	
+  
+	<wall height="22" width="24" x="233" y="-2225"/>
+	
+  
+	<wall height="15" width="198" x="233" y="-2264"/>
+	
+  
+	<laserlauncher dir="-3" x="303" y="-2241"/>
+	
+  
+	<laserlauncher dir="-3" x="302" y="-2149"/>
+	
+  
+	<laserlauncher dir="-3" x="303" y="-2069"/>
+	
+  
+	<laserlauncher dir="-3" x="298" y="-1983"/>
+	
+  
+	<laserlauncher dir="3" x="302" y="-2198"/>
+	
+  
+	<laserlauncher dir="3" x="299" y="-2110"/>
+	
+  
+	<laserlauncher dir="3" x="299" y="-2028"/>
+	
+  
+	<wall height="28" width="165" x="257" y="-2136"/>
+	
+  
+	<wall height="21" width="171" x="254" y="-2092"/>
+	
+  
+	<wall height="26" width="180" x="254" y="-2183"/>
+	
+  
+	<wall height="22" width="183" x="254" y="-2225"/>
+	
+  
+	<wall height="25" width="210" x="252" y="-2058"/>
+	
+  
+	<wall height="22" width="183" x="253" y="-2018"/>
+	
+  
+	<textfield text="argh!" x="50" y="-2109"/>
+	
+  
+	<boostfruit x="54" y="-1771"/>
+	
+  
+	<boostfruit x="57" y="-1772"/>
+	
+  
+	<boostfruit x="64" y="-1776"/>
+	
+  
+	<boostfruit x="82" y="-1780"/>
+	
+  
+	<goal height="50" width="46" x="412" y="-2317"/>
+	
+
+</level>

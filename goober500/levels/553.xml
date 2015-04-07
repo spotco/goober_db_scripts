@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<level author="bump" bg="1" name="food">
+	
+  
+	<trackwall height="15" width="396" x="79" y="396"/>
+	
+  
+	<boost height="25" width="171" x="170" y="376"/>
+	
+  
+	<textfield text="next" x="114" y="292"/>
+	
+  
+	<track height="273" width="44" x="390" y="87"/>
+	
+  
+	<trackwall height="71" width="176" x="294" y="181"/>
+	
+  
+	<goal height="147" width="196" x="20" y="12"/>
+	
+  
+	<goal height="98" width="206" x="9" y="20"/>
+	
+  
+	<goal height="64" width="218" x="7" y="16"/>
+	
+  
+	<goal height="85" width="136" x="72" y="12"/>
+	
+  
+	<goal height="281" width="85" x="73" y="140"/>
+	
+
+</level>

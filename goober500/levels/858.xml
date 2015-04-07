@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<level author="lamboe" bg="1" name="froyobeer">
+	
+  
+	<wall height="100" width="230" x="123" y="328"/>
+	
+  
+	<wall height="158" width="57" x="205" y="144"/>
+	
+  
+	<wall height="86" width="41" x="297" y="195"/>
+	
+  
+	<wall height="104" width="-61" x="365" y="117"/>
+	
+  
+	<wall height="16" width="-113" x="287" y="199"/>
+	
+  
+	<wall height="22" width="-140" x="149" y="212"/>
+	
+  
+	<wall height="-17" width="73" x="35" y="226"/>
+	
+  
+	<wall height="168" width="23" x="179" y="227"/>
+	
+  
+	<wall height="45" width="-58" x="51" y="416"/>
+	
+  
+	<wall height="13" width="-39" x="402" y="387"/>
+	
+  
+	<wall height="15" width="-18" x="342" y="406"/>
+	
+  
+	<wall height="-46" width="-176" x="433" y="125"/>
+	
+  
+	<wall height="60" width="-60" x="232" y="76"/>
+	
+  
+	<wall height="94" width="-16" x="155" y="148"/>
+	
+  
+	<textfield text="lamboeljkambo!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!" x="351" y="452"/>
+	
+  
+	<textfield text="pizzafroyo!!!" x="71" y="-29"/>
+	
+  
+	<boostfruit x="427" y="233"/>
+	
+  
+	<boost height="-265" width="-81" x="276" y="-61"/>
+	
+  
+	<textfield text="getb hiiiiihguiiiiiiiiiiigh!" x="307" y="-138"/>
+	
+  
+	<goal height="-159" width="252" x="143" y="-843"/>
+	
+  
+	<boost height="431" width="158" x="195" y="-826"/>
+	
+
+</level>

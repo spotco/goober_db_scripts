@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<level author="cvbvbxzv" bg="1" name="bncvxn">
+	
+  
+	<wall height="100" width="100" x="200" y="320"/>
+	
+  
+	<wall height="100" width="50" x="50" y="120"/>
+	
+  
+	<wall height="101" width="47" x="202" y="-81"/>
+	
+  
+	<track height="-399" width="-48" x="399" y="-81"/>
+	
+  
+	<trackwall height="78" width="99" x="300" y="-159"/>
+	
+  
+	<bossactivate explode="no" height="49" hp="6" width="49" x="251" y="-630"/>
+	
+  
+	<boostfruit x="275" y="-605"/>
+	
+  
+	<boostfruit x="425" y="-605"/>
+	
+  
+	<textfield text="pick one" x="362" y="-681"/>
+	
+  
+	<goal height="82" width="117" x="273" y="-777"/>
+	
+
+</level>

@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<level author="ellentt" bg="1" name="runningplay2">
+	
+  
+	<activatetrackwall height="57" width="135" x="205" y="325"/>
+	
+  
+	<wall height="32" width="96" x="347" y="278"/>
+	
+  
+	<wall height="30" width="57" x="415" y="200"/>
+	
+  
+	<rocketlauncher x="45" y="142"/>
+	
+  
+	<rocketlauncher x="64" y="185"/>
+	
+  
+	<boostfruit x="379" y="166"/>
+	
+  
+	<boostfruit x="309" y="88"/>
+	
+  
+	<boostfruit x="360" y="158"/>
+	
+  
+	<boostfruit x="364" y="157"/>
+	
+  
+	<boostfruit x="349" y="141"/>
+	
+  
+	<boostfruit x="344" y="133"/>
+	
+  
+	<boostfruit x="339" y="130"/>
+	
+  
+	<boostfruit x="333" y="124"/>
+	
+  
+	<boostfruit x="328" y="116"/>
+	
+  
+	<boostfruit x="319" y="107"/>
+	
+  
+	<boostfruit x="318" y="106"/>
+	
+  
+	<boostfruit x="318" y="106"/>
+	
+  
+	<boostfruit x="303" y="89"/>
+	
+  
+	<boostfruit x="296" y="84"/>
+	
+  
+	<boostfruit x="294" y="83"/>
+	
+  
+	<track height="-262" width="33" x="211" y="161"/>
+	
+  
+	<trackwall height="43" width="65" x="196" y="54"/>
+	
+  
+	<boost height="-181" width="-38" x="438" y="90"/>
+	
+  
+	<deathwall height="54" width="22" x="141" y="-43"/>
+	
+  
+	<deathwall height="46" width="27" x="139" y="78"/>
+	
+  
+	<deathwall height="36" width="40" x="125" y="-115"/>
+	
+  
+	<boost height="195" width="55" x="202" y="-314"/>
+	
+  
+	<wall height="65" width="122" x="316" y="-338"/>
+	
+  
+	<wall height="72" width="126" x="42" y="-346"/>
+	
+  
+	<goal height="102" width="54" x="206" y="-474"/>
+	
+
+</level>

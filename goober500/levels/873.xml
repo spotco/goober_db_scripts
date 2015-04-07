@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<level author="lamboe" bg="1" name="fashioncop2">
+	
+  
+	<wall height="423" width="166" x="48" y="59"/>
+	
+  
+	<wall height="-53" width="-444" x="496" y="519"/>
+	
+  
+	<wall height="-420" width="95" x="417" y="476"/>
+	
+  
+	<track height="-377" width="82" x="239" y="41"/>
+	
+  
+	<trackwall height="52" width="89" x="210" y="-128"/>
+	
+  
+	<textfield text="buzzzzzzzzzzzzzzzzzz" x="92" y="-338"/>
+	
+  
+	<textfield text="play dis an all ma lovels" x="371" y="-483"/>
+	
+  
+	<goal height="81" width="291" x="112" y="-609"/>
+	
+  
+	<wall height="-23" width="-116" x="192" y="-194"/>
+	
+  
+	<track height="39" width="475" x="21" y="-461"/>
+	
+  
+	<track height="-42" width="-457" x="483" y="-425"/>
+	
+  
+	<track height="30" width="470" x="25" y="-467"/>
+	
+  
+	<track height="-31" width="-477" x="493" y="-437"/>
+	
+  
+	<track height="28" width="491" x="16" y="-470"/>
+	
+  
+	<track height="53" width="479" x="12" y="-484"/>
+	
+  
+	<track height="-20" width="-465" x="483" y="-461"/>
+	
+  
+	<wall height="58" width="127" x="312" y="-379"/>
+	
+  
+	<trackblade x="61" y="-467"/>
+	
+  
+	<trackblade x="227" y="-459"/>
+	
+  
+	<trackblade x="308" y="-470"/>
+	
+  
+	<trackblade x="394" y="-469"/>
+	
+  
+	<trackblade x="434" y="-468"/>
+	
+  
+	<trackblade x="435" y="-468"/>
+	
+  
+	<trackblade x="412" y="-468"/>
+	
+  
+	<trackblade x="363" y="-468"/>
+	
+  
+	<trackblade x="277" y="-477"/>
+	
+  
+	<trackblade x="140" y="-471"/>
+	
+  
+	<trackblade x="140" y="-471"/>
+	
+  
+	<trackblade x="120" y="-471"/>
+	
+  
+	<trackblade x="120" y="-471"/>
+	
+  
+	<trackblade x="143" y="-469"/>
+	
+  
+	<trackblade x="200" y="-475"/>
+	
+  
+	<trackblade x="225" y="-472"/>
+	
+  
+	<trackblade x="255" y="-471"/>
+	
+  
+	<trackblade x="318" y="-462"/>
+	
+
+</level>

@@ -1,0 +1,116 @@
+<?xml version="1.0" ?>
+<level author="upset" bg="1" name="boring">
+	
+  
+	<activatetrackwall height="38" width="282" x="124" y="283"/>
+	
+  
+	<boostfruit x="206" y="150"/>
+	
+  
+	<boostfruit x="216" y="151"/>
+	
+  
+	<boostfruit x="237" y="153"/>
+	
+  
+	<boostfruit x="254" y="151"/>
+	
+  
+	<boostfruit x="282" y="158"/>
+	
+  
+	<boostfruit x="318" y="161"/>
+	
+  
+	<boostfruit x="339" y="162"/>
+	
+  
+	<boostfruit x="341" y="164"/>
+	
+  
+	<boostfruit x="328" y="205"/>
+	
+  
+	<boostfruit x="321" y="200"/>
+	
+  
+	<boostfruit x="312" y="187"/>
+	
+  
+	<boostfruit x="298" y="176"/>
+	
+  
+	<boostfruit x="249" y="168"/>
+	
+  
+	<boostfruit x="236" y="167"/>
+	
+  
+	<boostfruit x="217" y="175"/>
+	
+  
+	<boostfruit x="202" y="185"/>
+	
+  
+	<boostfruit x="227" y="199"/>
+	
+  
+	<boostfruit x="261" y="190"/>
+	
+  
+	<boostfruit x="284" y="191"/>
+	
+  
+	<boostfruit x="299" y="203"/>
+	
+  
+	<boostfruit x="298" y="209"/>
+	
+  
+	<boostfruit x="228" y="219"/>
+	
+  
+	<boostfruit x="197" y="222"/>
+	
+  
+	<boostfruit x="207" y="235"/>
+	
+  
+	<boostfruit x="258" y="232"/>
+	
+  
+	<boostfruit x="302" y="232"/>
+	
+  
+	<boostfruit x="319" y="242"/>
+	
+  
+	<boostfruit x="279" y="261"/>
+	
+  
+	<boostfruit x="217" y="256"/>
+	
+  
+	<boostfruit x="233" y="268"/>
+	
+  
+	<boostfruit x="349" y="261"/>
+	
+  
+	<boostfruit x="304" y="263"/>
+	
+  
+	<wall height="-275" width="-59" x="173" y="276"/>
+	
+  
+	<goal height="58" width="102" x="173" y="8"/>
+	
+  
+	<boost height="-225" width="-56" x="408" y="273"/>
+	
+  
+	<wall height="33" width="208" x="169" y="264"/>
+	
+
+</level>

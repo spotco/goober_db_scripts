@@ -1,0 +1,143 @@
+<?xml version="1.0" ?>
+<level author="trose" bg="1" name="Llamas">
+	
+  
+	<wall height="98" width="230" x="150" y="278"/>
+	
+  
+	<wall height="181" width="72" x="371" y="99"/>
+	
+  
+	<wall height="183" width="-83" x="299" y="-73"/>
+	
+  
+	<boost height="116" width="99" x="206" y="-281"/>
+	
+  
+	<activatetrackwall height="174" width="98" x="323" y="-452"/>
+	
+  
+	<activatetrackwall height="175" width="63" x="169" y="-449"/>
+	
+  
+	<boostfruit x="272" y="-517"/>
+	
+  
+	<boostfruit x="212" y="-603"/>
+	
+  
+	<boostfruit x="242" y="-601"/>
+	
+  
+	<boostfruit x="275" y="-592"/>
+	
+  
+	<boostfruit x="286" y="-569"/>
+	
+  
+	<boostfruit x="336" y="-560"/>
+	
+  
+	<boostfruit x="331" y="-611"/>
+	
+  
+	<boostfruit x="294" y="-663"/>
+	
+  
+	<boostfruit x="227" y="-626"/>
+	
+  
+	<boostfruit x="243" y="-579"/>
+	
+  
+	<boostfruit x="241" y="-535"/>
+	
+  
+	<boostfruit x="317" y="-622"/>
+	
+  
+	<boostfruit x="246" y="-622"/>
+	
+  
+	<boostfruit x="273" y="-553"/>
+	
+  
+	<boostfruit x="251" y="-629"/>
+	
+  
+	<boostfruit x="294" y="-557"/>
+	
+  
+	<boostfruit x="313" y="-562"/>
+	
+  
+	<boostfruit x="300" y="-659"/>
+	
+  
+	<boostfruit x="269" y="-620"/>
+	
+  
+	<boostfruit x="288" y="-618"/>
+	
+  
+	<boostfruit x="304" y="-627"/>
+	
+  
+	<boostfruit x="327" y="-550"/>
+	
+  
+	<boostfruit x="267" y="-581"/>
+	
+  
+	<boostfruit x="337" y="-589"/>
+	
+  
+	<boostfruit x="289" y="-598"/>
+	
+  
+	<boostfruit x="251" y="-538"/>
+	
+  
+	<boostfruit x="257" y="-584"/>
+	
+  
+	<boostfruit x="204" y="-579"/>
+	
+  
+	<boostfruit x="274" y="-545"/>
+	
+  
+	<boostfruit x="290" y="-645"/>
+	
+  
+	<boostfruit x="254" y="-663"/>
+	
+  
+	<boostfruit x="254" y="-588"/>
+	
+  
+	<boostfruit x="312" y="-641"/>
+	
+  
+	<boostfruit x="285" y="-565"/>
+	
+  
+	<boostfruit x="37" y="-422"/>
+	
+  
+	<wall height="194" width="40" x="181" y="-885"/>
+	
+  
+	<deathwall height="192" width="182" x="330" y="-885"/>
+	
+  
+	<textfield text="Llamas are awesome" x="72" y="-874"/>
+	
+  
+	<boost height="387" width="401" x="77" y="-1314"/>
+	
+  
+	<goal height="-45" width="81" x="78" y="-1394"/>
+	
+
+</level>

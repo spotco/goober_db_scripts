@@ -1,0 +1,158 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="BOMBS">
+	
+  
+	<wall height="86" width="476" x="57" y="349"/>
+	
+  
+	<wall height="-32" width="39" x="154" y="436"/>
+	
+  
+	<boostfruit x="261" y="307"/>
+	
+  
+	<boostfruit x="241" y="188"/>
+	
+  
+	<boostfruit x="262" y="187"/>
+	
+  
+	<boostfruit x="277" y="185"/>
+	
+  
+	<boostfruit x="255" y="166"/>
+	
+  
+	<boostfruit x="255" y="166"/>
+	
+  
+	<boostfruit x="257" y="152"/>
+	
+  
+	<boostfruit x="257" y="136"/>
+	
+  
+	<boostfruit x="257" y="133"/>
+	
+  
+	<boostfruit x="257" y="133"/>
+	
+  
+	<boostfruit x="254" y="111"/>
+	
+  
+	<boostfruit x="255" y="109"/>
+	
+  
+	<boostfruit x="255" y="109"/>
+	
+  
+	<boostfruit x="266" y="92"/>
+	
+  
+	<boostfruit x="251" y="79"/>
+	
+  
+	<boostfruit x="249" y="79"/>
+	
+  
+	<boostfruit x="268" y="70"/>
+	
+  
+	<boostfruit x="268" y="60"/>
+	
+  
+	<boostfruit x="256" y="42"/>
+	
+  
+	<boostfruit x="256" y="27"/>
+	
+  
+	<boostfruit x="256" y="17"/>
+	
+  
+	<boostfruit x="256" y="7"/>
+	
+  
+	<boostfruit x="256" y="-3"/>
+	
+  
+	<boostfruit x="256" y="-18"/>
+	
+  
+	<boostfruit x="256" y="-33"/>
+	
+  
+	<boostfruit x="256" y="-48"/>
+	
+  
+	<boostfruit x="256" y="-58"/>
+	
+  
+	<boostfruit x="256" y="-73"/>
+	
+  
+	<boostfruit x="256" y="-88"/>
+	
+  
+	<boostfruit x="256" y="-103"/>
+	
+  
+	<boostfruit x="256" y="-118"/>
+	
+  
+	<boostfruit x="256" y="-133"/>
+	
+  
+	<boostfruit x="256" y="-148"/>
+	
+  
+	<boostfruit x="256" y="-163"/>
+	
+  
+	<boostfruit x="256" y="-178"/>
+	
+  
+	<boostfruit x="256" y="-188"/>
+	
+  
+	<boostfruit x="256" y="-198"/>
+	
+  
+	<boostfruit x="256" y="-208"/>
+	
+  
+	<boostfruit x="256" y="-223"/>
+	
+  
+	<boostfruit x="256" y="-238"/>
+	
+  
+	<boostfruit x="256" y="-253"/>
+	
+  
+	<boostfruit x="256" y="-268"/>
+	
+  
+	<boostfruit x="256" y="-278"/>
+	
+  
+	<boostfruit x="256" y="-293"/>
+	
+  
+	<boostfruit x="256" y="-308"/>
+	
+  
+	<boostfruit x="256" y="-323"/>
+	
+  
+	<bossactivate explode="no" height="160" hp="6" width="-57" x="434" y="-220"/>
+	
+  
+	<bossactivate explode="no" height="110" hp="6" width="-47" x="78" y="-204"/>
+	
+  
+	<goal height="88" width="374" x="99" y="-346"/>
+	
+
+</level>

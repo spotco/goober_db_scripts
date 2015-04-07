@@ -1,0 +1,371 @@
+<?xml version="1.0" ?>
+<level author="alpaca" bg="1" name="monah">
+	
+  
+	<wall height="60" width="250" x="150" y="269"/>
+	
+  
+	<wall height="-338" width="-75" x="150" y="324"/>
+	
+  
+	<deathwall height="46" width="124" x="350" y="72"/>
+	
+  
+	<wall height="49" width="223" x="299" y="21"/>
+	
+  
+	<wall height="43" width="210" x="301" y="180"/>
+	
+  
+	<deathwall height="41" width="-29" x="358" y="74"/>
+	
+  
+	<deathwall height="48" width="19" x="472" y="72"/>
+	
+  
+	<boost height="28" width="182" x="308" y="157"/>
+	
+  
+	<boostfruit x="338" y="115"/>
+	
+  
+	<boostfruit x="362" y="121"/>
+	
+  
+	<boostfruit x="373" y="121"/>
+	
+  
+	<boostfruit x="407" y="119"/>
+	
+  
+	<boostfruit x="462" y="121"/>
+	
+  
+	<boostfruit x="466" y="121"/>
+	
+  
+	<boostfruit x="480" y="122"/>
+	
+  
+	<boostfruit x="441" y="116"/>
+	
+  
+	<boostfruit x="414" y="121"/>
+	
+  
+	<goal height="27" width="158" x="324" y="130"/>
+	
+  
+	<boostfruit x="339" y="104"/>
+	
+  
+	<boostfruit x="352" y="114"/>
+	
+  
+	<boostfruit x="368" y="115"/>
+	
+  
+	<boostfruit x="402" y="113"/>
+	
+  
+	<boostfruit x="430" y="117"/>
+	
+  
+	<boostfruit x="456" y="121"/>
+	
+  
+	<boostfruit x="471" y="121"/>
+	
+  
+	<boostfruit x="377" y="119"/>
+	
+  
+	<boostfruit x="396" y="116"/>
+	
+  
+	<boostfruit x="420" y="120"/>
+	
+  
+	<boostfruit x="163" y="188"/>
+	
+  
+	<boostfruit x="199" y="185"/>
+	
+  
+	<boostfruit x="243" y="190"/>
+	
+  
+	<boostfruit x="281" y="191"/>
+	
+  
+	<boostfruit x="136" y="326"/>
+	
+  
+	<boostfruit x="141" y="364"/>
+	
+  
+	<boostfruit x="145" y="390"/>
+	
+  
+	<boostfruit x="138" y="350"/>
+	
+  
+	<boostfruit x="142" y="396"/>
+	
+  
+	<boostfruit x="144" y="408"/>
+	
+  
+	<boostfruit x="142" y="373"/>
+	
+  
+	<boostfruit x="136" y="337"/>
+	
+  
+	<boostfruit x="145" y="414"/>
+	
+  
+	<boostfruit x="160" y="412"/>
+	
+  
+	<boostfruit x="171" y="412"/>
+	
+  
+	<boostfruit x="179" y="413"/>
+	
+  
+	<boostfruit x="184" y="413"/>
+	
+  
+	<boostfruit x="226" y="362"/>
+	
+  
+	<boostfruit x="216" y="367"/>
+	
+  
+	<boostfruit x="202" y="391"/>
+	
+  
+	<boostfruit x="213" y="402"/>
+	
+  
+	<boostfruit x="228" y="405"/>
+	
+  
+	<boostfruit x="244" y="394"/>
+	
+  
+	<boostfruit x="240" y="377"/>
+	
+  
+	<boostfruit x="231" y="365"/>
+	
+  
+	<boostfruit x="202" y="382"/>
+	
+  
+	<boostfruit x="134" y="339"/>
+	
+  
+	<boostfruit x="135" y="356"/>
+	
+  
+	<boostfruit x="130" y="389"/>
+	
+  
+	<boostfruit x="130" y="393"/>
+	
+  
+	<boostfruit x="134" y="406"/>
+	
+  
+	<boostfruit x="134" y="413"/>
+	
+  
+	<boostfruit x="132" y="369"/>
+	
+  
+	<boostfruit x="132" y="365"/>
+	
+  
+	<boostfruit x="132" y="349"/>
+	
+  
+	<boostfruit x="135" y="334"/>
+	
+  
+	<boostfruit x="267" y="327"/>
+	
+  
+	<boostfruit x="267" y="327"/>
+	
+  
+	<boostfruit x="267" y="345"/>
+	
+  
+	<boostfruit x="267" y="376"/>
+	
+  
+	<boostfruit x="267" y="393"/>
+	
+  
+	<boostfruit x="268" y="406"/>
+	
+  
+	<boostfruit x="264" y="355"/>
+	
+  
+	<boostfruit x="265" y="407"/>
+	
+  
+	<boostfruit x="276" y="409"/>
+	
+  
+	<boostfruit x="287" y="409"/>
+	
+  
+	<boostfruit x="300" y="409"/>
+	
+  
+	<boostfruit x="307" y="409"/>
+	
+  
+	<boostfruit x="329" y="325"/>
+	
+  
+	<boostfruit x="329" y="325"/>
+	
+  
+	<boostfruit x="330" y="351"/>
+	
+  
+	<boostfruit x="331" y="355"/>
+	
+  
+	<boostfruit x="333" y="360"/>
+	
+  
+	<boostfruit x="335" y="376"/>
+	
+  
+	<boostfruit x="334" y="384"/>
+	
+  
+	<boostfruit x="333" y="411"/>
+	
+  
+	<boostfruit x="330" y="344"/>
+	
+  
+	<boostfruit x="344" y="415"/>
+	
+  
+	<boostfruit x="344" y="422"/>
+	
+  
+	<boostfruit x="338" y="428"/>
+	
+  
+	<boostfruit x="331" y="424"/>
+	
+  
+	<boostfruit x="171" y="136"/>
+	
+  
+	<boostfruit x="218" y="123"/>
+	
+  
+	<boostfruit x="259" y="126"/>
+	
+  
+	<boostfruit x="207" y="45"/>
+	
+  
+	<boostfruit x="270" y="54"/>
+	
+  
+	<boostfruit x="183" y="61"/>
+	
+  
+	<boostfruit x="235" y="74"/>
+	
+  
+	<boostfruit x="225" y="12"/>
+	
+  
+	<boostfruit x="171" y="16"/>
+	
+  
+	<boostfruit x="267" y="25"/>
+	
+  
+	<boostfruit x="176" y="90"/>
+	
+  
+	<boostfruit x="323" y="103"/>
+	
+  
+	<boostfruit x="277" y="86"/>
+	
+  
+	<boostfruit x="244" y="103"/>
+	
+  
+	<boostfruit x="287" y="125"/>
+	
+  
+	<boostfruit x="229" y="157"/>
+	
+  
+	<boostfruit x="266" y="160"/>
+	
+  
+	<boostfruit x="156" y="-6"/>
+	
+  
+	<boostfruit x="190" y="-28"/>
+	
+  
+	<boostfruit x="242" y="-8"/>
+	
+  
+	<boostfruit x="276" y="-8"/>
+	
+  
+	<boostfruit x="250" y="-74"/>
+	
+  
+	<boostfruit x="194" y="-34"/>
+	
+  
+	<boostfruit x="239" y="-31"/>
+	
+  
+	<boostfruit x="217" y="-28"/>
+	
+  
+	<boostfruit x="264" y="-29"/>
+	
+  
+	<boostfruit x="197" y="-65"/>
+	
+  
+	<boostfruit x="236" y="-59"/>
+	
+  
+	<goal height="83" width="96" x="89" y="-103"/>
+	
+  
+	<textfield text="yo fellow goobers are monah!" x="82" y="226"/>
+	
+  
+	<textfield text="mmmm a hamburger!" x="389" y="264"/>
+	
+  
+	<textfield text="heehee hoho i drank!" x="343" y="-67"/>
+	
+  
+	<flowerboss y="619"/>
+	
+
+</level>

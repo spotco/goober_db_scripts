@@ -1,0 +1,176 @@
+<?xml version="1.0" ?>
+<level author="cue" bg="1" name="eduardo">
+	
+  
+	<wall height="229" width="276.54999999999995" x="201.4" y="264"/>
+	
+  
+	<wall height="-147" width="-216.45000000000002" x="199.4" y="259"/>
+	
+  
+	<boost height="-230" width="-51.1" x="52.1" y="102"/>
+	
+  
+	<wall height="31" width="446.9" x="52.15" y="-127"/>
+	
+  
+	<boostfruit x="209.4" y="-165"/>
+	
+  
+	<boostfruit x="273.55" y="-163"/>
+	
+  
+	<boostfruit x="325.65" y="-165"/>
+	
+  
+	<boostfruit x="329.65" y="37"/>
+	
+  
+	<boostfruit x="329.65" y="37"/>
+	
+  
+	<boostfruit x="330.65" y="38"/>
+	
+  
+	<boostfruit x="330.65" y="38"/>
+	
+  
+	<boostfruit x="330.65" y="38"/>
+	
+  
+	<boostfruit x="330.65" y="38"/>
+	
+  
+	<boostfruit x="332.65" y="38"/>
+	
+  
+	<boostfruit x="126.25" y="-171"/>
+	
+  
+	<boostfruit x="126.25" y="-171"/>
+	
+  
+	<boostfruit x="126.25" y="-171"/>
+	
+  
+	<boostfruit x="126.25" y="-171"/>
+	
+  
+	<boostfruit x="126.25" y="-171"/>
+	
+  
+	<boostfruit x="126.25" y="-171"/>
+	
+  
+	<boostfruit x="126.25" y="-171"/>
+	
+  
+	<boostfruit x="126.25" y="-171"/>
+	
+  
+	<boostfruit x="126.25" y="-171"/>
+	
+  
+	<boostfruit x="126.25" y="-171"/>
+	
+  
+	<boostfruit x="126.25" y="-171"/>
+	
+  
+	<boostfruit x="126.25" y="-171"/>
+	
+  
+	<boostfruit x="126.25" y="-171"/>
+	
+  
+	<boostfruit x="126.25" y="-171"/>
+	
+  
+	<boostfruit x="126.25" y="-171"/>
+	
+  
+	<boostfruit x="126.25" y="-171"/>
+	
+  
+	<boostfruit x="126.25" y="-171"/>
+	
+  
+	<boostfruit x="126.25" y="-171"/>
+	
+  
+	<boostfruit x="98.2" y="37"/>
+	
+  
+	<boostfruit x="146.3" y="37"/>
+	
+  
+	<boostfruit x="156.3" y="35"/>
+	
+  
+	<boostfruit x="202.4" y="28"/>
+	
+  
+	<boostfruit x="296.6" y="34"/>
+	
+  
+	<boostfruit x="365.75" y="13"/>
+	
+  
+	<boostfruit x="436.85" y="20"/>
+	
+  
+	<boostfruit x="416.85" y="37"/>
+	
+  
+	<boostfruit x="170.35" y="28"/>
+	
+  
+	<boostfruit x="153.3" y="-3"/>
+	
+  
+	<boostfruit x="291.6" y="-52"/>
+	
+  
+	<boostfruit x="315.65" y="24"/>
+	
+  
+	<boostfruit x="162.3" y="9"/>
+	
+  
+	<boostfruit x="273.55" y="2"/>
+	
+  
+	<boostfruit x="257.5" y="22"/>
+	
+  
+	<boostfruit x="246.5" y="0"/>
+	
+  
+	<boostfruit x="138.3" y="53"/>
+	
+  
+	<boostfruit x="213.45" y="4"/>
+	
+  
+	<boostfruit x="225.45" y="12"/>
+	
+  
+	<boostfruit x="217.45" y="52"/>
+	
+  
+	<wall height="-230" width="-86.19999999999999" x="494" y="-137"/>
+	
+  
+	<boost height="-267" width="-50.099999999999966" x="484.95" y="-377"/>
+	
+  
+	<wall height="105" width="-463.90000000000003" x="431.85" y="-647"/>
+	
+  
+	<laserlauncher dir="3" x="223.45" y="-850"/>
+	
+  
+	<goal height="300" width="-127.25" x="95.2" y="-932"/>
+	
+
+</level>

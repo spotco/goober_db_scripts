@@ -1,0 +1,96 @@
+<level name="ummmmuhhh" bg="1">
+  <wall x="26" y="286" width="463" height="63"/>
+  <wall x="143" y="277" width="-96" height="-579"/>
+  <boostfruit x="182" y="-354"/>
+  <boostfruit x="208" y="-387"/>
+  <boostfruit x="212" y="-435"/>
+  <boostfruit x="162" y="-464"/>
+  <boostfruit x="180" y="-486"/>
+  <boostfruit x="197" y="-489"/>
+  <boostfruit x="218" y="-488"/>
+  <boostfruit x="182" y="-650"/>
+  <boostfruit x="154" y="-639"/>
+  <boostfruit x="163" y="-614"/>
+  <boostfruit x="181" y="-609"/>
+  <boostfruit x="200" y="-603"/>
+  <boostfruit x="211" y="-585"/>
+  <boostfruit x="212" y="-577"/>
+  <boostfruit x="188" y="-555"/>
+  <boostfruit x="174" y="-541"/>
+  <boostfruit x="172" y="-513"/>
+  <boostfruit x="182" y="-504"/>
+  <boostfruit x="218" y="-494"/>
+  <boostfruit x="227" y="-482"/>
+  <boostfruit x="208" y="-426"/>
+  <boostfruit x="194" y="-416"/>
+  <boostfruit x="181" y="-394"/>
+  <boostfruit x="183" y="-378"/>
+  <boostfruit x="205" y="-360"/>
+  <boostfruit x="220" y="-353"/>
+  <boostfruit x="221" y="-346"/>
+  <boostfruit x="196" y="-325"/>
+  <boostfruit x="185" y="-330"/>
+  <boostfruit x="166" y="-340"/>
+  <boostfruit x="172" y="-347"/>
+  <boostfruit x="191" y="-377"/>
+  <boostfruit x="171" y="-402"/>
+  <boostfruit x="172" y="-419"/>
+  <boostfruit x="201" y="-435"/>
+  <boostfruit x="200" y="-452"/>
+  <boostfruit x="178" y="-466"/>
+  <boostfruit x="160" y="-484"/>
+  <boostfruit x="157" y="-516"/>
+  <boostfruit x="167" y="-569"/>
+  <boostfruit x="186" y="-575"/>
+  <boostfruit x="198" y="-594"/>
+  <boostfruit x="169" y="-610"/>
+  <boostfruit x="133" y="-635"/>
+  <boostfruit x="168" y="-640"/>
+  <boostfruit x="196" y="-645"/>
+  <boostfruit x="205" y="-651"/>
+  <boostfruit x="185" y="-671"/>
+  <boostfruit x="173" y="-673"/>
+  <boostfruit x="166" y="-676"/>
+  <boostfruit x="200" y="-700"/>
+  <boostfruit x="223" y="-693"/>
+  <boostfruit x="219" y="-694"/>
+  <boostfruit x="183" y="-699"/>
+  <boostfruit x="164" y="-660"/>
+  <boostfruit x="219" y="-623"/>
+  <boostfruit x="186" y="-582"/>
+  <boostfruit x="169" y="-563"/>
+  <boostfruit x="154" y="-546"/>
+  <boostfruit x="209" y="-463"/>
+  <boostfruit x="218" y="-443"/>
+  <boostfruit x="171" y="-390"/>
+  <boostfruit x="166" y="-363"/>
+  <boostfruit x="192" y="-328"/>
+  <rocketlauncher x="448" y="-898"/>
+  <rocketlauncher x="32" y="-862"/>
+  <track x="61" y="-994" width="355" height="23"/>
+  <trackblade x="91" y="-991"/>
+  <activatetrackwall x="25" y="-754" width="134" height="24"/>
+  <activatetrackwall x="242" y="-760" width="117" height="22"/>
+  <boostfruit x="187" y="-939"/>
+  <boostfruit x="187" y="-929"/>
+  <boostfruit x="187" y="-911"/>
+  <boostfruit x="187" y="-906"/>
+  <boostfruit x="187" y="-889"/>
+  <boostfruit x="187" y="-873"/>
+  <boostfruit x="187" y="-860"/>
+  <boostfruit x="203" y="-1319"/>
+  <boostfruit x="201" y="-1296"/>
+  <boostfruit x="203" y="-1278"/>
+  <boostfruit x="203" y="-1239"/>
+  <boostfruit x="203" y="-1209"/>
+  <boostfruit x="203" y="-1194"/>
+  <boostfruit x="198" y="-1151"/>
+  <boostfruit x="203" y="-1112"/>
+  <activatetrackwall x="27" y="-1444" width="168" height="70"/>
+  <deathwall x="15" y="-1621" width="105" height="19"/>
+  <deathwall x="111" y="-2006" width="94" height="239"/>
+  <goal x="42" y="-2328" width="458" height="265"/>
+  <textfield x="337" y="-2208" text="hey look goober is home!"/>
+  <textfield x="232" y="-2351" text="welcome home!"/>
+  <cloudboss/>
+</level>

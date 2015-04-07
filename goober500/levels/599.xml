@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<level author="sdasdasdasd" bg="2" name="sadasdassadas">
+	
+  
+	<boostfruit x="74" y="415"/>
+	
+  
+	<boostfruit x="79" y="417"/>
+	
+  
+	<wall height="32" width="93" x="180" y="457"/>
+	
+  
+	<goal height="137" width="-151" x="277" y="-961"/>
+	
+  
+	<wall height="24" width="251" x="265" y="459"/>
+	
+  
+	<wall height="21" width="-209" x="191" y="463"/>
+	
+  
+	<wall height="45" width="58" x="41" y="240"/>
+	
+  
+	<wall height="52" width="78" x="129" y="117"/>
+	
+  
+	<wall height="53" width="102" x="285" y="33"/>
+	
+  
+	<boostfruit x="118" y="69"/>
+	
+  
+	<boost height="150" width="49" x="229" y="39"/>
+	
+  
+	<activatetrackwall height="129" width="103" x="361" y="-185"/>
+	
+  
+	<trackblade x="248" y="-182"/>
+	
+  
+	<deathwall height="149" width="102" x="365" y="-372"/>
+	
+  
+	<wall height="233" width="-11" x="295" y="-310"/>
+	
+  
+	<wall height="-131" width="11" x="334" y="-250"/>
+	
+  
+	<boostfruit x="288" y="-532"/>
+	
+  
+	<boostfruit x="233" y="-595"/>
+	
+  
+	<boostfruit x="153" y="-636"/>
+	
+  
+	<boostfruit x="238" y="-753"/>
+	
+  
+	<wall height="27" width="150" x="53" y="-764"/>
+	
+
+</level>

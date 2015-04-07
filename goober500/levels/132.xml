@@ -1,0 +1,77 @@
+<?xml version="1.0" ?>
+<level author="Denzel" bg="3" name="JumpJump">
+	
+  
+	<wall height="106" width="104.2" x="33.05" y="139"/>
+	
+  
+	<wall height="-68" width="-92.19999999999999" x="443.9" y="372"/>
+	
+  
+	<wall height="-74" width="102.19999999999999" x="63.15" y="550"/>
+	
+  
+	<wall height="-60" width="-69.15000000000003" x="289.6" y="668"/>
+	
+  
+	<rocketlauncher x="13.05" y="526"/>
+	
+  
+	<rocketlauncher x="462.95" y="528"/>
+	
+  
+	<rocketlauncher x="35.05" y="331"/>
+	
+  
+	<rocketlauncher x="419.85" y="429"/>
+	
+  
+	<boostfruit x="203.4" y="434"/>
+	
+  
+	<boostfruit x="255.5" y="389"/>
+	
+  
+	<boostfruit x="318.65" y="345"/>
+	
+  
+	<boostfruit x="312.65" y="249"/>
+	
+  
+	<boostfruit x="262.55" y="212"/>
+	
+  
+	<boostfruit x="195.4" y="173"/>
+	
+  
+	<wall height="-73" width="-68.1" x="235.45" y="15"/>
+	
+  
+	<wall height="-110" width="-169.35000000000002" x="420.85" y="-120"/>
+	
+  
+	<wall height="66" width="-122.25000000000001" x="145.3" y="-343"/>
+	
+  
+	<wall height="-65" width="-94.19999999999999" x="346.7" y="-454"/>
+	
+  
+	<wall height="-68" width="-47.10000000000001" x="144.3" y="-633"/>
+	
+  
+	<boostfruit x="121.25" y="66"/>
+	
+  
+	<boostfruit x="201.4" y="-289"/>
+	
+  
+	<boostfruit x="165.35" y="-394"/>
+	
+  
+	<boostfruit x="212.4" y="-592"/>
+	
+  
+	<goal height="-184" width="-82.15" x="147.3" y="-814"/>
+	
+
+</level>

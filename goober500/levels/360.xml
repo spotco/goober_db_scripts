@@ -1,0 +1,164 @@
+<?xml version="1.0" ?>
+<level author="abcd" bg="1" name="thelevel">
+	
+  
+	<wall height="53.14999999999998" width="204.60000000000002" x="145.7" y="268"/>
+	
+  
+	<textfield text="hello:)wish you good luck:)" x="161.7" y="189.7"/>
+	
+  
+	<track height="48" width="354.3" x="40.55" y="187.45"/>
+	
+  
+	<trackwall height="37.150000000000006" width="86.85000000000001" x="77.7" y="176"/>
+	
+  
+	<wall height="100.55" width="90.85000000000002" x="401.7" y="71.45"/>
+	
+  
+	<wall height="104" width="101.15" x="198.85" y="-32.4"/>
+	
+  
+	<activatetrackwall height="101.69999999999999" width="99.99999999999999" x="49.7" y="-131.7"/>
+	
+  
+	<wall height="52.55" width="98.85000000000002" x="200" y="-180.25"/>
+	
+  
+	<boostfruit x="400.55" y="-256.4"/>
+	
+  
+	<boostfruit x="320.55" y="-364.4"/>
+	
+  
+	<boostfruit x="410.85" y="-463.85"/>
+	
+  
+	<wall height="54.849999999999966" width="101.70000000000002" x="198.85" y="-480.4"/>
+	
+  
+	<deathwall height="185.7" width="94.30000000000001" x="58.85" y="-414.7"/>
+	
+  
+	<textfield text="jump quickly!!!" x="122.25" y="-138.10000000000002"/>
+	
+  
+	<trackblade x="81.7" y="-505.85"/>
+	
+  
+	<trackblade x="475.45" y="-607.55"/>
+	
+  
+	<trackblade x="162.85" y="-657.85"/>
+	
+  
+	<textfield text="you can do it!" x="204.55" y="-560.7"/>
+	
+  
+	<wall height="54.25" width="66.29999999999998" x="205.15" y="-685.25"/>
+	
+  
+	<activatetrackwall height="37.150000000000034" width="99.44999999999999" x="330.85" y="-567.05"/>
+	
+  
+	<wall height="76" width="96.00000000000001" x="52.55" y="-783.25"/>
+	
+  
+	<boostfruit height="28" width="24" x="202.25" y="-837"/>
+	
+  
+	<boostfruit height="28" width="24" x="272.55" y="-894.7"/>
+	
+  
+	<wall height="48.55000000000007" width="109.69999999999999" x="351.45" y="-926.1"/>
+	
+  
+	<track height="13.149999999999977" width="275.45" x="80" y="-986.25"/>
+	
+  
+	<trackwall height="37.75" width="103.45" x="96.55" y="-996"/>
+	
+  
+	<boost height="178.29999999999995" width="74.85000000000001" x="83.45" y="-1204"/>
+	
+  
+	<boost height="205.14999999999986" width="76.00000000000001" x="82.3" y="-1411.55"/>
+	
+  
+	<boostfruit x="238.85" y="-1759.25"/>
+	
+  
+	<boostfruit x="219.45" y="-1706.1"/>
+	
+  
+	<boostfruit x="269.7" y="-1706.1"/>
+	
+  
+	<boostfruit x="174.3" y="-1664.4"/>
+	
+  
+	<boostfruit x="121.15" y="-1661"/>
+	
+  
+	<boostfruit x="176.55" y="-1599.85"/>
+	
+  
+	<boostfruit x="145.15" y="-1620.4"/>
+	
+  
+	<boostfruit x="290.85" y="-1691.85"/>
+	
+  
+	<boostfruit x="368" y="-1691.25"/>
+	
+  
+	<boostfruit x="332.55" y="-1686.1"/>
+	
+  
+	<boostfruit x="365.15" y="-1667.85"/>
+	
+  
+	<boostfruit x="349.7" y="-1630.1"/>
+	
+  
+	<boostfruit x="183.45" y="-1544.4"/>
+	
+  
+	<boostfruit x="230.85" y="-1575.25"/>
+	
+  
+	<boostfruit x="257.7" y="-1558.1"/>
+	
+  
+	<boostfruit x="281.7" y="-1530.7"/>
+	
+  
+	<boostfruit x="306.85" y="-1622.1"/>
+	
+  
+	<boostfruit x="306.85" y="-1579.25"/>
+	
+  
+	<boostfruit x="318.3" y="-1527.25"/>
+	
+  
+	<wall height="56.59999999999991" width="150.89999999999998" x="48.55" y="-1831.85"/>
+	
+  
+	<trackblade x="429.15" y="-1840.4"/>
+	
+  
+	<trackblade x="473.7" y="-1645"/>
+	
+  
+	<boost height="290.25" width="149.70000000000002" x="197.15" y="-2135.1"/>
+	
+  
+	<rocketlauncher x="80" y="-2095.25"/>
+	
+  
+	<goal height="162.8499999999999" width="318.3" x="124" y="-2338.1"/>
+	
+
+</level>

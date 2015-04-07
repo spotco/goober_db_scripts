@@ -1,0 +1,329 @@
+<?xml version="1.0" ?>
+<level author="alpaca" bg="1" name="whichway2reedo">
+	
+  
+	<goal height="17" width="25" x="1" y="505"/>
+	
+  
+	<boost height="-412" width="-78" x="112" y="244"/>
+	
+  
+	<boost height="-310" width="-49" x="486" y="248"/>
+	
+  
+	<boost height="-252" width="-43" x="479" y="-69"/>
+	
+  
+	<boost height="-222" width="-79" x="94" y="-180"/>
+	
+  
+	<deathwall height="52" width="168" x="315" y="-363"/>
+	
+  
+	<track height="29" width="391" x="108" y="-724"/>
+	
+  
+	<track height="54" width="383" x="113" y="-772"/>
+	
+  
+	<track height="41" width="374" x="115" y="-760"/>
+	
+  
+	<track height="92" width="411" x="117" y="-754"/>
+	
+  
+	<track height="111" width="392" x="118" y="-744"/>
+	
+  
+	<trackblade x="115" y="-769"/>
+	
+  
+	<trackblade x="148" y="-766"/>
+	
+  
+	<trackblade x="169" y="-764"/>
+	
+  
+	<trackblade x="186" y="-764"/>
+	
+  
+	<trackblade x="226" y="-764"/>
+	
+  
+	<trackblade x="268" y="-765"/>
+	
+  
+	<trackblade x="305" y="-765"/>
+	
+  
+	<trackblade x="356" y="-761"/>
+	
+  
+	<trackblade x="412" y="-755"/>
+	
+  
+	<trackblade x="444" y="-751"/>
+	
+  
+	<trackblade x="447" y="-747"/>
+	
+  
+	<trackblade x="343" y="-727"/>
+	
+  
+	<trackblade x="233" y="-723"/>
+	
+  
+	<trackblade x="160" y="-719"/>
+	
+  
+	<trackblade x="117" y="-720"/>
+	
+  
+	<trackblade x="102" y="-720"/>
+	
+  
+	<trackblade x="115" y="-733"/>
+	
+  
+	<trackblade x="139" y="-754"/>
+	
+  
+	<trackblade x="160" y="-763"/>
+	
+  
+	<trackblade x="240" y="-754"/>
+	
+  
+	<trackblade x="287" y="-749"/>
+	
+  
+	<trackblade x="349" y="-746"/>
+	
+  
+	<trackblade x="417" y="-741"/>
+	
+  
+	<trackblade x="450" y="-735"/>
+	
+  
+	<trackblade x="271" y="-718"/>
+	
+  
+	<trackblade x="163" y="-717"/>
+	
+  
+	<trackblade x="143" y="-723"/>
+	
+  
+	<trackblade x="190" y="-745"/>
+	
+  
+	<trackblade x="228" y="-734"/>
+	
+  
+	<trackblade x="317" y="-737"/>
+	
+  
+	<trackblade x="404" y="-729"/>
+	
+  
+	<trackblade x="439" y="-747"/>
+	
+  
+	<trackblade x="452" y="-756"/>
+	
+  
+	<trackblade x="479" y="-757"/>
+	
+  
+	<trackblade x="495" y="-751"/>
+	
+  
+	<trackblade x="304" y="-752"/>
+	
+  
+	<trackblade x="232" y="-746"/>
+	
+  
+	<trackblade x="171" y="-734"/>
+	
+  
+	<trackblade x="176" y="-731"/>
+	
+  
+	<trackblade x="252" y="-721"/>
+	
+  
+	<trackblade x="414" y="-734"/>
+	
+  
+	<activatetrackwall height="14" width="240" x="130" y="-469"/>
+	
+  
+	<boostfruit x="22" y="-672"/>
+	
+  
+	<boostfruit x="26" y="-669"/>
+	
+  
+	<boostfruit x="41" y="-649"/>
+	
+  
+	<boostfruit x="49" y="-631"/>
+	
+  
+	<boostfruit x="60" y="-612"/>
+	
+  
+	<boostfruit x="72" y="-587"/>
+	
+  
+	<boostfruit x="88" y="-554"/>
+	
+  
+	<boostfruit x="19" y="-902"/>
+	
+  
+	<boostfruit x="14" y="-873"/>
+	
+  
+	<boostfruit x="15" y="-816"/>
+	
+  
+	<boostfruit x="15" y="-757"/>
+	
+  
+	<boostfruit x="14" y="-737"/>
+	
+  
+	<boostfruit x="10" y="-695"/>
+	
+  
+	<boostfruit x="17" y="-821"/>
+	
+  
+	<boostfruit x="19" y="-795"/>
+	
+  
+	<boostfruit x="14" y="-785"/>
+	
+  
+	<boostfruit x="4" y="-834"/>
+	
+  
+	<boostfruit x="11" y="-835"/>
+	
+  
+	<boostfruit x="13" y="-840"/>
+	
+  
+	<wall height="61" width="436" x="48" y="-963"/>
+	
+  
+	<wall height="-340" width="-82" x="107" y="-1090"/>
+	
+  
+	<boostfruit x="264" y="-1284"/>
+	
+  
+	<boostfruit x="264" y="-1280"/>
+	
+  
+	<boostfruit x="263" y="-1243"/>
+	
+  
+	<boostfruit x="265" y="-1215"/>
+	
+  
+	<boostfruit x="266" y="-1172"/>
+	
+  
+	<boostfruit x="267" y="-1124"/>
+	
+  
+	<boostfruit x="270" y="-1075"/>
+	
+  
+	<boostfruit x="273" y="-1017"/>
+	
+  
+	<boostfruit x="488" y="-1076"/>
+	
+  
+	<wall height="-348" width="-134" x="492" y="-1074"/>
+	
+  
+	<wall height="-332" width="-141" x="493" y="-1431"/>
+	
+  
+	<wall height="-470" width="-91" x="104" y="-1434"/>
+	
+  
+	<deathwall height="61" width="262" x="235" y="-1810"/>
+	
+  
+	<wall height="18" width="186" x="198" y="-1916"/>
+	
+  
+	<wall height="12" width="181" x="343" y="-2033"/>
+	
+  
+	<wall height="70" width="197" x="13" y="-2120"/>
+	
+  
+	<wall height="144" width="96" x="11" y="-2315"/>
+	
+  
+	<wall height="61" width="53" x="3" y="-2438"/>
+	
+  
+	<wall height="33" width="114" x="102" y="-2532"/>
+	
+  
+	<deathwall height="45" width="268" x="24" y="-2635"/>
+	
+  
+	<deathwall height="96" width="49" x="242" y="-2591"/>
+	
+  
+	<wall height="58" width="151" x="261" y="-2175"/>
+	
+  
+	<wall height="76" width="133" x="198" y="-2319"/>
+	
+  
+	<wall height="42" width="197" x="318" y="-2414"/>
+	
+  
+	<wall height="35" width="142" x="438" y="-2512"/>
+	
+  
+	<wall height="72" width="98" x="305" y="-2636"/>
+	
+  
+	<wall height="128" width="150" x="171" y="-2803"/>
+	
+  
+	<wall height="118" width="193" x="5" y="-2937"/>
+	
+  
+	<activatetrackwall height="47" width="331" x="177" y="-3072"/>
+	
+  
+	<activatetrackwall height="37" width="89" x="7" y="-3079"/>
+	
+  
+	<deathwall height="102" width="293" x="220" y="-3493"/>
+	
+  
+	<deathwall height="94" width="-67" x="221" y="-3485"/>
+	
+  
+	<goal height="34" width="144" x="7" y="-3502"/>
+	
+  
+	<wall height="85" width="429" x="56" y="273"/>
+	
+
+</level>

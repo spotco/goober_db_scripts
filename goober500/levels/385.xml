@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<level author="wsr" bg="1" name="tyu">
+	
+  
+	<wall height="50" width="98" x="201" y="271"/>
+	
+  
+	<wall height="53" width="102" x="299" y="218"/>
+	
+  
+	<wall height="48" width="100" x="200" y="124"/>
+	
+  
+	<wall height="50" width="101" x="101" y="70"/>
+	
+  
+	<boost height="150" width="103" x="100" y="-80"/>
+	
+  
+	<wall height="52" width="104" x="100" y="-131"/>
+	
+  
+	<boost height="51" width="96" x="204" y="-129"/>
+	
+  
+	<wall height="52" width="100" x="0" y="-130"/>
+	
+  
+	<goal height="154" width="50" x="1" y="-281"/>
+	
+  
+	<track height="166" width="16" x="99" y="-298"/>
+	
+  
+	<trackwall height="26" width="23" x="95" y="-304"/>
+	
+  
+	<textfield text="hot hot" x="181" y="-237"/>
+	
+
+</level>

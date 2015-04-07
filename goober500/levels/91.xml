@@ -1,0 +1,44 @@
+<?xml version="1.0" ?>
+<level author="ray" bg="1" name="wooooow">
+	
+  
+	<wall height="112" width="-122" x="169" y="154"/>
+	
+  
+	<wall height="90" width="-135" x="136" y="66"/>
+	
+  
+	<wall height="172" width="214" x="313" y="-7"/>
+	
+  
+	<wall height="88" width="130" x="315" y="343"/>
+	
+  
+	<wall height="77" width="101" x="203" y="275"/>
+	
+  
+	<wall height="49" width="64" x="206" y="10"/>
+	
+  
+	<wall height="329" width="-60" x="86" y="-309"/>
+	
+  
+	<wall height="290" width="-69" x="460" y="-374"/>
+	
+  
+	<wall height="227" width="239" x="84" y="-628"/>
+	
+  
+	<wall height="119" width="55" x="455" y="-599"/>
+	
+  
+	<goal height="26" width="45" x="175" y="-755"/>
+	
+  
+	<goal height="131" width="-145" x="265" y="-776"/>
+	
+  
+	<goal height="429" width="146" x="120" y="-1164"/>
+	
+
+</level>

@@ -1,0 +1,230 @@
+<?xml version="1.0" ?>
+<level author="Aziz" bg="1" name="Discoteka3">
+	
+  
+	<trackwall height="-49.94999999999999" width="201.35000000000002" x="148.25" y="320.25"/>
+	
+  
+	<trackwall height="-149.85" width="49.94999999999999" x="148.25" y="272.7"/>
+	
+  
+	<trackwall height="-50.75" width="149.05" x="199.75" y="169.65"/>
+	
+  
+	<trackwall height="-95.9" width="47.549999999999955" x="298.85" y="265.55"/>
+	
+  
+	<goal height="-15.849999999999994" width="19.05000000000001" x="199.75" y="183.1"/>
+	
+  
+	<rocketlauncher x="38.05" y="289.3"/>
+	
+  
+	<rocketlauncher x="38.05" y="276.65"/>
+	
+  
+	<rocketlauncher x="36.45" y="251.25"/>
+	
+  
+	<rocketlauncher x="36.45" y="234.65"/>
+	
+  
+	<rocketlauncher x="36.45" y="293.3"/>
+	
+  
+	<rocketlauncher x="41.25" y="193.4"/>
+	
+  
+	<rocketlauncher x="46.8" y="149"/>
+	
+  
+	<rocketlauncher x="72.95" y="122.85"/>
+	
+  
+	<rocketlauncher x="104.65" y="95.9"/>
+	
+  
+	<rocketlauncher x="168.85" y="81.65"/>
+	
+  
+	<rocketlauncher x="221.95" y="76.1"/>
+	
+  
+	<rocketlauncher x="297.25" y="76.1"/>
+	
+  
+	<rocketlauncher x="359.9" y="82.45"/>
+	
+  
+	<rocketlauncher x="401.1" y="114.15"/>
+	
+  
+	<rocketlauncher x="430.45" y="162.5"/>
+	
+  
+	<rocketlauncher x="444.7" y="221.15"/>
+	
+  
+	<rocketlauncher x="447.1" y="275.05"/>
+	
+  
+	<rocketlauncher x="438.35" y="330.55"/>
+	
+  
+	<rocketlauncher x="365.45" y="373.35"/>
+	
+  
+	<rocketlauncher x="242.55" y="374.15"/>
+	
+  
+	<rocketlauncher x="144.3" y="370.2"/>
+	
+  
+	<rocketlauncher x="61.05" y="353.55"/>
+	
+  
+	<rocketlauncher x="66.6" y="330.55"/>
+	
+  
+	<rocketlauncher x="172.8" y="380.5"/>
+	
+  
+	<rocketlauncher x="233.05" y="378.9"/>
+	
+  
+	<rocketlauncher x="316.3" y="382.05"/>
+	
+  
+	<rocketlauncher x="417.75" y="352.75"/>
+	
+  
+	<rocketlauncher x="268.75" y="384.45"/>
+	
+  
+	<rocketlauncher x="87.2" y="362.25"/>
+	
+  
+	<rocketlauncher x="46" y="298.85"/>
+	
+  
+	<rocketlauncher x="56.3" y="169.65"/>
+	
+  
+	<rocketlauncher x="256.05" y="71.35"/>
+	
+  
+	<rocketlauncher x="256.05" y="71.35"/>
+	
+  
+	<rocketlauncher x="256.05" y="71.35"/>
+	
+  
+	<rocketlauncher x="256.05" y="71.35"/>
+	
+  
+	<laserlauncher dir="3" x="17.45" y="472.45"/>
+	
+  
+	<laserlauncher dir="-3" x="428.05" y="458.15"/>
+	
+  
+	<laserlauncher dir="-3" x="427.25" y="45.2"/>
+	
+  
+	<laserlauncher dir="3" x="45.2" y="28.55"/>
+	
+  
+	<rocketlauncher x="323.4" y="84.8"/>
+	
+  
+	<rocketlauncher x="138.75" y="92.75"/>
+	
+  
+	<rocketlauncher x="437.55" y="191.05"/>
+	
+  
+	<laserlauncher dir="3" x="18.25" y="425.65"/>
+	
+  
+	<laserlauncher dir="3" x="21.4" y="376.5"/>
+	
+  
+	<laserlauncher dir="3" x="23.8" y="328.15"/>
+	
+  
+	<laserlauncher dir="3" x="23" y="275.05"/>
+	
+  
+	<laserlauncher dir="3" x="21.4" y="225.1"/>
+	
+  
+	<laserlauncher dir="3" x="22.2" y="163.3"/>
+	
+  
+	<laserlauncher dir="3" x="29.35" y="114.95"/>
+	
+  
+	<laserlauncher dir="3" x="43.6" y="67.35"/>
+	
+  
+	<laserlauncher dir="-3" x="424.9" y="405.85"/>
+	
+  
+	<laserlauncher dir="-3" x="425.7" y="327.35"/>
+	
+  
+	<laserlauncher dir="-3" x="425.7" y="359.85"/>
+	
+  
+	<laserlauncher dir="-3" x="423.3" y="242.55"/>
+	
+  
+	<laserlauncher dir="-3" x="419.35" y="285.35"/>
+	
+  
+	<laserlauncher dir="-3" x="412.2" y="208.45"/>
+	
+  
+	<laserlauncher dir="-3" x="428.05" y="155.35"/>
+	
+  
+	<laserlauncher dir="-3" x="430.45" y="109.4"/>
+	
+  
+	<laserlauncher dir="-3" x="373.35" y="460.55"/>
+	
+  
+	<laserlauncher dir="-3" x="325.8" y="459.75"/>
+	
+  
+	<laserlauncher dir="-3" x="279.8" y="461.35"/>
+	
+  
+	<laserlauncher dir="-3" x="382.1" y="38.05"/>
+	
+  
+	<laserlauncher dir="-3" x="315.5" y="38.85"/>
+	
+  
+	<laserlauncher dir="-3" x="256.05" y="37.25"/>
+	
+  
+	<laserlauncher dir="3" x="86.35" y="474.85"/>
+	
+  
+	<laserlauncher dir="3" x="139.55" y="474.05"/>
+	
+  
+	<laserlauncher dir="3" x="212.45" y="470.05"/>
+	
+  
+	<laserlauncher dir="3" x="87.2" y="33.3"/>
+	
+  
+	<laserlauncher dir="3" x="148.25" y="31.7"/>
+	
+  
+	<laserlauncher dir="3" x="203.75" y="33.3"/>
+	
+
+</level>

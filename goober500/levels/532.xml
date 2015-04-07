@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<level author="oooooooooooooo" bg="3" name="ddddddddddddd">
+	
+  
+	<wall height="132" width="463" x="11" y="291"/>
+	
+  
+	<wall height="204" width="-201" x="213" y="87"/>
+	
+  
+	<wall height="111" width="-153" x="467" y="-29"/>
+	
+  
+	<wall height="89" width="204" x="256" y="79"/>
+	
+  
+	<boost height="66" width="-37" x="247" y="223"/>
+	
+  
+	<activatetrackwall height="-128" width="-196" x="211" y="85"/>
+	
+  
+	<activatetrackwall height="-16" width="50" x="263" y="76"/>
+	
+  
+	<cloudboss/>
+	
+  
+	<rocketlauncher x="486" y="-895"/>
+	
+  
+	<rocketlauncher x="439" y="-893"/>
+	
+  
+	<rocketlauncher x="394" y="-896"/>
+	
+  
+	<trackwall height="-122" width="-152" x="419" y="-603"/>
+	
+  
+	<trackwall height="140" width="-200" x="431" y="-599"/>
+	
+  
+	<goal height="-61" width="-189" x="231" y="-528"/>
+	
+
+</level>

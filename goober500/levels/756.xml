@@ -1,0 +1,182 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="awar">
+	
+  
+	<wall height="-56" width="-398" x="367" y="447"/>
+	
+  
+	<wall height="-67" width="-90" x="218" y="398"/>
+	
+  
+	<wall height="-143" width="-95" x="135" y="393"/>
+	
+  
+	<wall height="-241" width="-93" x="52" y="379"/>
+	
+  
+	<wall height="290" width="-59" x="47" y="133"/>
+	
+  
+	<rocketlauncher height="20" width="20" x="53" y="-54"/>
+	
+  
+	<rocketlauncher height="20" width="20" x="135" y="-49"/>
+	
+  
+	<rocketlauncher height="20" width="20" x="220" y="-44"/>
+	
+  
+	<rocketlauncher x="11" y="503"/>
+	
+  
+	<rocketlauncher x="68" y="514"/>
+	
+  
+	<rocketlauncher x="126" y="512"/>
+	
+  
+	<textfield text="There's a war! Get to the cottage!" x="120" y="177"/>
+	
+  
+	<wall height="172" width="21" x="320" y="127"/>
+	
+  
+	<wall height="40" width="18" x="321" y="359"/>
+	
+  
+	<wall height="55" width="190" x="279" y="388"/>
+	
+  
+	<wall height="16" width="127" x="321" y="113"/>
+	
+  
+	<wall height="-193" width="-24" x="459" y="393"/>
+	
+  
+	<wall height="13" width="47" x="465" y="162"/>
+	
+  
+	<textfield text="Come up here through the secret exit" x="313" y="-19"/>
+	
+  
+	<wall height="-58" width="-45" x="388" y="110"/>
+	
+  
+	<activatetrackwall height="67" width="138" x="267" y="-51"/>
+	
+  
+	<textfield text="this elevator isn't a very good one but it still works!" x="309" y="-184"/>
+	
+  
+	<rocketlauncher height="20" width="20" x="10" y="-608"/>
+	
+  
+	<rocketlauncher height="20" width="20" x="485" y="-613"/>
+	
+  
+	<wall height="45" width="76" x="331" y="346"/>
+	
+  
+	<wall height="23" width="37" x="292" y="369"/>
+	
+  
+	<wall height="15" width="17" x="274" y="379"/>
+	
+  
+	<wall height="45" width="39" x="369" y="311"/>
+	
+  
+	<wall height="50" width="88" x="277" y="-1062"/>
+	
+  
+	<wall height="79" width="116" x="149" y="-1182"/>
+	
+  
+	<wall height="37" width="57" x="78" y="-1244"/>
+	
+  
+	<wall height="-254" width="-22" x="133" y="-1287"/>
+	
+  
+	<wall height="18" width="-99" x="80" y="-1246"/>
+	
+  
+	<goal height="125" width="462" x="11" y="-1837"/>
+	
+  
+	<boostfruit x="389" y="-1331"/>
+	
+  
+	<textfield text="Do not go into the general's house!" x="246" y="-1383"/>
+	
+  
+	<bossactivate explode="no" height="-42" hp="6" width="-85" x="84" y="-1247"/>
+	
+  
+	<boostfruit x="30" y="-1321"/>
+	
+  
+	<boostfruit x="79" y="-1393"/>
+	
+  
+	<boostfruit x="33" y="-1457"/>
+	
+  
+	<boostfruit x="3" y="-1387"/>
+	
+  
+	<boostfruit x="78" y="-1330"/>
+	
+  
+	<boostfruit x="89" y="-1511"/>
+	
+  
+	<boostfruit x="23" y="-1554"/>
+	
+  
+	<boostfruit x="99" y="-1564"/>
+	
+  
+	<boostfruit x="77" y="-1448"/>
+	
+  
+	<boostfruit x="9" y="-1508"/>
+	
+  
+	<boostfruit x="108" y="-1269"/>
+	
+  
+	<boostfruit x="14" y="-1671"/>
+	
+  
+	<boostfruit x="66" y="-1659"/>
+	
+  
+	<boostfruit x="95" y="-1618"/>
+	
+  
+	<boostfruit x="109" y="-1673"/>
+	
+  
+	<boostfruit x="60" y="-1542"/>
+	
+  
+	<wall height="43" width="155" x="22" y="-608"/>
+	
+  
+	<wall height="53" width="118" x="352" y="-643"/>
+	
+  
+	<wall height="-102" width="-21" x="92" y="-602"/>
+	
+  
+	<wall height="18" width="-92" x="81" y="-708"/>
+	
+  
+	<wall height="-54" width="61" x="393" y="-627"/>
+	
+  
+	<wall height="17" width="101" x="416" y="-687"/>
+	
+
+</level>

@@ -1,0 +1,182 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="luck">
+	
+  
+	<wall height="16" width="298" x="155" y="306"/>
+	
+  
+	<boost height="110" width="134" x="243" y="119"/>
+	
+  
+	<boost height="106" width="108" x="255" y="3"/>
+	
+  
+	<track height="18" width="266" x="178" y="-35"/>
+	
+  
+	<trackwall height="41" width="105" x="254" y="-49"/>
+	
+  
+	<wall height="158" width="56" x="191" y="-251"/>
+	
+  
+	<wall height="150" width="62" x="384" y="-243"/>
+	
+  
+	<boost height="129" width="64" x="381" y="-428"/>
+	
+  
+	<boost height="124" width="58" x="186" y="-425"/>
+	
+  
+	<boost height="75" width="-130" x="283" y="-508"/>
+	
+  
+	<boost height="73" width="133" x="345" y="-511"/>
+	
+  
+	<textfield text="choose your path" x="57" y="-634"/>
+	
+  
+	<wall height="33" width="23" x="216" y="-559"/>
+	
+  
+	<wall height="32" width="27" x="302" y="-554"/>
+	
+  
+	<wall height="26" width="15" x="395" y="-552"/>
+	
+  
+	<wall height="27" width="45" x="406" y="-553"/>
+	
+  
+	<wall height="36" width="17" x="285" y="-560"/>
+	
+  
+	<wall height="29" width="43" x="176" y="-559"/>
+	
+  
+	<boost height="114" width="60" x="177" y="-709"/>
+	
+  
+	<boost height="99" width="52" x="286" y="-680"/>
+	
+  
+	<boost height="119" width="71" x="384" y="-698"/>
+	
+  
+	<textfield text="only one is good" x="49" y="-701"/>
+	
+  
+	<textfield text="the others are bad" x="57" y="-750"/>
+	
+  
+	<boost height="108" width="56" x="179" y="-828"/>
+	
+  
+	<boost height="103" width="-35" x="314" y="-787"/>
+	
+  
+	<boost height="116" width="44" x="309" y="-793"/>
+	
+  
+	<boost height="97" width="74" x="392" y="-798"/>
+	
+  
+	<boost height="174" width="74" x="282" y="-962"/>
+	
+  
+	<boost height="158" width="65" x="407" y="-957"/>
+	
+  
+	<boost height="143" width="41" x="387" y="-948"/>
+	
+  
+	<boost height="53" width="-25" x="193" y="-751"/>
+	
+  
+	<boost height="54" width="49" x="191" y="-753"/>
+	
+  
+	<boost height="126" width="122" x="135" y="-933"/>
+	
+  
+	<boost height="168" width="141" x="125" y="-1102"/>
+	
+  
+	<textfield text="ps theres no turning back" x="80" y="-787"/>
+	
+  
+	<boost height="155" width="57" x="294" y="-1089"/>
+	
+  
+	<boost height="162" width="36" x="275" y="-1093"/>
+	
+  
+	<boost height="182" width="94" x="410" y="-1077"/>
+	
+  
+	<boost height="132" width="34" x="383" y="-1079"/>
+	
+  
+	<textfield text="just relax and watch" x="48" y="-851"/>
+	
+  
+	<boost height="169" width="133" x="136" y="-1253"/>
+	
+  
+	<boost height="166" width="47" x="113" y="-1253"/>
+	
+  
+	<boost height="194" width="48" x="303" y="-1265"/>
+	
+  
+	<boost height="204" width="12" x="291" y="-1268"/>
+	
+  
+	<boost height="189" width="11" x="281" y="-1268"/>
+	
+  
+	<boost height="231" width="93" x="403" y="-1268"/>
+	
+  
+	<deathwall height="74" width="125" x="101" y="-1336"/>
+	
+  
+	<boost height="313" width="80" x="282" y="-1574"/>
+	
+  
+	<boost height="306" width="60" x="433" y="-1574"/>
+	
+  
+	<boost height="339" width="49" x="392" y="-1599"/>
+	
+  
+	<textfield text="if you dont make it try again" x="39" y="-1426"/>
+	
+  
+	<boost height="223" width="135" x="235" y="-1799"/>
+	
+  
+	<boost height="219" width="78" x="417" y="-1803"/>
+	
+  
+	<boost height="191" width="19" x="402" y="-1789"/>
+	
+  
+	<deathwall height="96" width="66" x="427" y="-1902"/>
+	
+  
+	<boost height="277" width="150" x="222" y="-2071"/>
+	
+  
+	<goal height="136" width="157" x="216" y="-2205"/>
+	
+  
+	<textfield text="remember to rate and thx for playing" x="38" y="-1940"/>
+	
+  
+	<wall height="23" width="68" x="287" y="-239"/>
+	
+
+</level>

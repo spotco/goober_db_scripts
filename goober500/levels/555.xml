@@ -1,0 +1,131 @@
+<?xml version="1.0" ?>
+<level author="tft" bg="1" name="7fyf">
+	
+  
+	<wall height="66" width="220" x="205" y="316"/>
+	
+  
+	<wall height="-112" width="30" x="197" y="308"/>
+	
+  
+	<wall height="47" width="71" x="205" y="290"/>
+	
+  
+	<wall height="-183" width="174" x="222" y="295"/>
+	
+  
+	<wall height="61" width="-374" x="438" y="226"/>
+	
+  
+	<wall height="33" width="51" x="44" y="253"/>
+	
+  
+	<wall height="-194" width="86" x="200" y="399"/>
+	
+  
+	<wall height="141" width="-109" x="240" y="181"/>
+	
+  
+	<wall height="-80" width="-404" x="427" y="332"/>
+	
+  
+	<wall height="-13" width="233" x="177" y="261"/>
+	
+  
+	<wall height="17" width="-83" x="385" y="262"/>
+	
+  
+	<wall height="56" width="-17" x="263" y="242"/>
+	
+  
+	<wall height="-76" width="-23" x="289" y="279"/>
+	
+  
+	<wall height="106" width="-63" x="272" y="220"/>
+	
+  
+	<wall height="-138" width="-15" x="262" y="341"/>
+	
+  
+	<wall height="79" width="-100" x="267" y="205"/>
+	
+  
+	<wall height="-55" width="74" x="242" y="311"/>
+	
+  
+	<wall height="31" width="-23" x="257" y="186"/>
+	
+  
+	<wall height="-11" width="93" x="62" y="332"/>
+	
+  
+	<wall height="-55" width="-14" x="224" y="320"/>
+	
+  
+	<wall height="-88" width="186" x="208" y="225"/>
+	
+  
+	<wall height="56" width="-137" x="394" y="176"/>
+	
+  
+	<wall height="-199" width="32" x="253" y="323"/>
+	
+  
+	<wall height="128" width="-44" x="311" y="123"/>
+	
+  
+	<wall height="-180" width="13" x="248" y="289"/>
+	
+  
+	<wall height="28" width="-107" x="294" y="223"/>
+	
+  
+	<wall height="-75" width="56" x="171" y="296"/>
+	
+  
+	<wall height="23" width="-97" x="240" y="275"/>
+	
+  
+	<wall height="-83" width="79" x="185" y="283"/>
+	
+  
+	<wall height="-73" width="-24" x="267" y="336"/>
+	
+  
+	<wall height="-32" width="-17" x="305" y="279"/>
+	
+  
+	<wall height="-45" width="-42" x="290" y="290"/>
+	
+  
+	<wall height="-68" width="-22" x="274" y="310"/>
+	
+  
+	<wall height="-34" width="-34" x="281" y="286"/>
+	
+  
+	<wall height="-48" width="-17" x="266" y="343"/>
+	
+  
+	<wall height="-23" width="74" x="208" y="473"/>
+	
+  
+	<wall height="16" width="46" x="331" y="432"/>
+	
+  
+	<wall height="24" width="58" x="422" y="424"/>
+	
+  
+	<deathwall height="-30" width="48" x="376" y="471"/>
+	
+  
+	<deathwall height="-170" width="40" x="171" y="488"/>
+	
+  
+	<bossactivate explode="no" height="-93" hp="6" width="117" x="12" y="478"/>
+	
+  
+	<goal height="24" width="19" x="106" y="193"/>
+	
+
+</level>

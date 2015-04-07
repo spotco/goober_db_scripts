@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<level author="Notfishman11" bg="1" name="Shinybutt">
+	
+  
+	<wall height="62" width="434" x="60" y="388"/>
+	
+  
+	<goal height="11" width="18" x="146" y="377"/>
+	
+  
+	<goal height="23" width="24" x="154" y="367"/>
+	
+  
+	<goal height="-40" width="-46" x="191" y="394"/>
+	
+  
+	<goal height="-95" width="-40" x="190" y="396"/>
+	
+  
+	<wall height="-165" width="-18" x="216" y="397"/>
+	
+  
+	<wall height="-111" width="13" x="318" y="385"/>
+	
+  
+	<wall height="121" width="12" x="389" y="238"/>
+	
+  
+	<deathwall height="47" width="-53" x="196" y="235"/>
+	
+  
+	<wall height="12" width="14" x="371" y="233"/>
+	
+  
+	<wall height="-13" width="-182" x="381" y="246"/>
+	
+  
+	<wall height="23" width="-69" x="201" y="170"/>
+	
+  
+	<boost height="-86" width="86" x="116" y="121"/>
+	
+  
+	<boost height="-13" width="12" x="224" y="233"/>
+	
+  
+	<boost height="-13" width="13" x="258" y="233"/>
+	
+  
+	<boost height="14" width="13" x="291" y="219"/>
+	
+  
+	<boost height="12" width="11" x="330" y="222"/>
+	
+  
+	<boost height="-136" width="111" x="401" y="179"/>
+	
+  
+	<boost height="-10" width="-22" x="341" y="182"/>
+	
+  
+	<boost height="-11" width="-28" x="287" y="186"/>
+	
+  
+	<boost height="35" width="36" x="16" y="348"/>
+	
+  
+	<boost height="35" width="41" x="69" y="352"/>
+	
+  
+	<boost height="-267" width="33" x="45" y="359"/>
+	
+  
+	<boost height="-41" width="57" x="34" y="78"/>
+	
+  
+	<deathwall height="25" width="59" x="33" y="77"/>
+	
+  
+	<deathwall height="-50" width="28" x="43" y="329"/>
+	
+
+</level>

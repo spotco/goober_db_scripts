@@ -1,0 +1,71 @@
+<?xml version="1.0" ?>
+<level author="christan" bg="1" name="crazyworld2">
+	
+  
+	<wall height="-17" width="325" x="3" y="298"/>
+	
+  
+	<wall height="38" width="93" x="353" y="217"/>
+	
+  
+	<wall height="25" width="115" x="215" y="183"/>
+	
+  
+	<track height="19" width="43" x="340" y="108"/>
+	
+  
+	<trackblade x="364" y="113"/>
+	
+  
+	<boost height="160" width="80" x="49" y="132"/>
+	
+  
+	<boost height="214" width="73" x="53" y="-81"/>
+	
+  
+	<rocketlauncher x="92" y="-147"/>
+	
+  
+	<rocketlauncher x="151" y="146"/>
+	
+  
+	<rocketlauncher x="18" y="149"/>
+	
+  
+	<track height="17" width="50" x="118" y="14"/>
+	
+  
+	<track height="18" width="48" x="17" y="8"/>
+	
+  
+	<trackblade x="43" y="11"/>
+	
+  
+	<trackblade x="151" y="20"/>
+	
+  
+	<laserlauncher dir="3" x="11" y="395"/>
+	
+  
+	<laserlauncher dir="-3" x="377" y="491"/>
+	
+  
+	<boost height="-427" width="55" x="237" y="179"/>
+	
+  
+	<flowerboss y="765"/>
+	
+  
+	<wall height="-23" width="-230" x="193" y="-261"/>
+	
+  
+	<wall height="61" width="164" x="312" y="-308"/>
+	
+  
+	<goal height="32" width="176" x="20" y="-314"/>
+	
+  
+	<goal height="168" width="138" x="325" y="-476"/>
+	
+
+</level>

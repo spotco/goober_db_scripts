@@ -1,0 +1,317 @@
+<?xml version="1.0" ?>
+<level author="david" bg="1" name="supergooberbrosf">
+	
+  
+	<wall height="51" width="63" x="231" y="283"/>
+	
+  
+	<wall height="106" width="139" x="292" y="185"/>
+	
+  
+	<wall height="139" width="137" x="125" y="15"/>
+	
+  
+	<boostfruit x="169" y="-111"/>
+	
+  
+	<boostfruit x="222" y="-103"/>
+	
+  
+	<boostfruit x="161" y="-31"/>
+	
+  
+	<boostfruit x="219" y="-27"/>
+	
+  
+	<textfield text="you are about to face evil thing! are you ready?" x="269" y="-41"/>
+	
+  
+	<trackblade x="38" y="-427"/>
+	
+  
+	<trackblade x="78" y="-430"/>
+	
+  
+	<trackblade x="104" y="-436"/>
+	
+  
+	<trackblade x="155" y="-422"/>
+	
+  
+	<trackblade x="159" y="-424"/>
+	
+  
+	<trackblade x="170" y="-429"/>
+	
+  
+	<trackblade x="195" y="-429"/>
+	
+  
+	<trackblade x="240" y="-429"/>
+	
+  
+	<trackblade x="272" y="-426"/>
+	
+  
+	<trackblade x="303" y="-422"/>
+	
+  
+	<trackblade x="348" y="-420"/>
+	
+  
+	<trackblade x="378" y="-424"/>
+	
+  
+	<trackblade x="410" y="-425"/>
+	
+  
+	<trackblade x="103" y="-421"/>
+	
+  
+	<trackblade x="129" y="-435"/>
+	
+  
+	<trackblade x="172" y="-427"/>
+	
+  
+	<trackblade x="175" y="-427"/>
+	
+  
+	<trackblade x="263" y="-429"/>
+	
+  
+	<trackblade x="283" y="-431"/>
+	
+  
+	<trackblade x="362" y="-444"/>
+	
+  
+	<trackblade x="396" y="-427"/>
+	
+  
+	<trackblade x="406" y="-428"/>
+	
+  
+	<trackblade x="402" y="-473"/>
+	
+  
+	<trackblade x="404" y="-480"/>
+	
+  
+	<trackblade x="357" y="-488"/>
+	
+  
+	<trackblade x="323" y="-475"/>
+	
+  
+	<trackblade x="320" y="-472"/>
+	
+  
+	<trackblade x="371" y="-474"/>
+	
+  
+	<trackblade x="316" y="-479"/>
+	
+  
+	<trackblade x="345" y="-447"/>
+	
+  
+	<trackblade x="293" y="-455"/>
+	
+  
+	<trackblade x="229" y="-464"/>
+	
+  
+	<trackblade x="219" y="-469"/>
+	
+  
+	<trackblade x="187" y="-459"/>
+	
+  
+	<trackblade x="75" y="-477"/>
+	
+  
+	<trackblade x="16" y="-461"/>
+	
+  
+	<trackblade x="51" y="-466"/>
+	
+  
+	<trackblade x="76" y="-468"/>
+	
+  
+	<trackblade x="134" y="-478"/>
+	
+  
+	<trackblade x="154" y="-481"/>
+	
+  
+	<trackblade x="162" y="-476"/>
+	
+  
+	<trackblade x="90" y="-469"/>
+	
+  
+	<trackblade x="131" y="-478"/>
+	
+  
+	<trackblade x="138" y="-478"/>
+	
+  
+	<trackblade x="137" y="-462"/>
+	
+  
+	<trackblade x="217" y="-454"/>
+	
+  
+	<trackblade x="217" y="-454"/>
+	
+  
+	<trackblade x="277" y="-458"/>
+	
+  
+	<trackblade x="294" y="-471"/>
+	
+  
+	<trackblade x="244" y="-477"/>
+	
+  
+	<trackblade x="243" y="-475"/>
+	
+  
+	<trackblade x="243" y="-482"/>
+	
+  
+	<trackblade x="185" y="-489"/>
+	
+  
+	<trackblade x="212" y="-500"/>
+	
+  
+	<trackblade x="265" y="-475"/>
+	
+  
+	<trackblade x="278" y="-469"/>
+	
+  
+	<trackblade x="275" y="-468"/>
+	
+  
+	<trackblade x="241" y="-443"/>
+	
+  
+	<trackblade x="215" y="-435"/>
+	
+  
+	<trackblade x="225" y="-418"/>
+	
+  
+	<trackblade x="226" y="-419"/>
+	
+  
+	<textfield text="hawhawhaw! that's me!" x="209" y="-481"/>
+	
+  
+	<trackblade x="209" y="-404"/>
+	
+  
+	<trackblade x="201" y="-427"/>
+	
+  
+	<trackblade x="203" y="-431"/>
+	
+  
+	<trackblade x="201" y="-432"/>
+	
+  
+	<trackblade x="197" y="-438"/>
+	
+  
+	<wall height="41" width="370" x="124" y="-217"/>
+	
+  
+	<boost height="336" width="35" x="455" y="-552"/>
+	
+  
+	<wall height="56" width="415" x="34" y="-558"/>
+	
+  
+	<textfield text="no! how did you get past me?" x="126" y="-460"/>
+	
+  
+	<trackblade x="100" y="-408"/>
+	
+  
+	<trackblade x="119" y="-393"/>
+	
+  
+	<trackblade x="122" y="-389"/>
+	
+  
+	<trackblade x="138" y="-383"/>
+	
+  
+	<trackblade x="140" y="-381"/>
+	
+  
+	<trackblade x="142" y="-382"/>
+	
+  
+	<trackblade x="150" y="-383"/>
+	
+  
+	<trackblade x="125" y="-406"/>
+	
+  
+	<activatetrackwall height="80" width="76" x="186" y="-639"/>
+	
+  
+	<wall height="337" width="47" x="128" y="-895"/>
+	
+  
+	<wall height="196" width="69" x="280" y="-895"/>
+	
+  
+	<wall height="298" width="74" x="276" y="-1193"/>
+	
+  
+	<wall height="317" width="49" x="125" y="-1206"/>
+	
+  
+	<wall height="70" width="154" x="349" y="-1190"/>
+	
+  
+	<textfield text="thank you for rescueing me!" x="327" y="-1237"/>
+	
+  
+	<textfield text="lolololol!!! :P" x="76" y="-1237"/>
+	
+  
+	<boost height="184" width="53" x="117" y="-1386"/>
+	
+  
+	<boost height="117" width="47" x="121" y="-1490"/>
+	
+  
+	<boost height="151" width="53" x="115" y="-1638"/>
+	
+  
+	<wall height="53" width="317" x="170" y="-1635"/>
+	
+  
+	<textfield text="final part cleared! says f on the title it equals finale!" x="227" y="-1703"/>
+	
+  
+	<wall height="290" width="33" x="422" y="-1926"/>
+	
+  
+	<goal height="33" width="56" x="370" y="-1917"/>
+	
+  
+	<wall height="28" width="53" x="62" y="23"/>
+	
+  
+	<boost height="122" width="41" x="72" y="-95"/>
+	
+
+</level>

@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<level author="fiop" bg="1" name="hogee">
+	
+  
+	<wall height="48" width="102" x="198" y="272"/>
+	
+  
+	<wall height="51" width="102" x="301" y="219"/>
+	
+  
+	<wall height="51" width="103" x="199" y="119"/>
+	
+  
+	<wall height="50" width="93" x="105" y="70"/>
+	
+  
+	<wall height="54" width="98" x="201" y="-32"/>
+	
+  
+	<trackwall height="56" width="104" x="298" y="-34"/>
+	
+  
+	<track height="154" width="29" x="297" y="-153"/>
+	
+  
+	<wall height="32" width="97" x="198" y="-157"/>
+	
+  
+	<track height="22" width="187" x="11" y="-156"/>
+	
+  
+	<trackblade x="14" y="-151"/>
+	
+  
+	<trackblade x="108" y="-150"/>
+	
+  
+	<goal height="12" width="14" x="206" y="-188"/>
+	
+  
+	<goal height="19" width="10" x="220" y="-197"/>
+	
+  
+	<goal height="19" width="-23" x="230" y="-199"/>
+	
+  
+	<textfield text="look up a bad look" x="19" y="-37"/>
+	
+  
+	<textfield text="oh no" x="31" y="165"/>
+	
+
+</level>

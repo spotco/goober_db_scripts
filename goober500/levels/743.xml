@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="danceparty">
+	
+  
+	<boost height="77" width="161" x="196" y="319"/>
+	
+  
+	<boost height="77" width="192" x="10" y="398"/>
+	
+  
+	<boost height="92" width="141" x="356" y="396"/>
+	
+  
+	<deathwall height="84" width="-186" x="195" y="317"/>
+	
+  
+	<deathwall height="80" width="146" x="359" y="320"/>
+	
+  
+	<deathwall height="89" width="150" x="204" y="396"/>
+	
+  
+	<laserlauncher dir="3" x="5" y="58"/>
+	
+  
+	<laserlauncher dir="3" x="490" y="70"/>
+	
+  
+	<wall height="-41" width="-62" x="223" y="313"/>
+	
+  
+	<wall height="-188" width="86" x="147" y="312"/>
+	
+  
+	<wall height="-206" width="97" x="351" y="313"/>
+	
+  
+	<trackblade x="179" y="221"/>
+	
+  
+	<trackblade x="403" y="219"/>
+	
+  
+	<goal height="61" width="62" x="254" y="-25"/>
+	
+  
+	<track height="-134" width="28" x="275" y="-27"/>
+	
+
+</level>

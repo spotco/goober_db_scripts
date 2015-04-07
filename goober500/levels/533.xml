@@ -1,0 +1,233 @@
+<?xml version="1.0" ?>
+<level author="die" bg="1" name="poop">
+	
+  
+	<wall height="-222" width="-499" x="498" y="500"/>
+	
+  
+	<wall height="204" width="501" x="0" y="499"/>
+	
+  
+	<activatetrackwall height="51" width="148" x="339" y="226"/>
+	
+  
+	<boostfruit x="428" y="142"/>
+	
+  
+	<boostfruit x="430" y="-9"/>
+	
+  
+	<boostfruit x="430" y="-159"/>
+	
+  
+	<boostfruit x="430" y="-294"/>
+	
+  
+	<boostfruit x="430" y="-479"/>
+	
+  
+	<wall height="139" width="306" x="70" y="-423"/>
+	
+  
+	<deathwall height="143" width="29" x="374" y="-424"/>
+	
+  
+	<deathwall height="52" width="-308" x="378" y="-283"/>
+	
+  
+	<deathwall height="51" width="36" x="368" y="-281"/>
+	
+  
+	<trackwall height="65" width="166" x="87" y="-495"/>
+	
+  
+	<track height="-245" width="-25" x="169" y="-429"/>
+	
+  
+	<wall height="62" width="278" x="216" y="-672"/>
+	
+  
+	<trackblade x="235" y="-599"/>
+	
+  
+	<trackblade x="287" y="-598"/>
+	
+  
+	<trackblade x="332" y="-599"/>
+	
+  
+	<trackblade x="377" y="-604"/>
+	
+  
+	<trackblade x="431" y="-602"/>
+	
+  
+	<trackblade x="484" y="-613"/>
+	
+  
+	<flowerboss y="725"/>
+	
+  
+	<flowerboss y="1020"/>
+	
+  
+	<flowerboss y="679"/>
+	
+  
+	<goal height="13" width="20" x="371" y="-715"/>
+	
+  
+	<goal height="57" width="466" x="30" y="-921"/>
+	
+  
+	<goal height="59" width="17" x="30" y="-921"/>
+	
+  
+	<goal height="88" width="41" x="6" y="-924"/>
+	
+  
+	<goal height="204" width="496" x="1" y="-1058"/>
+	
+  
+	<goal height="69" width="46" x="433" y="-859"/>
+	
+  
+	<goal height="26" width="25" x="470" y="-792"/>
+	
+  
+	<goal height="31" width="13" x="473" y="-765"/>
+	
+  
+	<goal height="23" width="-24" x="480" y="-724"/>
+	
+  
+	<goal height="21" width="-81" x="455" y="-701"/>
+	
+  
+	<boostfruit x="52" y="-760"/>
+	
+  
+	<boostfruit x="54" y="-758"/>
+	
+  
+	<boostfruit x="57" y="-747"/>
+	
+  
+	<boostfruit x="59" y="-744"/>
+	
+  
+	<boostfruit x="60" y="-733"/>
+	
+  
+	<boostfruit x="61" y="-726"/>
+	
+  
+	<boostfruit x="47" y="-765"/>
+	
+  
+	<boostfruit x="60" y="-778"/>
+	
+  
+	<boostfruit x="69" y="-779"/>
+	
+  
+	<boostfruit x="74" y="-774"/>
+	
+  
+	<boostfruit x="75" y="-771"/>
+	
+  
+	<boostfruit x="75" y="-768"/>
+	
+  
+	<boostfruit x="75" y="-758"/>
+	
+  
+	<boostfruit x="73" y="-752"/>
+	
+  
+	<boostfruit x="93" y="-780"/>
+	
+  
+	<boostfruit x="93" y="-777"/>
+	
+  
+	<boostfruit x="99" y="-772"/>
+	
+  
+	<boostfruit x="102" y="-769"/>
+	
+  
+	<boostfruit x="114" y="-770"/>
+	
+  
+	<boostfruit x="117" y="-773"/>
+	
+  
+	<boostfruit x="92" y="-787"/>
+	
+  
+	<boostfruit x="94" y="-791"/>
+	
+  
+	<boostfruit x="97" y="-792"/>
+	
+  
+	<boostfruit x="110" y="-798"/>
+	
+  
+	<boostfruit x="116" y="-798"/>
+	
+  
+	<boostfruit x="118" y="-792"/>
+	
+  
+	<boostfruit x="119" y="-784"/>
+	
+  
+	<boostfruit x="119" y="-782"/>
+	
+  
+	<boostfruit x="137" y="-809"/>
+	
+  
+	<boostfruit x="137" y="-812"/>
+	
+  
+	<boostfruit x="159" y="-823"/>
+	
+  
+	<boostfruit x="159" y="-823"/>
+	
+  
+	<boostfruit x="146" y="-822"/>
+	
+  
+	<boostfruit x="165" y="-822"/>
+	
+  
+	<boostfruit x="169" y="-822"/>
+	
+  
+	<boostfruit x="169" y="-808"/>
+	
+  
+	<boostfruit x="169" y="-803"/>
+	
+  
+	<boostfruit x="169" y="-803"/>
+	
+  
+	<boostfruit x="161" y="-795"/>
+	
+  
+	<boostfruit x="153" y="-793"/>
+	
+  
+	<boostfruit x="149" y="-793"/>
+	
+  
+	<boostfruit x="141" y="-795"/>
+	
+
+</level>

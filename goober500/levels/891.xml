@@ -1,0 +1,230 @@
+<?xml version="1.0" ?>
+<level author="kambo" bg="1" name="lolkambo">
+	
+  
+	<wall height="65" width="555" x="8" y="321"/>
+	
+  
+	<textfield text="mmm kambo eat meatballs!!!!" x="118" y="145"/>
+	
+  
+	<textfield text="artificial bacoone cheeeze!" x="327" y="85"/>
+	
+  
+	<textfield text="kambo run run run run jump jump!" x="227" y="38"/>
+	
+  
+	<activatetrackwall height="20" width="163" x="23" y="102"/>
+	
+  
+	<trackwall height="87" width="53" x="84" y="240"/>
+	
+  
+	<trackwall height="128" width="38" x="278" y="202"/>
+	
+  
+	<rocketlauncher x="38" y="169"/>
+	
+  
+	<rocketlauncher x="40" y="279"/>
+	
+  
+	<rocketlauncher x="372" y="206"/>
+	
+  
+	<trackblade x="21" y="-463"/>
+	
+  
+	<trackblade x="63" y="-465"/>
+	
+  
+	<trackblade x="48" y="-470"/>
+	
+  
+	<trackblade x="37" y="-472"/>
+	
+  
+	<trackblade x="35" y="-468"/>
+	
+  
+	<trackblade x="72" y="-460"/>
+	
+  
+	<trackblade x="79" y="-463"/>
+	
+  
+	<trackblade x="62" y="-473"/>
+	
+  
+	<trackblade x="40" y="-474"/>
+	
+  
+	<trackblade x="31" y="-466"/>
+	
+  
+	<trackblade x="31" y="-463"/>
+	
+  
+	<trackblade x="59" y="-457"/>
+	
+  
+	<trackblade x="75" y="-463"/>
+	
+  
+	<trackblade x="70" y="-465"/>
+	
+  
+	<trackblade x="40" y="-469"/>
+	
+  
+	<trackblade x="32" y="-470"/>
+	
+  
+	<trackblade x="28" y="-470"/>
+	
+  
+	<trackblade x="46" y="-469"/>
+	
+  
+	<trackblade x="57" y="-470"/>
+	
+  
+	<trackblade x="70" y="-471"/>
+	
+  
+	<trackblade x="65" y="-471"/>
+	
+  
+	<trackblade x="32" y="-475"/>
+	
+  
+	<trackblade x="26" y="-475"/>
+	
+  
+	<trackblade x="34" y="-472"/>
+	
+  
+	<trackblade x="76" y="-466"/>
+	
+  
+	<track height="116" width="593" x="12" y="-478"/>
+	
+  
+	<track height="73" width="452" x="20" y="-478"/>
+	
+  
+	<trackwall height="229" width="42" x="354" y="-449"/>
+	
+  
+	<trackwall height="19" width="256" x="19" y="-621"/>
+	
+  
+	<boostfruit x="345" y="-556"/>
+	
+  
+	<boost height="-126" width="306" x="36" y="-44"/>
+	
+  
+	<trackwall height="228" width="40" x="26" y="-873"/>
+	
+  
+	<trackwall height="15" width="383" x="77" y="-856"/>
+	
+  
+	<boost height="23" width="387" x="76" y="-845"/>
+	
+  
+	<laserlauncher dir="-3" x="68" y="-1065"/>
+	
+  
+	<trackwall height="30" width="192" x="78" y="-977"/>
+	
+  
+	<boostfruit x="228" y="-1323"/>
+	
+  
+	<boostfruit x="228" y="-1266"/>
+	
+  
+	<boostfruit x="222" y="-1215"/>
+	
+  
+	<boostfruit x="223" y="-1166"/>
+	
+  
+	<textfield text="i iz da kambo of ta worllllddd!!!!!" x="139" y="-1379"/>
+	
+  
+	<trackwall height="23" width="228" x="18" y="-1432"/>
+	
+  
+	<track height="31" width="331" x="14" y="-1423"/>
+	
+  
+	<track height="25" width="326" x="17" y="-1424"/>
+	
+  
+	<trackwall height="-40" width="330" x="196" y="-1508"/>
+	
+  
+	<trackwall height="283" width="34" x="37" y="-1822"/>
+	
+  
+	<trackwall height="40" width="370" x="53" y="-1831"/>
+	
+  
+	<trackwall height="121" width="60" x="274" y="-1658"/>
+	
+  
+	<boostfruit x="376" y="-1681"/>
+	
+  
+	<boostfruit x="420" y="-1738"/>
+	
+  
+	<boostfruit x="439" y="-1645"/>
+	
+  
+	<boostfruit x="423" y="-1690"/>
+	
+  
+	<boostfruit x="461" y="-1710"/>
+	
+  
+	<boostfruit x="396" y="-1653"/>
+	
+  
+	<bossactivate explode="no" height="-238" hp="6" width="425" x="73" y="-1549"/>
+	
+  
+	<rocketlauncher x="93" y="-1758"/>
+	
+  
+	<rocketlauncher x="102" y="-1699"/>
+	
+  
+	<rocketlauncher x="86" y="-1638"/>
+	
+  
+	<goal height="234" width="63" x="106" y="-2076"/>
+	
+  
+	<textfield text="lol you win and luse!" x="199" y="-2014"/>
+	
+  
+	<track height="54" width="509" x="15" y="-481"/>
+	
+  
+	<track height="43" width="496" x="20" y="-476"/>
+	
+  
+	<boostfruit x="215" y="-1068"/>
+	
+  
+	<boostfruit x="227" y="-1133"/>
+	
+  
+	<rocketlauncher x="444" y="-1113"/>
+	
+
+</level>

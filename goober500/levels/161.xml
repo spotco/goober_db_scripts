@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<level author="bomseey" bg="2" name="Wirdooo">
+	
+  
+	<trackwall height="-251" width="207" x="264" y="181"/>
+	
+  
+	<trackwall height="287" width="-146" x="196" y="-80"/>
+	
+  
+	<deathwall height="40" width="-114" x="180" y="-122"/>
+	
+  
+	<bossactivate explode="no" height="32" hp="6" width="42" x="307" y="-115"/>
+	
+  
+	<bossactivate explode="no" height="31" hp="6" width="45" x="395" y="-121"/>
+	
+  
+	<wall height="26" width="273" x="140" y="270"/>
+	
+  
+	<wall height="25" width="-87" x="139" y="271"/>
+	
+  
+	<wall height="24" width="107" x="412" y="271"/>
+	
+  
+	<textfield text="Jump :D" x="76" y="-3"/>
+	
+  
+	<textfield text="joa" x="314" y="-2"/>
+	
+  
+	<wall height="51" width="99" x="106" y="-266"/>
+	
+  
+	<wall height="82" width="121" x="332" y="-367"/>
+	
+  
+	<boostfruit x="320" y="-159"/>
+	
+  
+	<boostfruit x="249" y="-211"/>
+	
+  
+	<boostfruit x="291" y="-243"/>
+	
+  
+	<goal height="70" width="60" x="371" y="-514"/>
+	
+
+</level>

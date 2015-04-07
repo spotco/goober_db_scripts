@@ -1,0 +1,149 @@
+<?xml version="1.0" ?>
+<level author="NOLAN" bg="1" name="EGGSSS">
+	
+  
+	<track height="57.10000000000002" width="370.15" x="53" y="409.9"/>
+	
+  
+	<trackwall height="110.10000000000002" width="61.150000000000006" x="116.25" y="350.75"/>
+	
+  
+	<boost height="-238.54999999999998" width="225.3" x="230.45" y="440.45"/>
+	
+  
+	<flowerboss y="963.65"/>
+	
+  
+	<flowerboss y="923.65"/>
+	
+  
+	<flowerboss y="923.65"/>
+	
+  
+	<flowerboss y="901.2"/>
+	
+  
+	<flowerboss y="929.75"/>
+	
+  
+	<flowerboss y="915.45"/>
+	
+  
+	<laserlauncher dir="3" x="35.7" y="384.8"/>
+	
+  
+	<laserlauncher dir="3" x="36.7" y="429.7"/>
+	
+  
+	<boost height="75.44999999999999" width="241.64999999999998" x="132.55" y="180.10000000000002"/>
+	
+  
+	<boost height="-476.15" width="490.45000000000005" x="125.4" y="121.94999999999999"/>
+	
+  
+	<boost height="-256.95000000000005" width="-405.79999999999995" x="219.2" y="-427.25"/>
+	
+  
+	<boost height="-179.44999999999993" width="171.25000000000003" x="108.1" y="-368.1"/>
+	
+  
+	<boost height="-220.25" width="423.15" x="105" y="-713.95"/>
+	
+  
+	<track height="44.85000000000002" width="434.35" x="77.5" y="-1020.45"/>
+	
+  
+	<boost height="175.3499999999999" width="395.59999999999997" x="107.05" y="-1067.35"/>
+	
+  
+	<trackwall height="82.59999999999991" width="43.849999999999994" x="122.35" y="-1039.85"/>
+	
+  
+	<goal height="259" width="370.1" x="137.65" y="-1618.4"/>
+	
+  
+	<textfield text="AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA" x="274.25" y="-1187.35"/>
+	
+  
+	<boost height="-352.8" width="272.2" x="129.5" y="537.75"/>
+	
+  
+	<flowerboss y="887.8"/>
+	
+  
+	<flowerboss y="900.05"/>
+	
+  
+	<flowerboss y="879.65"/>
+	
+  
+	<flowerboss y="866.4"/>
+	
+  
+	<flowerboss y="864.35"/>
+	
+  
+	<flowerboss y="855.2"/>
+	
+  
+	<flowerboss height="300" width="500" x="8.15" y="638.85"/>
+	
+  
+	<laserlauncher dir="3" x="37.7" y="552.45"/>
+	
+  
+	<laserlauncher dir="3" x="35.7" y="575.9"/>
+	
+  
+	<laserlauncher dir="3" x="35.7" y="601.4"/>
+	
+  
+	<laserlauncher dir="3" x="36.7" y="624.85"/>
+	
+  
+	<laserlauncher dir="3" x="36.7" y="624.85"/>
+	
+  
+	<laserlauncher dir="3" x="73.4" y="581"/>
+	
+  
+	<laserlauncher dir="3" x="106.05" y="594.25"/>
+	
+  
+	<laserlauncher dir="3" x="58.1" y="621.8"/>
+	
+  
+	<laserlauncher dir="3" x="29.55" y="622.8"/>
+	
+  
+	<laserlauncher dir="3" x="27.55" y="581"/>
+	
+  
+	<laserlauncher dir="3" x="26.5" y="528"/>
+	
+  
+	<laserlauncher dir="3" x="26.5" y="472.9"/>
+	
+  
+	<laserlauncher dir="3" x="26.5" y="465.8"/>
+	
+  
+	<laserlauncher dir="3" x="26.5" y="446.4"/>
+	
+  
+	<laserlauncher dir="3" x="32.65" y="461.7"/>
+	
+  
+	<textfield text="GO" x="408.8" y="-1185.5"/>
+	
+  
+	<textfield text="HUH" x="350.7" y="-1191.45"/>
+	
+  
+	<activatetrackwall height="20.40000000000009" width="239.59999999999997" x="263.05" y="-1101.2"/>
+	
+  
+	<activatetrackwall height="-316.04999999999995" width="-191.7" x="127.45" y="-1067.2"/>
+	
+
+</level>

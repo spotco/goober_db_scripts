@@ -1,0 +1,113 @@
+<?xml version="1.0" ?>
+<level author="lamboe" bg="1" name="wedding">
+	
+  
+	<wall height="50" width="524" x="54" y="354"/>
+	
+  
+	<textfield text="its tiem for the wedding!" x="122" y="204"/>
+	
+  
+	<textfield text="kambo and lamboe r marryin!" x="305" y="128"/>
+	
+  
+	<trackwall height="26" width="99" x="86" y="357"/>
+	
+  
+	<trackwall height="-63" width="-52" x="251" y="374"/>
+	
+  
+	<trackwall height="-51" width="-68" x="202" y="322"/>
+	
+  
+	<trackwall height="-71" width="-54" x="145" y="280"/>
+	
+  
+	<trackwall height="-80" width="-49" x="95" y="218"/>
+	
+  
+	<trackwall height="-73" width="-51" x="67" y="167"/>
+	
+  
+	<trackwall height="-49" width="-40" x="25" y="111"/>
+	
+  
+	<track height="-559" width="162" x="138" y="136"/>
+	
+  
+	<textfield text="pay me ur kambocoins from kambo store level" x="73" y="-97"/>
+	
+  
+	<textfield text="or else u cant ride the elevator" x="232" y="-102"/>
+	
+  
+	<trackwall height="52" width="152" x="87" y="-219"/>
+	
+  
+	<trackwall height="-526" width="31" x="229" y="66"/>
+	
+  
+	<trackwall height="-511" width="32" x="55" y="32"/>
+	
+  
+	<textfield text="DING!!!!" x="185" y="-501"/>
+	
+  
+	<wall height="46" width="324" x="234" y="-566"/>
+	
+  
+	<textfield text="dont eat the cake it's only for kambo and lamboe" x="98" y="-744"/>
+	
+  
+	<trackwall height="-91" width="318" x="325" y="-572"/>
+	
+  
+	<trackwall height="-62" width="107" x="385" y="-657"/>
+	
+  
+	<trackwall height="-50" width="45" x="423" y="-712"/>
+	
+  
+	<deathwall height="-48" width="10" x="437" y="-763"/>
+	
+  
+	<deathwall height="21" width="183" x="329" y="-634"/>
+	
+  
+	<deathwall height="16" width="93" x="393" y="-698"/>
+	
+  
+	<boost height="-35" width="24" x="431" y="-813"/>
+	
+  
+	<wall height="-165" width="96" x="100" y="-740"/>
+	
+  
+	<wall height="-125" width="-201" x="153" y="-849"/>
+	
+  
+	<wall height="112" width="196" x="348" y="-1139"/>
+	
+  
+	<wall height="178" width="382" x="196" y="-1193"/>
+	
+  
+	<boost height="-473" width="60" x="28" y="-993"/>
+	
+  
+	<goal height="36" width="377" x="24" y="-1524"/>
+	
+  
+	<wall height="32" width="226" x="37" y="-1408"/>
+	
+  
+	<wall height="-50" width="82" x="176" y="-1278"/>
+	
+  
+	<textfield text="i hereby marry kambo" x="271" y="-1278"/>
+	
+  
+	<textfield text="did kambo even accept the proposal?" x="365" y="-1410"/>
+	
+
+</level>

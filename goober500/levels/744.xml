@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="aboutme3">
+	
+  
+	<wall height="-87" width="-304" x="345" y="423"/>
+	
+  
+	<wall height="-73" width="-170" x="136" y="343"/>
+	
+  
+	<wall height="-109" width="-126" x="75" y="286"/>
+	
+  
+	<wall height="-90" width="-116" x="40" y="188"/>
+	
+  
+	<boost height="-490" width="489" x="10" y="81"/>
+	
+  
+	<wall height="-23" width="-388" x="197" y="-452"/>
+	
+  
+	<wall height="37" width="185" x="327" y="-474"/>
+	
+  
+	<textfield text="I dislike and like many things" x="297" y="147"/>
+	
+  
+	<deathwall height="150" width="-626" x="388" y="-807"/>
+	
+  
+	<activatetrackwall height="84" width="128" x="403" y="-558"/>
+	
+  
+	<textfield text="I like winter" x="31" y="-557"/>
+	
+  
+	<bossactivate height="193" hp="6" width="131" x="386" y="-1243"/>
+	
+  
+	<activatetrackwall height="38" width="-533" x="409" y="-866"/>
+	
+  
+	<textfield text="You'll want to switch walls" x="57" y="-988"/>
+	
+  
+	<textfield text="I like ice cream" x="33" y="-1379"/>
+	
+  
+	<textfield text="I like to ride bikes" x="287" y="-1827"/>
+	
+  
+	<textfield text="cats are great taco llamas" x="127" y="-2060"/>
+	
+  
+	<goal height="118" width="356" x="58" y="-2208"/>
+	
+
+</level>

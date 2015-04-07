@@ -1,0 +1,50 @@
+<?xml version="1.0" ?>
+<level author="spotco" bg="3" name="BOSSRUSH">
+	
+  
+	<wall height="73" width="336" x="114" y="343"/>
+	
+  
+	<wall height="236" width="77" x="334" y="80"/>
+	
+  
+	<wall height="-235" width="-93" x="176" y="160"/>
+	
+  
+	<goal height="187" width="133" x="315" y="-1940"/>
+	
+  
+	<bossactivate explode="no" height="116" hp="6" width="193" x="155" y="214"/>
+	
+  
+	<flowerboss y="654"/>
+	
+  
+	<cloudboss/>
+	
+  
+	<wall height="189" width="62" x="345" y="-302"/>
+	
+  
+	<wall height="-301" width="-73" x="128" y="-259"/>
+	
+  
+	<wall height="-348" width="64" x="339" y="-429"/>
+	
+  
+	<wall height="-290" width="-59" x="131" y="-698"/>
+	
+  
+	<wall height="-295" width="69" x="359" y="-883"/>
+	
+  
+	<wall height="-343" width="-63" x="138" y="-1095"/>
+	
+  
+	<wall height="-354" width="55" x="357" y="-1300"/>
+	
+  
+	<textfield text="BOSS RUSH!!!?'''' " x="311" y="-52"/>
+	
+
+</level>

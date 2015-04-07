@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<level author="someguy" name="sucklevel">
+	
+  
+	<wall height="49.14999999999998" width="185" x="182.5" y="320.85"/>
+	
+  
+	<wall height="164.99999999999997" width="45" x="348.35" y="94.15"/>
+	
+  
+	<textfield text="lol wut" x="119.15" y="33.35"/>
+	
+  
+	<wall height="-280" width="-58.349999999999994" x="255" y="120"/>
+	
+  
+	<wall height="-183.35000000000002" width="47.5" x="386.65" y="-237.5"/>
+	
+  
+	<boostfruit x="19.15" y="-31.649999999999977"/>
+	
+  
+	<boostfruit x="203.35" y="-374.15"/>
+	
+  
+	<goal height="-135.85000000000002" width="105" x="242.5" y="-560"/>
+	
+
+</level>

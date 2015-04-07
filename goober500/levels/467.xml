@@ -1,0 +1,251 @@
+<?xml version="1.0" ?>
+<level author="Aziz" bg="3" name="LagiX">
+	
+  
+	<trackwall height="-278.2" width="24.549999999999997" x="99.9" y="321.8"/>
+	
+  
+	<trackwall height="-38.05000000000001" width="231.45" x="124.45" y="320.25"/>
+	
+  
+	<trackwall height="-273.45000000000005" width="36.44999999999999" x="352.75" y="317.85"/>
+	
+  
+	<trackwall height="38.050000000000004" width="226.7" x="-493.05" y="3.95"/>
+	
+  
+	<rocketlauncher x="-66.6" y="248.1"/>
+	
+  
+	<rocketlauncher x="-66.6" y="248.1"/>
+	
+  
+	<rocketlauncher x="-66.6" y="248.1"/>
+	
+  
+	<rocketlauncher x="-66.6" y="248.1"/>
+	
+  
+	<rocketlauncher x="-66.6" y="248.1"/>
+	
+  
+	<rocketlauncher x="-66.6" y="248.1"/>
+	
+  
+	<rocketlauncher x="-66.6" y="248.1"/>
+	
+  
+	<rocketlauncher x="-66.6" y="248.1"/>
+	
+  
+	<rocketlauncher x="-66.6" y="248.1"/>
+	
+  
+	<rocketlauncher x="-66.6" y="248.1"/>
+	
+  
+	<rocketlauncher x="-66.6" y="248.1"/>
+	
+  
+	<rocketlauncher x="-66.6" y="248.1"/>
+	
+  
+	<rocketlauncher x="-66.6" y="248.1"/>
+	
+  
+	<rocketlauncher x="525.55" y="250.5"/>
+	
+  
+	<rocketlauncher x="525.55" y="250.5"/>
+	
+  
+	<rocketlauncher x="525.55" y="250.5"/>
+	
+  
+	<rocketlauncher x="525.55" y="250.5"/>
+	
+  
+	<rocketlauncher x="525.55" y="250.5"/>
+	
+  
+	<rocketlauncher x="525.55" y="250.5"/>
+	
+  
+	<rocketlauncher x="525.55" y="250.5"/>
+	
+  
+	<rocketlauncher x="525.55" y="250.5"/>
+	
+  
+	<rocketlauncher x="525.55" y="250.5"/>
+	
+  
+	<rocketlauncher x="525.55" y="250.5"/>
+	
+  
+	<rocketlauncher x="525.55" y="250.5"/>
+	
+  
+	<rocketlauncher x="-74.5" y="251.25"/>
+	
+  
+	<rocketlauncher x="-74.5" y="251.25"/>
+	
+  
+	<rocketlauncher x="-74.5" y="251.25"/>
+	
+  
+	<rocketlauncher x="-74.5" y="251.25"/>
+	
+  
+	<rocketlauncher x="-74.5" y="251.25"/>
+	
+  
+	<rocketlauncher x="-74.5" y="251.25"/>
+	
+  
+	<rocketlauncher x="-74.5" y="251.25"/>
+	
+  
+	<rocketlauncher x="-74.5" y="251.25"/>
+	
+  
+	<rocketlauncher x="-74.5" y="251.25"/>
+	
+  
+	<rocketlauncher x="-74.5" y="251.25"/>
+	
+  
+	<rocketlauncher x="529.5" y="255.25"/>
+	
+  
+	<rocketlauncher x="528.75" y="254.45"/>
+	
+  
+	<rocketlauncher x="528.75" y="254.45"/>
+	
+  
+	<rocketlauncher x="528.75" y="254.45"/>
+	
+  
+	<rocketlauncher x="528.75" y="254.45"/>
+	
+  
+	<rocketlauncher x="528.75" y="254.45"/>
+	
+  
+	<rocketlauncher x="528.75" y="254.45"/>
+	
+  
+	<rocketlauncher x="516.85" y="257.6"/>
+	
+  
+	<rocketlauncher x="516.85" y="257.6"/>
+	
+  
+	<rocketlauncher x="539.05" y="260.8"/>
+	
+  
+	<rocketlauncher x="538.25" y="260.8"/>
+	
+  
+	<rocketlauncher x="528.75" y="259.2"/>
+	
+  
+	<rocketlauncher x="521.6" y="256.05"/>
+	
+  
+	<rocketlauncher x="521.6" y="256.05"/>
+	
+  
+	<rocketlauncher x="523.2" y="256.05"/>
+	
+  
+	<rocketlauncher x="525.55" y="256.05"/>
+	
+  
+	<rocketlauncher x="525.55" y="256.05"/>
+	
+  
+	<rocketlauncher x="525.55" y="256.05"/>
+	
+  
+	<rocketlauncher x="538.25" y="259.2"/>
+	
+  
+	<rocketlauncher x="538.25" y="259.2"/>
+	
+  
+	<rocketlauncher x="534.3" y="256.8"/>
+	
+  
+	<rocketlauncher x="534.3" y="256.05"/>
+	
+  
+	<rocketlauncher x="-65" y="240.95"/>
+	
+  
+	<rocketlauncher x="-65" y="240.95"/>
+	
+  
+	<rocketlauncher x="-65" y="240.95"/>
+	
+  
+	<rocketlauncher x="-69.75" y="242.55"/>
+	
+  
+	<rocketlauncher x="-72.15" y="253.65"/>
+	
+  
+	<rocketlauncher x="-72.15" y="253.65"/>
+	
+  
+	<rocketlauncher x="-72.15" y="253.65"/>
+	
+  
+	<rocketlauncher x="-72.15" y="253.65"/>
+	
+  
+	<rocketlauncher x="-72.15" y="253.65"/>
+	
+  
+	<rocketlauncher x="-70.55" y="251.25"/>
+	
+  
+	<rocketlauncher x="-70.55" y="251.25"/>
+	
+  
+	<rocketlauncher x="-70.55" y="251.25"/>
+	
+  
+	<rocketlauncher x="-70.55" y="251.25"/>
+	
+  
+	<laserlauncher dir="3" x="118.9" y="394.75"/>
+	
+  
+	<laserlauncher dir="3" x="352.75" y="397.9"/>
+	
+  
+	<laserlauncher dir="3" x="42" y="122.05"/>
+	
+  
+	<laserlauncher dir="-3" x="45.2" y="186.25"/>
+	
+  
+	<trackwall height="-193.4" width="26.14999999999999" x="96.7" y="42.5"/>
+	
+  
+	<trackwall height="-194.20000000000002" width="41.200000000000045" x="355.15" y="43.30000000000001"/>
+	
+  
+	<trackwall height="-508.95" width="35.650000000000006" x="94.35" y="-144.8"/>
+	
+  
+	<trackwall height="-547.75" width="41.25" x="355.9" y="-151.95"/>
+	
+  
+	<goal height="-91.14999999999998" width="235.45000000000002" x="85.6" y="-644.7"/>
+	
+
+</level>

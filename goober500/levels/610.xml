@@ -1,0 +1,23 @@
+<?xml version="1.0" ?>
+<level author="12121212121" bg="1" name="agoterilpieez">
+	
+  
+	<activatetrackwall height="142" width="134" x="91" y="308"/>
+	
+  
+	<activatetrackwall height="140" width="-139" x="426" y="310"/>
+	
+  
+	<wall height="16" width="31" x="249" y="277"/>
+	
+  
+	<cloudboss/>
+	
+  
+	<goal height="83" width="82" x="63" y="-1339"/>
+	
+  
+	<goal height="92" width="-100" x="442" y="-1337"/>
+	
+
+</level>

@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<level author="NAQUAN" bg="1" name="NAQUAN">
+	
+  
+	<wall height="127" width="198" x="96" y="307"/>
+	
+  
+	<wall height="124" width="171" x="291" y="310"/>
+	
+  
+	<wall height="102" width="127" x="342" y="138"/>
+	
+  
+	<wall height="90" width="98" x="129" y="81"/>
+	
+  
+	<wall height="45" width="37" x="297" y="214"/>
+	
+  
+	<wall height="103" width="95" x="41" y="-45"/>
+	
+  
+	<wall height="86" width="138" x="269" y="-68"/>
+	
+  
+	<wall height="46" width="58" x="205" y="-16"/>
+	
+  
+	<boostfruit x="380" y="61"/>
+	
+  
+	<boostfruit x="380" y="61"/>
+	
+  
+	<boostfruit x="313" y="109"/>
+	
+  
+	<boostfruit x="263" y="163"/>
+	
+  
+	<boostfruit x="200" y="42"/>
+	
+  
+	<boostfruit x="176" y="17"/>
+	
+  
+	<boostfruit x="243" y="-48"/>
+	
+  
+	<boostfruit x="320" y="-97"/>
+	
+  
+	<boostfruit x="90" y="-100"/>
+	
+  
+	<boost height="45" width="55" x="164" y="-128"/>
+	
+  
+	<boost height="53" width="89" x="90" y="-163"/>
+	
+  
+	<goal height="89" width="52" x="61" y="202"/>
+	
+  
+	<goal height="97" width="82" x="108" y="200"/>
+	
+
+</level>

@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<level author="catpakoo" bg="1" name="funfact">
+	
+  
+	<wall height="50" width="-601" x="378" y="361"/>
+	
+  
+	<track height="50" width="558" x="72" y="87"/>
+	
+  
+	<track height="-879" width="75" x="142" y="325"/>
+	
+  
+	<deathwall height="203" width="-447" x="374" y="-874"/>
+	
+  
+	<activatetrackwall height="54" width="558" x="253" y="-513"/>
+	
+  
+	<goal height="88" width="366" x="71" y="-1594"/>
+	
+  
+	<textfield text="your father is my wife!!!!!" x="82" y="-1153"/>
+	
+  
+	<trackwall height="76" width="122" x="127" y="-146"/>
+	
+  
+	<trackwall height="61" width="125" x="226" y="65"/>
+	
+
+</level>

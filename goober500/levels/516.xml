@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<level author="ERUBE" bg="1" name="GOJUMP">
+	
+  
+	<activatetrackwall height="101" width="151" x="50" y="119"/>
+	
+  
+	<trackwall height="100" width="-98" x="448" y="120"/>
+	
+  
+	<track height="11" width="-241" x="446" y="123"/>
+	
+  
+	<track height="17" width="-240" x="442" y="201"/>
+	
+  
+	<deathwall height="98" width="-47" x="48" y="117"/>
+	
+  
+	<wall height="48" width="498" x="1" y="521"/>
+	
+  
+	<deathwall height="98" width="46" x="454" y="123"/>
+	
+  
+	<boost height="-140" width="153" x="200" y="511"/>
+	
+  
+	<trackblade x="201" y="20"/>
+	
+  
+	<trackblade x="238" y="-6"/>
+	
+  
+	<trackblade x="282" y="-13"/>
+	
+  
+	<trackblade x="326" y="-4"/>
+	
+  
+	<trackblade x="349" y="25"/>
+	
+  
+	<goal height="59" width="100" x="71" y="52"/>
+	
+
+</level>

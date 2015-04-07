@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<level author="fafa" bg="1" name="hwrgmfrt">
+	
+  
+	<wall height="55" width="-559" x="424" y="373"/>
+	
+  
+	<goal height="-176" width="-333" x="190" y="368"/>
+	
+  
+	<laserlauncher dir="3" x="15" y="47"/>
+	
+  
+	<laserlauncher dir="3" x="75" y="57"/>
+	
+  
+	<laserlauncher dir="3" x="156" y="69"/>
+	
+  
+	<laserlauncher dir="3" x="200" y="66"/>
+	
+  
+	<laserlauncher dir="3" x="275" y="58"/>
+	
+  
+	<laserlauncher dir="3" x="312" y="54"/>
+	
+  
+	<laserlauncher dir="3" x="340" y="53"/>
+	
+  
+	<laserlauncher dir="3" x="398" y="53"/>
+	
+  
+	<wall height="21" width="65" x="257" y="211"/>
+	
+  
+	<wall height="13" width="65" x="314" y="229"/>
+	
+
+</level>

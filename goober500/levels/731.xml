@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="veryeasy">
+	
+  
+	<wall height="125" width="411" x="61" y="291"/>
+	
+  
+	<wall height="77" width="-10" x="121" y="309"/>
+	
+  
+	<wall height="-515" width="21" x="66" y="287"/>
+	
+  
+	<wall height="-515" width="21" x="449" y="287"/>
+	
+  
+	<wall height="-21" width="376" x="85" y="-140"/>
+	
+  
+	<wall height="37" width="161" x="300" y="169"/>
+	
+  
+	<wall height="26" width="-199" x="275" y="92"/>
+	
+  
+	<wall height="31" width="136" x="321" y="-23"/>
+	
+  
+	<wall height="53" width="127" x="147" y="-25"/>
+	
+  
+	<wall height="26" width="149" x="75" y="-104"/>
+	
+  
+	<wall height="28" width="158" x="69" y="201"/>
+	
+  
+	<wall height="25" width="92" x="362" y="54"/>
+	
+  
+	<boost height="67" width="133" x="143" y="-34"/>
+	
+  
+	<goal height="80" width="110" x="323" y="-125"/>
+	
+  
+	<deathwall height="47" width="155" x="83" y="243"/>
+	
+  
+	<deathwall height="58" width="161" x="292" y="239"/>
+	
+  
+	<deathwall height="13" width="192" x="83" y="115"/>
+	
+
+</level>

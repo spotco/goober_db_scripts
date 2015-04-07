@@ -1,0 +1,215 @@
+<?xml version="1.0" ?>
+<level author="kambo" bg="1" name="kkkambo">
+	
+  
+	<wall height="22" width="397" x="45" y="355"/>
+	
+  
+	<wall height="385" width="-88" x="116" y="108"/>
+	
+  
+	<wall height="-64" width="460" x="104" y="149"/>
+	
+  
+	<wall height="133" width="235" x="154" y="247"/>
+	
+  
+	<wall height="234" width="364" x="242" y="166"/>
+	
+  
+	<wall height="316" width="77" x="86" y="-252"/>
+	
+  
+	<wall height="125" width="334" x="192" y="-193"/>
+	
+  
+	<wall height="133" width="109" x="213" y="-85"/>
+	
+  
+	<wall height="81" width="524" x="158" y="-470"/>
+	
+  
+	<boost height="-14" width="347" x="154" y="-397"/>
+	
+  
+	<boost height="107" width="-13" x="165" y="-468"/>
+	
+  
+	<boostfruit x="262" y="-692"/>
+	
+  
+	<boostfruit x="287" y="-605"/>
+	
+  
+	<boostfruit x="380" y="-557"/>
+	
+  
+	<boostfruit x="177" y="-596"/>
+	
+  
+	<boostfruit x="80" y="-678"/>
+	
+  
+	<boostfruit x="257" y="-541"/>
+	
+  
+	<boostfruit x="107" y="-576"/>
+	
+  
+	<boostfruit x="169" y="-666"/>
+	
+  
+	<boostfruit x="406" y="-665"/>
+	
+  
+	<boostfruit x="319" y="-640"/>
+	
+  
+	<deathwall height="41" width="306" x="22" y="-1013"/>
+	
+  
+	<deathwall height="102" width="274" x="320" y="-1292"/>
+	
+  
+	<boostfruit x="245" y="-1068"/>
+	
+  
+	<boostfruit x="245" y="-1075"/>
+	
+  
+	<boostfruit x="278" y="-1066"/>
+	
+  
+	<boostfruit x="325" y="-1082"/>
+	
+  
+	<boostfruit x="372" y="-1088"/>
+	
+  
+	<boostfruit x="190" y="-1160"/>
+	
+  
+	<boostfruit x="192" y="-1196"/>
+	
+  
+	<boostfruit x="201" y="-1142"/>
+	
+  
+	<boostfruit x="417" y="-1084"/>
+	
+  
+	<boostfruit x="434" y="-1038"/>
+	
+  
+	<boostfruit x="53" y="-872"/>
+	
+  
+	<boostfruit x="172" y="-797"/>
+	
+  
+	<boostfruit x="235" y="-849"/>
+	
+  
+	<boostfruit x="319" y="-906"/>
+	
+  
+	<boostfruit x="354" y="-827"/>
+	
+  
+	<wall height="38" width="115" x="0" y="-1393"/>
+	
+  
+	<wall height="65" width="300" x="236" y="-1414"/>
+	
+  
+	<wall height="64" width="421" x="111" y="-1720"/>
+	
+  
+	<wall height="261" width="-23" x="494" y="-1669"/>
+	
+  
+	<boostfruit x="258" y="-1620"/>
+	
+  
+	<boostfruit x="230" y="-1602"/>
+	
+  
+	<boostfruit x="259" y="-1602"/>
+	
+  
+	<rocketlauncher x="59" y="-1920"/>
+	
+  
+	<rocketlauncher x="109" y="-2034"/>
+	
+  
+	<trackwall height="28" width="336" x="51" y="-2141"/>
+	
+  
+	<trackwall height="-154" width="63" x="327" y="-1720"/>
+	
+  
+	<boostfruit x="344" y="-2012"/>
+	
+  
+	<boostfruit x="412" y="-1972"/>
+	
+  
+	<boostfruit x="292" y="-1904"/>
+	
+  
+	<boostfruit x="448" y="-1853"/>
+	
+  
+	<boostfruit x="42" y="-2312"/>
+	
+  
+	<goal height="52" width="276" x="71" y="-2350"/>
+	
+  
+	<textfield text="me a kambo!" x="415" y="-2213"/>
+	
+  
+	<textfield text="oink oink! me a piggsly!" x="190" y="-2200"/>
+	
+  
+	<textfield text="heehee lol o lol :)!!!!" x="350" y="-2397"/>
+	
+  
+	<boostfruit x="207" y="-1561"/>
+	
+  
+	<boostfruit x="181" y="-1613"/>
+	
+  
+	<boostfruit x="269" y="-1582"/>
+	
+  
+	<trackwall height="31" width="121" x="388" y="-1751"/>
+	
+  
+	<trackwall height="34" width="-227" x="327" y="-1751"/>
+	
+  
+	<trackwall height="30" width="227" x="92" y="-1778"/>
+	
+  
+	<trackwall height="27" width="122" x="403" y="-1768"/>
+	
+  
+	<boostfruit x="65" y="-1781"/>
+	
+  
+	<boostfruit x="41" y="-1738"/>
+	
+  
+	<boostfruit x="60" y="-1673"/>
+	
+  
+	<boostfruit x="91" y="-1643"/>
+	
+  
+	<bossactivate explode="no" height="375" hp="6" width="532" x="4" y="-2127"/>
+	
+
+</level>

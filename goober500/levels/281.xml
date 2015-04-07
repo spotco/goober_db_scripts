@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<level author="joaco" bg="1" name="nivel3">
+	
+  
+	<wall height="59" width="216" x="151" y="378"/>
+	
+  
+	<textfield text="ya estas mas avanzado, pero aun te falta por aprender" x="296" y="220"/>
+	
+  
+	<boost height="125" width="59" x="64" y="255"/>
+	
+  
+	<wall height="-40" width="211" x="162" y="198"/>
+	
+  
+	<boost height="191" width="67" x="394" y="-21"/>
+	
+  
+	<wall height="66" width="211" x="158" y="-137"/>
+	
+  
+	<deathwall height="61" width="93" x="115" y="-348"/>
+	
+  
+	<boostfruit x="260" y="-240"/>
+	
+  
+	<boostfruit x="209" y="-456"/>
+	
+  
+	<wall height="83" width="146" x="297" y="-470"/>
+	
+  
+	<textfield text="plataformas mobibles!" x="156" y="-612"/>
+	
+  
+	<track height="189" width="51" x="421" y="-667"/>
+	
+  
+	<trackwall height="39" width="67" x="394" y="-568"/>
+	
+  
+	<wall height="41" width="86" x="298" y="-697"/>
+	
+  
+	<track height="80" width="213" x="67" y="-682"/>
+	
+  
+	<trackwall height="42" width="68" x="82" y="-698"/>
+	
+  
+	<boostfruit x="77" y="-773"/>
+	
+  
+	<boostfruit x="78" y="-834"/>
+	
+  
+	<boostfruit x="81" y="-908"/>
+	
+  
+	<wall height="37" width="102" x="123" y="-926"/>
+	
+  
+	<wall height="39" width="101" x="312" y="-933"/>
+	
+  
+	<track height="126" width="33" x="262" y="-964"/>
+	
+  
+	<trackblade x="262" y="-913"/>
+	
+  
+	<track height="182" width="28" x="388" y="-1135"/>
+	
+  
+	<track height="35" width="208" x="138" y="-1141"/>
+	
+  
+	<trackwall height="45" width="50" x="175" y="-1165"/>
+	
+  
+	<trackwall height="43" width="42" x="376" y="-1004"/>
+	
+  
+	<goal height="97" width="93" x="52" y="-1299"/>
+	
+  
+	<track height="17" width="119" x="305" y="-377"/>
+	
+  
+	<trackblade height="55" width="50" x="326" y="-373"/>
+	
+
+</level>

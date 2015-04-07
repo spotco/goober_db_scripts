@@ -1,0 +1,227 @@
+<?xml version="1.0" ?>
+<level author="ISSAC" bg="3" name="MULTISHOT">
+	
+  
+	<wall height="67.14999999999998" width="367.54999999999995" x="134.35" y="272.5"/>
+	
+  
+	<wall height="67.15000000000003" width="-122.85000000000001" x="133.4" y="273.45"/>
+	
+  
+	<boost height="-266.70000000000005" width="68.10000000000002" x="358.95" y="269.6"/>
+	
+  
+	<boost height="-449" width="68.10000000000002" x="358.95" y="4"/>
+	
+  
+	<wall height="62.39999999999998" width="312.85" x="42.25" y="-531.3"/>
+	
+  
+	<track height="-481.65" width="29.75" x="398.25" y="-557.4"/>
+	
+  
+	<trackwall height="107.45000000000005" width="24" x="389.65" y="-1019.85"/>
+	
+  
+	<boostfruit x="357.95" y="-1073.85"/>
+	
+  
+	<boostfruit x="337.8" y="-1138.15"/>
+	
+  
+	<boostfruit x="282.15" y="-1197.65"/>
+	
+  
+	<boostfruit x="259.1" y="-1250.4"/>
+	
+  
+	<boostfruit x="200.6" y="-1346.35"/>
+	
+  
+	<boostfruit x="147.8" y="-1442.3"/>
+	
+  
+	<boostfruit x="104.6" y="-1482.55"/>
+	
+  
+	<rocketlauncher x="37.45" y="-1521.55"/>
+	
+  
+	<rocketlauncher x="36.45" y="-1277.7"/>
+	
+  
+	<rocketlauncher x="36.45" y="-1047.7"/>
+	
+  
+	<rocketlauncher x="36.45" y="-967.7"/>
+	
+  
+	<rocketlauncher x="36.45" y="-762.7"/>
+	
+  
+	<rocketlauncher x="36.45" y="-577.7"/>
+	
+  
+	<rocketlauncher x="36.45" y="-397.7"/>
+	
+  
+	<rocketlauncher x="36.45" y="-237.7"/>
+	
+  
+	<rocketlauncher x="36.45" y="-97.69999999999999"/>
+	
+  
+	<rocketlauncher x="36.45" y="37.30000000000001"/>
+	
+  
+	<rocketlauncher x="36.45" y="177.3"/>
+	
+  
+	<trackblade x="475.05" y="197.39999999999998"/>
+	
+  
+	<trackblade x="475.05" y="42.39999999999998"/>
+	
+  
+	<trackblade x="475.05" y="-97.60000000000002"/>
+	
+  
+	<trackblade x="475.05" y="-232.60000000000002"/>
+	
+  
+	<trackblade x="475.05" y="-367.6"/>
+	
+  
+	<trackblade x="475.05" y="-482.6"/>
+	
+  
+	<trackblade x="475.05" y="-597.6"/>
+	
+  
+	<trackblade x="475.05" y="-717.6"/>
+	
+  
+	<trackblade x="475.05" y="-797.6"/>
+	
+  
+	<trackblade x="475.05" y="-907.6"/>
+	
+  
+	<trackblade x="475.05" y="-1022.6"/>
+	
+  
+	<trackblade x="407.85" y="-1134.45"/>
+	
+  
+	<trackblade x="368.5" y="-1194.9"/>
+	
+  
+	<trackblade x="337.8" y="-1264"/>
+	
+  
+	<trackblade x="266.8" y="-1345.55"/>
+	
+  
+	<wall height="50.84999999999991" width="270.65" x="204.4" y="-1507.35"/>
+	
+  
+	<boost height="-391.4499999999998" width="19.19999999999999" x="308.05" y="-1545.65"/>
+	
+  
+	<boost height="-194.75000000000023" width="20.149999999999977" x="308.05" y="-1937.55"/>
+	
+  
+	<boost height="-314.7000000000003" width="21.099999999999966" x="307.1" y="-2132.2"/>
+	
+  
+	<wall height="45.100000000000364" width="213.05" x="64.3" y="-2535.3"/>
+	
+  
+	<wall height="39.34999999999991" width="155.45" x="336.85" y="-2531.45"/>
+	
+  
+	<goal height="204.3499999999999" width="-106.5" x="198.65" y="-2739.65"/>
+	
+  
+	<goal height="225.44999999999982" width="-83.5" x="455.85" y="-2746.35"/>
+	
+  
+	<rocketlauncher x="65.25" y="-2427"/>
+	
+  
+	<rocketlauncher x="438.6" y="-2444.25"/>
+	
+  
+	<rocketlauncher x="182.35" y="-2434.65"/>
+	
+  
+	<rocketlauncher x="447.2" y="-2319.55"/>
+	
+  
+	<rocketlauncher x="452" y="-2211.1"/>
+	
+  
+	<rocketlauncher x="447.2" y="-2109.4"/>
+	
+  
+	<rocketlauncher x="61.4" y="-2346.4"/>
+	
+  
+	<rocketlauncher x="189.05" y="-2327.2"/>
+	
+  
+	<rocketlauncher x="61.4" y="-2220.7"/>
+	
+  
+	<rocketlauncher x="186.2" y="-2221.65"/>
+	
+  
+	<rocketlauncher x="52.8" y="-2120.95"/>
+	
+  
+	<rocketlauncher x="198.65" y="-2112.3"/>
+	
+  
+	<rocketlauncher x="57.6" y="-2015.15"/>
+	
+  
+	<rocketlauncher x="200.6" y="-2005.55"/>
+	
+  
+	<rocketlauncher x="453" y="-1961.45"/>
+	
+  
+	<rocketlauncher x="458.75" y="-1814.65"/>
+	
+  
+	<rocketlauncher x="443.4" y="-1719.65"/>
+	
+  
+	<rocketlauncher x="53.75" y="-1935.05"/>
+	
+  
+	<rocketlauncher x="196.75" y="-1922.6"/>
+	
+  
+	<rocketlauncher x="51.8" y="-1831.45"/>
+	
+  
+	<rocketlauncher x="196.75" y="-1814.2"/>
+	
+  
+	<rocketlauncher x="60.45" y="-1726.85"/>
+	
+  
+	<rocketlauncher x="174.65" y="-1723.05"/>
+	
+  
+	<rocketlauncher x="65.25" y="-1622.3"/>
+	
+  
+	<rocketlauncher x="160.25" y="-1620.4"/>
+	
+  
+	<rocketlauncher x="419.4" y="-1634.75"/>
+	
+
+</level>

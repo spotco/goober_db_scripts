@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<level author="JOE" bg="1" name="JOE">
+	
+  
+	<wall height="50" width="98" x="202" y="270"/>
+	
+  
+	<wall height="53" width="101" x="301" y="217"/>
+	
+  
+	<wall height="55" width="101" x="400" y="168"/>
+	
+  
+	<wall height="54" width="152" x="249" y="68"/>
+	
+  
+	<wall height="52" width="152" x="0" y="68"/>
+	
+  
+	<trackwall height="55" width="-53" x="247" y="67"/>
+	
+  
+	<track height="18" width="121" x="131" y="85"/>
+	
+  
+	<wall height="49" width="102" x="200" y="-28"/>
+	
+  
+	<boostfruit x="24" y="46"/>
+	
+  
+	<boostfruit x="66" y="39"/>
+	
+  
+	<wall height="54" width="99" x="302" y="-83"/>
+	
+  
+	<wall height="54" width="107" x="401" y="-132"/>
+	
+  
+	<wall height="55" width="105" x="300" y="-232"/>
+	
+  
+	<wall height="50" width="100" x="51" y="-231"/>
+	
+  
+	<trackwall height="53" width="56" x="150" y="-232"/>
+	
+  
+	<track height="17" width="124" x="183" y="-215"/>
+	
+  
+	<boost height="258" width="96" x="52" y="-482"/>
+	
+  
+	<wall height="59" width="361" x="149" y="-484"/>
+	
+  
+	<track height="207" width="27" x="313" y="-692"/>
+	
+  
+	<trackblade x="318" y="-687"/>
+	
+  
+	<goal height="213" width="49" x="449" y="-700"/>
+	
+  
+	<goal height="120" width="507" x="1" y="-828"/>
+	
+  
+	<textfield text="EBGVFXCVV CVV GBJHM VBK NVBRYSBVGUNFGBGVUS IHYFGT6R78GT ..." x="166" y="-148"/>
+	
+
+</level>

@@ -1,0 +1,209 @@
+<?xml version="1.0" ?>
+<level author="kevin" bg="2" name="hard">
+	
+  
+	<wall height="69" width="366" x="66" y="388"/>
+	
+  
+	<wall height="28" width="132" x="315" y="-279"/>
+	
+  
+	<boostfruit x="354" y="-366"/>
+	
+  
+	<deathwall height="144" width="223" x="19" y="-511"/>
+	
+  
+	<deathwall height="160" width="154" x="321" y="-834"/>
+	
+  
+	<boostfruit x="237" y="-613"/>
+	
+  
+	<boostfruit x="93" y="-789"/>
+	
+  
+	<wall height="163" width="28" x="226" y="-969"/>
+	
+  
+	<wall height="78" width="163" x="18" y="-1067"/>
+	
+  
+	<boost height="190" width="58" x="73" y="-1352"/>
+	
+  
+	<boost height="184" width="52" x="196" y="-1347"/>
+	
+  
+	<wall height="69" width="133" x="265" y="-1065"/>
+	
+  
+	<boost height="215" width="62" x="316" y="-1352"/>
+	
+  
+	<wall height="409" width="20" x="155" y="-1708"/>
+	
+  
+	<wall height="384" width="22" x="279" y="-1583"/>
+	
+  
+	<wall height="148" width="18" x="155" y="-1316"/>
+	
+  
+	<wall height="130" width="20" x="279" y="-1279"/>
+	
+  
+	<deathwall height="169" width="100" x="182" y="-1660"/>
+	
+  
+	<wall height="180" width="29" x="279" y="-1755"/>
+	
+  
+	<deathwall height="204" width="127" x="16" y="-1701"/>
+	
+  
+	<boostfruit x="356" y="-1544"/>
+	
+  
+	<boostfruit x="368" y="-1783"/>
+	
+  
+	<wall height="57" width="284" x="1" y="-1768"/>
+	
+  
+	<wall height="239" width="30" x="21" y="-2012"/>
+	
+  
+	<rocketlauncher x="378" y="-2125"/>
+	
+  
+	<boost height="319" width="87" x="144" y="-2252"/>
+	
+  
+	<track height="29" width="486" x="3" y="-2384"/>
+	
+  
+	<trackblade x="214" y="-2380"/>
+	
+  
+	<boostfruit x="79" y="-2431"/>
+	
+  
+	<boostfruit x="177" y="-2434"/>
+	
+  
+	<boostfruit x="274" y="-2436"/>
+	
+  
+	<boostfruit x="374" y="-2436"/>
+	
+  
+	<boostfruit x="453" y="-2438"/>
+	
+  
+	<wall height="78" width="100" x="305" y="-2878"/>
+	
+  
+	<wall height="65" width="101" x="109" y="-2874"/>
+	
+  
+	<deathwall height="188" width="55" x="15" y="-3055"/>
+	
+  
+	<deathwall height="244" width="59" x="421" y="-3098"/>
+	
+  
+	<wall height="63" width="14" x="90" y="-3122"/>
+	
+  
+	<wall height="100" width="15" x="121" y="-3364"/>
+	
+  
+	<laserlauncher dir="3" x="78" y="-3205"/>
+	
+  
+	<wall height="165" width="12" x="105" y="-3049"/>
+	
+  
+	<wall height="270" width="23" x="379" y="-3172"/>
+	
+  
+	<deathwall height="84" width="214" x="318" y="-3256"/>
+	
+  
+	<boostfruit x="323" y="-3065"/>
+	
+  
+	<boostfruit x="249" y="-3152"/>
+	
+  
+	<boostfruit x="269" y="-3305"/>
+	
+  
+	<wall height="145" width="145" x="330" y="-3468"/>
+	
+  
+	<boost height="170" width="56" x="372" y="-3706"/>
+	
+  
+	<goal height="451" width="490" x="7" y="-4169"/>
+	
+  
+	<laserlauncher dir="3" x="59" y="-3595"/>
+	
+  
+	<wall height="190" width="31" x="110" y="-3565"/>
+	
+  
+	<wall height="44" width="18" x="113" y="-3690"/>
+	
+  
+	<track height="361" width="15" x="340" y="-42"/>
+	
+  
+	<trackblade x="345" y="292"/>
+	
+  
+	<wall height="426" width="30" x="434" y="-57"/>
+	
+  
+	<deathwall height="200" width="115" x="62" y="-254"/>
+	
+  
+	<boostfruit x="323" y="-154"/>
+	
+  
+	<boostfruit x="217" y="-278"/>
+	
+  
+	<track height="181" width="26" x="118" y="138"/>
+	
+  
+	<track height="190" width="17" x="174" y="137"/>
+	
+  
+	<track height="205" width="19" x="297" y="132"/>
+	
+  
+	<trackwall height="177" width="39" x="104" y="184"/>
+	
+  
+	<trackwall height="169" width="36" x="163" y="192"/>
+	
+  
+	<trackwall height="200" width="37" x="283" y="163"/>
+	
+  
+	<trackblade x="345" y="-15"/>
+	
+  
+	<boost height="268" width="68" x="222" y="-2802"/>
+	
+  
+	<deathwall height="178" width="54" x="29" y="-2758"/>
+	
+  
+	<deathwall height="216" width="46" x="419" y="-2770"/>
+	
+
+</level>

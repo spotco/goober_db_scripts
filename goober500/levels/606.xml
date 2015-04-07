@@ -1,0 +1,116 @@
+<?xml version="1.0" ?>
+<level author="ellen" bg="1" name="doggie4567">
+	
+  
+	<wall height="52" width="177" x="158" y="387"/>
+	
+  
+	<wall height="367" width="74" x="27" y="69"/>
+	
+  
+	<boostfruit x="173" y="-35"/>
+	
+  
+	<boostfruit x="201" y="9"/>
+	
+  
+	<boostfruit x="222" y="47"/>
+	
+  
+	<boostfruit x="171" y="24"/>
+	
+  
+	<boostfruit x="164" y="-27"/>
+	
+  
+	<boostfruit x="196" y="5"/>
+	
+  
+	<boostfruit x="168" y="-23"/>
+	
+  
+	<boostfruit x="172" y="-16"/>
+	
+  
+	<boostfruit x="176" y="-9"/>
+	
+  
+	<boostfruit x="179" y="-3"/>
+	
+  
+	<boostfruit x="200" y="20"/>
+	
+  
+	<boostfruit x="192" y="-54"/>
+	
+  
+	<boostfruit x="189" y="-37"/>
+	
+  
+	<boostfruit x="196" y="-21"/>
+	
+  
+	<boostfruit x="196" y="-16"/>
+	
+  
+	<boostfruit x="209" y="-7"/>
+	
+  
+	<boostfruit x="213" y="3"/>
+	
+  
+	<boostfruit x="221" y="13"/>
+	
+  
+	<activatetrackwall height="76" width="184" x="285" y="-244"/>
+	
+  
+	<track height="172" width="13" x="267" y="-96"/>
+	
+  
+	<track height="15" width="201" x="233" y="-130"/>
+	
+  
+	<trackblade x="272" y="-130"/>
+	
+  
+	<trackblade x="368" y="-130"/>
+	
+  
+	<trackblade x="274" y="-63"/>
+	
+  
+	<trackblade x="262" y="28"/>
+	
+  
+	<boostfruit x="209" y="-458"/>
+	
+  
+	<boostfruit x="284" y="-442"/>
+	
+  
+	<boostfruit x="318" y="-414"/>
+	
+  
+	<boostfruit x="303" y="-405"/>
+	
+  
+	<boostfruit x="281" y="-402"/>
+	
+  
+	<boostfruit x="292" y="-419"/>
+	
+  
+	<boostfruit x="281" y="-429"/>
+	
+  
+	<boostfruit x="298" y="-386"/>
+	
+  
+	<goal height="98" width="194" x="40" y="-630"/>
+	
+  
+	<rocketlauncher x="393" y="417"/>
+	
+
+</level>

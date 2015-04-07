@@ -1,0 +1,26 @@
+<?xml version="1.0" ?>
+<level author="Tee" bg="1" name="picnic">
+	
+  
+	<wall height="13" width="-25.049999999999983" x="234.45" y="258"/>
+	
+  
+	<wall height="-31" width="81.15" x="164.35" y="410"/>
+	
+  
+	<wall height="-18" width="-141.3" x="300.6" y="320"/>
+	
+  
+	<wall height="12" width="91.14999999999998" x="138.3" y="155"/>
+	
+  
+	<wall height="59" width="89.15" x="117.25" y="37"/>
+	
+  
+	<wall height="-222" width="185.34999999999997" x="262.55" y="102"/>
+	
+  
+	<goal height="-131" width="-212.39999999999998" x="175.35" y="-51"/>
+	
+
+</level>

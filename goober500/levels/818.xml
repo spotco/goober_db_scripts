@@ -1,0 +1,455 @@
+<?xml version="1.0" ?>
+<level author="alpaca" bg="1" name="catchhim">
+	
+  
+	<textfield text="exuse me but i need a job done" x="119" y="221"/>
+	
+  
+	<textfield text="will you stop peter for me?" x="299" y="73"/>
+	
+  
+	<textfield text="peter is out of control so trap him" x="151" y="46"/>
+	
+  
+	<textfield text="i fyou win this game peter gets trapped are you ready?" x="262" y="-113"/>
+	
+  
+	<textfield text="i have faith in you soldier" x="63" y="-102"/>
+	
+  
+	<wall height="72" width="459" x="29" y="283"/>
+	
+  
+	<wall height="-270" width="-80" x="104" y="266"/>
+	
+  
+	<wall height="-299" width="-43" x="57" y="-13"/>
+	
+  
+	<wall height="64" width="156" x="263" y="-444"/>
+	
+  
+	<wall height="146" width="42" x="320" y="-377"/>
+	
+  
+	<wall height="28" width="-141" x="329" y="-249"/>
+	
+  
+	<wall height="29" width="121" x="338" y="-251"/>
+	
+  
+	<wall height="14" width="-89" x="315" y="-352"/>
+	
+  
+	<wall height="11" width="130" x="352" y="-354"/>
+	
+  
+	<track height="23" width="188" x="266" y="-409"/>
+	
+  
+	<trackblade x="308" y="-429"/>
+	
+  
+	<trackblade x="396" y="-428"/>
+	
+  
+	<track height="303" width="-29" x="223" y="-511"/>
+	
+  
+	<track height="293" width="23" x="230" y="-509"/>
+	
+  
+	<track height="325" width="43" x="277" y="-505"/>
+	
+  
+	<track height="352" width="59" x="329" y="-513"/>
+	
+  
+	<track height="336" width="38" x="421" y="-492"/>
+	
+  
+	<deathwall height="362" width="17" x="183" y="-519"/>
+	
+  
+	<deathwall height="18" width="283" x="191" y="-171"/>
+	
+  
+	<deathwall height="353" width="-18" x="475" y="-504"/>
+	
+  
+	<deathwall height="30" width="252" x="204" y="-518"/>
+	
+  
+	<deathwall height="11" width="22" x="338" y="-428"/>
+	
+  
+	<boostfruit x="86" y="-398"/>
+	
+  
+	<boostfruit x="91" y="-419"/>
+	
+  
+	<boostfruit x="92" y="-464"/>
+	
+  
+	<boostfruit x="92" y="-496"/>
+	
+  
+	<boostfruit x="96" y="-534"/>
+	
+  
+	<boostfruit x="110" y="-583"/>
+	
+  
+	<boostfruit x="112" y="-636"/>
+	
+  
+	<boostfruit x="75" y="-358"/>
+	
+  
+	<boostfruit x="127" y="-674"/>
+	
+  
+	<boostfruit x="142" y="-673"/>
+	
+  
+	<boostfruit x="206" y="-673"/>
+	
+  
+	<boostfruit x="263" y="-674"/>
+	
+  
+	<boostfruit x="315" y="-669"/>
+	
+  
+	<activatetrackwall height="58" width="200" x="359" y="-658"/>
+	
+  
+	<trackblade x="44" y="-953"/>
+	
+  
+	<trackblade x="78" y="-953"/>
+	
+  
+	<trackblade x="102" y="-959"/>
+	
+  
+	<trackblade x="118" y="-960"/>
+	
+  
+	<trackblade x="133" y="-960"/>
+	
+  
+	<trackblade x="149" y="-960"/>
+	
+  
+	<trackblade x="173" y="-959"/>
+	
+  
+	<trackblade x="194" y="-955"/>
+	
+  
+	<trackblade x="203" y="-950"/>
+	
+  
+	<trackblade x="204" y="-932"/>
+	
+  
+	<trackblade x="203" y="-914"/>
+	
+  
+	<trackblade x="200" y="-886"/>
+	
+  
+	<trackblade x="194" y="-855"/>
+	
+  
+	<trackblade x="190" y="-818"/>
+	
+  
+	<trackblade x="175" y="-813"/>
+	
+  
+	<trackblade x="150" y="-817"/>
+	
+  
+	<trackblade x="110" y="-815"/>
+	
+  
+	<trackblade x="88" y="-818"/>
+	
+  
+	<trackblade x="69" y="-829"/>
+	
+  
+	<trackblade x="51" y="-838"/>
+	
+  
+	<trackblade x="44" y="-894"/>
+	
+  
+	<trackblade x="44" y="-928"/>
+	
+  
+	<trackblade x="47" y="-942"/>
+	
+  
+	<trackblade x="92" y="-927"/>
+	
+  
+	<trackblade x="135" y="-927"/>
+	
+  
+	<trackblade x="139" y="-927"/>
+	
+  
+	<trackblade x="149" y="-890"/>
+	
+  
+	<trackblade x="102" y="-859"/>
+	
+  
+	<trackblade x="81" y="-870"/>
+	
+  
+	<trackblade x="74" y="-902"/>
+	
+  
+	<trackblade x="105" y="-897"/>
+	
+  
+	<trackblade x="121" y="-887"/>
+	
+  
+	<trackblade x="148" y="-853"/>
+	
+  
+	<trackblade x="157" y="-881"/>
+	
+  
+	<trackblade x="156" y="-950"/>
+	
+  
+	<trackblade x="137" y="-950"/>
+	
+  
+	<trackblade x="79" y="-933"/>
+	
+  
+	<trackblade x="42" y="-906"/>
+	
+  
+	<trackblade x="36" y="-868"/>
+	
+  
+	<trackblade x="37" y="-847"/>
+	
+  
+	<trackblade x="53" y="-828"/>
+	
+  
+	<trackblade x="82" y="-817"/>
+	
+  
+	<trackblade x="122" y="-810"/>
+	
+  
+	<trackblade x="157" y="-810"/>
+	
+  
+	<trackblade x="166" y="-870"/>
+	
+  
+	<trackblade x="170" y="-906"/>
+	
+  
+	<trackblade x="161" y="-926"/>
+	
+  
+	<trackblade x="134" y="-932"/>
+	
+  
+	<trackblade x="114" y="-872"/>
+	
+  
+	<trackblade x="132" y="-848"/>
+	
+  
+	<trackblade x="92" y="-857"/>
+	
+  
+	<trackblade x="77" y="-910"/>
+	
+  
+	<trackblade x="123" y="-928"/>
+	
+  
+	<trackblade x="155" y="-862"/>
+	
+  
+	<trackblade x="171" y="-837"/>
+	
+  
+	<trackblade x="195" y="-901"/>
+	
+  
+	<trackblade x="158" y="-942"/>
+	
+  
+	<trackblade x="122" y="-958"/>
+	
+  
+	<trackblade x="78" y="-947"/>
+	
+  
+	<trackblade x="213" y="-956"/>
+	
+  
+	<trackblade x="232" y="-943"/>
+	
+  
+	<trackblade x="241" y="-856"/>
+	
+  
+	<trackblade x="219" y="-835"/>
+	
+  
+	<trackblade x="154" y="-817"/>
+	
+  
+	<trackblade x="96" y="-823"/>
+	
+  
+	<trackblade x="82" y="-782"/>
+	
+  
+	<trackblade x="165" y="-759"/>
+	
+  
+	<trackblade x="207" y="-747"/>
+	
+  
+	<trackblade x="124" y="-785"/>
+	
+  
+	<trackblade x="113" y="-773"/>
+	
+  
+	<trackblade x="183" y="-763"/>
+	
+  
+	<trackblade x="216" y="-767"/>
+	
+  
+	<trackblade x="232" y="-792"/>
+	
+  
+	<trackblade x="223" y="-815"/>
+	
+  
+	<trackblade x="250" y="-881"/>
+	
+  
+	<trackblade x="236" y="-911"/>
+	
+  
+	<trackblade x="236" y="-911"/>
+	
+  
+	<boost height="376" width="279" x="251" y="-1130"/>
+	
+  
+	<trackwall height="68" width="229" x="11" y="-1111"/>
+	
+  
+	<trackwall height="13" width="14" x="16" y="-1310"/>
+	
+  
+	<trackwall height="189" width="17" x="41" y="-1289"/>
+	
+  
+	<trackwall height="141" width="25" x="37" y="-1424"/>
+	
+  
+	<trackwall height="155" width="29" x="40" y="-1557"/>
+	
+  
+	<boostfruit x="127" y="-1492"/>
+	
+  
+	<boostfruit x="199" y="-1483"/>
+	
+  
+	<boostfruit x="338" y="-1482"/>
+	
+  
+	<boostfruit x="371" y="-1486"/>
+	
+  
+	<boostfruit x="268" y="-1489"/>
+	
+  
+	<trackwall height="58" width="116" x="389" y="-1502"/>
+	
+  
+	<trackwall height="77" width="163" x="375" y="-1720"/>
+	
+  
+	<trackwall height="276" width="-20" x="384" y="-1716"/>
+	
+  
+	<trackwall height="211" width="-23" x="431" y="-1658"/>
+	
+  
+	<trackwall height="186" width="-23" x="481" y="-1643"/>
+	
+  
+	<goal height="76" width="156" x="366" y="-1793"/>
+	
+  
+	<boostfruit x="111" y="-1510"/>
+	
+  
+	<boostfruit x="155" y="-1527"/>
+	
+  
+	<boostfruit x="177" y="-1547"/>
+	
+  
+	<boostfruit x="220" y="-1579"/>
+	
+  
+	<boostfruit x="260" y="-1615"/>
+	
+  
+	<boostfruit x="284" y="-1645"/>
+	
+  
+	<boostfruit x="309" y="-1680"/>
+	
+  
+	<boostfruit x="336" y="-1709"/>
+	
+  
+	<boostfruit x="358" y="-1735"/>
+	
+  
+	<boostfruit x="169" y="-1511"/>
+	
+  
+	<boostfruit x="244" y="-1514"/>
+	
+  
+	<boostfruit x="283" y="-1523"/>
+	
+  
+	<boostfruit x="323" y="-1518"/>
+	
+  
+	<textfield text="the trap is ready ok now wait till peter comes!" x="213" y="-1725"/>
+	
+  
+	<textfield text="you won you are awsome for trapping him!" x="285" y="-1856"/>
+	
+
+</level>

@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<level author="spotco" name="firsttestlevel">
+	
+  
+	<wall height="42" width="379" x="10" y="296"/>
+	
+  
+	<wall height="-458" width="-36" x="37" y="324"/>
+	
+  
+	<deathwall height="60" width="82" x="136" y="-31"/>
+	
+  
+	<deathwall height="119" width="80" x="323" y="-133"/>
+	
+  
+	<wall height="31" width="276" x="219" y="43"/>
+	
+  
+	<boost height="-292" width="62" x="419" y="-25"/>
+	
+  
+	<textfield text="spotcos first online test level, no noobs" x="312" y="90"/>
+	
+  
+	<deathwall height="116" width="204" x="295" y="-696"/>
+	
+  
+	<boostfruit x="305" y="-472"/>
+	
+  
+	<wall height="332" text="" width="40" x="6" y="-855"/>
+	
+  
+	<boostfruit height="28" text="" width="24" x="210" y="-747"/>
+	
+  
+	<wall height="308" text="" width="28" x="465" y="-1124"/>
+	
+  
+	<deathwall height="-118" width="-325" x="283" y="-871"/>
+	
+  
+	<wall height="24" width="146" x="145" y="-1027"/>
+	
+  
+	<goal height="-131" width="-96" x="109" y="-1149"/>
+	
+  
+	<textfield text="u hella pro!!!1" x="246" y="-1251"/>
+	
+
+</level>

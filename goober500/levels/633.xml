@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<level author="LewisAnderson" bg="2" name="ShortTraps">
+	
+  
+	<laserlauncher dir="3" x="136" y="146"/>
+	
+  
+	<laserlauncher dir="3" x="133" y="146"/>
+	
+  
+	<activatetrackwall height="-289" width="-18" x="212" y="348"/>
+	
+  
+	<activatetrackwall height="25" width="187" x="213" y="310"/>
+	
+  
+	<activatetrackwall height="161" width="37" x="364" y="149"/>
+	
+  
+	<deathwall height="-79" width="-75" x="395" y="140"/>
+	
+  
+	<deathwall height="-104" width="-94" x="401" y="147"/>
+	
+  
+	<boost height="13" width="-110" x="161" y="57"/>
+	
+  
+	<boost height="-135" width="114" x="51" y="70"/>
+	
+  
+	<goal height="52" width="51" x="250" y="-1458"/>
+	
+  
+	<boostfruit x="268" y="-403"/>
+	
+  
+	<trackwall height="41" width="183" x="129" y="-588"/>
+	
+  
+	<trackblade x="115" y="-683"/>
+	
+  
+	<track height="-12" width="-342" x="456" y="-677"/>
+	
+  
+	<track height="36" width="429" x="60" y="-599"/>
+	
+  
+	<trackblade x="196" y="-684"/>
+	
+  
+	<trackblade x="192" y="-594"/>
+	
+  
+	<boostfruit x="278" y="-659"/>
+	
+  
+	<activatetrackwall height="-308" width="-25" x="347" y="-734"/>
+	
+  
+	<activatetrackwall height="-324" width="-23" x="233" y="-731"/>
+	
+  
+	<wall height="24" width="68" x="209" y="-731"/>
+	
+  
+	<wall height="27" width="150" x="201" y="-181"/>
+	
+  
+	<wall height="52" width="48" x="303" y="-383"/>
+	
+  
+	<wall height="40" width="-123" x="201" y="-300"/>
+	
+  
+	<flowerboss y="468"/>
+	
+
+</level>

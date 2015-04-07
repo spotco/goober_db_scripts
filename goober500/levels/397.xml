@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<level author="mkjop" bg="1" name="eropk">
+	
+  
+	<activatetrackwall height="51" width="498" x="0" y="320"/>
+	
+  
+	<trackblade x="21" y="-260"/>
+	
+  
+	<trackblade x="174" y="-253"/>
+	
+  
+	<trackblade x="325" y="-260"/>
+	
+  
+	<trackblade x="482" y="-258"/>
+	
+  
+	<goal height="53" width="498" x="2" y="-732"/>
+	
+  
+	<track height="46" width="507" x="3" y="-577"/>
+	
+  
+	<trackblade x="7" y="-576"/>
+	
+  
+	<textfield text="look up" x="67" y="175"/>
+	
+  
+	<textfield text="oh no" x="174" y="-113"/>
+	
+
+</level>

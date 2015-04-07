@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<level author="NickTeal" name="hardNeedswork">
+	
+  
+	<wall height="16" width="174" x="129" y="419"/>
+	
+  
+	<boost height="345" width="55" x="307" y="104"/>
+	
+  
+	<track height="84" width="311" x="118" y="10"/>
+	
+  
+	<trackblade x="114" y="16"/>
+	
+  
+	<track height="19" width="300" x="161" y="-51"/>
+	
+  
+	<trackwall height="33" width="107" x="160" y="-63"/>
+	
+  
+	<boostfruit x="91" y="-137"/>
+	
+  
+	<track height="278" width="-33" x="78" y="-470"/>
+	
+  
+	<trackwall height="71" width="34" x="34" y="-236"/>
+	
+  
+	<track height="308" width="32" x="138" y="-464"/>
+	
+  
+	<trackwall height="93" width="33" x="126" y="-477"/>
+	
+  
+	<track height="-32" width="-215" x="229" y="-303"/>
+	
+  
+	<trackblade x="211" y="-330"/>
+	
+  
+	<wall height="22" width="83" x="64" y="-562"/>
+	
+  
+	<track height="327" width="35" x="83" y="-947"/>
+	
+  
+	<trackwall height="121" width="29" x="73" y="-726"/>
+	
+  
+	<wall height="30" width="140" x="180" y="-958"/>
+	
+  
+	<track height="369" width="53" x="342" y="-1380"/>
+	
+  
+	<trackwall height="137" width="36" x="327" y="-1383"/>
+	
+  
+	<boost height="187" width="40" x="270" y="-1403"/>
+	
+  
+	<deathwall height="90" text="" width="58" x="264" y="-1786"/>
+	
+  
+	<wall height="35" width="96" x="106" y="-1549"/>
+	
+  
+	<wall height="35" width="92" x="381" y="-1552"/>
+	
+  
+	<deathwall height="241" width="221" x="261" y="-481"/>
+	
+  
+	<goal height="63" width="86" x="105" y="-1692"/>
+	
+  
+	<goal height="76" width="90" x="385" y="-1702"/>
+	
+
+</level>

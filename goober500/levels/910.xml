@@ -1,0 +1,143 @@
+<?xml version="1.0" ?>
+<level author="KAMBO" bg="1" name="KAMBORAPART2">
+	
+  
+	<wall height="22" width="231" x="85" y="304"/>
+	
+  
+	<wall height="104" width="35" x="294" y="315"/>
+	
+  
+	<wall height="38" width="59" x="320" y="413"/>
+	
+  
+	<wall height="34" width="-27" x="322" y="414"/>
+	
+  
+	<wall height="117" width="26" x="85" y="310"/>
+	
+  
+	<wall height="37" width="92" x="84" y="419"/>
+	
+  
+	<textfield text="NONONO OHOHOH HEEE OH ITS ME!!!!!!!!!!!!!!!!!!!" x="157" y="164"/>
+	
+  
+	<textfield text="MUZIC IZ MAH TING I EAT MAH MONAH! I SORICH!" x="333" y="97"/>
+	
+  
+	<textfield text="WAITE AM IH RITCH?!" x="183" y="46"/>
+	
+  
+	<textfield text="OH AN I DONT STAP TILL IMMA BUNNAY! " x="234" y="-38"/>
+	
+  
+	<textfield text="SOOOOOO....." x="204" y="-123"/>
+	
+  
+	<textfield text="WAT CHU TALKIN BOUT MAN IMMA KAMBO! DONCHA KNOOW?!!" x="149" y="-182"/>
+	
+  
+	<textfield text="IMMAAA KAAMMMBBBOOOOOOO!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!" x="-1" y="-351"/>
+	
+  
+	<textfield text="HEE EEE EEE EE EEEEEEEE EE EEEE EEE EEE!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!" x="235" y="-303"/>
+	
+  
+	<textfield text="KAMBO OUT(KAMBO IN AN OUT)!" x="169" y="-354"/>
+	
+  
+	<textfield text="DA ENDZ... FO NOAWZ!" x="314" y="-467"/>
+	
+  
+	<goal height="24" width="191" x="16" y="-562"/>
+	
+  
+	<goal height="89" width="13" x="200" y="-553"/>
+	
+  
+	<goal height="15" width="56" x="214" y="-468"/>
+	
+  
+	<goal height="51" width="72" x="201" y="-475"/>
+	
+  
+	<goal height="146" width="44" x="26" y="-545"/>
+	
+  
+	<goal height="66" width="113" x="36" y="-436"/>
+	
+  
+	<trackwall height="49" width="25" x="404" y="55"/>
+	
+  
+	<trackwall height="53" width="23" x="402" y="147"/>
+	
+  
+	<trackwall height="30" width="-56" x="409" y="190"/>
+	
+  
+	<trackwall height="26" width="78" x="419" y="52"/>
+	
+  
+	<trackwall height="22" width="17" x="411" y="200"/>
+	
+  
+	<boost height="24" width="111" x="37" y="-46"/>
+	
+  
+	<boost height="89" width="22" x="130" y="-25"/>
+	
+  
+	<boost height="20" width="44" x="138" y="49"/>
+	
+  
+	<boost height="85" width="27" x="36" y="-42"/>
+	
+  
+	<boost height="37" width="54" x="36" y="39"/>
+	
+  
+	<deathwall height="25" width="82" x="30" y="-265"/>
+	
+  
+	<deathwall height="56" width="16" x="107" y="-247"/>
+	
+  
+	<deathwall height="20" width="34" x="104" y="-194"/>
+	
+  
+	<deathwall height="63" width="13" x="30" y="-249"/>
+	
+  
+	<deathwall height="22" width="38" x="33" y="-198"/>
+	
+  
+	<trackwall height="42" width="102" x="396" y="-238"/>
+	
+  
+	<trackwall height="136" width="17" x="382" y="-233"/>
+	
+  
+	<trackwall height="23" width="41" x="354" y="-99"/>
+	
+  
+	<boost height="29" width="85" x="349" y="-386"/>
+	
+  
+	<boost height="61" width="26" x="420" y="-360"/>
+	
+  
+	<boost height="27" width="45" x="438" y="-298"/>
+	
+  
+	<boost height="29" width="-12" x="438" y="-300"/>
+	
+  
+	<boost height="75" width="-14" x="349" y="-377"/>
+	
+  
+	<boost height="17" width="51" x="340" y="-259"/>
+	
+
+</level>

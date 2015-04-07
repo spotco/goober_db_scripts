@@ -1,0 +1,107 @@
+<?xml version="1.0" ?>
+<level author="Sagemoon" bg="3" name="buzzwall">
+	
+  
+	<wall height="30" width="286" x="106" y="370"/>
+	
+  
+	<trackblade x="385" y="38"/>
+	
+  
+	<wall height="45" width="223" x="111" y="-55"/>
+	
+  
+	<boostfruit x="236" y="-522"/>
+	
+  
+	<deathwall height="72" width="270" x="1" y="-458"/>
+	
+  
+	<boostfruit x="231" y="-199"/>
+	
+  
+	<wall height="176" width="47" x="0" y="-996"/>
+	
+  
+	<wall height="33" width="404" x="100" y="-1093"/>
+	
+  
+	<laserlauncher dir="-3" x="356" y="-1328"/>
+	
+  
+	<boost height="284" width="47" x="455" y="-1375"/>
+	
+  
+	<wall height="36" width="134" x="139" y="-1466"/>
+	
+  
+	<wall height="307" width="20" x="3" y="-1808"/>
+	
+  
+	<wall height="21" width="183" x="324" y="-1684"/>
+	
+  
+	<deathwall height="18" width="185" x="323" y="-1663"/>
+	
+  
+	<rocketlauncher x="23" y="-1279"/>
+	
+  
+	<wall height="307" width="11" x="274" y="-2182"/>
+	
+  
+	<boostfruit x="380" y="-1781"/>
+	
+  
+	<wall height="384" width="15" x="488" y="-2179"/>
+	
+  
+	<trackblade height="55" width="50" x="280" y="-1866"/>
+	
+  
+	<trackblade height="55" width="50" x="277" y="-2183"/>
+	
+  
+	<trackblade height="55" width="50" x="481" y="-2169"/>
+	
+  
+	<trackblade height="55" width="50" x="485" y="-1802"/>
+	
+  
+	<track height="162" width="62" x="273" y="-2191"/>
+	
+  
+	<track height="-153" width="31" x="277" y="-1869"/>
+	
+  
+	<track height="183" width="49" x="481" y="-2173"/>
+	
+  
+	<track height="183" width="38" x="480" y="-1979"/>
+	
+  
+	<boost height="316" width="75" x="348" y="-2491"/>
+	
+  
+	<boostfruit x="376" y="-2650"/>
+	
+  
+	<boostfruit x="246" y="-2881"/>
+	
+  
+	<wall height="-218" width="-37" x="8" y="-3077"/>
+	
+  
+	<wall height="34" width="142" x="81" y="-3300"/>
+	
+  
+	<goal height="83" width="102" x="121" y="-3494"/>
+	
+  
+	<wall height="269" width="74" x="390" y="39"/>
+	
+  
+	<track height="254" width="15" x="383" y="29"/>
+	
+
+</level>

@@ -1,0 +1,35 @@
+<?xml version="1.0" ?>
+<level author="lol" bg="3" name="willyousurvive">
+	
+  
+	<bossactivate explode="no" height="83" hp="6" width="147" x="219" y="387"/>
+	
+  
+	<bossactivate explode="no" height="-66" hp="6" width="-94" x="286" y="447"/>
+	
+  
+	<flowerboss y="713"/>
+	
+  
+	<flowerboss y="592"/>
+	
+  
+	<flowerboss y="518"/>
+	
+  
+	<flowerboss y="466"/>
+	
+  
+	<activatetrackwall height="28" width="489" x="7" y="300"/>
+	
+  
+	<cloudboss/>
+	
+  
+	<track height="13" width="239" x="20" y="262"/>
+	
+  
+	<goal height="56" width="499" x="2" y="-1982"/>
+	
+
+</level>

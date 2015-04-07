@@ -1,0 +1,74 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="emperor2">
+	
+  
+	<textfield text="I'll get you for this! " x="61" y="315"/>
+	
+  
+	<textfield text="I've summoned the ancient beast!" x="72" y="56"/>
+	
+  
+	<flowerboss height="300" width="500" x="-3" y="946"/>
+	
+  
+	<wall height="51" width="177" x="240" y="291"/>
+	
+  
+	<wall height="54" width="119" x="356" y="153"/>
+	
+  
+	<wall height="-46" width="-179" x="329" y="89"/>
+	
+  
+	<wall height="20" width="134" x="348" y="-6"/>
+	
+  
+	<wall height="-41" width="-121" x="196" y="-57"/>
+	
+  
+	<wall height="47" width="133" x="279" y="-187"/>
+	
+  
+	<wall height="46" width="164" x="63" y="-291"/>
+	
+  
+	<wall height="50" width="167" x="283" y="-414"/>
+	
+  
+	<wall height="31" width="169" x="57" y="-502"/>
+	
+  
+	<wall height="46" width="170" x="286" y="-604"/>
+	
+  
+	<rocketlauncher x="105" y="-1488"/>
+	
+  
+	<goal height="71" width="437" x="16" y="-2637"/>
+	
+  
+	<activatetrackwall height="72" width="168" x="335" y="-775"/>
+	
+  
+	<wall height="143" width="92" x="204" y="-1718"/>
+	
+  
+	<wall height="81" width="55" x="36" y="-1697"/>
+	
+  
+	<wall height="42" width="12" x="213" y="-1514"/>
+	
+  
+	<wall height="145" width="59" x="87" y="-2132"/>
+	
+  
+	<wall height="98" width="61" x="438" y="-2345"/>
+	
+  
+	<wall height="24" width="51" x="359" y="-2474"/>
+	
+  
+	<wall height="14" width="31" x="256" y="-2531"/>
+	
+
+</level>

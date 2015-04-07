@@ -1,0 +1,98 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="helplease">
+	
+  
+	<wall height="83" width="283" x="102" y="378"/>
+	
+  
+	<textfield text="hello, it would be useful if someone could tell me..." x="122" y="58"/>
+	
+  
+	<boost height="-803" width="83" x="119" y="373"/>
+	
+  
+	<wall height="63" width="-40" x="173" y="-307"/>
+	
+  
+	<textfield text="how to make a level dark, i figured out how to make it snowy but not dark" x="300" y="-289"/>
+	
+  
+	<textfield text="not dark." x="349" y="-215"/>
+	
+  
+	<boostfruit x="114" y="-498"/>
+	
+  
+	<boostfruit x="118" y="-500"/>
+	
+  
+	<boostfruit x="128" y="-512"/>
+	
+  
+	<boostfruit x="166" y="-528"/>
+	
+  
+	<boostfruit x="166" y="-537"/>
+	
+  
+	<boostfruit x="153" y="-557"/>
+	
+  
+	<boostfruit x="143" y="-558"/>
+	
+  
+	<boostfruit x="121" y="-562"/>
+	
+  
+	<boostfruit x="106" y="-562"/>
+	
+  
+	<boostfruit x="103" y="-560"/>
+	
+  
+	<boostfruit x="142" y="-501"/>
+	
+  
+	<boostfruit x="208" y="-538"/>
+	
+  
+	<boostfruit x="260" y="-586"/>
+	
+  
+	<boostfruit x="267" y="-616"/>
+	
+  
+	<boostfruit x="171" y="-661"/>
+	
+  
+	<boostfruit x="340" y="-941"/>
+	
+  
+	<boostfruit x="115" y="-1040"/>
+	
+  
+	<boostfruit x="355" y="-1169"/>
+	
+  
+	<textfield text="how to submit a level that is ?too short? or ?too big?" x="58" y="-1382"/>
+	
+  
+	<track height="-912" width="169" x="252" y="-1178"/>
+	
+  
+	<track height="-829" width="-169" x="441" y="-1163"/>
+	
+  
+	<trackwall height="80" width="217" x="151" y="-1606"/>
+	
+  
+	<wall height="-76" width="-109" x="118" y="-1741"/>
+	
+  
+	<goal height="101" width="268" x="170" y="-2114"/>
+	
+  
+	<textfield text="and how to do cool gitches like in the level ?helpfull vines?" x="64" y="-1956"/>
+	
+
+</level>

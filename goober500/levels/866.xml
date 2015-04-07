@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<level author="kambo" bg="1" name="heehee">
+	
+  
+	<wall height="35" width="268" x="177" y="49"/>
+	
+  
+	<wall height="-39" width="211" x="302" y="41"/>
+	
+  
+	<wall height="-56" width="160" x="411" y="-2"/>
+	
+  
+	<wall height="47" width="151" x="66" y="-180"/>
+	
+  
+	<wall height="47" width="81" x="11" y="-215"/>
+	
+  
+	<wall height="54" width="392" x="141" y="-370"/>
+	
+  
+	<wall height="31" width="59" x="7" y="-415"/>
+	
+  
+	<trackblade x="91" y="-588"/>
+	
+  
+	<trackblade x="54" y="-586"/>
+	
+  
+	<track height="127" width="462" x="3" y="-628"/>
+	
+  
+	<track height="127" width="495" x="7" y="-618"/>
+	
+  
+	<track height="150" width="521" x="21" y="-622"/>
+	
+  
+	<track height="91" width="422" x="30" y="-595"/>
+	
+  
+	<track height="126" width="534" x="26" y="-599"/>
+	
+  
+	<track height="111" width="571" x="27" y="-593"/>
+	
+  
+	<track height="105" width="615" x="38" y="-593"/>
+	
+  
+	<boost height="304" width="70" x="292" y="-645"/>
+	
+  
+	<wall height="52" width="257" x="27" y="-762"/>
+	
+  
+	<wall height="38" width="189" x="336" y="-762"/>
+	
+  
+	<wall height="291" width="19" x="46" y="-1045"/>
+	
+  
+	<wall height="271" width="24" x="489" y="-1019"/>
+	
+  
+	<bossactivate explode="no" height="278" hp="6" width="429" x="67" y="-1044"/>
+	
+  
+	<textfield text="kambo kambo no no no!" x="169" y="-1119"/>
+	
+  
+	<textfield text="kaaaaammmmmmbbbbbooooooooooo!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!1" x="309" y="-1134"/>
+	
+  
+	<goal height="28" width="440" x="47" y="-1219"/>
+	
+  
+	<boostfruit x="253" y="297"/>
+	
+  
+	<boostfruit x="253" y="298"/>
+	
+  
+	<boostfruit x="247" y="336"/>
+	
+  
+	<boostfruit x="246" y="350"/>
+	
+  
+	<boostfruit x="245" y="431"/>
+	
+  
+	<boostfruit x="225" y="462"/>
+	
+  
+	<boostfruit x="204" y="486"/>
+	
+  
+	<trackwall height="362" width="-52" x="182" y="53"/>
+	
+  
+	<boostfruit x="224" y="-1066"/>
+	
+  
+	<bossactivate explode="no" height="25" hp="6" width="163" x="335" y="440"/>
+	
+
+</level>

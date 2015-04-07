@@ -1,0 +1,110 @@
+<?xml version="1.0" ?>
+<level author="sz9memo" bg="1" name="thehardyeasy">
+	
+  
+	<boost height="-533" width="406" x="51" y="438"/>
+	
+  
+	<boost height="-568" width="409" x="49" y="-10"/>
+	
+  
+	<boostfruit x="85" y="-628"/>
+	
+  
+	<boostfruit x="88" y="-624"/>
+	
+  
+	<boostfruit x="164" y="-605"/>
+	
+  
+	<boostfruit x="244" y="-633"/>
+	
+  
+	<boostfruit x="248" y="-633"/>
+	
+  
+	<boostfruit x="288" y="-623"/>
+	
+  
+	<boostfruit x="344" y="-618"/>
+	
+  
+	<boostfruit x="377" y="-618"/>
+	
+  
+	<boostfruit x="399" y="-625"/>
+	
+  
+	<boostfruit x="362" y="-698"/>
+	
+  
+	<boostfruit x="294" y="-674"/>
+	
+  
+	<boostfruit x="207" y="-662"/>
+	
+  
+	<boostfruit x="171" y="-662"/>
+	
+  
+	<boostfruit x="120" y="-668"/>
+	
+  
+	<boostfruit x="112" y="-701"/>
+	
+  
+	<boostfruit x="179" y="-712"/>
+	
+  
+	<boostfruit x="213" y="-723"/>
+	
+  
+	<boostfruit x="256" y="-729"/>
+	
+  
+	<boostfruit x="310" y="-738"/>
+	
+  
+	<boostfruit x="362" y="-750"/>
+	
+  
+	<boostfruit x="325" y="-775"/>
+	
+  
+	<boostfruit x="238" y="-800"/>
+	
+  
+	<boostfruit x="182" y="-802"/>
+	
+  
+	<boostfruit x="150" y="-802"/>
+	
+  
+	<boostfruit x="109" y="-797"/>
+	
+  
+	<boostfruit x="81" y="-766"/>
+	
+  
+	<boostfruit x="149" y="-752"/>
+	
+  
+	<boostfruit x="202" y="-746"/>
+	
+  
+	<boostfruit x="36" y="-595"/>
+	
+  
+	<activatetrackwall height="52" width="235" x="241" y="-922"/>
+	
+  
+	<wall height="43" width="194" x="39" y="-1196"/>
+	
+  
+	<goal height="-354" width="-489" x="427" y="-1223"/>
+	
+  
+	<goal height="216" width="-312" x="337" y="-1413"/>
+	
+
+</level>

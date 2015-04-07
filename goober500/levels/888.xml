@@ -1,0 +1,56 @@
+<?xml version="1.0" ?>
+<level author="lamboe" bg="1" name="enjoyyourstay">
+	
+  
+	<wall height="18" width="440" x="65" y="327"/>
+	
+  
+	<wall height="-182" width="47" x="66" y="331"/>
+	
+  
+	<bossactivate explode="no" height="114" hp="6" width="263" x="137" y="9"/>
+	
+  
+	<track height="41" width="258" x="204" y="43"/>
+	
+  
+	<trackblade x="300" y="43"/>
+	
+  
+	<trackblade x="449" y="61"/>
+	
+  
+	<trackblade x="437" y="58"/>
+	
+  
+	<trackblade x="337" y="31"/>
+	
+  
+	<trackblade x="335" y="31"/>
+	
+  
+	<trackblade x="296" y="47"/>
+	
+  
+	<trackblade x="279" y="52"/>
+	
+  
+	<trackblade x="261" y="57"/>
+	
+  
+	<trackblade x="245" y="65"/>
+	
+  
+	<trackblade x="194" y="91"/>
+	
+  
+	<deathwall height="63" width="424" x="75" y="180"/>
+	
+  
+	<bossactivate explode="no" height="243" hp="6" width="477" x="57" y="154"/>
+	
+  
+	<goal height="87" width="19" x="517" y="249"/>
+	
+
+</level>

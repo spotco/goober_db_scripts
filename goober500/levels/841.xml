@@ -1,0 +1,80 @@
+<?xml version="1.0" ?>
+<level author="playthislevel" bg="1" name="MUSTPLAY">
+	
+  
+	<wall height="82" width="501" x="1" y="417"/>
+	
+  
+	<wall height="97" width="51" x="87" y="319"/>
+	
+  
+	<boostfruit x="50" y="354"/>
+	
+  
+	<boostfruit x="53" y="195"/>
+	
+  
+	<wall height="-48" width="351" x="150" y="113"/>
+	
+  
+	<bossactivate explode="no" height="289" hp="6" width="502" x="-1" y="119"/>
+	
+  
+	<rocketlauncher x="443" y="214"/>
+	
+  
+	<rocketlauncher x="443" y="213"/>
+	
+  
+	<textfield text="kill him!" x="342" y="157"/>
+	
+  
+	<boostfruit height="28" width="24" x="313" y="291"/>
+	
+  
+	<boostfruit x="71" y="-168"/>
+	
+  
+	<boostfruit x="189" y="-266"/>
+	
+  
+	<deathwall height="138" width="363" x="147" y="-219"/>
+	
+  
+	<deathwall height="-157" width="53" x="-1" y="-316"/>
+	
+  
+	<deathwall height="-174" width="293" x="6" y="-426"/>
+	
+  
+	<boostfruit x="415" y="-345"/>
+	
+  
+	<boostfruit x="433" y="-531"/>
+	
+  
+	<deathwall height="-250" width="207" x="49" y="-554"/>
+	
+  
+	<wall height="41" width="210" x="45" y="-838"/>
+	
+  
+	<goal height="59" width="80" x="97" y="-897"/>
+	
+  
+	<textfield text="5 stars? :)" x="256" y="-894"/>
+	
+  
+	<wall height="63" width="105" x="262" y="-633"/>
+	
+  
+	<wall height="219" width="35" x="251" y="-823"/>
+	
+  
+	<wall height="114" width="112" x="132" y="-233"/>
+	
+  
+	<wall height="21" width="114" x="376" y="-230"/>
+	
+
+</level>

@@ -1,0 +1,164 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="taketherightside">
+	
+  
+	<wall height="83" width="425" x="49" y="353"/>
+	
+  
+	<boost height="-335" width="67" x="57" y="343"/>
+	
+  
+	<boost height="-444" width="74" x="58" y="6"/>
+	
+  
+	<wall height="-421" width="53" x="244" y="-76"/>
+	
+  
+	<goal height="57" width="47" x="255" y="-558"/>
+	
+  
+	<trackblade x="167" y="-549"/>
+	
+  
+	<trackblade x="215" y="-488"/>
+	
+  
+	<trackblade x="171" y="-512"/>
+	
+  
+	<trackblade x="181" y="-482"/>
+	
+  
+	<trackblade x="207" y="-446"/>
+	
+  
+	<trackblade x="226" y="-455"/>
+	
+  
+	<trackblade x="201" y="-536"/>
+	
+  
+	<trackblade x="222" y="-545"/>
+	
+  
+	<trackblade x="234" y="-527"/>
+	
+  
+	<trackblade x="203" y="-529"/>
+	
+  
+	<trackblade x="156" y="-517"/>
+	
+  
+	<trackblade x="129" y="-530"/>
+	
+  
+	<trackblade x="123" y="-533"/>
+	
+  
+	<trackblade x="108" y="-541"/>
+	
+  
+	<trackblade x="68" y="-543"/>
+	
+  
+	<trackblade x="62" y="-478"/>
+	
+  
+	<trackblade x="93" y="-468"/>
+	
+  
+	<trackblade x="100" y="-498"/>
+	
+  
+	<trackblade x="88" y="-502"/>
+	
+  
+	<trackblade x="140" y="-479"/>
+	
+  
+	<trackblade x="152" y="-456"/>
+	
+  
+	<trackblade x="155" y="-450"/>
+	
+  
+	<trackblade x="115" y="-466"/>
+	
+  
+	<trackblade x="87" y="-477"/>
+	
+  
+	<trackblade x="82" y="-468"/>
+	
+  
+	<trackblade x="66" y="-454"/>
+	
+  
+	<trackblade x="35" y="-468"/>
+	
+  
+	<trackblade x="15" y="-512"/>
+	
+  
+	<trackblade x="24" y="-508"/>
+	
+  
+	<trackblade x="19" y="-466"/>
+	
+  
+	<trackblade x="18" y="-444"/>
+	
+  
+	<boost height="-404" width="43" x="419" y="346"/>
+	
+  
+	<boost height="-273" width="40" x="418" y="-58"/>
+	
+  
+	<boost height="-212" width="23" x="424" y="-333"/>
+	
+  
+	<wall height="40" width="135" x="286" y="-480"/>
+	
+  
+	<boostfruit x="327" y="-533"/>
+	
+  
+	<boostfruit x="377" y="-523"/>
+	
+  
+	<boostfruit x="402" y="-523"/>
+	
+  
+	<boostfruit x="346" y="-536"/>
+	
+  
+	<boostfruit x="353" y="-524"/>
+	
+  
+	<boostfruit x="359" y="-507"/>
+	
+  
+	<boostfruit x="327" y="-502"/>
+	
+  
+	<boostfruit x="330" y="-504"/>
+	
+  
+	<boostfruit x="358" y="-542"/>
+	
+  
+	<boostfruit x="403" y="-532"/>
+	
+  
+	<boostfruit x="356" y="-511"/>
+	
+  
+	<textfield text="take this ride!" x="151" y="253"/>
+	
+  
+	<textfield text="take this ride and you die!" x="393" y="292"/>
+	
+
+</level>

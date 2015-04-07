@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<level author="aaaaaaaaaaa" bg="1" name="aaaaaaaaaa">
+	
+  
+	<wall height="101.94999999999999" width="394.25" x="61.45" y="361.55"/>
+	
+  
+	<laserlauncher dir="-3" x="391.9" y="303.6"/>
+	
+  
+	<laserlauncher dir="3" x="63" y="158.8"/>
+	
+  
+	<boost height="57.60000000000001" width="64.55000000000001" x="46.65" y="14.8"/>
+	
+  
+	<wall height="162.7" width="21.75" x="67.65" y="197.5"/>
+	
+  
+	<wall height="235.1" width="64.55000000000001" x="364.7" y="35.6"/>
+	
+  
+	<wall height="161.15" width="128.3" x="13.2" y="-154.85"/>
+	
+  
+	<wall height="41.25" width="72.35" x="35.75" y="86.44999999999999"/>
+	
+  
+	<wall height="290.4" width="105.75" x="344.5" y="-195.35"/>
+	
+  
+	<track height="45.89999999999998" width="142.3" x="21" y="-207.95"/>
+	
+  
+	<boostfruit x="371.7" y="-311.5"/>
+	
+  
+	<boostfruit x="387.25" y="-277.25"/>
+	
+  
+	<boostfruit x="429.25" y="-281.9"/>
+	
+  
+	<boostfruit x="24.9" y="117.44999999999999"/>
+	
+  
+	<wall height="66.14999999999998" width="103.45" x="51.3" y="-309.15"/>
+	
+  
+	<goal height="46.69999999999999" width="83.94999999999999" x="38.9" y="-442.55"/>
+	
+  
+	<boostfruit x="182.75" y="-258.55"/>
+	
+  
+	<boostfruit x="225.5" y="-272.55"/>
+	
+  
+	<boostfruit x="272.15" y="-239.05"/>
+	
+  
+	<boostfruit x="325.8" y="-276.45"/>
+	
+  
+	<boostfruit x="310.25" y="-207.14999999999998"/>
+	
+
+</level>

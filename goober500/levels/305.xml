@@ -1,0 +1,164 @@
+<?xml version="1.0" ?>
+<level author="Jawsome" bg="3" name="levelhard">
+	
+  
+	<wall height="122" width="17" x="310" y="217"/>
+	
+  
+	<wall height="143" width="21" x="219" y="191"/>
+	
+  
+	<laserlauncher dir="3" x="362" y="206"/>
+	
+  
+	<textfield text="Dont jump yet" x="267" y="385"/>
+	
+  
+	<trackblade x="404" y="98"/>
+	
+  
+	<trackblade x="89" y="59"/>
+	
+  
+	<track height="199" width="14" x="82" y="21"/>
+	
+  
+	<track height="11" width="-367" x="484" y="94"/>
+	
+  
+	<wall height="104" width="63" x="145" y="175"/>
+	
+  
+	<boost height="154" width="123" x="204" y="80"/>
+	
+  
+	<wall height="146" width="118" x="215" y="332"/>
+	
+  
+	<textfield text="LEFT" x="271" y="-79"/>
+	
+  
+	<wall height="140" width="83" x="72" y="-125"/>
+	
+  
+	<wall height="101" width="55" x="16" y="-234"/>
+	
+  
+	<wall height="87" width="42" x="110" y="-335"/>
+	
+  
+	<wall height="31" width="52" x="68" y="-468"/>
+	
+  
+	<boost height="203" width="115" x="366" y="-499"/>
+	
+  
+	<trackblade x="26" y="-27"/>
+	
+  
+	<wall height="98" width="220" x="299" y="-297"/>
+	
+  
+	<trackblade x="289" y="-258"/>
+	
+  
+	<trackblade x="250" y="-258"/>
+	
+  
+	<trackblade x="198" y="-262"/>
+	
+  
+	<trackblade x="156" y="-269"/>
+	
+  
+	<trackblade x="222" y="-266"/>
+	
+  
+	<wall height="129" width="104" x="261" y="-776"/>
+	
+  
+	<wall height="140" width="-10" x="463" y="-790"/>
+	
+  
+	<wall height="234" width="52" x="222" y="-877"/>
+	
+  
+	<wall height="223" width="167" x="170" y="-1089"/>
+	
+  
+	<wall height="94" width="101" x="19" y="-845"/>
+	
+  
+	<wall height="91" width="35" x="36" y="-1087"/>
+	
+  
+	<wall height="161" width="87" x="450" y="-788"/>
+	
+  
+	<boost height="188" width="98" x="138" y="-654"/>
+	
+  
+	<track height="108" width="105" x="190" y="-329"/>
+	
+  
+	<track height="119" width="66" x="208" y="-347"/>
+	
+  
+	<track height="115" width="91" x="229" y="-350"/>
+	
+  
+	<track height="122" width="48" x="254" y="-343"/>
+	
+  
+	<track height="108" width="52" x="282" y="-329"/>
+	
+  
+	<boostfruit x="401" y="-875"/>
+	
+  
+	<textfield text="There are three fruits in this level coloct them and you can call yuor self a gamer" x="208" y="-977"/>
+	
+  
+	<textfield text="yourslef a gamer" x="211" y="-865"/>
+	
+  
+	<wall height="129" width="220" x="296" y="-1287"/>
+	
+  
+	<wall height="10" width="132" x="79" y="-1315"/>
+	
+  
+	<wall height="94" width="20" x="114" y="-1577"/>
+	
+  
+	<trackblade x="124" y="-1475"/>
+	
+  
+	<trackblade x="131" y="-1437"/>
+	
+  
+	<trackblade x="117" y="-1406"/>
+	
+  
+	<trackblade x="114" y="-1367"/>
+	
+  
+	<trackblade x="120" y="-1339"/>
+	
+  
+	<track height="377" width="28" x="124" y="-1615"/>
+	
+  
+	<goal height="164" width="189" x="292" y="-1605"/>
+	
+  
+	<trackwall height="32" width="130" x="71" y="-1364"/>
+	
+  
+	<boostfruit x="208" y="-1777"/>
+	
+  
+	<boostfruit x="142" y="-1780"/>
+	
+
+</level>

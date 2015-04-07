@@ -1,0 +1,161 @@
+<?xml version="1.0" ?>
+<level author="crisandmatt" bg="1" name="crazyworld3">
+	
+  
+	<wall height="26" width="84" x="253" y="282"/>
+	
+  
+	<wall height="25" width="43" x="213" y="343"/>
+	
+  
+	<wall height="26" width="94" x="93" y="266"/>
+	
+  
+	<boost height="-381" width="32" x="116" y="169"/>
+	
+  
+	<wall height="12" width="155" x="159" y="-224"/>
+	
+  
+	<wall height="12" width="67" x="42" y="-220"/>
+	
+  
+	<boostfruit x="296" y="-257"/>
+	
+  
+	<boostfruit x="248" y="-300"/>
+	
+  
+	<boostfruit x="188" y="-355"/>
+	
+  
+	<boostfruit x="202" y="-406"/>
+	
+  
+	<boostfruit x="235" y="-423"/>
+	
+  
+	<boostfruit x="279" y="-438"/>
+	
+  
+	<wall height="213" width="28" x="144" y="-525"/>
+	
+  
+	<wall height="32" width="176" x="303" y="-419"/>
+	
+  
+	<wall height="168" width="49" x="428" y="-583"/>
+	
+  
+	<boost height="-210" width="47" x="252" y="-483"/>
+	
+  
+	<boost height="-502" width="53" x="249" y="-701"/>
+	
+  
+	<wall height="20" width="97" x="145" y="-1217"/>
+	
+  
+	<wall height="-20" width="99" x="263" y="-1263"/>
+	
+  
+	<boost height="-382" width="-32" x="282" y="-1294"/>
+	
+  
+	<wall height="18" width="93" x="150" y="-1686"/>
+	
+  
+	<boost height="406" width="23" x="191" y="-2091"/>
+	
+  
+	<boost height="-441" width="22" x="194" y="-2095"/>
+	
+  
+	<boost height="-440" width="-10" x="190" y="-2094"/>
+	
+  
+	<wall height="27" width="146" x="21" y="-2547"/>
+	
+  
+	<wall height="215" width="26" x="266" y="-2780"/>
+	
+  
+	<wall height="172" width="20" x="73" y="-2896"/>
+	
+  
+	<wall height="-96" width="99" x="201" y="-2933"/>
+	
+  
+	<boost height="34" width="143" x="181" y="-2933"/>
+	
+  
+	<boost height="-158" width="46" x="312" y="-2940"/>
+	
+  
+	<boost height="161" width="39" x="139" y="-3068"/>
+	
+  
+	<goal height="29" width="19" x="64" y="-3216"/>
+	
+  
+	<wall height="-20" width="80" x="60" y="-3134"/>
+	
+  
+	<textfield text="oyu made it!" x="218" y="-3111"/>
+	
+  
+	<textfield text="you*" x="235" y="-3021"/>
+	
+  
+	<textfield text="gravity defiying!" x="385" y="-2757"/>
+	
+  
+	<textfield text="skinny huh?" x="78" y="-1861"/>
+	
+  
+	<textfield text="dont hit those launchers." x="155" y="-1246"/>
+	
+  
+	<textfield text="make it to the top!" x="163" y="334"/>
+	
+  
+	<track height="92" width="500" x="3" y="-1429"/>
+	
+  
+	<track height="122" width="487" x="15" y="-1422"/>
+	
+  
+	<track height="113" width="504" x="5" y="-1413"/>
+	
+  
+	<track height="93" width="494" x="6" y="-1401"/>
+	
+  
+	<trackblade x="57" y="-1415"/>
+	
+  
+	<trackblade x="57" y="-1416"/>
+	
+  
+	<track height="32" width="494" x="8" y="-1389"/>
+	
+  
+	<track height="-82" width="431" x="11" y="-1380"/>
+	
+  
+	<trackblade x="113" y="-1408"/>
+	
+  
+	<trackblade x="84" y="-1449"/>
+	
+  
+	<trackblade x="149" y="-1442"/>
+	
+  
+	<trackblade x="197" y="-1404"/>
+	
+  
+	<trackblade x="219" y="-1458"/>
+	
+
+</level>

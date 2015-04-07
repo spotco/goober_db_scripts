@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<level author="catpakoo" bg="1" name="tosomeone">
+	
+  
+	<textfield text="i am only catpakoo and anonymus!!!!!" x="115" y="106"/>
+	
+  
+	<textfield text="IT'S POINTLESS TO BE SO MANY PEOPLE, PLUS, I DON'T LIKE ATTENTION" x="140" y="237"/>
+	
+  
+	<activatetrackwall height="94" width="430" x="11" y="384"/>
+	
+  
+	<textfield text="I'D NEVER DO THAT, AND I KNOW FOR SURE THAT ALPACA AND PETER ARE DIFFERENT PEOPLE." x="115" y="-147"/>
+	
+  
+	<textfield text="DIFFERENT PEOPLE." x="160" y="-81"/>
+	
+  
+	<textfield text="eVEN THOUGH I DON'T THINK OF MYSELF AS SOMEONE HONEST, I've recieved honesty awards." x="247" y="-374"/>
+	
+  
+	<textfield text="recieved honesty awards." x="286" y="-315"/>
+	
+  
+	<textfield text="alpaca isn't me, because alpaca is my friend! " x="73" y="-601"/>
+	
+  
+	<textfield text="also, peter has said mean stuff and swears" x="332" y="-862"/>
+	
+  
+	<textfield text="i find being mean pointless, and i don't swear." x="328" y="-767"/>
+	
+  
+	<goal height="95" width="412" x="67" y="-1028"/>
+	
+  
+	<textfield text="don't believe me? fine. be that way." x="46" y="-873"/>
+	
+
+</level>

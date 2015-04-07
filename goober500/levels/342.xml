@@ -1,0 +1,263 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="thetour">
+	
+  
+	<wall height="47" width="51" x="250" y="268"/>
+	
+  
+	<wall height="55" width="54" x="300" y="217"/>
+	
+  
+	<flowerboss y="457"/>
+	
+  
+	<activatetrackwall height="52" width="51" x="351" y="170"/>
+	
+  
+	<textfield text="elevator" x="294" y="137"/>
+	
+  
+	<textfield text="okay now that were on the elevator we can chat" x="200" y="-49"/>
+	
+  
+	<textfield text="how about a smiley face" x="85" y="-460"/>
+	
+  
+	<deathwall height="15" width="11" x="151" y="-395"/>
+	
+  
+	<deathwall height="11" width="14" x="228" y="-392"/>
+	
+  
+	<deathwall height="27" width="12" x="151" y="-356"/>
+	
+  
+	<deathwall height="20" width="12" x="164" y="-332"/>
+	
+  
+	<deathwall height="15" width="46" x="176" y="-314"/>
+	
+  
+	<deathwall height="20" width="16" x="223" y="-334"/>
+	
+  
+	<deathwall height="29" width="12" x="239" y="-361"/>
+	
+  
+	<deathwall height="19" width="17" x="101" y="-780"/>
+	
+  
+	<deathwall height="21" width="16" x="158" y="-781"/>
+	
+  
+	<deathwall height="15" width="26" x="123" y="-745"/>
+	
+  
+	<deathwall height="20" width="21" x="104" y="-733"/>
+	
+  
+	<deathwall height="49" width="18" x="82" y="-717"/>
+	
+  
+	<deathwall height="19" width="17" x="149" y="-731"/>
+	
+  
+	<deathwall height="39" width="16" x="165" y="-712"/>
+	
+  
+	<deathwall height="24" width="10" x="147" y="-738"/>
+	
+  
+	<deathwall height="26" width="18" x="116" y="-745"/>
+	
+  
+	<deathwall height="21" width="18" x="92" y="-728"/>
+	
+  
+	<deathwall height="23" width="14" x="156" y="-722"/>
+	
+  
+	<deathwall height="22" width="17" x="100" y="-1079"/>
+	
+  
+	<deathwall height="22" width="17" x="162" y="-1079"/>
+	
+  
+	<deathwall height="24" width="17" x="143" y="-1012"/>
+	
+  
+	<deathwall height="25" width="20" x="99" y="-1382"/>
+	
+  
+	<deathwall height="26" width="15" x="186" y="-1379"/>
+	
+  
+	<deathwall height="23" width="100" x="100" y="-1320"/>
+	
+  
+	<textfield text="thats boring" x="103" y="-1830"/>
+	
+  
+	<textfield text="how about i tell you some sbongebob titles" x="122" y="-2265"/>
+	
+  
+	<textfield text="to spongebob or not to spongebob, squids visit, pineapple fever, chum caverns, boating buddies, the krabby kronikle, the slumber party, grooming gary, sandys rocket, texas, walking small, plankton!, driven to tears." x="118" y="-2713"/>
+	
+  
+	<textfield text="chum caverns, boating buddies, the krabby kronicle, the slumber party, grooming gary, sandys rocket, texas, know any of those?" x="128" y="-2611"/>
+	
+  
+	<textfield text="party, grooming gary. know any of those?" x="153" y="-2515"/>
+	
+  
+	<textfield text="ill show you some pictures" x="141" y="-3112"/>
+	
+  
+	<wall height="152" width="149" x="152" y="-3532"/>
+	
+  
+	<textfield text="the regular photo" x="89" y="-3646"/>
+	
+  
+	<deathwall height="149" width="151" x="100" y="-4129"/>
+	
+  
+	<textfield text="vines plus vines" x="69" y="-4302"/>
+	
+  
+	<boost height="152" width="152" x="99" y="-4830"/>
+	
+  
+	<textfield text="boosting powa" x="88" y="-4971"/>
+	
+  
+	<goal height="51" width="50" x="150" y="-5530"/>
+	
+  
+	<deathwall height="152" width="53" x="199" y="-5581"/>
+	
+  
+	<deathwall height="50" width="102" x="100" y="-5480"/>
+	
+  
+	<deathwall height="117" width="49" x="101" y="-5579"/>
+	
+  
+	<deathwall height="44" width="54" x="150" y="-5578"/>
+	
+  
+	<textfield text="the vexit photo" x="87" y="-5689"/>
+	
+  
+	<boostfruit x="123" y="-6059"/>
+	
+  
+	<boostfruit x="174" y="-6108"/>
+	
+  
+	<boostfruit x="224" y="-6154"/>
+	
+  
+	<boost height="-151" width="52" x="49" y="-6030"/>
+	
+  
+	<boost height="50" width="99" x="101" y="-6181"/>
+	
+  
+	<boost height="52" width="48" x="102" y="-6132"/>
+	
+  
+	<boost height="51" width="54" x="149" y="-6081"/>
+	
+  
+	<boost height="98" width="51" x="200" y="-6130"/>
+	
+  
+	<textfield text="the jumping photo" x="79" y="-6293"/>
+	
+  
+	<track height="173" width="50" x="171" y="-6731"/>
+	
+  
+	<track height="41" width="152" x="100" y="-6653"/>
+	
+  
+	<trackblade x="248" y="-6649"/>
+	
+  
+	<trackblade x="111" y="-6649"/>
+	
+  
+	<trackblade x="174" y="-6720"/>
+	
+  
+	<trackblade x="175" y="-6563"/>
+	
+  
+	<textfield text="the crossroads photo" x="108" y="-6848"/>
+	
+  
+	<track height="36" width="203" x="100" y="-7206"/>
+	
+  
+	<track height="52" width="203" x="101" y="-7161"/>
+	
+  
+	<track height="22" width="208" x="101" y="-7118"/>
+	
+  
+	<trackwall height="156" width="30" x="114" y="-7231"/>
+	
+  
+	<trackwall height="158" width="27" x="275" y="-7231"/>
+	
+  
+	<textfield text="crossroading fast" x="71" y="-7344"/>
+	
+  
+	<rocketlauncher x="168" y="-7715"/>
+	
+  
+	<wall height="252" width="50" x="51" y="-7830"/>
+	
+  
+	<wall height="-48" width="151" x="101" y="-7581"/>
+	
+  
+	<wall height="-248" width="51" x="251" y="-7582"/>
+	
+  
+	<wall height="51" width="152" x="101" y="-7830"/>
+	
+  
+	<textfield text="the cannon of doom" x="70" y="-8042"/>
+	
+  
+	<laserlauncher dir="3" x="124" y="-8506"/>
+	
+  
+	<laserlauncher dir="-3" x="175" y="-8507"/>
+	
+  
+	<wall height="252" width="49" x="0" y="-8631"/>
+	
+  
+	<wall height="53" width="204" x="48" y="-8630"/>
+	
+  
+	<wall height="252" width="50" x="252" y="-8631"/>
+	
+  
+	<wall height="51" width="208" x="50" y="-8430"/>
+	
+  
+	<textfield text="the lasers of doom" x="34" y="-8876"/>
+	
+  
+	<goal height="154" width="151" x="50" y="-9431"/>
+	
+  
+	<textfield text="the photo of sucess" x="57" y="-9569"/>
+	
+
+</level>

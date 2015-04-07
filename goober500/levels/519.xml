@@ -1,0 +1,59 @@
+<?xml version="1.0" ?>
+<level author="LLLL" bg="1" name="Level1Jumpfruit">
+	
+  
+	<boostfruit x="268" y="231"/>
+	
+  
+	<boostfruit x="257" y="138"/>
+	
+  
+	<boostfruit x="135" y="60"/>
+	
+  
+	<boostfruit x="260" y="294"/>
+	
+  
+	<boostfruit x="405" y="-57"/>
+	
+  
+	<boostfruit x="136" y="-124"/>
+	
+  
+	<wall height="323" width="35" x="83" y="-418"/>
+	
+  
+	<wall height="165" width="70" x="214" y="-471"/>
+	
+  
+	<wall height="135" width="84" x="208" y="-569"/>
+	
+  
+	<deathwall height="152" width="240" x="230" y="-288"/>
+	
+  
+	<wall height="189" width="12" x="368" y="-814"/>
+	
+  
+	<wall height="154" width="29" x="233" y="-951"/>
+	
+  
+	<wall height="123" width="34" x="378" y="-1071"/>
+	
+  
+	<wall height="172" width="29" x="210" y="-1257"/>
+	
+  
+	<wall height="96" width="60" x="179" y="-1112"/>
+	
+  
+	<trackblade x="398" y="-1242"/>
+	
+  
+	<trackblade x="399" y="-1250"/>
+	
+  
+	<goal height="254" width="196" x="71" y="-1555"/>
+	
+
+</level>

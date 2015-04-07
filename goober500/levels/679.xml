@@ -1,0 +1,401 @@
+<?xml version="1.0" ?>
+<level author="tryhardMAN" bg="1" name="ABCDEFG">
+	
+  
+	<track height="10" width="260" x="257" y="312"/>
+	
+  
+	<track height="42" width="192" x="63" y="294"/>
+	
+  
+	<deathwall height="-235" width="29" x="14" y="295"/>
+	
+  
+	<deathwall height="205" width="52" x="464" y="42"/>
+	
+  
+	<boostfruit x="204" y="252"/>
+	
+  
+	<boostfruit x="250" y="251"/>
+	
+  
+	<boostfruit x="297" y="253"/>
+	
+  
+	<activatetrackwall height="19" width="118" x="85" y="15"/>
+	
+  
+	<wall height="117" width="78" x="299" y="-97"/>
+	
+  
+	<trackwall height="187" width="70" x="6" y="-185"/>
+	
+  
+	<trackwall height="42" width="73" x="77" y="278"/>
+	
+  
+	<trackwall height="22" width="222" x="274" y="306"/>
+	
+  
+	<boost height="10" width="46" x="230" y="360"/>
+	
+  
+	<deathwall height="20" width="192" x="156" y="404"/>
+	
+  
+	<boostfruit x="85" y="-20"/>
+	
+  
+	<boostfruit x="86" y="-44"/>
+	
+  
+	<boostfruit x="88" y="-67"/>
+	
+  
+	<boostfruit x="88" y="-93"/>
+	
+  
+	<boostfruit x="89" y="-116"/>
+	
+  
+	<boostfruit x="86" y="-148"/>
+	
+  
+	<boostfruit x="87" y="-191"/>
+	
+  
+	<boostfruit x="87" y="-228"/>
+	
+  
+	<boostfruit x="86" y="-257"/>
+	
+  
+	<boostfruit x="85" y="-286"/>
+	
+  
+	<boostfruit x="86" y="-321"/>
+	
+  
+	<boostfruit x="87" y="-340"/>
+	
+  
+	<boostfruit x="89" y="-376"/>
+	
+  
+	<boostfruit x="87" y="-401"/>
+	
+  
+	<boostfruit x="86" y="-421"/>
+	
+  
+	<track height="465" width="35" x="25" y="-427"/>
+	
+  
+	<deathwall height="39" width="77" x="300" y="-127"/>
+	
+  
+	<textfield text="try hard, loser!!!" x="272" y="-310"/>
+	
+  
+	<activatetrackwall height="64" width="125" x="76" y="-366"/>
+	
+  
+	<wall height="30" width="122" x="80" y="9"/>
+	
+  
+	<trackblade x="163" y="-705"/>
+	
+  
+	<trackblade x="352" y="-707"/>
+	
+  
+	<trackblade x="357" y="-499"/>
+	
+  
+	<trackblade x="357" y="-533"/>
+	
+  
+	<trackblade x="358" y="-570"/>
+	
+  
+	<trackblade x="358" y="-609"/>
+	
+  
+	<trackblade x="357" y="-644"/>
+	
+  
+	<trackblade x="357" y="-688"/>
+	
+  
+	<trackblade x="328" y="-713"/>
+	
+  
+	<trackblade x="296" y="-712"/>
+	
+  
+	<trackblade x="267" y="-712"/>
+	
+  
+	<trackblade x="230" y="-710"/>
+	
+  
+	<trackblade x="187" y="-711"/>
+	
+  
+	<trackblade x="206" y="-712"/>
+	
+  
+	<track height="-318" width="18" x="350" y="-430"/>
+	
+  
+	<track height="26" width="358" x="85" y="-725"/>
+	
+  
+	<boost height="218" width="71" x="215" y="20"/>
+	
+  
+	<rocketlauncher x="425" y="-357"/>
+	
+  
+	<rocketlauncher x="370" y="-359"/>
+	
+  
+	<boost height="-101" width="50" x="234" y="-455"/>
+	
+  
+	<boost height="67" width="57" x="189" y="-585"/>
+	
+  
+	<boost height="65" width="48" x="154" y="-594"/>
+	
+  
+	<boost height="54" width="51" x="126" y="-607"/>
+	
+  
+	<boost height="55" width="68" x="99" y="-623"/>
+	
+  
+	<boost height="62" width="75" x="72" y="-643"/>
+	
+  
+	<boost height="69" width="73" x="41" y="-656"/>
+	
+  
+	<boost height="60" width="49" x="26" y="-684"/>
+	
+  
+	<boost height="-117" width="-45" x="45" y="-651"/>
+	
+  
+	<laserlauncher dir="3" x="484" y="-683"/>
+	
+  
+	<activatetrackwall height="17" width="447" x="51" y="-771"/>
+	
+  
+	<textfield text="oh* i'm so scared YOU CANNOT BEAT THE CREATION OF TRYHARDMAN!!!!" x="350" y="-831"/>
+	
+  
+	<textfield text="tryhardMAN" x="327" y="-857"/>
+	
+  
+	<trackblade x="150" y="-1000"/>
+	
+  
+	<trackblade x="169" y="-1029"/>
+	
+  
+	<trackblade x="184" y="-1054"/>
+	
+  
+	<trackblade x="202" y="-1077"/>
+	
+  
+	<trackblade x="221" y="-1098"/>
+	
+  
+	<trackblade x="240" y="-1117"/>
+	
+  
+	<trackblade x="263" y="-1116"/>
+	
+  
+	<trackblade x="285" y="-1100"/>
+	
+  
+	<trackblade x="304" y="-1082"/>
+	
+  
+	<trackblade x="315" y="-1060"/>
+	
+  
+	<trackblade x="338" y="-1043"/>
+	
+  
+	<trackblade x="354" y="-1015"/>
+	
+  
+	<trackblade x="369" y="-997"/>
+	
+  
+	<trackblade x="378" y="-983"/>
+	
+  
+	<trackblade x="136" y="-975"/>
+	
+  
+	<track height="38" width="32" x="119" y="-977"/>
+	
+  
+	<track height="31" width="37" x="138" y="-1018"/>
+	
+  
+	<track height="33" width="31" x="160" y="-1042"/>
+	
+  
+	<track height="49" width="34" x="180" y="-1067"/>
+	
+  
+	<track height="90" width="-56" x="240" y="-1121"/>
+	
+  
+	<track height="29" width="29" x="216" y="-1101"/>
+	
+  
+	<track height="61" width="-40" x="229" y="-1113"/>
+	
+  
+	<track height="45" width="69" x="242" y="-1114"/>
+	
+  
+	<track height="55" width="85" x="229" y="-1119"/>
+	
+  
+	<track height="113" width="72" x="324" y="-1068"/>
+	
+  
+	<track height="-76" width="-54" x="385" y="-980"/>
+	
+  
+	<track height="-14" width="-11" x="368" y="-987"/>
+	
+  
+	<track height="14" width="41" x="375" y="-1003"/>
+	
+  
+	<track height="25" width="17" x="375" y="-989"/>
+	
+  
+	<track height="17" width="32" x="343" y="-1028"/>
+	
+  
+	<track height="-27" width="-11" x="354" y="-1009"/>
+	
+  
+	<track height="10" width="16" x="341" y="-1042"/>
+	
+  
+	<track height="-10" width="-19" x="371" y="-1010"/>
+	
+  
+	<track height="-23" width="-15" x="347" y="-1028"/>
+	
+  
+	<track height="20" width="20" x="323" y="-1055"/>
+	
+  
+	<track height="-16" width="-16" x="352" y="-1032"/>
+	
+  
+	<track height="-33" width="-29" x="328" y="-1057"/>
+	
+  
+	<track height="21" width="28" x="299" y="-1077"/>
+	
+  
+	<track height="22" width="18" x="289" y="-1087"/>
+	
+  
+	<track height="-25" width="-13" x="311" y="-1064"/>
+	
+  
+	<track height="-20" width="-24" x="293" y="-1093"/>
+	
+  
+	<track height="26" width="42" x="277" y="-1106"/>
+	
+  
+	<track height="-21" width="-35" x="315" y="-1080"/>
+	
+  
+	<track height="-10" width="-10" x="271" y="-1105"/>
+	
+  
+	<track height="19" width="-14" x="227" y="-1124"/>
+	
+  
+	<track height="-30" width="33" x="224" y="-1094"/>
+	
+  
+	<track height="20" width="-20" x="256" y="-1122"/>
+	
+  
+	<track height="11" width="-27" x="233" y="-1100"/>
+	
+  
+	<track height="-11" width="11" x="210" y="-1098"/>
+	
+  
+	<track height="30" width="-27" x="222" y="-1105"/>
+	
+  
+	<track height="27" width="-23" x="183" y="-1051"/>
+	
+  
+	<track height="21" width="-24" x="158" y="-1003"/>
+	
+  
+	<track height="67" width="-16" x="153" y="-1033"/>
+	
+  
+	<track height="-24" width="24" x="185" y="-1071"/>
+	
+  
+	<track height="26" width="-19" x="216" y="-1099"/>
+	
+  
+	<track height="12" width="-13" x="184" y="-1059"/>
+	
+  
+	<track height="-24" width="31" x="220" y="-1098"/>
+	
+  
+	<track height="50" width="58" x="256" y="-1126"/>
+	
+  
+	<goal height="65" width="52" x="231" y="-1080"/>
+	
+  
+	<trackwall height="59" width="85" x="206" y="-840"/>
+	
+  
+	<track height="244" width="33" x="236" y="-1013"/>
+	
+  
+	<rocketlauncher x="120" y="-1160"/>
+	
+  
+	<rocketlauncher x="424" y="-1155"/>
+	
+  
+	<laserlauncher dir="3" x="253" y="-1168"/>
+	
+  
+	<laserlauncher dir="-3" x="248" y="-1168"/>
+	
+  
+	<boost height="101" width="33" x="229" y="-984"/>
+	
+
+</level>

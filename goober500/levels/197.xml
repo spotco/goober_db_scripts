@@ -1,0 +1,155 @@
+<?xml version="1.0" ?>
+<level author="amropro" bg="1" name="amromousa">
+	
+  
+	<boost height="-415.55" width="61.30000000000001" x="236.8" y="266"/>
+	
+  
+	<laserlauncher dir="3" x="22.2" y="238.60000000000002"/>
+	
+  
+	<laserlauncher dir="3" x="7.4" y="23.399999999999977"/>
+	
+  
+	<laserlauncher dir="3" x="19.05" y="-133.45"/>
+	
+  
+	<laserlauncher dir="3" x="16.9" y="138.7"/>
+	
+  
+	<laserlauncher dir="3" x="29.6" y="-62.75"/>
+	
+  
+	<laserlauncher dir="-3" x="478.85" y="222.05"/>
+	
+  
+	<laserlauncher dir="-3" x="467.25" y="135.55"/>
+	
+  
+	<laserlauncher dir="-3" x="442.9" y="53.25"/>
+	
+  
+	<laserlauncher dir="-3" x="432.35" y="-39.55000000000001"/>
+	
+  
+	<laserlauncher dir="-3" x="394.3" y="-109.15"/>
+	
+  
+	<boostfruit x="266.4" y="-175.10000000000002"/>
+	
+  
+	<boostfruit x="220.95" y="-255.3"/>
+	
+  
+	<boostfruit x="146.95" y="-316.45"/>
+	
+  
+	<activatetrackwall height="41.150000000000034" width="105.7" x="1.05" y="-335.1"/>
+	
+  
+	<activatetrackwall height="41.099999999999966" width="124.75" x="249.45" y="-450.7"/>
+	
+  
+	<activatetrackwall height="37.950000000000045" width="144.8" x="319.25" y="-670"/>
+	
+  
+	<activatetrackwall height="34.80000000000007" width="140.6" x="5.3" y="-551.1"/>
+	
+  
+	<boostfruit x="176.55" y="-392.1"/>
+	
+  
+	<boostfruit x="217.75" y="-527.15"/>
+	
+  
+	<boostfruit x="246.3" y="-596.75"/>
+	
+  
+	<boostfruit x="236.8" y="-962.45"/>
+	
+  
+	<boostfruit x="145.9" y="-1004.65"/>
+	
+  
+	<boostfruit x="91.95" y="-1035.2"/>
+	
+  
+	<trackwall height="27.40000000000009" width="67.65" x="5.3" y="-1061.65"/>
+	
+  
+	<trackwall height="21.049999999999955" width="162.79999999999998" x="159.6" y="-1121.75"/>
+	
+  
+	<trackwall height="24.25" width="131.10000000000002" x="337.2" y="-1235.7"/>
+	
+  
+	<trackwall height="14.75" width="164.89999999999998" x="1.05" y="-1293.7"/>
+	
+  
+	<boostfruit x="253.7" y="-1280"/>
+	
+  
+	<boost height="291.10000000000014" width="54.94999999999999" x="380.55" y="-1621.9"/>
+	
+  
+	<boost height="282.64999999999986" width="74" x="32.75" y="-1625.05"/>
+	
+  
+	<deathwall height="124.45000000000005" width="207.14999999999998" x="287.55" y="-1729.15"/>
+	
+  
+	<boostfruit x="64.5" y="-1652.15"/>
+	
+  
+	<boostfruit x="119.45" y="-1733.4"/>
+	
+  
+	<boostfruit x="226.2" y="-1804.05"/>
+	
+  
+	<trackwall height="89.65000000000009" width="242.04999999999995" x="265.35" y="-1791.4"/>
+	
+  
+	<trackwall height="133.95000000000005" width="31.69999999999999" x="259" y="-1720.7"/>
+	
+  
+	<trackwall height="-29.549999999999955" width="220.95000000000005" x="275.9" y="-1585.7"/>
+	
+  
+	<trackwall height="114.95000000000005" width="18" x="480.95" y="-1721.75"/>
+	
+  
+	<track height="-373.3499999999999" width="60.25" x="344.6" y="-1768.85"/>
+	
+  
+	<boostfruit x="348.85" y="-2157.85"/>
+	
+  
+	<boostfruit x="325.6" y="-2171.55"/>
+	
+  
+	<boostfruit x="286.45" y="-2183.15"/>
+	
+  
+	<boostfruit x="273.8" y="-2193.7"/>
+	
+  
+	<boostfruit x="256.85" y="-2205.3"/>
+	
+  
+	<boostfruit x="246.3" y="-2230.35"/>
+	
+  
+	<boostfruit x="246.3" y="-2265.35"/>
+	
+  
+	<boost height="366" width="137.45" x="167" y="-2645.05"/>
+	
+  
+	<goal height="52.75" width="379.45000000000005" x="94.1" y="-2757.85"/>
+	
+  
+	<goal height="-399.75" width="-525.35" x="495.75" y="-2680.85"/>
+	
+
+</level>

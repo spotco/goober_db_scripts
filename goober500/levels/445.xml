@@ -1,0 +1,32 @@
+<?xml version="1.0" ?>
+<level author="Aziz" bg="1" name="Trainer">
+	
+  
+	<trackwall height="43.599999999999966" width="503.35" x="3.2" y="275.85"/>
+	
+  
+	<cloudboss/>
+	
+  
+	<trackwall height="-344" width="44.4" x="6.35" y="274"/>
+	
+  
+	<trackwall height="-37.25" width="397.1" x="106.25" y="-20.299999999999997"/>
+	
+  
+	<trackwall height="-422.5" width="49.94999999999999" x="450.25" y="-58.30000000000001"/>
+	
+  
+	<trackwall height="48.349999999999966" width="-378.15000000000003" x="376.55" y="-479.4"/>
+	
+  
+	<trackwall height="-296.45" width="49.949999999999996" x="-0.8" y="-480.2"/>
+	
+  
+	<trackwall height="-47.55000000000007" width="386.05" x="101.45" y="-731.3"/>
+	
+  
+	<goal height="-66.60000000000002" width="61.05000000000001" x="417.75" y="-860.5"/>
+	
+
+</level>

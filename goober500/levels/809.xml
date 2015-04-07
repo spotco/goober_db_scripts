@@ -1,0 +1,197 @@
+<?xml version="1.0" ?>
+<level author="alpaca" bg="1" name="school">
+	
+  
+	<textfield text="its the first day of school! i hate peter! do you? hes really rude always insulting people so he needs a taste of his own medicine!" x="341" y="188"/>
+	
+  
+	<textfield text="peter needs a taste of his own medicine!" x="372" y="369"/>
+	
+  
+	<wall height="50" width="247" x="8" y="220"/>
+	
+  
+	<wall height="78" width="221" x="6" y="156"/>
+	
+  
+	<wall height="85" width="141" x="14" y="75"/>
+	
+  
+	<wall height="39" width="80" x="8" y="33"/>
+	
+  
+	<wall height="43" width="274" x="130" y="-73"/>
+	
+  
+	<wall height="-34" width="223" x="284" y="-76"/>
+	
+  
+	<wall height="-18" width="111" x="396" y="-123"/>
+	
+  
+	<wall height="62" width="174" x="39" y="-345"/>
+	
+  
+	<wall height="35" width="120" x="212" y="-300"/>
+	
+  
+	<wall height="58" width="75" x="329" y="-268"/>
+	
+  
+	<wall height="80" width="47" x="17" y="-425"/>
+	
+  
+	<textfield text="climb up the stairs" x="127" y="-175"/>
+	
+  
+	<activatetrackwall height="63" width="324" x="101" y="-534"/>
+	
+  
+	<boostfruit x="161" y="-664"/>
+	
+  
+	<boostfruit x="189" y="-653"/>
+	
+  
+	<boostfruit x="228" y="-647"/>
+	
+  
+	<boostfruit x="263" y="-642"/>
+	
+  
+	<boostfruit x="286" y="-637"/>
+	
+  
+	<boostfruit x="282" y="-613"/>
+	
+  
+	<boostfruit x="267" y="-587"/>
+	
+  
+	<boostfruit x="235" y="-579"/>
+	
+  
+	<boostfruit x="196" y="-585"/>
+	
+  
+	<boostfruit x="172" y="-590"/>
+	
+  
+	<boostfruit x="161" y="-609"/>
+	
+  
+	<boostfruit x="164" y="-649"/>
+	
+  
+	<boostfruit x="168" y="-649"/>
+	
+  
+	<boostfruit x="175" y="-626"/>
+	
+  
+	<boostfruit x="206" y="-617"/>
+	
+  
+	<boostfruit x="239" y="-619"/>
+	
+  
+	<boostfruit x="250" y="-619"/>
+	
+  
+	<boostfruit x="255" y="-615"/>
+	
+  
+	<boostfruit x="230" y="-599"/>
+	
+  
+	<boostfruit x="200" y="-598"/>
+	
+  
+	<boostfruit x="172" y="-631"/>
+	
+  
+	<boostfruit x="213" y="-640"/>
+	
+  
+	<boostfruit x="234" y="-633"/>
+	
+  
+	<boostfruit x="258" y="-631"/>
+	
+  
+	<boostfruit x="280" y="-628"/>
+	
+  
+	<boostfruit x="276" y="-610"/>
+	
+  
+	<boostfruit x="254" y="-579"/>
+	
+  
+	<boostfruit x="214" y="-584"/>
+	
+  
+	<boostfruit x="158" y="-590"/>
+	
+  
+	<boostfruit x="144" y="-620"/>
+	
+  
+	<boostfruit x="169" y="-650"/>
+	
+  
+	<textfield text="morning snack time!" x="303" y="-707"/>
+	
+  
+	<wall height="87" width="365" x="137" y="-882"/>
+	
+  
+	<trackwall height="110" width="48" x="190" y="-1056"/>
+	
+  
+	<trackwall height="40" width="96" x="207" y="-969"/>
+	
+  
+	<trackwall height="63" width="-13" x="205" y="-947"/>
+	
+  
+	<trackwall height="45" width="-16" x="299" y="-930"/>
+	
+  
+	<trackwall height="43" width="173" x="301" y="-1008"/>
+	
+  
+	<trackwall height="82" width="15" x="466" y="-967"/>
+	
+  
+	<trackwall height="71" width="17" x="312" y="-966"/>
+	
+  
+	<textfield text="please sit class" x="305" y="-1080"/>
+	
+  
+	<trackblade x="123" y="-870"/>
+	
+  
+	<wall height="425" width="20" x="3" y="-1279"/>
+	
+  
+	<goal height="78" width="444" x="22" y="-1427"/>
+	
+  
+	<goal height="-106" width="233" x="137" y="-1435"/>
+	
+  
+	<textfield text="you graduated (unless you are peter!)" x="200" y="-1280"/>
+	
+  
+	<wall height="53" width="122" x="15" y="265"/>
+	
+  
+	<wall height="-22" width="426" x="47" y="317"/>
+	
+  
+	<trackblade x="95" y="-876"/>
+	
+
+</level>

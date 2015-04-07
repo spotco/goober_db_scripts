@@ -1,0 +1,41 @@
+<?xml version="1.0" ?>
+<level author="az09mofro" bg="1" name="az094321">
+	
+  
+	<deathwall height="-34" width="40" x="172" y="285"/>
+	
+  
+	<boost height="-24" width="57" x="85" y="225"/>
+	
+  
+	<wall height="-18" width="57" x="421" y="266"/>
+	
+  
+	<wall height="-15" width="44" x="348" y="200"/>
+	
+  
+	<wall height="-40" width="77" x="81" y="234"/>
+	
+  
+	<wall height="-147" width="348" x="83" y="422"/>
+	
+  
+	<trackblade x="285" y="176"/>
+	
+  
+	<wall height="-25" width="39" x="192" y="178"/>
+	
+  
+	<wall height="-22" width="53" x="423" y="145"/>
+	
+  
+	<wall height="-26" width="43" x="346" y="100"/>
+	
+  
+	<wall height="-21" width="38" x="272" y="86"/>
+	
+  
+	<goal height="-54" width="48" x="105" y="202"/>
+	
+
+</level>

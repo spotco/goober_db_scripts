@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<level author="Aziz" bg="1" name="boy3">
+	
+  
+	<boost height="-367" width="73.75" x="221.95" y="312.3"/>
+	
+  
+	<trackwall height="34.849999999999966" width="-125.25" x="211.65" y="-58.89999999999998"/>
+	
+  
+	<activatetrackwall height="-30.899999999999977" width="-83.19999999999999" x="85.6" y="-29.600000000000023"/>
+	
+  
+	<goal height="53.90000000000009" width="80.85000000000001" x="5.55" y="-1106.45"/>
+	
+  
+	<flowerboss y="574.75"/>
+	
+
+</level>

@@ -1,0 +1,134 @@
+<?xml version="1.0" ?>
+<level author="mario" bg="1" name="lolistic">
+	
+  
+	<wall height="172" width="108" x="224" y="281"/>
+	
+  
+	<wall height="-100" width="-16" x="314" y="214"/>
+	
+  
+	<wall height="101" width="-164" x="219" y="117"/>
+	
+  
+	<boost height="-254" width="63" x="387" y="393"/>
+	
+  
+	<boost height="-357" width="-66" x="227" y="-46"/>
+	
+  
+	<boost height="-495" width="-69" x="228" y="-448"/>
+	
+  
+	<deathwall height="91" width="149" x="126" y="-1214"/>
+	
+  
+	<wall height="25" width="115" x="158" y="-1106"/>
+	
+  
+	<wall height="37" width="263" x="236" y="-964"/>
+	
+  
+	<wall height="-472" width="-12" x="492" y="-1000"/>
+	
+  
+	<wall height="-402" width="-131" x="488" y="-1465"/>
+	
+  
+	<boostfruit x="380" y="-1400"/>
+	
+  
+	<boostfruit x="319" y="-1410"/>
+	
+  
+	<boostfruit x="308" y="-1449"/>
+	
+  
+	<boostfruit x="289" y="-1470"/>
+	
+  
+	<boostfruit x="287" y="-1491"/>
+	
+  
+	<boostfruit x="289" y="-1528"/>
+	
+  
+	<boostfruit x="298" y="-1550"/>
+	
+  
+	<boostfruit x="307" y="-1557"/>
+	
+  
+	<boostfruit x="324" y="-1578"/>
+	
+  
+	<boostfruit x="328" y="-1601"/>
+	
+  
+	<boostfruit x="304" y="-1617"/>
+	
+  
+	<boostfruit x="274" y="-1623"/>
+	
+  
+	<boostfruit x="245" y="-1658"/>
+	
+  
+	<boostfruit x="243" y="-1670"/>
+	
+  
+	<boostfruit x="245" y="-1693"/>
+	
+  
+	<boostfruit x="258" y="-1711"/>
+	
+  
+	<boostfruit x="276" y="-1713"/>
+	
+  
+	<boostfruit x="301" y="-1714"/>
+	
+  
+	<boostfruit x="320" y="-1722"/>
+	
+  
+	<boostfruit x="326" y="-1760"/>
+	
+  
+	<boostfruit x="290" y="-1800"/>
+	
+  
+	<boostfruit x="257" y="-1833"/>
+	
+  
+	<boostfruit x="252" y="-1838"/>
+	
+  
+	<boostfruit x="253" y="-1848"/>
+	
+  
+	<boostfruit x="278" y="-1870"/>
+	
+  
+	<boostfruit x="282" y="-1874"/>
+	
+  
+	<boostfruit x="292" y="-1880"/>
+	
+  
+	<boostfruit x="313" y="-1884"/>
+	
+  
+	<boostfruit x="328" y="-1890"/>
+	
+  
+	<boostfruit x="339" y="-1894"/>
+	
+  
+	<goal height="103" width="-75" x="456" y="-2059"/>
+	
+  
+	<boost height="89" width="71" x="160" y="-29"/>
+	
+
+</level>

@@ -1,0 +1,311 @@
+<?xml version="1.0" ?>
+<level author="Justin" bg="1" name="GevilGavel">
+	
+  
+	<trackwall height="115" width="424" x="61" y="295"/>
+	
+  
+	<boostfruit x="103" y="280"/>
+	
+  
+	<boostfruit x="143" y="281"/>
+	
+  
+	<boostfruit x="165" y="285"/>
+	
+  
+	<boostfruit x="120" y="281"/>
+	
+  
+	<boostfruit x="121" y="268"/>
+	
+  
+	<boostfruit x="111" y="266"/>
+	
+  
+	<boostfruit x="132" y="271"/>
+	
+  
+	<boostfruit x="127" y="281"/>
+	
+  
+	<boostfruit x="158" y="275"/>
+	
+  
+	<boostfruit x="154" y="284"/>
+	
+  
+	<boostfruit x="144" y="270"/>
+	
+  
+	<boostfruit x="120" y="254"/>
+	
+  
+	<boostfruit x="133" y="255"/>
+	
+  
+	<boostfruit x="139" y="256"/>
+	
+  
+	<boostfruit x="144" y="257"/>
+	
+  
+	<boostfruit x="147" y="258"/>
+	
+  
+	<boostfruit x="129" y="234"/>
+	
+  
+	<boostfruit x="127" y="246"/>
+	
+  
+	<boostfruit x="147" y="244"/>
+	
+  
+	<boostfruit x="136" y="241"/>
+	
+  
+	<boostfruit x="121" y="276"/>
+	
+  
+	<boostfruit x="110" y="291"/>
+	
+  
+	<boostfruit x="105" y="291"/>
+	
+  
+	<boostfruit x="149" y="277"/>
+	
+  
+	<boostfruit x="129" y="289"/>
+	
+  
+	<boostfruit x="127" y="289"/>
+	
+  
+	<boostfruit x="137" y="289"/>
+	
+  
+	<boostfruit x="140" y="289"/>
+	
+  
+	<boostfruit x="137" y="255"/>
+	
+  
+	<boostfruit x="128" y="255"/>
+	
+  
+	<boostfruit x="112" y="265"/>
+	
+  
+	<boostfruit x="125" y="270"/>
+	
+  
+	<textfield text="EAT BEFORE YOU GO!" x="275" y="181"/>
+	
+  
+	<boost height="166" width="85" x="96" y="25"/>
+	
+  
+	<boost height="315" width="75" x="102" y="-250"/>
+	
+  
+	<trackwall height="61" width="300" x="190" y="-70"/>
+	
+  
+	<trackwall height="429" width="19" x="68" y="-243"/>
+	
+  
+	<trackwall height="82" width="159" x="197" y="-252"/>
+	
+  
+	<textfield text="Research Corp" x="199" y="-243"/>
+	
+  
+	<trackwall height="47" width="130" x="74" y="-282"/>
+	
+  
+	<trackwall height="211" width="23" x="461" y="-270"/>
+	
+  
+	<trackwall height="211" width="46" x="449" y="-465"/>
+	
+  
+	<trackwall height="226" width="37" x="77" y="-488"/>
+	
+  
+	<trackwall height="47" width="304" x="181" y="-491"/>
+	
+  
+	<trackwall height="110" width="209" x="245" y="-447"/>
+	
+  
+	<textfield text="DANGER! do not smoke at workers" x="267" y="-409"/>
+	
+  
+	<trackwall height="42" width="-123" x="94" y="-480"/>
+	
+  
+	<trackwall height="267" width="16" x="28" y="-759"/>
+	
+  
+	<boost height="24" width="67" x="1" y="-497"/>
+	
+  
+	<trackwall height="110" width="11" x="272" y="-598"/>
+	
+  
+	<trackwall height="22" width="90" x="266" y="-509"/>
+	
+  
+	<trackwall height="95" width="15" x="379" y="-574"/>
+	
+  
+	<trackwall height="63" width="68" x="356" y="-607"/>
+	
+  
+	<goal height="31" width="28" x="294" y="-581"/>
+	
+  
+	<goal height="45" width="60" x="289" y="-555"/>
+	
+  
+	<goal height="38" width="55" x="293" y="-599"/>
+	
+  
+	<textfield text="ready" x="359" y="-605"/>
+	
+  
+	<trackwall height="295" width="55" x="434" y="-740"/>
+	
+  
+	<trackwall height="38" width="-320" x="488" y="-750"/>
+	
+  
+	<boost height="247" width="109" x="355" y="-347"/>
+	
+  
+	<boost height="135" width="132" x="332" y="-185"/>
+	
+  
+	<boost height="211" width="87" x="109" y="-482"/>
+	
+  
+	<boost height="249" width="94" x="62" y="-756"/>
+	
+  
+	<boost height="95" width="30" x="123" y="-543"/>
+	
+  
+	<trackwall height="275" width="46" x="431" y="-1012"/>
+	
+  
+	<trackwall height="177" width="52" x="180" y="-922"/>
+	
+  
+	<trackwall height="310" width="52" x="2" y="-1040"/>
+	
+  
+	<trackwall height="129" width="297" x="176" y="-1028"/>
+	
+  
+	<textfield text="arn't you gonna research?" x="243" y="-892"/>
+	
+  
+	<goal height="49" width="38" x="390" y="-832"/>
+	
+  
+	<trackwall height="50" width="87" x="355" y="-788"/>
+	
+  
+	<boost height="304" width="97" x="65" y="-1043"/>
+	
+  
+	<trackwall height="122" width="243" x="191" y="-1321"/>
+	
+  
+	<textfield text="Tinco anti-Metals viced-Gamma's Station" x="220" y="-1319"/>
+	
+  
+	<boost height="45" width="137" x="200" y="-1258"/>
+	
+  
+	<trackwall height="92" width="262" x="214" y="-1097"/>
+	
+  
+	<boost height="78" width="114" x="93" y="-1111"/>
+	
+  
+	<trackwall height="106" width="77" x="22" y="-1130"/>
+	
+  
+	<trackwall height="236" width="15" x="73" y="-1338"/>
+	
+  
+	<trackwall height="83" width="166" x="48" y="-1351"/>
+	
+  
+	<trackwall height="298" width="11" x="474" y="-1346"/>
+	
+  
+	<boost height="277" width="54" x="424" y="-1346"/>
+	
+  
+	<trackwall height="110" width="27" x="476" y="-1423"/>
+	
+  
+	<trackwall height="138" width="29" x="56" y="-1469"/>
+	
+  
+	<trackwall height="152" width="43" x="453" y="-1532"/>
+	
+  
+	<trackwall height="150" width="84" x="24" y="-1589"/>
+	
+  
+	<trackwall height="83" width="150" x="71" y="-1599"/>
+	
+  
+	<trackwall height="79" width="136" x="345" y="-1603"/>
+	
+  
+	<boost height="220" width="154" x="208" y="-1579"/>
+	
+  
+	<deathwall height="135" width="86" x="377" y="-1545"/>
+	
+  
+	<deathwall height="194" width="86" x="89" y="-1534"/>
+	
+  
+	<trackwall height="254" width="64" x="28" y="-1818"/>
+	
+  
+	<trackwall height="238" width="29" x="409" y="-1816"/>
+	
+  
+	<deathwall height="152" width="232" x="143" y="-1930"/>
+	
+  
+	<goal height="196" width="92" x="76" y="-1779"/>
+	
+  
+	<goal height="205" width="70" x="346" y="-1798"/>
+	
+  
+	<textfield text="EVIL GAMMA!" x="158" y="-1898"/>
+	
+  
+	<trackwall height="75" width="123" x="79" y="-242"/>
+	
+  
+	<trackwall height="30" width="88" x="370" y="-1419"/>
+	
+  
+	<trackwall height="62" width="33" x="444" y="-1462"/>
+	
+  
+	<trackwall height="22" width="130" x="190" y="-1786"/>
+	
+
+</level>

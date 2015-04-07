@@ -1,0 +1,155 @@
+<?xml version="1.0" ?>
+<level author="MIKA0401" bg="3" name="MIRA">
+	
+  
+	<wall height="-57" width="-487" x="495" y="380"/>
+	
+  
+	<wall height="-296" width="88" x="11" y="313"/>
+	
+  
+	<wall height="-282" width="86" x="399" y="309"/>
+	
+  
+	<boostfruit x="173" y="238"/>
+	
+  
+	<boostfruit x="228" y="192"/>
+	
+  
+	<boostfruit x="267" y="149"/>
+	
+  
+	<boostfruit x="219" y="104"/>
+	
+  
+	<boostfruit x="177" y="44"/>
+	
+  
+	<boostfruit x="225" y="3"/>
+	
+  
+	<boostfruit x="272" y="-47"/>
+	
+  
+	<boostfruit x="233" y="-102"/>
+	
+  
+	<boostfruit x="174" y="-151"/>
+	
+  
+	<boostfruit x="227" y="-188"/>
+	
+  
+	<boostfruit x="278" y="-248"/>
+	
+  
+	<trackblade x="117" y="4"/>
+	
+  
+	<trackblade x="383" y="14"/>
+	
+  
+	<trackblade x="427" y="-164"/>
+	
+  
+	<trackblade x="64" y="-148"/>
+	
+  
+	<trackblade x="271" y="-404"/>
+	
+  
+	<track height="27" width="209" x="21" y="-297"/>
+	
+  
+	<track height="25" width="156" x="336" y="-292"/>
+	
+  
+	<trackwall height="46" width="113" x="33" y="-323"/>
+	
+  
+	<trackwall height="31" width="61" x="343" y="-305"/>
+	
+  
+	<goal height="66" width="489" x="5" y="-1529"/>
+	
+  
+	<track height="211" width="34" x="15" y="-1332"/>
+	
+  
+	<track height="214" width="49" x="412" y="-1341"/>
+	
+  
+	<trackwall height="49" width="-44" x="45" y="-1243"/>
+	
+  
+	<trackwall height="56" width="57" x="389" y="-1244"/>
+	
+  
+	<boostfruit x="63" y="-1062"/>
+	
+  
+	<boostfruit x="113" y="-1059"/>
+	
+  
+	<boostfruit x="160" y="-1058"/>
+	
+  
+	<boostfruit x="215" y="-1061"/>
+	
+  
+	<boostfruit x="285" y="-1061"/>
+	
+  
+	<boostfruit x="318" y="-1063"/>
+	
+  
+	<boostfruit x="386" y="-1063"/>
+	
+  
+	<boostfruit x="432" y="-1063"/>
+	
+  
+	<boostfruit x="470" y="-1063"/>
+	
+  
+	<boost height="252" width="224" x="137" y="-980"/>
+	
+  
+	<boost height="136" width="142" x="12" y="-545"/>
+	
+  
+	<boost height="151" width="144" x="350" y="-549"/>
+	
+  
+	<boostfruit x="239" y="-657"/>
+	
+  
+	<boostfruit x="256" y="-655"/>
+	
+  
+	<boostfruit x="204" y="-599"/>
+	
+  
+	<boostfruit x="258" y="-593"/>
+	
+  
+	<boostfruit x="252" y="-558"/>
+	
+  
+	<boostfruit x="240" y="-553"/>
+	
+  
+	<textfield text="Dont give up!" x="401" y="-944"/>
+	
+  
+	<boostfruit x="224" y="-1253"/>
+	
+  
+	<rocketlauncher x="124" y="-1306"/>
+	
+  
+	<rocketlauncher x="332" y="-1300"/>
+	
+
+</level>

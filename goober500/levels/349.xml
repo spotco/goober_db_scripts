@@ -1,0 +1,380 @@
+<?xml version="1.0" ?>
+<level author="weird" bg="1" name="adventure">
+	
+  
+	<rocketlauncher x="35.45" y="-909.55"/>
+	
+  
+	<rocketlauncher x="38.2" y="-1021.35"/>
+	
+  
+	<rocketlauncher x="37.3" y="-1118.65"/>
+	
+  
+	<rocketlauncher x="470.9" y="-1125.9"/>
+	
+  
+	<rocketlauncher x="469.1" y="-1040.45"/>
+	
+  
+	<rocketlauncher x="468.2" y="-941.35"/>
+	
+  
+	<rocketlauncher x="259.1" y="-907.7"/>
+	
+  
+	<rocketlauncher x="259.1" y="-1021.35"/>
+	
+  
+	<rocketlauncher x="252.75" y="-1120.45"/>
+	
+  
+	<laserlauncher dir="3" x="68.2" y="-599.55"/>
+	
+  
+	<wall height="-42.75" width="274.55" x="115.45" y="343.65"/>
+	
+  
+	<track height="-422.7" width="24.550000000000004" x="37.3" y="225"/>
+	
+  
+	<trackwall height="60.94999999999999" width="74.55" x="5.45" y="161.35000000000002"/>
+	
+  
+	<boostfruit x="114.55" y="242.3"/>
+	
+  
+	<boostfruit x="168.2" y="-189.10000000000002"/>
+	
+  
+	<boostfruit x="256.35" y="-290"/>
+	
+  
+	<boostfruit x="256.35" y="-370"/>
+	
+  
+	<boostfruit x="245.45" y="-444.55"/>
+	
+  
+	<boostfruit x="186.35" y="-463.65"/>
+	
+  
+	<boostfruit x="179.1" y="-413.65"/>
+	
+  
+	<boostfruit x="220.9" y="-386.35"/>
+	
+  
+	<boostfruit x="111.85" y="-290.9"/>
+	
+  
+	<boostfruit x="119.1" y="-334.55"/>
+	
+  
+	<boostfruit x="174.55" y="-342.7"/>
+	
+  
+	<boostfruit x="157.3" y="-262.7"/>
+	
+  
+	<boostfruit x="208.2" y="-300"/>
+	
+  
+	<boostfruit x="211.85" y="-234.55"/>
+	
+  
+	<boostfruit x="317.3" y="-227.25"/>
+	
+  
+	<boostfruit x="333.65" y="-313.65"/>
+	
+  
+	<boostfruit x="278.2" y="-237.25"/>
+	
+  
+	<boostfruit x="319.1" y="-262.7"/>
+	
+  
+	<boostfruit x="340" y="-385.45"/>
+	
+  
+	<boostfruit x="292.75" y="-335.45"/>
+	
+  
+	<boostfruit x="306.35" y="-430.9"/>
+	
+  
+	<boostfruit x="371.85" y="-446.35"/>
+	
+  
+	<boostfruit x="420.9" y="-332.7"/>
+	
+  
+	<boostfruit x="390" y="-326.35"/>
+	
+  
+	<boostfruit x="410.9" y="-434.55"/>
+	
+  
+	<boostfruit x="383.65" y="-349.1"/>
+	
+  
+	<boostfruit x="360.9" y="-170.89999999999998"/>
+	
+  
+	<boostfruit x="432.75" y="-221.8"/>
+	
+  
+	<boostfruit x="409.1" y="-237.25"/>
+	
+  
+	<boostfruit x="374.55" y="-269.1"/>
+	
+  
+	<boostfruit x="285.45" y="-194.55"/>
+	
+  
+	<track height="242.70000000000002" width="14.550000000000011" x="282.75" y="-46.349999999999994"/>
+	
+  
+	<track height="-241.85000000000002" width="-10" x="365.45" y="127.30000000000001"/>
+	
+  
+	<trackblade x="284.55" y="167.3"/>
+	
+  
+	<trackblade x="359.1" y="95.44999999999999"/>
+	
+  
+	<trackblade x="286.35" y="-12.699999999999989"/>
+	
+  
+	<trackblade x="358.2" y="-85.44999999999999"/>
+	
+  
+	<boostfruit x="196.35" y="-509.55"/>
+	
+  
+	<boostfruit x="230.9" y="-507.7"/>
+	
+  
+	<boostfruit x="271.85" y="-623.15"/>
+	
+  
+	<boostfruit x="300.9" y="-579.55"/>
+	
+  
+	<boostfruit x="270.9" y="-521.35"/>
+	
+  
+	<boostfruit x="306.35" y="-496.8"/>
+	
+  
+	<boostfruit x="337.3" y="-536.8"/>
+	
+  
+	<boostfruit x="180" y="-551.35"/>
+	
+  
+	<boostfruit x="140.9" y="-488.65"/>
+	
+  
+	<boostfruit x="99.1" y="-381.35"/>
+	
+  
+	<boostfruit x="133.65" y="-415"/>
+	
+  
+	<boostfruit x="251.85" y="-556.8"/>
+	
+  
+	<boostfruit x="188.2" y="-623.15"/>
+	
+  
+	<boostfruit x="205.45" y="-584.1"/>
+	
+  
+	<boostfruit x="228.2" y="-606.8"/>
+	
+  
+	<boostfruit x="150" y="-707.7"/>
+	
+  
+	<boostfruit x="174.55" y="-671.35"/>
+	
+  
+	<boostfruit x="339.1" y="-710.45"/>
+	
+  
+	<boostfruit x="311.85" y="-654.1"/>
+	
+  
+	<boostfruit x="300.9" y="-736.8"/>
+	
+  
+	<boostfruit x="233.65" y="-712.25"/>
+	
+  
+	<boostfruit x="233.65" y="-752.25"/>
+	
+  
+	<boostfruit x="275.45" y="-705.9"/>
+	
+  
+	<boostfruit x="220" y="-650.45"/>
+	
+  
+	<boostfruit x="205.45" y="-749.55"/>
+	
+  
+	<boostfruit x="90.9" y="-829.1"/>
+	
+  
+	<boostfruit x="158.2" y="-859.1"/>
+	
+  
+	<boostfruit x="106.35" y="-758.15"/>
+	
+  
+	<boostfruit x="133.65" y="-803.65"/>
+	
+  
+	<boostfruit x="170.9" y="-808.15"/>
+	
+  
+	<boostfruit x="162.75" y="-762.7"/>
+	
+  
+	<boostfruit x="124.55" y="-899.1"/>
+	
+  
+	<boostfruit x="188.2" y="-933.65"/>
+	
+  
+	<boostfruit x="139.1" y="-969.1"/>
+	
+  
+	<boostfruit x="155.45" y="-929.1"/>
+	
+  
+	<boostfruit x="108.2" y="-954.55"/>
+	
+  
+	<boostfruit x="103.65" y="-1012.7"/>
+	
+  
+	<boostfruit x="186.35" y="-1037.25"/>
+	
+  
+	<boostfruit x="161.85" y="-1048.15"/>
+	
+  
+	<boostfruit x="97.3" y="-1074.55"/>
+	
+  
+	<boostfruit x="160" y="-1064.55"/>
+	
+  
+	<boostfruit x="118.2" y="-1059.1"/>
+	
+  
+	<boostfruit x="159.1" y="-1210.9"/>
+	
+  
+	<boostfruit x="173.65" y="-1180"/>
+	
+  
+	<boostfruit x="173.65" y="-1065.45"/>
+	
+  
+	<boostfruit x="184.55" y="-1105"/>
+	
+  
+	<boostfruit x="113.65" y="-1142.25"/>
+	
+  
+	<boostfruit x="133.65" y="-1132.25"/>
+	
+  
+	<boostfruit x="109.1" y="-1223.15"/>
+	
+  
+	<boostfruit x="128.2" y="-1190.45"/>
+	
+  
+	<track height="301.80000000000007" width="10.900000000000034" x="313.65" y="-1155.9"/>
+	
+  
+	<track height="314.5000000000001" width="10.899999999999977" x="349.1" y="-1153.15"/>
+	
+  
+	<track height="-330.9" width="13.649999999999977" x="386.35" y="-848.65"/>
+	
+  
+	<trackblade x="315.45" y="-1115"/>
+	
+  
+	<trackblade x="353.65" y="-1015"/>
+	
+  
+	<trackblade x="392.75" y="-1100.45"/>
+	
+  
+	<trackblade x="391.85" y="-881.35"/>
+	
+  
+	<trackblade x="314.55" y="-924.1"/>
+	
+  
+	<trackblade x="351.85" y="-902.25"/>
+	
+  
+	<boostfruit x="154.55" y="-1269.55"/>
+	
+  
+	<boostfruit x="83.65" y="-1330.45"/>
+	
+  
+	<boostfruit x="106.35" y="-1269.55"/>
+	
+  
+	<boostfruit x="135.45" y="-1292.25"/>
+	
+  
+	<boostfruit x="45.45" y="-1270.45"/>
+	
+  
+	<boostfruit x="55.45" y="-1340.45"/>
+	
+  
+	<boostfruit x="72.75" y="-1287.7"/>
+	
+  
+	<boostfruit x="162.75" y="-1383.15"/>
+	
+  
+	<boostfruit x="139.1" y="-1350.45"/>
+	
+  
+	<boostfruit x="104.55" y="-1334.1"/>
+	
+  
+	<boostfruit x="177.3" y="-1314.1"/>
+	
+  
+	<boostfruit x="206.35" y="-1339.55"/>
+	
+  
+	<boostfruit x="211.85" y="-1288.65"/>
+	
+  
+	<boostfruit x="189.1" y="-1230.45"/>
+	
+  
+	<goal height="215.45000000000005" width="411.79999999999995" x="39.1" y="-1681.8"/>
+	
+  
+	<laserlauncher dir="3" x="407.3" y="-608.65"/>
+	
+
+</level>

@@ -1,0 +1,173 @@
+<?xml version="1.0" ?>
+<level author="pro" bg="1" name="koGgi">
+	
+  
+	<wall height="52" width="453" x="46" y="446"/>
+	
+  
+	<deathwall height="-148" width="15" x="52" y="450"/>
+	
+  
+	<deathwall height="-17" width="165" x="63" y="295"/>
+	
+  
+	<deathwall height="-179" width="-22" x="493" y="447"/>
+	
+  
+	<deathwall height="-71" width="-129" x="471" y="268"/>
+	
+  
+	<trackblade x="24" y="498"/>
+	
+  
+	<rocketlauncher x="343" y="218"/>
+	
+  
+	<goal height="26" width="14" x="111" y="83"/>
+	
+  
+	<goal height="83" width="117" x="468" y="32"/>
+	
+  
+	<boost height="43" width="211" x="197" y="424"/>
+	
+  
+	<boost height="-28" width="-107" x="196" y="450"/>
+	
+  
+	<boost height="28" width="76" x="403" y="424"/>
+	
+  
+	<boost height="18" width="-38" x="94" y="429"/>
+	
+  
+	<boostfruit x="299" y="399"/>
+	
+  
+	<boostfruit x="235" y="394"/>
+	
+  
+	<boostfruit x="256" y="403"/>
+	
+  
+	<boostfruit x="214" y="406"/>
+	
+  
+	<boostfruit x="214" y="409"/>
+	
+  
+	<boostfruit x="290" y="412"/>
+	
+  
+	<boostfruit x="302" y="399"/>
+	
+  
+	<boostfruit x="355" y="417"/>
+	
+  
+	<boostfruit x="281" y="392"/>
+	
+  
+	<boostfruit x="216" y="414"/>
+	
+  
+	<boostfruit x="238" y="426"/>
+	
+  
+	<boostfruit x="268" y="413"/>
+	
+  
+	<boostfruit x="307" y="395"/>
+	
+  
+	<boostfruit x="334" y="395"/>
+	
+  
+	<boostfruit x="389" y="398"/>
+	
+  
+	<boostfruit x="354" y="394"/>
+	
+  
+	<boostfruit x="274" y="412"/>
+	
+  
+	<boostfruit x="200" y="409"/>
+	
+  
+	<boostfruit x="198" y="409"/>
+	
+  
+	<boostfruit x="190" y="399"/>
+	
+  
+	<boostfruit x="274" y="413"/>
+	
+  
+	<boostfruit x="258" y="367"/>
+	
+  
+	<boostfruit x="263" y="370"/>
+	
+  
+	<boostfruit x="284" y="335"/>
+	
+  
+	<boostfruit x="284" y="291"/>
+	
+  
+	<boostfruit x="288" y="263"/>
+	
+  
+	<boostfruit x="287" y="212"/>
+	
+  
+	<boostfruit x="278" y="206"/>
+	
+  
+	<boostfruit x="269" y="176"/>
+	
+  
+	<boostfruit x="279" y="163"/>
+	
+  
+	<boostfruit x="309" y="155"/>
+	
+  
+	<boostfruit x="336" y="152"/>
+	
+  
+	<boostfruit x="428" y="139"/>
+	
+  
+	<boostfruit x="422" y="74"/>
+	
+  
+	<boostfruit x="353" y="70"/>
+	
+  
+	<boostfruit x="253" y="86"/>
+	
+  
+	<boostfruit x="219" y="107"/>
+	
+  
+	<boostfruit x="142" y="152"/>
+	
+  
+	<wall height="50" width="14" x="157" y="57"/>
+	
+  
+	<wall height="26" width="17" x="143" y="41"/>
+	
+  
+	<wall height="144" width="14" x="441" y="13"/>
+	
+  
+	<wall height="13" width="-67" x="141" y="58"/>
+	
+  
+	<deathwall height="21" width="99" x="493" y="4"/>
+	
+
+</level>

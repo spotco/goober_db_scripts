@@ -1,0 +1,47 @@
+<?xml version="1.0" ?>
+<level author="Hoobert" name="Hoobert">
+	
+  
+	<wall height="11" width="171" x="167" y="484"/>
+	
+  
+	<wall height="-14" width="-105" x="118" y="406"/>
+	
+  
+	<wall height="197" text="" width="10" x="12" y="198"/>
+	
+  
+	<deathwall height="31" width="26" x="184" y="262"/>
+	
+  
+	<deathwall height="16" width="16" x="120" y="204"/>
+	
+  
+	<deathwall height="26" width="15" x="80" y="260"/>
+	
+  
+	<deathwall height="23" text="" width="20" x="111" y="136"/>
+	
+  
+	<deathwall height="28" width="24" x="205" y="130"/>
+	
+  
+	<deathwall height="46" text="" width="37" x="306" y="234"/>
+	
+  
+	<goal height="102" text="" width="111" x="339" y="74"/>
+	
+  
+	<wall height="21" width="16" x="167" y="80"/>
+	
+  
+	<wall height="26" text="" width="19" x="59" y="89"/>
+	
+  
+	<wall height="16" width="16" x="2" y="203"/>
+	
+  
+	<wall height="-151" width="-17" x="11" y="234"/>
+	
+
+</level>

@@ -1,0 +1,167 @@
+<?xml version="1.0" ?>
+<level author="madeleine" bg="1" name="funfarstsock">
+	
+  
+	<activatetrackwall height="98" width="-98" x="295" y="348"/>
+	
+  
+	<boost height="177" width="-189" x="263" y="56"/>
+	
+  
+	<boost height="191" width="-154" x="405" y="57"/>
+	
+  
+	<boost height="18" width="304" x="82" y="232"/>
+	
+  
+	<wall height="117" width="-82" x="163" y="-145"/>
+	
+  
+	<wall height="133" width="-52" x="424" y="-139"/>
+	
+  
+	<textfield text="don,t slip" x="204" y="-185"/>
+	
+  
+	<boostfruit x="21" y="107"/>
+	
+  
+	<boostfruit x="436" y="92"/>
+	
+  
+	<boostfruit x="108" y="-230"/>
+	
+  
+	<boostfruit x="400" y="-243"/>
+	
+  
+	<boostfruit x="399" y="-283"/>
+	
+  
+	<boostfruit x="110" y="-294"/>
+	
+  
+	<boostfruit x="106" y="-372"/>
+	
+  
+	<boostfruit x="400" y="-349"/>
+	
+  
+	<boostfruit x="392" y="-407"/>
+	
+  
+	<boostfruit x="118" y="-433"/>
+	
+  
+	<boostfruit x="394" y="-480"/>
+	
+  
+	<boostfruit x="130" y="-510"/>
+	
+  
+	<boostfruit x="397" y="-543"/>
+	
+  
+	<boostfruit x="120" y="-605"/>
+	
+  
+	<textfield text="ceep on going" x="220" y="-617"/>
+	
+  
+	<boostfruit x="407" y="-625"/>
+	
+  
+	<boostfruit x="108" y="-685"/>
+	
+  
+	<boostfruit x="404" y="-709"/>
+	
+  
+	<boostfruit x="106" y="-738"/>
+	
+  
+	<boostfruit x="101" y="-787"/>
+	
+  
+	<boostfruit x="405" y="-778"/>
+	
+  
+	<activatetrackwall height="43" width="-36" x="168" y="-814"/>
+	
+  
+	<activatetrackwall height="37" width="-47" x="366" y="-798"/>
+	
+  
+	<activatetrackwall height="76" width="-50" x="248" y="-956"/>
+	
+  
+	<activatetrackwall height="59" width="-37" x="296" y="-943"/>
+	
+  
+	<boostfruit x="200" y="-1010"/>
+	
+  
+	<boostfruit x="212" y="-1058"/>
+	
+  
+	<boostfruit x="215" y="-1108"/>
+	
+  
+	<boostfruit x="213" y="-1110"/>
+	
+  
+	<boostfruit x="215" y="-1160"/>
+	
+  
+	<boostfruit x="205" y="-1168"/>
+	
+  
+	<boostfruit x="202" y="-1168"/>
+	
+  
+	<boostfruit x="187" y="-1175"/>
+	
+  
+	<boostfruit x="172" y="-1206"/>
+	
+  
+	<boostfruit x="187" y="-1212"/>
+	
+  
+	<boostfruit x="220" y="-1211"/>
+	
+  
+	<boostfruit x="225" y="-1229"/>
+	
+  
+	<boostfruit x="202" y="-1238"/>
+	
+  
+	<boostfruit x="172" y="-1240"/>
+	
+  
+	<boost height="179" width="-29" x="176" y="-1443"/>
+	
+  
+	<goal height="156" width="-17" x="22" y="-1707"/>
+	
+  
+	<goal height="47" width="503" x="43" y="-1695"/>
+	
+  
+	<goal height="-55" width="483" x="79" y="-1600"/>
+	
+  
+	<goal height="147" width="158" x="19" y="-1665"/>
+	
+  
+	<goal height="131" width="293" x="194" y="-1592"/>
+	
+  
+	<goal height="-40" width="-182" x="126" y="-1455"/>
+	
+  
+	<goal height="-58" width="14" x="153" y="-1483"/>
+	
+
+</level>

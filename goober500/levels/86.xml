@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="IsThisReallyEasy">
+	
+  
+	<wall height="27" width="499" x="2" y="473"/>
+	
+  
+	<wall height="457" width="199" x="301" y="23"/>
+	
+  
+	<wall height="450" width="230" x="2" y="22"/>
+	
+  
+	<boostfruit x="419" y="-20"/>
+	
+  
+	<boost height="151" width="89" x="91" y="-617"/>
+	
+  
+	<wall height="58" width="299" x="200" y="-781"/>
+	
+  
+	<deathwall height="445" width="77" x="5" y="-1045"/>
+	
+  
+	<boost height="-406" width="101" x="391" y="-799"/>
+	
+  
+	<deathwall height="255" width="34" x="464" y="-1493"/>
+	
+  
+	<deathwall height="244" width="-49" x="485" y="-1489"/>
+	
+  
+	<wall height="90" width="288" x="4" y="-1478"/>
+	
+  
+	<goal height="95" width="86" x="406" y="-2275"/>
+	
+  
+	<boostfruit x="78" y="-1546"/>
+	
+  
+	<boostfruit x="111" y="-2153"/>
+	
+  
+	<rocketlauncher x="265" y="412"/>
+	
+  
+	<boostfruit x="214" y="-1833"/>
+	
+
+</level>

@@ -1,0 +1,53 @@
+<?xml version="1.0" ?>
+<level author="jonathan" bg="1" name="monster">
+	
+  
+	<wall height="-68" width="291" x="173" y="348"/>
+	
+  
+	<wall height="-269" width="13" x="197" y="265"/>
+	
+  
+	<track height="48" width="478" x="27" y="-23"/>
+	
+  
+	<trackblade x="27" y="-18"/>
+	
+  
+	<trackblade x="262" y="-24"/>
+	
+  
+	<trackblade x="491" y="-14"/>
+	
+  
+	<trackblade x="382" y="-31"/>
+	
+  
+	<trackblade x="123" y="-13"/>
+	
+  
+	<rocketlauncher x="16" y="-26"/>
+	
+  
+	<rocketlauncher x="480" y="-16"/>
+	
+  
+	<bossactivate explode="no" height="-108" hp="6" width="-123" x="459" y="278"/>
+	
+  
+	<goal height="-85" width="-36" x="450" y="269"/>
+	
+  
+	<bossactivate explode="no" height="-82" hp="6" width="63" x="297" y="261"/>
+	
+  
+	<bossactivate explode="no" height="-86" hp="6" width="43" x="345" y="274"/>
+	
+  
+	<bossactivate explode="no" height="-23" hp="6" width="100" x="283" y="259"/>
+	
+  
+	<bossactivate explode="no" height="-70" hp="6" width="11" x="371" y="216"/>
+	
+
+</level>

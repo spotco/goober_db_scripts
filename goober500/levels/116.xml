@@ -1,0 +1,131 @@
+<?xml version="1.0" ?>
+<level author="david" bg="1" name="testyourluck">
+	
+  
+	<wall height="74" width="170" x="214" y="304"/>
+	
+  
+	<wall height="85" width="132" x="124" y="300"/>
+	
+  
+	<boost height="222" width="145" x="98" y="74"/>
+	
+  
+	<boost height="204" width="97" x="294" y="91"/>
+	
+  
+	<track height="35" width="360" x="87" y="-70"/>
+	
+  
+	<trackblade x="264" y="-69"/>
+	
+  
+	<boost height="129" width="307" x="110" y="-36"/>
+	
+  
+	<textfield text="are you feeling lucky? then test your luck!" x="284" y="178"/>
+	
+  
+	<textfield text="stage 1-if you fail then you are not very good at luck" x="173" y="129"/>
+	
+  
+	<boost height="219" width="299" x="131" y="-252"/>
+	
+  
+	<wall height="51" width="76" x="252" y="-306"/>
+	
+  
+	<boost height="93" width="46" x="204" y="-350"/>
+	
+  
+	<boost height="91" width="106" x="331" y="-343"/>
+	
+  
+	<boost height="97" width="93" x="133" y="-349"/>
+	
+  
+	<boost height="190" width="101" x="241" y="-498"/>
+	
+  
+	<boost height="93" width="283" x="146" y="-594"/>
+	
+  
+	<track height="11" width="393" x="93" y="-549"/>
+	
+  
+	<trackblade x="267" y="-550"/>
+	
+  
+	<track height="28" width="372" x="107" y="-616"/>
+	
+  
+	<trackblade x="280" y="-613"/>
+	
+  
+	<textfield text="stage 2-double the trouble!" x="227" y="-369"/>
+	
+  
+	<boost height="129" width="305" x="138" y="-722"/>
+	
+  
+	<wall height="44" width="121" x="226" y="-771"/>
+	
+  
+	<boost height="99" width="69" x="150" y="-825"/>
+	
+  
+	<textfield text="stage 3-if you make it you are gifted in luck" x="239" y="-875"/>
+	
+  
+	<textfield text="okay, one last stage!" x="126" y="-902"/>
+	
+  
+	<boost height="112" width="81" x="360" y="-833"/>
+	
+  
+	<boost height="228" width="211" x="205" y="-1043"/>
+	
+  
+	<track height="41" width="322" x="167" y="-1003"/>
+	
+  
+	<track height="57" width="332" x="146" y="-974"/>
+	
+  
+	<boost height="123" width="275" x="177" y="-1160"/>
+	
+  
+	<track height="25" width="345" x="130" y="-1104"/>
+	
+  
+	<trackblade x="303" y="-1102"/>
+	
+  
+	<trackblade x="293" y="-1000"/>
+	
+  
+	<trackblade x="389" y="-972"/>
+	
+  
+	<wall height="55" width="51" x="275" y="-1214"/>
+	
+  
+	<textfield text="you made it! now climb the steps of victory!" x="218" y="-1289"/>
+	
+  
+	<wall height="54" width="59" x="214" y="-1266"/>
+	
+  
+	<wall height="48" width="40" x="173" y="-1308"/>
+	
+  
+	<wall height="49" width="45" x="127" y="-1358"/>
+	
+  
+	<wall height="58" width="45" x="82" y="-1415"/>
+	
+  
+	<goal height="69" width="52" x="29" y="-1481"/>
+	
+
+</level>

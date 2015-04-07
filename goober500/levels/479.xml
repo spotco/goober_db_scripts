@@ -1,0 +1,137 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="TheLift005">
+	
+  
+	<boost height="-491" width="27" x="250" y="498"/>
+	
+  
+	<boost height="-339" width="78" x="229" y="6"/>
+	
+  
+	<boost height="-219" width="147" x="199" y="-331"/>
+	
+  
+	<boost height="-468" width="216" x="174" y="-552"/>
+	
+  
+	<boost height="-279" width="270" x="150" y="-1023"/>
+	
+  
+	<boost height="-230" width="373" x="90" y="-1306"/>
+	
+  
+	<boost height="-172" width="455" x="49" y="-1539"/>
+	
+  
+	<boost height="-401" width="451" x="50" y="-1709"/>
+	
+  
+	<trackblade x="71" y="-2224"/>
+	
+  
+	<trackblade x="232" y="-2234"/>
+	
+  
+	<trackblade x="428" y="-2208"/>
+	
+  
+	<boost height="-297" width="453" x="50" y="-2110"/>
+	
+  
+	<activatetrackwall height="-235" width="66" x="239" y="-2409"/>
+	
+  
+	<activatetrackwall height="-428" width="68" x="239" y="-2644"/>
+	
+  
+	<boost height="-424" width="465" x="49" y="-2408"/>
+	
+  
+	<boost height="-47" width="-55" x="450" y="-2834"/>
+	
+  
+	<boost height="-95" width="50" x="351" y="-2838"/>
+	
+  
+	<boost height="-143" width="44" x="308" y="-2840"/>
+	
+  
+	<boost height="-49" width="-42" x="348" y="-2983"/>
+	
+  
+	<boost height="-44" width="-48" x="399" y="-2936"/>
+	
+  
+	<boost height="-43" width="-42" x="446" y="-2885"/>
+	
+  
+	<boost height="-42" width="-48" x="499" y="-2836"/>
+	
+  
+	<boost height="-44" width="193" x="50" y="-2837"/>
+	
+  
+	<boost height="-54" width="136" x="102" y="-2881"/>
+	
+  
+	<boost height="-40" width="88" x="153" y="-2936"/>
+	
+  
+	<boost height="-44" width="45" x="202" y="-2984"/>
+	
+  
+	<boost height="52" width="450" x="49" y="-3081"/>
+	
+  
+	<boost height="-50" width="356" x="99" y="-3083"/>
+	
+  
+	<boost height="-47" width="253" x="151" y="-3135"/>
+	
+  
+	<boost height="-53" width="150" x="201" y="-3181"/>
+	
+  
+	<boost height="-50" width="52" x="252" y="-3234"/>
+	
+  
+	<trackblade x="70" y="-3219"/>
+	
+  
+	<trackblade x="459" y="-3235"/>
+	
+  
+	<trackblade x="152" y="-3344"/>
+	
+  
+	<trackblade x="414" y="-3359"/>
+	
+  
+	<boost height="-46" width="150" x="202" y="-3235"/>
+	
+  
+	<boost height="-191" width="148" x="204" y="-3280"/>
+	
+  
+	<boost height="-471" width="-150" x="349" y="-3469"/>
+	
+  
+	<boost height="-514" width="151" x="203" y="-3932"/>
+	
+  
+	<boost height="-538" width="156" x="202" y="-4434"/>
+	
+  
+	<boost height="-535" width="61" x="252" y="-4973"/>
+	
+  
+	<goal height="-546" width="463" x="52" y="-5508"/>
+	
+  
+	<boost height="-348" width="65" x="250" y="-5513"/>
+	
+  
+	<boost height="-220" width="73" x="249" y="-5858"/>
+	
+
+</level>

@@ -1,0 +1,149 @@
+<?xml version="1.0" ?>
+<level author="lamboe" bg="1" name="hotel2">
+	
+  
+	<wall height="61" width="450" x="34" y="385"/>
+	
+  
+	<textfield text="did i mention ur hotel room has 2nd floor" x="82" y="177"/>
+	
+  
+	<wall height="-55" width="113" x="95" y="388"/>
+	
+  
+	<wall height="-85" width="83" x="203" y="369"/>
+	
+  
+	<wall height="-118" width="96" x="278" y="307"/>
+	
+  
+	<wall height="-126" width="115" x="367" y="214"/>
+	
+  
+	<wall height="-64" width="53" x="466" y="99"/>
+	
+  
+	<wall height="-49" width="-434" x="405" y="15"/>
+	
+  
+	<wall height="88" width="57" x="86" y="-218"/>
+	
+  
+	<wall height="42" width="240" x="88" y="-147"/>
+	
+  
+	<wall height="-108" width="-66" x="323" y="-116"/>
+	
+  
+	<wall height="-23" width="-190" x="281" y="-210"/>
+	
+  
+	<textfield text="window" x="342" y="-190"/>
+	
+  
+	<wall height="98" width="19" x="23" y="-165"/>
+	
+  
+	<wall height="14" width="85" x="26" y="-68"/>
+	
+  
+	<wall height="34" width="12" x="47" y="-65"/>
+	
+  
+	<wall height="37" width="13" x="82" y="-68"/>
+	
+  
+	<track height="-474" width="131" x="256" y="-288"/>
+	
+  
+	<track height="-516" width="-83" x="354" y="-282"/>
+	
+  
+	<track height="-523" width="-105" x="339" y="-271"/>
+	
+  
+	<trackwall height="97" width="260" x="136" y="-450"/>
+	
+  
+	<trackwall height="47" width="106" x="98" y="-898"/>
+	
+  
+	<trackwall height="47" width="170" x="253" y="-849"/>
+	
+  
+	<trackwall height="-49" width="130" x="422" y="-854"/>
+	
+  
+	<trackwall height="51" width="-251" x="106" y="-847"/>
+	
+  
+	<boost height="-40" width="-151" x="100" y="-845"/>
+	
+  
+	<boost height="56" width="141" x="110" y="-848"/>
+	
+  
+	<boost height="47" width="202" x="205" y="-896"/>
+	
+  
+	<boost height="49" width="76" x="423" y="-853"/>
+	
+  
+	<textfield text="niteculb" x="196" y="-1062"/>
+	
+  
+	<trackwall height="-184" width="23" x="228" y="-1162"/>
+	
+  
+	<trackwall height="82" width="75" x="213" y="-1178"/>
+	
+  
+	<trackwall height="-267" width="-97" x="117" y="-883"/>
+	
+  
+	<trackwall height="-278" width="103" x="379" y="-884"/>
+	
+  
+	<trackblade x="51" y="-998"/>
+	
+  
+	<trackblade x="432" y="-1001"/>
+	
+  
+	<laserlauncher dir="3" x="71" y="-1199"/>
+	
+  
+	<laserlauncher dir="-3" x="412" y="-1200"/>
+	
+  
+	<wall height="39" width="70" x="208" y="-1380"/>
+	
+  
+	<wall height="-35" width="-242" x="124" y="-1362"/>
+	
+  
+	<wall height="27" width="227" x="359" y="-1400"/>
+	
+  
+	<wall height="-25" width="268" x="116" y="-1483"/>
+	
+  
+	<goal height="-132" width="161" x="145" y="-1493"/>
+	
+  
+	<textfield text="part3 comin" x="365" y="-1603"/>
+	
+  
+	<boostfruit x="129" y="-1268"/>
+	
+  
+	<boostfruit x="307" y="-1269"/>
+	
+  
+	<boostfruit x="474" y="-1281"/>
+	
+  
+	<boostfruit x="13" y="-1301"/>
+	
+
+</level>

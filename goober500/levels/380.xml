@@ -1,0 +1,83 @@
+<?xml version="1.0" ?>
+<level author="troy" bg="1" name="trogmiy">
+	
+  
+	<wall height="48" width="102" x="200" y="271"/>
+	
+  
+	<wall height="49" width="99" x="302" y="271"/>
+	
+  
+	<track height="204" width="16" x="290" y="66"/>
+	
+  
+	<track height="200" width="15" x="326" y="70"/>
+	
+  
+	<trackwall height="55" width="102" x="401" y="218"/>
+	
+  
+	<trackwall height="53" width="50" x="352" y="119"/>
+	
+  
+	<trackwall height="50" width="49" x="300" y="21"/>
+	
+  
+	<trackwall height="50" width="49" x="251" y="-31"/>
+	
+  
+	<boostfruit x="259" y="235"/>
+	
+  
+	<boostfruit x="258" y="203"/>
+	
+  
+	<boostfruit x="236" y="199"/>
+	
+  
+	<boostfruit x="228" y="223"/>
+	
+  
+	<boostfruit x="235" y="243"/>
+	
+  
+	<boostfruit x="253" y="224"/>
+	
+  
+	<boostfruit x="253" y="220"/>
+	
+  
+	<boostfruit x="242" y="220"/>
+	
+  
+	<boostfruit x="244" y="220"/>
+	
+  
+	<boostfruit x="242" y="220"/>
+	
+  
+	<boostfruit x="245" y="219"/>
+	
+  
+	<goal height="49" width="17" x="247" y="-80"/>
+	
+  
+	<goal height="44" width="11" x="262" y="-81"/>
+	
+  
+	<goal height="-13" width="38" x="269" y="-43"/>
+	
+  
+	<goal height="24" width="-31" x="302" y="-77"/>
+	
+  
+	<goal height="40" width="21" x="270" y="-91"/>
+	
+  
+	<goal height="12" width="21" x="265" y="-74"/>
+	
+  
+	<goal height="-10" width="10" x="259" y="-61"/>
+	
+
+</level>

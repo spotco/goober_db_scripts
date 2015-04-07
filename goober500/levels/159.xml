@@ -1,0 +1,176 @@
+<?xml version="1.0" ?>
+<level author="Marcel" bg="1" name="twoWays">
+	
+  
+	<wall height="-17.399999999999977" width="93.69999999999999" x="229.7" y="277"/>
+	
+  
+	<wall height="-67.19999999999999" width="253.75000000000003" x="176.6" y="351.65"/>
+	
+  
+	<wall height="-141" width="296.84999999999997" x="139.3" y="223.1"/>
+	
+  
+	<wall height="243.85000000000002" width="-29.850000000000023" x="463.5" y="170"/>
+	
+  
+	<wall height="123.54999999999998" width="14.900000000000006" x="164.2" y="247.15"/>
+	
+  
+	<boostfruit x="152.55" y="237.2"/>
+	
+  
+	<boostfruit x="127.7" y="229.75"/>
+	
+  
+	<boostfruit x="121.05" y="203.2"/>
+	
+  
+	<boostfruit x="113.6" y="165.85"/>
+	
+  
+	<boostfruit x="114.45" y="125.25"/>
+	
+  
+	<boostfruit x="116.1" y="110.3"/>
+	
+  
+	<boostfruit x="116.1" y="58.05"/>
+	
+  
+	<boostfruit x="116.1" y="58.05"/>
+	
+  
+	<boostfruit x="127.7" y="24.9"/>
+	
+  
+	<boostfruit x="140.95" y="0.85"/>
+	
+  
+	<boostfruit x="160.05" y="2.5"/>
+	
+  
+	<boostfruit x="195.7" y="6.65"/>
+	
+  
+	<boostfruit x="219.75" y="24.05"/>
+	
+  
+	<boostfruit x="218.9" y="24.05"/>
+	
+  
+	<boostfruit x="260.35" y="42.3"/>
+	
+  
+	<boostfruit x="278.6" y="41.45"/>
+	
+  
+	<boostfruit x="314.25" y="24.05"/>
+	
+  
+	<boostfruit x="352.4" y="37.3"/>
+	
+  
+	<boostfruit x="391.4" y="46.45"/>
+	
+  
+	<boostfruit x="424.55" y="49.75"/>
+	
+  
+	<boostfruit x="450.25" y="83.75"/>
+	
+  
+	<boostfruit x="461.85" y="104.5"/>
+	
+  
+	<boostfruit x="485.05" y="132.7"/>
+	
+  
+	<boostfruit x="496.7" y="153.45"/>
+	
+  
+	<boostfruit x="496.7" y="195.75"/>
+	
+  
+	<boostfruit x="497.5" y="218.95"/>
+	
+  
+	<boostfruit x="497.5" y="218.95"/>
+	
+  
+	<boostfruit x="493.35" y="243"/>
+	
+  
+	<boostfruit x="473.45" y="406.4"/>
+	
+  
+	<boostfruit x="431.2" y="438.7"/>
+	
+  
+	<boostfruit x="396.35" y="437.05"/>
+	
+  
+	<boostfruit x="378.95" y="429.6"/>
+	
+  
+	<boostfruit x="306.8" y="427.95"/>
+	
+  
+	<boostfruit x="212.25" y="400.55"/>
+	
+  
+	<boostfruit x="146.75" y="402.25"/>
+	
+  
+	<boostfruit x="110.3" y="380.65"/>
+	
+  
+	<boostfruit x="107.8" y="361.6"/>
+	
+  
+	<boostfruit x="132.65" y="369.9"/>
+	
+  
+	<boostfruit x="150.9" y="375.7"/>
+	
+  
+	<boostfruit x="168.35" y="385.65"/>
+	
+  
+	<boostfruit x="176.6" y="400.55"/>
+	
+  
+	<boostfruit x="176.6" y="400.55"/>
+	
+  
+	<boostfruit x="165" y="422.95"/>
+	
+  
+	<boostfruit x="131.85" y="419.65"/>
+	
+  
+	<boostfruit x="131.85" y="419.65"/>
+	
+  
+	<boostfruit x="131.85" y="416.35"/>
+	
+  
+	<boostfruit x="126.05" y="407.2"/>
+	
+  
+	<boostfruit x="124.4" y="398.1"/>
+	
+  
+	<boostfruit x="120.25" y="400.55"/>
+	
+  
+	<boostfruit x="114.45" y="417.15"/>
+	
+  
+	<boostfruit x="292.7" y="377.35"/>
+	
+  
+	<goal height="33.19999999999999" width="-63.05000000000001" x="394.7" y="388.95"/>
+	
+
+</level>

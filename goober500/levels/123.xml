@@ -1,0 +1,104 @@
+<?xml version="1.0" ?>
+<level author="good1st" bg="1" name="good1st">
+	
+  
+	<wall height="204" width="534" x="1" y="270"/>
+	
+  
+	<wall height="-300" width="48" x="301" y="267"/>
+	
+  
+	<wall height="52" width="-48" x="249" y="-82"/>
+	
+  
+	<wall height="-52" width="-49" x="200" y="-78"/>
+	
+  
+	<wall height="-49" width="-50" x="151" y="-129"/>
+	
+  
+	<wall height="-50" width="-52" x="101" y="-178"/>
+	
+  
+	<wall height="-52" width="-48" x="49" y="-228"/>
+	
+  
+	<wall height="47" width="50" x="451" y="-428"/>
+	
+  
+	<rocketlauncher x="478" y="-451"/>
+	
+  
+	<track height="-364" width="16" x="122" y="-283"/>
+	
+  
+	<track height="-341" width="27" x="199" y="-631"/>
+	
+  
+	<trackwall height="27" width="112" x="49" y="-621"/>
+	
+  
+	<trackwall height="31" width="236" x="166" y="-665"/>
+	
+  
+	<activatetrackwall height="103" width="131" x="1" y="-979"/>
+	
+  
+	<wall height="50" width="46" x="105" y="-1527"/>
+	
+  
+	<wall height="-48" width="52" x="148" y="-1531"/>
+	
+  
+	<wall height="-50" width="53" x="200" y="-1579"/>
+	
+  
+	<wall height="-49" width="48" x="253" y="-1629"/>
+	
+  
+	<boost height="-150" width="54" x="247" y="-1734"/>
+	
+  
+	<wall height="49" width="47" x="53" y="-2029"/>
+	
+  
+	<wall height="50" width="50" x="400" y="-2031"/>
+	
+  
+	<trackblade x="432" y="-2065"/>
+	
+  
+	<rocketlauncher x="72" y="-2060"/>
+	
+  
+	<activatetrackwall height="67" width="118" x="122" y="-1951"/>
+	
+  
+	<activatetrackwall height="73" width="79" x="318" y="-1949"/>
+	
+  
+	<track height="-332" width="17" x="246" y="-2381"/>
+	
+  
+	<trackwall height="76" width="236" x="74" y="-2457"/>
+	
+  
+	<wall height="53" width="54" x="299" y="-2784"/>
+	
+  
+	<wall height="-46" width="43" x="355" y="-2783"/>
+	
+  
+	<wall height="-53" width="54" x="398" y="-2829"/>
+	
+  
+	<wall height="-49" width="46" x="452" y="-2882"/>
+	
+  
+	<wall height="-49" width="-445" x="448" y="-2980"/>
+	
+  
+	<goal height="110" width="299" x="150" y="-3136"/>
+	
+
+</level>

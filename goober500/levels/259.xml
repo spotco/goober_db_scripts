@@ -1,0 +1,98 @@
+<?xml version="1.0" ?>
+<level author="ahhhhhhhh" bg="1" name="winze">
+	
+  
+	<wall height="100" width="451.9" x="47.1" y="269"/>
+	
+  
+	<deathwall height="421" width="74.14999999999998" x="417.85" y="-193"/>
+	
+  
+	<deathwall height="459" width="74.15" x="56.1" y="-223"/>
+	
+  
+	<track height="50" width="253.5" x="152.3" y="53"/>
+	
+  
+	<trackblade x="325.65" y="55"/>
+	
+  
+	<activatetrackwall height="-73" width="35.099999999999994" x="207.4" y="260"/>
+	
+  
+	<activatetrackwall height="26" width="74.14999999999998" x="243.5" y="187"/>
+	
+  
+	<textfield text="ohhhhhhh noooooo" x="27.05" y="135"/>
+	
+  
+	<laserlauncher dir="3" x="93.2" y="-541"/>
+	
+  
+	<wall height="154" width="63.14999999999998" x="153.3" y="-493"/>
+	
+  
+	<wall height="96" width="73.14999999999998" x="406.8" y="-584"/>
+	
+  
+	<wall height="74" width="72.14999999999998" x="395.8" y="-341"/>
+	
+  
+	<wall height="29" width="-130.25" x="397.8" y="-520"/>
+	
+  
+	<wall height="30" width="119.25" x="268.55" y="-353"/>
+	
+  
+	<boost height="45" width="63.150000000000034" x="354.7" y="-681"/>
+	
+  
+	<boost height="92" width="148.3" x="225.45" y="-774"/>
+	
+  
+	<boost height="110" width="177.35000000000002" x="88.2" y="-886"/>
+	
+  
+	<wall height="143" width="294.6" x="193.4" y="-1049"/>
+	
+  
+	<wall height="191" width="85.14999999999999" x="94.2" y="-1361"/>
+	
+  
+	<wall height="-76" width="376.75" x="94.2" y="-1364"/>
+	
+  
+	<wall height="205" width="61.14999999999998" x="411.8" y="-1365"/>
+	
+  
+	<wall height="22" width="185.35000000000002" x="95.2" y="-1171"/>
+	
+  
+	<goal height="39" width="44.099999999999994" x="182.35" y="-1361"/>
+	
+  
+	<goal height="38" width="37.05000000000001" x="374.75" y="-1360"/>
+	
+  
+	<goal height="47" width="-151.3" x="373.75" y="-1364"/>
+	
+  
+	<deathwall height="446" width="83.2" x="8" y="-1464"/>
+	
+  
+	<textfield text="getting warmer" x="273.55" y="-480"/>
+	
+  
+	<track height="10" width="241.5" x="158.3" y="-183"/>
+	
+  
+	<trackblade x="286.55" y="-181"/>
+	
+  
+	<wall height="21" width="163.35" x="59.1" y="-255"/>
+	
+  
+	<deathwall height="147" width="81.15" x="66.15" y="-404"/>
+	
+
+</level>

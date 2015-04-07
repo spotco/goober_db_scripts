@@ -1,0 +1,95 @@
+<?xml version="1.0" ?>
+<level author="Anonymous" bg="1" name="emperor3">
+	
+  
+	<wall height="62" width="440" x="29" y="376"/>
+	
+  
+	<wall height="-303" width="-125" x="460" y="373"/>
+	
+  
+	<wall height="49" width="-263" x="335" y="70"/>
+	
+  
+	<wall height="141" width="47" x="121" y="117"/>
+	
+  
+	<wall height="-228" width="29" x="204" y="407"/>
+	
+  
+	<goal height="32" width="209" x="124" y="444"/>
+	
+  
+	<textfield text="Go away, these gooobers don't approve of you!" x="304" y="457"/>
+	
+  
+	<wall height="165" width="30" x="32" y="220"/>
+	
+  
+	<textfield text="I WANT MORE FRUIIIIT!!!!!!!" x="17" y="-19"/>
+	
+  
+	<textfield text="Run for it!" x="417" y="-45"/>
+	
+  
+	<wall height="-16" width="-49" x="25" y="137"/>
+	
+  
+	<wall height="39" width="131" x="174" y="-71"/>
+	
+  
+	<wall height="-13" width="-108" x="125" y="-92"/>
+	
+  
+	<wall height="59" width="194" x="228" y="-271"/>
+	
+  
+	<wall height="-85" width="-313" x="218" y="-321"/>
+	
+  
+	<wall height="72" width="239" x="247" y="-566"/>
+	
+  
+	<wall height="-93" width="-438" x="174" y="-647"/>
+	
+  
+	<wall height="67" width="145" x="248" y="-806"/>
+	
+  
+	<wall height="27" width="217" x="-59" y="-881"/>
+	
+  
+	<wall height="45" width="221" x="196" y="-970"/>
+	
+  
+	<wall height="-24" width="-111" x="132" y="-1050"/>
+	
+  
+	<wall height="34" width="124" x="245" y="-1111"/>
+	
+  
+	<wall height="-33" width="-162" x="147" y="-1215"/>
+	
+  
+	<wall height="19" width="225" x="279" y="-1262"/>
+	
+  
+	<wall height="58" width="300" x="-73" y="-1422"/>
+	
+  
+	<activatetrackwall height="28" width="387" x="89" y="-1565"/>
+	
+  
+	<goal height="119" width="313" x="70" y="-2015"/>
+	
+  
+	<bossactivate explode="no" height="152" hp="6" width="196" x="16" y="-1827"/>
+	
+  
+	<bossactivate explode="no" height="185" hp="6" width="140" x="358" y="-1840"/>
+	
+  
+	<textfield text="Goobers: We approve of you, come to safety!" x="11" y="-1974"/>
+	
+
+</level>

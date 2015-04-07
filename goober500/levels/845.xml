@@ -1,0 +1,194 @@
+<?xml version="1.0" ?>
+<level author="alpaca" bg="1" name="DEVIL">
+	
+  
+	<wall height="181" width="449" x="1" y="319"/>
+	
+  
+	<wall height="431" width="55" x="449" y="68"/>
+	
+  
+	<wall height="51" width="-155" x="150" y="70"/>
+	
+  
+	<wall height="200" width="-100" x="50" y="121"/>
+	
+  
+	<wall height="77" width="149" x="51" y="269"/>
+	
+  
+	<deathwall height="96" width="95" x="53" y="169"/>
+	
+  
+	<track height="51" width="297" x="152" y="70"/>
+	
+  
+	<track height="17" width="303" x="151" y="98"/>
+	
+  
+	<track height="15" width="300" x="151" y="81"/>
+	
+  
+	<trackwall height="43" width="155" x="154" y="65"/>
+	
+  
+	<textfield text="LOL guys i did make the level booger!(i eat them)." x="29" y="-39"/>
+	
+  
+	<boost height="213" width="138" x="311" y="107"/>
+	
+  
+	<deathwall height="354" width="-349" x="299" y="-432"/>
+	
+  
+	<deathwall height="358" width="93" x="450" y="-433"/>
+	
+  
+	<wall height="46" width="-335" x="296" y="-462"/>
+	
+  
+	<wall height="23" width="89" x="12" y="-354"/>
+	
+  
+	<wall height="51" width="40" x="65" y="-340"/>
+	
+  
+	<wall height="17" width="-97" x="255" y="-358"/>
+	
+  
+	<wall height="57" width="32" x="159" y="-347"/>
+	
+  
+	<wall height="23" width="51" x="40" y="-238"/>
+	
+  
+	<wall height="84" width="31" x="118" y="-319"/>
+	
+  
+	<wall height="36" width="96" x="110" y="-260"/>
+	
+  
+	<wall height="30" width="24" x="169" y="-244"/>
+	
+  
+	<wall height="42" width="26" x="84" y="-194"/>
+	
+  
+	<wall height="55" width="26" x="192" y="-176"/>
+	
+  
+	<wall height="34" width="19" x="254" y="-243"/>
+	
+  
+	<wall height="14" width="-83" x="261" y="-225"/>
+	
+  
+	<wall height="66" width="27" x="130" y="-232"/>
+	
+  
+	<wall height="56" width="23" x="50" y="-234"/>
+	
+  
+	<wall height="46" width="-42" x="69" y="-191"/>
+	
+  
+	<wall height="22" width="49" x="30" y="-154"/>
+	
+  
+	<wall height="16" width="172" x="57" y="-135"/>
+	
+  
+	<wall height="108" width="48" x="223" y="-231"/>
+	
+  
+	<wall height="125" width="137" x="27" y="-582"/>
+	
+  
+	<trackwall height="62" width="30" x="39" y="-523"/>
+	
+  
+	<trackwall height="31" width="43" x="98" y="-550"/>
+	
+  
+	<trackwall height="49" width="20" x="113" y="-630"/>
+	
+  
+	<goal height="25" width="30" x="104" y="-546"/>
+	
+  
+	<goal height="16" width="17" x="166" y="-477"/>
+	
+  
+	<wall height="41" width="-78" x="500" y="-69"/>
+	
+  
+	<wall height="31" width="-38" x="319" y="-169"/>
+	
+  
+	<wall height="38" width="85" x="411" y="-207"/>
+	
+  
+	<wall height="46" width="-102" x="322" y="-287"/>
+	
+  
+	<wall height="28" width="63" x="419" y="-370"/>
+	
+  
+	<wall height="89" width="-77" x="320" y="-423"/>
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+  
+	<cloudboss/>
+	
+  
+	<boostfruit x="366" y="28"/>
+	
+  
+	<boostfruit x="418" y="-131"/>
+	
+  
+	<boostfruit x="317" y="-200"/>
+	
+  
+	<boostfruit x="412" y="-231"/>
+	
+  
+	<textfield text="YUM YUM if you dont eat boogers u mhe worsy enemy!" x="239" y="-574"/>
+	
+
+</level>

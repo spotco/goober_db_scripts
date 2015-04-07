@@ -1,0 +1,128 @@
+<?xml version="1.0" ?>
+<level author="catpakoo" bg="1" name="doistink">
+	
+  
+	<textfield text="error: I'm sorry alpaca, i accidentally typed your name instead of mine in homesweethome. SO SORRY! T-T" x="56" y="329"/>
+	
+  
+	<textfield text="of my own T-T" x="134" y="403"/>
+	
+  
+	<wall height="36" width="244" x="168" y="308"/>
+	
+  
+	<wall height="-233" width="21" x="197" y="313"/>
+	
+  
+	<textfield text="in the homesweethome level" x="339" y="446"/>
+	
+  
+	<boostfruit x="195" y="12"/>
+	
+  
+	<boostfruit x="369" y="135"/>
+	
+  
+	<boostfruit x="334" y="250"/>
+	
+  
+	<boostfruit x="113" y="251"/>
+	
+  
+	<boostfruit x="115" y="256"/>
+	
+  
+	<boostfruit x="146" y="150"/>
+	
+  
+	<boostfruit x="26" y="79"/>
+	
+  
+	<boostfruit x="85" y="179"/>
+	
+  
+	<boostfruit x="33" y="233"/>
+	
+  
+	<boostfruit x="245" y="175"/>
+	
+  
+	<boostfruit x="296" y="-103"/>
+	
+  
+	<boostfruit x="186" y="-168"/>
+	
+  
+	<boostfruit x="64" y="-171"/>
+	
+  
+	<boostfruit x="346" y="-236"/>
+	
+  
+	<boostfruit x="435" y="-77"/>
+	
+  
+	<wall height="28" width="-324" x="291" y="-295"/>
+	
+  
+	<track height="-908" width="54" x="242" y="-327"/>
+	
+  
+	<textfield text="never trust technology" x="112" y="-519"/>
+	
+  
+	<trackwall height="87" width="178" x="167" y="-688"/>
+	
+  
+	<wall height="40" width="-79" x="156" y="-348"/>
+	
+  
+	<wall height="-257" width="-91" x="84" y="-328"/>
+	
+  
+	<wall height="-302" width="-53" x="29" y="-556"/>
+	
+  
+	<wall height="22" width="85" x="22" y="-924"/>
+	
+  
+	<wall height="21" width="42" x="123" y="-1010"/>
+	
+  
+	<wall height="22" width="24" x="166" y="-1103"/>
+	
+  
+	<wall height="15" width="24" x="186" y="-1200"/>
+	
+  
+	<wall height="32" width="102" x="222" y="-1249"/>
+	
+  
+	<deathwall height="22" width="89" x="218" y="-1178"/>
+	
+  
+	<deathwall height="126" width="17" x="217" y="-1167"/>
+	
+  
+	<deathwall height="135" width="-17" x="305" y="-1165"/>
+	
+  
+	<boostfruit x="164" y="-1446"/>
+	
+  
+	<boostfruit x="409" y="-1343"/>
+	
+  
+	<boostfruit x="230" y="-1554"/>
+	
+  
+	<boostfruit x="153" y="-1667"/>
+	
+  
+	<boostfruit x="305" y="-1710"/>
+	
+  
+	<goal height="140" width="291" x="104" y="-1881"/>
+	
+
+</level>

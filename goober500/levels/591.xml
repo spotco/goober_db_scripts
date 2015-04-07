@@ -1,0 +1,86 @@
+<?xml version="1.0" ?>
+<level author="vasilismartsis" bg="1" name="vasilismartsis">
+	
+  
+	<activatetrackwall height="18" width="27" x="248" y="272"/>
+	
+  
+	<bossactivate explode="no" height="178" hp="6" width="99" x="216" y="183"/>
+	
+  
+	<bossactivate explode="no" height="185" hp="6" width="182" x="194" y="194"/>
+	
+  
+	<bossactivate explode="no" height="346" hp="6" width="251" x="132" y="100"/>
+	
+  
+	<bossactivate explode="no" height="313" hp="6" width="273" x="85" y="60"/>
+	
+  
+	<bossactivate explode="no" height="425" hp="6" width="347" x="77" y="54"/>
+	
+  
+	<bossactivate explode="no" height="363" hp="6" width="236" x="132" y="81"/>
+	
+  
+	<bossactivate explode="no" height="367" hp="6" width="244" x="194" y="96"/>
+	
+  
+	<bossactivate explode="no" height="332" hp="6" width="256" x="91" y="57"/>
+	
+  
+	<bossactivate explode="no" height="302" hp="6" width="205" x="190" y="119"/>
+	
+  
+	<bossactivate explode="no" height="244" hp="6" width="118" x="178" y="101"/>
+	
+  
+	<bossactivate explode="no" height="270" hp="6" width="200" x="112" y="81"/>
+	
+  
+	<bossactivate explode="no" height="225" hp="6" width="181" x="151" y="152"/>
+	
+  
+	<bossactivate explode="no" height="251" hp="6" width="149" x="158" y="92"/>
+	
+  
+	<bossactivate explode="no" height="246" hp="6" width="130" x="140" y="60"/>
+	
+  
+	<bossactivate explode="no" height="272" hp="6" width="146" x="165" y="54"/>
+	
+  
+	<bossactivate explode="no" height="238" hp="6" width="112" x="131" y="30"/>
+	
+  
+	<bossactivate explode="no" height="260" hp="6" width="214" x="130" y="44"/>
+	
+  
+	<bossactivate explode="no" height="227" hp="6" width="123" x="164" y="43"/>
+	
+  
+	<bossactivate explode="no" height="203" hp="6" width="254" x="86" y="78"/>
+	
+  
+	<bossactivate explode="no" height="176" hp="6" width="262" x="62" y="168"/>
+	
+  
+	<bossactivate explode="no" height="290" hp="6" width="200" x="176" y="107"/>
+	
+  
+	<bossactivate explode="no" height="274" hp="6" width="253" x="114" y="112"/>
+	
+  
+	<bossactivate explode="no" height="300" hp="6" width="290" x="118" y="70"/>
+	
+  
+	<bossactivate explode="no" height="325" hp="6" width="281" x="60" y="56"/>
+	
+  
+	<bossactivate explode="no" height="361" hp="6" width="411" x="40" y="70"/>
+	
+  
+	<goal height="77" width="101" x="201" y="-4805"/>
+	
+
+</level>

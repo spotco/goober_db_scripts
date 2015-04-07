@@ -1,0 +1,68 @@
+<?xml version="1.0" ?>
+<level author="YAAAAYY" bg="1" name="elevator">
+	
+  
+	<wall height="50" width="51" x="239" y="272"/>
+	
+  
+	<boost height="-464" width="50" x="239" y="272"/>
+	
+  
+	<boost height="-445" width="51" x="238" y="-169"/>
+	
+  
+	<boost height="-512" width="51" x="238" y="-617"/>
+	
+  
+	<boost height="-544" width="50" x="238" y="-1134"/>
+	
+  
+	<boost height="-500" width="52" x="236" y="-1681"/>
+	
+  
+	<boost height="-372" width="52" x="236" y="-2182"/>
+	
+  
+	<boost height="-324" width="54" x="234" y="-2556"/>
+	
+  
+	<wall height="-151" width="135" x="16" y="-2725"/>
+	
+  
+	<wall height="13" width="82" x="150" y="-2873"/>
+	
+  
+	<wall height="19" width="220" x="289" y="-2872"/>
+	
+  
+	<boost height="-505" width="52" x="233" y="-2883"/>
+	
+  
+	<boost height="-676" width="61" x="230" y="-3392"/>
+	
+  
+	<boost height="-624" width="61" x="230" y="-4069"/>
+	
+  
+	<boost height="-475" width="68" x="226" y="-4695"/>
+	
+  
+	<boost height="-515" width="64" x="227" y="-5169"/>
+	
+  
+	<boost height="-578" width="65" x="225" y="-5681"/>
+	
+  
+	<boost height="-384" width="70" x="223" y="-6261"/>
+	
+  
+	<boost height="-586" width="69" x="223" y="-6647"/>
+	
+  
+	<boost height="-881" width="63" x="227" y="-7232"/>
+	
+  
+	<goal height="-16" width="20" x="234" y="-8172"/>
+	
+
+</level>

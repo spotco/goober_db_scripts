@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<level author="BEI" bg="1" name="Survival">
+	
+  
+	<wall height="42" width="511" x="2" y="278"/>
+	
+  
+	<bossactivate explode="no" height="409" hp="6" width="508" x="0" y="-130"/>
+	
+  
+	<goal height="50" width="43" x="2" y="220"/>
+	
+  
+	<textfield text="Exit????????????" x="75" y="160"/>
+	
+
+</level>
